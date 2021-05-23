@@ -1,0 +1,8 @@
+- Tests $$p$$ und $$q$$ sind parallel, wenn
+    - sie gleiche wahre Wert aufweisen: $$\tau_p = \tau_q = \tau \; \wedge \; E(x_p)=E(x_q)$$
+    - ihre Varianzen gleich sind: $$Var(x_p)=Var(x_q)=Var(\tau)+Var(\varepsilon)$$
+- Parallelität entspricht gleichen Itemschwierigkeiten ([[Itemanalyse]])
+- Prüfung der Parallelität:
+    - Gleiche Mittelwerte?
+    - Gleiche Streuungen?
+    - Paralleltest-Reliabilität hoch?

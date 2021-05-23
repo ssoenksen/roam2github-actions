@@ -1,0 +1,2 @@
+- $$Rel(k \cdot l) = \frac{k \cdot Rel}{1+(k-1) \cdot Rel}$$
+- Bei Verdopplung der Testlänge: 4x Varianz der wahren Werte, 2x Fehlervarianz

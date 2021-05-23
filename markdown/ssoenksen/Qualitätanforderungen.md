@@ -1,0 +1,51 @@
+- Psychologischer Test: Erfüllung der Gütekriterien empirisch überprüft
+- # 1 Testtheorie
+    - Test = Wissenschaftliches Routineverfahren zur Untersuchung eines latenten Merkmals --> Klassifikation/ Quantifikation der individuellen Merkmalsausprägung
+    - Ziel eines Tests: Erfassen latenter Eigenschaftsausprägung durch beobachtbares Verhalten
+    - Testtheorie = Theorie über Zusammenhang zwischen latenter Eigenschaft und beobachtbarem Verhalten/ formale Modelle über Zusammenhang zwischen Konstrukt und Testergebnissen
+        - Items korrelieren --> latente Variable; Annahme: Itemkorrelationen werden durch latente Variable erklärt
+        - Reflexives Messmodell: Latente Variable beeinflusst Antworten auf Items,
+        - Konstanthaltung der latenten Variable --> Itemkorrelationen nicht mehr vorhanden: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FdizdycdqvY.png?alt=media&token=67bbd8ae-db88-4bc3-9582-bbeb94cc976a)
+    - Formale testtheoretische Modelle:
+        - Klassische Testtheorie/ Messfehlertheorie (Messfehler quantifizierbar): $x_{vi} = \tau_{vi} + e_{vi}$
+        - Probabilistische Testtheorie/ Item Response Theory: Funktionaler Zusammenhang zwischen Antwort von Person v in Item i und Personenfähigkeit bei einer bestimmten Itemschwierigkeit: $$p(x_{vi}) = \frac{ exp(x_{vi}(\xi_v-\sigma_i))}{ 1+exp(\xi_v-\sigma_i)}$$
+    - Aufgaben der Testkonstruktion und -analyse:
+        - Rückschluss von Testwerte auf latente Eigenschaft muss möglichst gut sein
+        - Definition und Operationalisierung von Gütekriterien
+        - Einhalt bzw. Steigerung der Testgüte, um inhaltliche Aussagen zu gewährleisten
+- # 2 Hauptgütekriterien
+- ## 2.1 Objektivität
+    - = Unabhängigkeit des Testergebnisses von Einflüssen außerhalb der getesteten Person
+        - **Durchführungsobjektivität** = Testergebnis hängt nicht davon ab, welcher **Testleiter** den Test durchführt --> Standardisierung der Instruktion und Testdurchführung
+        - **Auswertungsobjektivität** = Ergebnis bei vorliegendem Testprotokoll nicht von Person des Auswerters abhängig --> geschlossenes Antwortformat mit algorithmischer Auswertung
+        - **Interpretationsobjektivität** = gleiche Schlussfolgerungen durch verschiedene Testanwender bei gleichem Testwert --> Relative Einordnung anhand von Normwerten
+- ## 2.2 Reliabilität
+    - = Grad der Präzision, mit der ein Test ein Merkmal misst, unabhängig davon, welches Merkmal er misst
+    - = Anteil der wahren Varianz an der Gesamtvarianz der Testwerte in einer Population
+- ### 2.2.1 Retest-Reliabilität
+    - = Vorlegen desselben Tests zu zwei Zeitpunkten (Annahme: zu messendes Merkmal ist konstant geblieben); Rel = Korrelation beider Testergebnisse
+        - Veränderungen des zu messenden Merkmals über Zeit: --> Spezifität
+- ### 2.2.2 Paralleltest-Reliabilität ("Königsweg")
+    - = Korrelation zwischen Testwerten in zwei parallelen Testformen
+        - Parallele Testformen: Möglichst ähnliche Items, gleiche wahre Werte und Varianzen
+- ### 2.2.3 Testhalbierungs-Reliabilität
+    - = Korrelation der Ergebnisse von zwei möglichst parallelen Testhälften
+        - idR. Korrekturfaktor zur Hochrechnung der Reliabilität
+- ### 2.2.4 Innere Konsistenz
+    - = Jedes Item als eigenständiger Testteil, dann Korrelation dieser Testteile
+        - -> Cronbach-alpha-Koeffizient der Reliabilität
+- ## 2.3 Validität
+    - = Ein Test ist dann valide, wenn er das Merkmal, das er messen soll, misst und nicht irgendein anderes
+    - = Grad der Gültigkeit oder Aussagefähigkeit des Testergebnisses hinsichtlich des angezielten Merkmals
+        - Inhaltsvalidität = Testitems bilden repräsentative Auswahl aus Verhaltenskriterien des Merkmals
+        - Konstruktvalidität = Theoretische Einbettung und empirische Prüfung des Testverhaltens anhand eines nomologischen Netzwerks
+        - Kriteriumsvalidität = Aus dem Verhalten einer Testperson innerhalb der Testsituation kann erfolgreich auf ein Kriterium außerhalb der Testsituation geschlossen werden
+        - Augenscheinvalidität = Validitätsanspruch eines Tests vom Augenschein eines Laien her
+- # 3 Nebengütekriterien
+    - **Skalierung** = Ein Test erfüllt das Gütekriterium der Skalierung, wenn die laut Verrechnungsregel resultierenden Testwerte die empirischen Merkmalsrelationen adäquat abbilden
+    - **Normierung** = Erstellen eines Bezugssystems, mit dessen Hilfe die Ergebnisse einer Testperson im Vergleich zu Merkmalsausprägungen anderer Personen eindeutig eingeordnet und interpretiert werden können
+    - **Testökonomie** = Ein Test erfüllt das Gütekriterium der Ökonomie, wenn er, gemessen am diagnostischen Erkenntnisgewinn, relativ wenig finanzielle und zeitliche Ressourcen beansprucht
+    - **Nützlichkeit** = Ein Test ist dann nützlich, wenn für das von ihm gemessene Merkmal praktische Relevanz besteh und die auf seiner Grundlage getroffenen Entscheidungen mehr Nutzen als Schaden erwarten lassen
+    - **Zumutbarkeit** = Ein Test erfüllt das Kriterium der Zumutbarkeit, wenn er absolut und relativ zu dem aus seiner Anwendung resultierenden Nutzen die zu testende Person in zeitlicher, psychischer sowie körperlicher Hinsicht nicht über Gebühr belastet
+    - **Unverfälschbarkeit** = Ein Test ist unverfälschbar, wenn das Verfahren so konstruiert ist, dass die zu testende Person durch gezieltes Testverhalten die konkreten Ausprägungen ihrer Testwerte nicht steuern/ verzerren kann (fakings)
+    - **Fairness** = Ein Test ist fair, wenn die resultierenden Testwerte zu keiner systematischen Benachteiligung bestimmter Personen aufgrund einer Gruppenzugehörigkeit führen

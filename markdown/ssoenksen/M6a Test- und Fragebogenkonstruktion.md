@@ -1,0 +1,24 @@
+- # Organisation
+    - Zeitplan: Im Ordner
+    - Materialien für jede Vorlesung:
+        - Vorlesungen
+        - Buch
+    - {{[[DONE]]}} Prüfungsvorleistungen (mind. 2/3): 
+        - {{[[DONE]]}} Itemanalyse: 26.04.-09.05.
+        - {{[[DONE]]}} Reliabilitätsbestimmung: 10.05.-23.05.
+        - {{[[TODO]]}} Explorative Faktorenanalyse: 24.05.-06.06.
+    - Klausur: Offene Fragen und Zuordnungen (nicht multiple choice!) — Prüfungsrelevant: s. PDF
+    - Aktivitäten pro Unit:
+        - Wiederholen der vorherige(n) Units
+        - Lehrbuch, ggf. alter Brief (1x für Tutorium 3)
+        - Vorlesungen (moodle)
+        - Tutorien / Aufgaben (moodle)
+        - Aufgaben (moodle)
+        - Abhaken im Dateisystem
+- # Vorlesungen
+    - V1 [[Testtheorie]]
+    - V2 [[Qualitätanforderungen]]
+    - V3 [[Planung und Entwicklung]]
+    - V4 [[Itemanalyse]] und [[Testwerteverteilungen]]
+    - V5 [[Klassische Testtheorie]]
+    - V6 [[Reliabilität]]

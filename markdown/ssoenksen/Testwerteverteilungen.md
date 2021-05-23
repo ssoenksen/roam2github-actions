@@ -1,0 +1,85 @@
+- # Analyse
+    - ### Maße der zentralen Tendenz
+        - Arithmetischer Mittelwert: $$\bar x = \frac{ \sum_{v=1}^{n} \sum_{i=1}^{m} x_{vi} }{ n}$$
+        - Median: $$Mdn = \left\{\begin{array}{l} x_{\frac{n+1}{2}} & \text{n ungerade} \\ \\ \frac{1}{2}(x_{\frac{n}{2}} + x_{\frac{n}{2}+1}) & \text{n gerade} \end{array} \right.$$
+        - Modalwert
+    - ### Streuungsmaße
+        - Varianz: $$Var(x) = \frac{ \sum_{v=1}{n} (x_v - \bar x)^2}{ n-1}$$
+        - Standardabweichung: $$SD(x) = \sqrt{Var(x)}$$
+        - Spannweite: $$Range = x_{max} - x_{min}$$
+        - Interquartilsabstand: $$IQR = Q_{0,75} - Q_{0,25}$$
+    - ### Abweichung von Normalverteilung
+        - Schiefe: $$Schiefe = \frac{ \sum_{v=1}^{n} (x_v - \bar x)^3}{ n\cdot SD(x)^3}$$
+            - Schiefe > 0 → Verteilung rechtsschief/ linkssteil
+            - Schiefe < 0 → Verteilung linksschief / rechtssteil
+        - Exzess: $$Exzess = \frac{ \sum_{v=1}^{n} (x_v - \bar x)^4}{ n\cdot SD(x)^4}-3$$
+            - Exzess > 0: Schmaler/ spitzer als Normalverteilung
+            - Exzess < 0: Flacher als Normalverteilung
+        - Normalverteilte Testwertverteilung → angemessene Testanforderungen
+        - Ursachen der Abweichung
+            - Konstruktionsmängel (zu leicht/ schwer) → Normalisierung
+            - Heterogene Stichprobe (bestehend aus normalverteilten Unterstichproben) → bei Normierung beachten
+            - Nicht normalverteiltes Merkmal
+        - ### Normalisierung
+            - Rechtsschiefe Verteilung → Logarithmierung: $$x'_v = \ln x_v$$
+            - Flächentransformation (verteilungsformunabhängig): Bei der Flächentransformation werden die Histogrammsäulen der Testwertverteilung so verändert, dass die einzelnen Säulen hinsichtlich Höhe und Breite der Normalverteilung angepasst werden; gemäß dem Prinzip der Flächentreue bleiben die Flächenanteile unter der Verteilung unverändert
+            - Schritte:
+                1. Bildung kumulierte relative Häufigkeiten (= Flächenanteile der HG-Säulen)
+                2. Bestimmung von z-Werten gemäß Flächenanteilen (unterste KG: -3, oberste KG: 3)
+                3. Bestimmung der Klassenmitte der normalisierten Testwerte
+                4. Bestimmung der Höhe der neuen Histogrammsäulen: Höhe HG-Säule $$z_v = \frac{ p(x_v) }{ \text{K.-Breite} \; z_v }$$ 
+                    - {{table}}
+                        - **Testwert** $$x_v$$
+                            - **Häufigkeit** $$f(x_v)$$
+                                - **Rel. H.** $$p(x_v)$$
+                                    - **1) K. relH.** $$p_{cum}(x_v)$$
+                                        - **Untere KG** $$z_v$$
+                                            - **2) Obere KG** $$z_v$$
+                                                - **K.-Breite** $$z_v$$
+                                                    - **3) K.-Mitte** $$z_v$$
+                                                        - **Höhe HG-Säule** $$z_v$$
+                        - 0
+                            - 8
+                                - 0,016
+                                    - 0,016
+                                        - -3
+                                            - -2,14
+                                                - 0,86
+                                                    - -2,57
+                                                        - 0,019
+                        - 1
+                            - 12
+                                - 0,024
+                                    - 0,04
+                                        - -2,14
+                                            - -1,75
+                                                - 0,39
+                                                    - -1,945
+                                                        - 0,062
+                        - 2
+                            - 17
+                                - 0,034
+                                    - 0,074
+                                        - -1,75
+                                            - -1,44
+                                                - 0,31
+                                                    - -1,595
+                                                        - 0,11
+                        - 3
+                            - 25
+                                - 0,05
+                                    - 0,124
+                                        - -1,44
+                                            - -1,15
+                                                - 0,29
+                                                    - -1,295
+                                                        - 0,17
+                        - etc.
+                            - ...
+                                - ...
+                                    - ...
+                                        - ...
+                                            - ...
+                                                - ...
+                                                    - ...
+                                                        - ...

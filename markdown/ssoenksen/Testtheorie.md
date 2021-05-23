@@ -1,0 +1,56 @@
+- Inhalt: Qualitätsansprüche eines Tests
+- # Test
+    - = wissenschaftliches Routineverfahren zur Erfassung eines oder mehrerer empirisch abgrenzbarer psychologischer Merkmale mit dem Ziel einer möglichst genauen quantitativen Aussage über den Grad der individuellen Merkmalsausprägung (Moosbrugger & Kelava, 2012)
+    - Anforderungen an Tests:
+        1. Vorliegen einer Theorie über das zu messende Merkmal
+        2. Testtheoretische Qualitätsansprüche von Testprozeduren und -werten erfüllt
+    - Grundannahme: Verhalten von Personen ist auf bestimmte Merkmale der Person rückführbar
+    - Getestete Merkmale - Kategorien:
+        - Qualitative vs. quantitative Merkmale
+        - Unidimensionale vs. multidimensionale Merkmale
+        - Zeitlich stabile vs. zeitlich veränderbare Merkmale
+    - Ziele:
+        - Quantifizieren/ Klassifizieren einer Merkmalsausprägung
+        - Feststellung von Unterschieden zwischen Individuen/ Gruppen
+        - Selektion
+        - Profilerstellung
+        - Erfassung von Merkmalsveränderungen
+    - # Testarten
+        - Leistungstests
+            - Speed-Tests (bspw. d2-Aufmerksamkeits-Belastungs-Test, Brickenkamp, 1994)
+            - Power-Tests
+        - Persönlichkeitsfragebögen (Selbstauskunftsverfahren, bspw. NEO-FFI, Borkenau & Ostendorf, 1993)
+            - Voraussetzungen und Probleme:
+                - Metakognition (Persönlichkeit vs. Selbstbild)
+                - Offenbarungsbereitschaft (Ideal- vs. Realselbstbild)
+                - Durchschaubarkeit/ Verzerrungstendenzen (bspw. soz. Erwünschtheit)
+        - Projektive Verfahren
+            - Formdeuteverfahren (bspw. Rorschach, 1954)
+            - Verbal-thematische Verfahren (bspw. TAT)
+            - Zeichnerische/ gestalterische Verfahren (bspw. Familie in Tieren)
+        - Situationsfragebogen
+        - Einstellungstests
+        - Motivations-/ Interessensfragebogen
+        - Verhaltensfragebogen
+- # Tutorium
+    - Test = spezielles psychologisches Experiment mit dem Ziel, vergleichende Aussagen über die Personen abzuleiten (Rost, 1996) mit UV = Item, AV = Aussagen der TN
+    - Item = Grundbausteine eines psychologischen Tests. Es handelt sich um Reize, auf die man von den Testpersonen eine Reaktion erwartet (Krauth, 1995)
+    - Geburtsstunde differentielle Psychologie/ Persönlichkeitspsychologie: William Stern (1911), "Differentielle Psychologie und ihre methodischen Grundlagen" --> maßgeblicher Treiber von Testentwicklung
+    - Persönlichkeitstest = umfassende, auf quantitativen Methoden basierende Beschreibung von Individuen und tlw. auch Vorhersage künftigen Verhaltens angestrebt
+- ## HEXACO-Inventar
+    - Konsens: Persönlichkeit am besten beschrieben durch 5 unabhängige Dimensionen - Big Five (psycholexikalischer Ansatz)
+        - Extraversion
+        - Agreeableness (Verträglichkeit)
+        - Conscientiousness (Gewissenhaftigkeit)
+        - Emotional Stability
+        - Openness to Experience (zuvor Intellect/ Imagination)
+    - Hexaco-Autoren Ashton/Lee bezweifelten globale Geltung des Big Five (faktorenanalytische Befunde), Ergebnis ist HEXACO-Modell
+        - Honesty-humility (H) (Ehrlichkeit/Bescheidenheit)
+        - Agreeableness (A)
+        - Emotional Stability (E)
+        - Extraversion (X)
+        - Conscientiousness (C)
+        - Openness to Experience (O)
+    - -> auch evolutionsbiologisch interpretierbar
+        - H, A, E: reziproker Altruismus
+        - X, C, O: Engagement in verschiedenen Domänen (Soziales, Sachaufgaben, Ideen)

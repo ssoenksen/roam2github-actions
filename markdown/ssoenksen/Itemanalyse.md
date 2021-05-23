@@ -1,0 +1,90 @@
+- # Allgemein
+    - Evaluation der Items an einer repräsentativen Stichprobe → Qualitätsbeurteilung
+    - Grundlage ist Datenmatrix:
+    - {{table}}
+        - **Proband**
+            - **Item 1**
+                - **Item 2**
+                    - **Item m**
+                        - **Zeilensumme**
+        - Pb 1
+            - $$x_{11}$$
+                - $$x_{12}$$
+                    - $$x_{1m}$$
+                        - $$x_1 = \sum x_{1i}$$
+        - Pb 2
+            - $$x_{21}$$
+                - $$x_{22}$$
+                    - $$x_{2m}$$
+                        - $$x_2 = \sum x_{2i}$$
+        - Pb n
+            - $$x_{n1}$$
+                - $$x_{n2}$$
+                    - $$x_{nm}$$
+                        - $$x_n = \sum x_{ni}$$
+        - **Spaltensummen**
+            - $$\sum x_{v1}$$
+                - $$\sum  x_{v2}$$
+                    - $$\sum x_{vm}$$
+                        - $$\sum \sum x_{vi}$$
+- # Itemschwierigkeiten
+    - **Schwierigkeitsindex** $$P_i$$ eines Items i: Quotient aus der bei diesem Item erreichten Punktsumme aller n Probanden und der maximal erreichbaren Punktsumme, multipliziert mit 100
+    - Bei k = 2: $$P_i = \frac{ \sum_{v=1}^{n} [x_{vi}-min(x_i)] }{n \cdot [max(x_i)-min(x_i)]} \cdot 100$$
+    - Ziel des Tests: Merkmalsdifferenzen zwischen Probanden erfassen → Antwort auf Items müssen unterschiedlich sein, Items dürfen weder zu leicht noch zu schwer sein; für Differenzierung auch in extremen Bereichen aber auch Items mit extremen Schwierigkeiten nötig
+    - **Itemselektion**: Schwierigkeit $$P_i$$ um 50; wenn extreme Merkmalsausprägungen differenziert werden sollen, dann auch Items mit $$5 \leq P_i \leq 20$$ und $$80 \leq P_i \leq 95$$
+    - ## Leistungstests
+        - Antworttypen: Richtig (R), falsch (F), ausgelassen (A), unbearbeitet (U)
+        - Speedtests:
+            - $$P_i = \frac{n_R}{n_B}\cdot 100$$
+            - $$\land\; n_B = n_R + n_F + n_A$$
+            - SPSS bei Speedtests:
+                - Häufigkeitstabellen mit unbearbeiteten Aufgaben als "fehlend" → "Gültige Prozente"
+                - oder: __Transformieren → Werte in Fällen zählen__
+        - Niveautests:
+            - $$P_i=\frac{n_R}{n}\cdot 100$$
+            - mit Ratekorrektur: $$P_i = \frac{n_R - \frac{n_F}{k-1}}{n}\cdot 100$$ (k: Anzahl Antwortstufen)
+    - ## Persönlichkeitstests
+        - Dichotome Antwortalternativen → wie bei Niveautests, sonst mit $$k:$$ Anzahl Antwortstufen von $$0$$ bis $$k-1$$: $$P_i = \frac{\sum_{v=1}^{n} x_{vi}}{n \cdot (k-1)}\cdot 100 $$
+        - Lösungswahrscheinlichkeit $$p_i = \frac{P_i}{100}$$
+        - SPSS:
+            - nicht direkt enthalten
+            - **Lösung**: über __Analysieren → Deskriptive Statistiken → Deskriptive Statistik__ die Mittelwerte ausgeben lassen und Formel $$P_i = \frac{\bar{x}_i - min(x_i)}{max(x_i) - min(x_i)}$$ nutzen
+            - **Automatisiert**: Mittelwerte in neue Tabelle übertragen, dann __Transformieren → Variablen berechnen__
+            - Bei Umpolung bzgl. symptomatischer Ausprägung: **psychometrische Itemschwierigkeit** = Zustimmung zu einem Item in Schlüsselrichtung der Skala (Bühner, 2011)
+                - SPSS: __Transformieren → Umcodieren in andere Variablen__
+                - Alternativ: __Transformieren → Variable berechnen__
+                - Überprüfung bspw. über __Analysieren → Deskriptive Statistik → Kreuztabellen__
+- # Itemvarianzen
+    - **Itemvarianz**: Differenzierungsfähigkeit eines Items hinsichtlich der untersuchten Probandenstichprobe: $$Var(x_i) = \sigma^2(x_i) = \frac{ \sum_{v=1}^{n} (x_{vi} - \bar x_i)^2} {n}$$
+    - Zusammenhang mit Schwerigkeitsindex ist kurvilinear bei dichotomen Items: $$P_i = {0; 100}$$ → keine Varianz; mittlere Schwierigkeit → hohe Varianz ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FuLkc80hYrh.png?alt=media&token=d858c396-2fff-4bce-a1bc-4b80f8a0c627)
+    - Interpretation schwierig, da Werte abhängig von Antwortskala; deshalb idR. keine Nutzung bei Itemselektion!
+    - **Itemselektion**: Itemvarianz möglichst hoch
+    - SPSS: Per Histogramm
+- # Trennschärfeanalyse
+    - = $$r_{it}$$ eines Items i: Fähigkeit des Items, zwischen Probanden mit niedrigen und hohen Merkmalsausprägungen zu trennen; Korrelativer Zusammenhang zwischen Itemwerten $$x_{vi}$$ der Probanden und Testwerten $$x_v $$der Probanden
+    - Dichotome Antwortskala:
+        - Unkorrigiert: $$r_{it} = \frac{ \bar x_{v_1} - \bar x_{v_{0}}} {SD(x)} \sqrt{\frac{n_0 n_1}{n(n-1)}}$$
+        - Korrigiert (part-whole-correction ohne Item i bei wenigen Items): $$r_{it(i)} = \frac{ r_{it} SD(x) - \sqrt{p_i(1-p_i)}}{\sqrt{SD(x)^2+p_i(1-p_i)-2r_{it}SD(x) \sqrt{p_i(1-p_i)}}}$$
+    - Intervallskalierte Antwortskala:
+        - Unkorrigiert: $$r_{it} = r(x_{vi}, x_v)$$
+        - Korrigiert: $$r_{it(i)} = r(x_{vi}, x_{v(i)})$$ mit $$x_{v(i)} = (\sum_{i=1}^{m} x_{vi})-x_{vi} \Rightarrow r_{it(i)} = \frac{ r_{it} SD(x) - SD(x_i) }{ \sqrt{ SD(x)^2 + SD(x_i)^2 - 2r_{it} SD(x) SD(x_i)}}$$
+    - Interpretation:
+        - $$r_{it}$$ nahe 1: Einzelnes Item differenziert ähnlich wie Gesamttest/ misst etwas ähnliches
+        - $$r_{it}$$ bei 0: kein Zusammenhang; Item ungeeignet, zwischen verschiedenen Testwerten zu unterscheiden
+        - $$r_{it}$$ nahe -1: Mängel bei Itemformulierung/ Messung oder nicht rückinvertierte Items
+    - Zusammenhang mit Itemvarianz: Hohe Varianzen → hohe Trennschärfen
+    - **Itemselektion**: Trennschärfe nahe 1
+    - SPSS: __Analysieren → Skala → Reliabilitätsanalyse__
+- # Itemselektion
+    - **Basis**: Itemschwierigkeiten und -trennschärfen (Varianzen idR. nicht), auch: Faktorenladungen und Reliabilität
+    - Schwierigkeit: $$P_i$$ um 50; wenn extreme Merkmalsausprägungen differenziert werden sollen, dann auch Items mit $$5 \leq P_i \leq 20$$ und $$80 \leq P_i \leq 95$$
+    - Trennschärfe: $$\geq .30/.40$$
+    - **Ziel**: Hohe Varianz im Testwert
+        - durch hohe Variabilität der Itemschwierigkeiten (= mittlere Schwierigkeit)
+        - durch hohe Trennschärfen
+- # Testwertermittlung
+    - Leistungstests
+        - Grundlegend: $$x_v = m_R$$
+        - Mit gewichteten falschen Antworten: $$x_v = m_R - c\cdot m_F$$
+        - Mit Ratekorrektur: $$x'_v = m_R - \frac{m_F}{k-1}$$ (Herleitung: Buch S. 90f)
+    - Persönlichkeitstests: $$x_v = \sum_{i=1}^{m} x_{vi}$$
