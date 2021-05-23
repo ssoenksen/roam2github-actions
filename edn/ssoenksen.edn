@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuida9cdbbdd-b553-4762-bd6e-66ca6c01628f"
-   536874077]
+   "uuidb512bfa3-5df2-4ce4-9025-d4936300a304"
+   536874180]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -1906,6 +1906,7 @@
   [445 :block/children 1023 536874005]
   [445 :block/open true 536873944]
   [445 :block/uid "c0GYfTgZw" 536872371]
+  [445 :children/view-type :bullet 536874079]
   [445 :create/time 1621700874513 536872371]
   [445 :create/user 3 536872371]
   [445 :edit/seen-by 3 536873950]
@@ -8219,10 +8220,14 @@
   [1027 :create/user 3 536874063]
   [1027 :edit/time 1621718791834 536874069]
   [1027 :edit/user 3 536874063]
-  [1028 :block/uid "05-23-2021" 536874077]
-  [1028 :create/time 1621762363287 536874077]
-  [1028 :create/user 3 536874077]
-  [1028 :edit/time 1621762363287 536874077]
-  [1028 :edit/user 3 536874077]
-  [1028 :log/id 1621762363284 536874077]
-  [1028 :node/title "May 23rd, 2021" 536874077]]}
+  [1046 :block/string "test-linked" 536874137]
+  [1046 :block/uid "LlnQjeOi9" 536874137]
+  [1046 :edit/time 1621770971593 536874137]
+  [1046 :edit/user 3 536874137]
+  [1057 :block/uid "05-23-2021" 536874180]
+  [1057 :create/time 1621772505627 536874180]
+  [1057 :create/user 3 536874180]
+  [1057 :edit/time 1621772505627 536874180]
+  [1057 :edit/user 3 536874180]
+  [1057 :log/id 1621772505622 536874180]
+  [1057 :node/title "May 23rd, 2021" 536874180]]}
