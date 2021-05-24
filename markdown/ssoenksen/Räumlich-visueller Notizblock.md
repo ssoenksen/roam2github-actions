@@ -1,0 +1,26 @@
+- verwendet zum temporären Speichern und zur Verarbeitung räumlicher und visueller Information
+- Kontroverse
+    - Verarbeitung visueller und räumlicher Infos in separaten Systemen?
+- Logie (1995): separate Subsysteme
+    - visueller Zwischenspeicher (Puffer)
+        - speichert Information über visuelle Form und Farbe
+    - innerer Schreiber
+        - verarbeitet räumliche und Bewegungsinformation
+        - beteiligt an rehearsal von Information im visuellen Zwischenspeicher
+        - gibt Information aus dem Zwischenspeicher an die zentrale Exekutive weiter
+    - Evidenz: verschiedene Pfade für visuelle und räumliche Informationventraler Pfad vs. dorsaler Pfad
+- Empirische Studie Klauer & Zhao (2004): Zwei Subsysteme?
+    - Primäraufgaben
+    - Räumliche Aufgabe: Position von Punkten merken (Dots)
+    - Visuelle Aufgabe: Chinesische Schriftzeichen merken (Ideographs)
+    - Sekundäraufgaben 
+        - Farbdiskriminierungsaufgabe 
+        - Bewegungsdiskriminierungsaufgabe
+    - Ergebnisse
+        - Störungen
+            - Dots – Bewegung
+            - Zeichen – Farbe
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef)
+- Befunde für teilweise Unabhängigkeit 
+    - aber: viele Aufgaben erfordern beide Komponenten
+        - es ist noch nicht klar, wie Informationen kombiniert und integriert werden

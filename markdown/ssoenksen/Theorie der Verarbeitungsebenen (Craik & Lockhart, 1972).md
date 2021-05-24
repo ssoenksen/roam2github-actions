@@ -1,0 +1,23 @@
+- die Ebene (Tiefe) der Stimulusverarbeitung beeinflusst die Einprägsamkeit einer Information (vs. nur rehearsal --> Atkinson & Shiffrin)
+- tiefere Verarbeitung produziert elaboriertere, dauerhaftere und stärkere Gedächtnisspuren als oberflächliche Verarbeitung
+    - Rehearsal / Aufrechterhaltung = einfach das Wiederholen von Information 
+    - Elaboration = tiefgehende semantische Verarbeitung
+- Studie von Craik und Tulving (1975): Verarbeitungstiefe
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F4Q72WP8T8C.png?alt=media&token=5956eb83-7155-4499-9dba-f7b14b32d49b)
+    - explizite Gedächtnistests fanden Belege für Einfluss von Verarbeitungstiefe 
+        - Erinnerungstest: Recognition bzw. Recall
+    - implizite Gedächtnistests fanden schwächere Belege für Verarbeitungstiefe
+        - Wörter vervollständigen
+    - Besonderheit beeinflusst Erinnerung positiv
+        - eine Gedächtnisspur, die anders enkodiert wurde
+        - die Verarbeitung von Unterschieden im Kontext von Ähnlichkeit
+    - Vorwissen hilft, Gedächtnis während des Enkodierens zu organisieren 
+        - Vorteil beim Lernen für Personen mit breiter Wissensbasis
+- Bewertung
+    - Stärken
+        - Einfluss von Verarbeitungstiefe auf Langzeitgedächtnisleistung zu recht hervorgehoben (Limitation von Mehrspeichermodellen)
+        - Lernen als Nebenprodukt von Wahrnehmung, Aufmerksamkeit und Verstehen
+    - Schwächen
+        - Verarbeitungstiefe schwierig zu beurteilen und zu messen 
+        - Unterschätzt Wichtigkeit spezifischer Aspekte des Abrufs 
+        - Wechselwirkung zwischen Verarbeitungstiefe / Elaboration und Besonderheit nicht spezifiziert

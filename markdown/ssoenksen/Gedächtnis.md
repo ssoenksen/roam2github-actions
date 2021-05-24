@@ -1,0 +1,11 @@
+- Zentrale Bedeutung von Gedächtnis für Handlungsfähigkeit
+    - Wahrnehmung, Verarbeitung, Erinnerung kurz- und langfristig
+- Gedächtnisprozesse
+    - Enkodierung
+    - Speicherung
+    - Abruf 
+        - Vergessen
+- [[Architektur des Gedächtnisses]]
+    - Grundlegende Komponenten 
+    - Aufbau der Komponenten
+- [[Ebenen der Verarbeitung]]

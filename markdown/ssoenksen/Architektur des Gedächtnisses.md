@@ -1,0 +1,5 @@
+- Allgemeine Modelle
+    - [[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]]
+    - [[Einspeichermodell (Jonides et al., 2008)]]
+- Arbeitsgedächtnis
+    - [[Arbeitsgedächtnismodell (Baddeley & Hitch, 1974)]]

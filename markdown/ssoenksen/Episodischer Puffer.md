@@ -1,0 +1,11 @@
+- erklärt, wie das Langzeitgedächtnis die Verarbeitung im Kurzzeitgedächtnis beeinflussen kann
+- Episodischer Puffer (Baddeley & Wilson, 2002) 
+    - System mit beschränkter Kapazität
+        - 4 Chunks / „Episoden“
+    - integriert Informationen aus unterschiedlichen Quellen
+        - fungiert als Vermittler zwischen der phonologischen Schleife und dem räumlich-visuellen Notizblock
+    - ein Prozess aktiven Verbindens von Informationen (active binding) 
+- Schwächen
+    - unklar wie alle unterschiedlichen Informationen integriert werden 
+    - erhöht Flexibilität des Modells – schwerer testbar
+    - Annahme der zusätzlichen Integration von Informationen anderer Modalitäten nicht geprüft (z.B. Geruch, Geschmack)
