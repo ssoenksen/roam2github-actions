@@ -7417,23 +7417,13 @@
                 }
               },
               {
-                "string": "Unterdrückung Zentrale Exekutive ",
+                "string": "Unterdrückung Zentrale Exekutive: Zufallszahlen generieren",
                 "create-time": 1621857175346,
+                "uid": "sVFUn_A8F",
+                "edit-time": 1622037197285,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
-                "children": [
-                  {
-                    "string": "Zufallszahlen generieren",
-                    "uid": "wSW02MCe-",
-                    "edit-time": 1621857175349,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
-                "uid": "sVFUn_A8F",
-                "edit-time": 1621857175346,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
@@ -7446,21 +7436,9 @@
             }
           },
           {
-            "string": "Verschlechterung bei Unterdrückung VSSP & CE",
+            "string": "Ergebnis: Verschlechterung bei Unterdrückung VSSP & CE ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)",
             "uid": "lG1elOjOc",
-            "edit-time": 1621857134744,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)",
-            "create-time": 1621857220345,
-            "uid": "bqmHJUq5a",
-            "edit-time": 1621857224663,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
+            "edit-time": 1622037208911,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }

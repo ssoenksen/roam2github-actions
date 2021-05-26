@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuidc644d18c-5724-43c1-9fd6-3d67ad1cd7a4"
-   536875663]
+   "uuida7edde96-fb60-4502-9a84-d89c66bb47be"
+   536875667]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -9521,7 +9521,6 @@
   [1205 :block/children 1208 536875648]
   [1205 :block/children 1213 536875648]
   [1205 :block/children 1214 536875648]
-  [1205 :block/children 1220 536875648]
   [1205 :block/open true 536874721]
   [1205 :block/order 4 536875637]
   [1205 :block/page 1179 536874722]
@@ -9550,18 +9549,6 @@
   [1208 :edit/seen-by 3 536874744]
   [1208 :edit/time 1621857134744 536874726]
   [1208 :edit/user 3 536874726]
-  [1212 :block/open true 536874726]
-  [1212 :block/order 0 536874785]
-  [1212 :block/page 1179 536874732]
-  [1212 :block/parents 1179 536874732]
-  [1212 :block/parents 1205 536874791]
-  [1212 :block/parents 1208 536874781]
-  [1212 :block/parents 1219 536874786]
-  [1212 :block/string "Zufallszahlen generieren" 536874784]
-  [1212 :block/uid "wSW02MCe-" 536874726]
-  [1212 :edit/seen-by 3 536874777]
-  [1212 :edit/time 1621857175349 536874784]
-  [1212 :edit/user 3 536874726]
   [1213 :block/open true 536874726]
   [1213 :block/order 2 536875655]
   [1213 :block/page 1179 536874733]
@@ -9569,11 +9556,11 @@
   [1213 :block/parents 1205 536874791]
   [1213
    :block/string
-   "Verschlechterung bei Unterdrückung VSSP & CE"
-   536874726]
+   "Ergebnis: Verschlechterung bei Unterdrückung VSSP & CE ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)"
+   536875667]
   [1213 :block/uid "lG1elOjOc" 536874726]
   [1213 :edit/seen-by 3 536874787]
-  [1213 :edit/time 1621857134744 536874726]
+  [1213 :edit/time 1622037208911 536875667]
   [1213 :edit/user 3 536874726]
   [1214 :block/open true 536874726]
   [1214 :block/order 0 536875654]
@@ -9630,33 +9617,21 @@
   [1218 :create/user 3 536874772]
   [1218 :edit/time 1622037151868 536875663]
   [1218 :edit/user 3 536874772]
-  [1219 :block/children 1212 536874785]
   [1219 :block/open true 536874782]
   [1219 :block/order 3 536874782]
   [1219 :block/page 1179 536874783]
   [1219 :block/parents 1179 536874783]
   [1219 :block/parents 1205 536874791]
   [1219 :block/parents 1208 536874783]
-  [1219 :block/string "Unterdrückung Zentrale Exekutive " 536874782]
+  [1219
+   :block/string
+   "Unterdrückung Zentrale Exekutive: Zufallszahlen generieren"
+   536875664]
   [1219 :block/uid "sVFUn_A8F" 536874782]
   [1219 :create/time 1621857175346 536874782]
   [1219 :create/user 3 536874782]
-  [1219 :edit/time 1621857175346 536874782]
+  [1219 :edit/time 1622037197285 536875664]
   [1219 :edit/user 3 536874782]
-  [1220 :block/open true 536874792]
-  [1220 :block/order 3 536875655]
-  [1220 :block/page 1179 536874793]
-  [1220 :block/parents 1179 536874793]
-  [1220 :block/parents 1205 536874793]
-  [1220
-   :block/string
-   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)"
-   536874796]
-  [1220 :block/uid "bqmHJUq5a" 536874792]
-  [1220 :create/time 1621857220345 536874792]
-  [1220 :create/user 3 536874792]
-  [1220 :edit/time 1621857224663 536874796]
-  [1220 :edit/user 3 536874792]
   [1221 :block/children 1350 536875318]
   [1221 :block/children 1353 536875293]
   [1221 :block/open true 536874797]
