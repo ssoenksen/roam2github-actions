@@ -4,9 +4,9 @@
         - modalitätsfreie zentrale Steuereinheit / Leitung
         - aktiviert bei Bearbeitung aller kognitiv anspruchsvollen Aufgaben 
         - ähnelt Aufmerksamkeit
-        - verwendet Untersysteme 
+        - verwendet Untersysteme (s.u.)
     - [[Phonologische Schleife]]
-        - verarbeitet und speichert Info kurzzeitig in sprachbasierter Form
+        - verarbeitet und speichert auditive Informationen kurzzeitig
     - [[Räumlich-visueller Notizblock]] (VSSP)
         - spezialisiert auf räumliche und visuelle Kodierung und Verarbeitung
     - [[Episodischer Puffer]] (in verbessertem Modell hinzugefügt, u.a. Baddeley, 2001) 

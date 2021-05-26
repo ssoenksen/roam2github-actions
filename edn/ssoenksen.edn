@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid4c79b9ef-0454-4839-8e98-babec36fd4ba"
-   536875600]
+   "uuid92b8b8d1-95ae-4cae-a58f-10ab45aea9e2"
+   536875604]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -9346,10 +9346,10 @@
   [1185 :block/parents 1179 536874645]
   [1185 :block/parents 1182 536874663]
   [1185 :block/parents 1396 536875595]
-  [1185 :block/string "verwendet Untersysteme" 536874666]
+  [1185 :block/string "verwendet Untersysteme (s.u.)" 536875602]
   [1185 :block/uid "RYHgQ157s" 536874641]
   [1185 :edit/seen-by 3 536874661]
-  [1185 :edit/time 1621856913790 536874666]
+  [1185 :edit/time 1622036706054 536875602]
   [1185 :edit/user 3 536874641]
   [1186 :block/children 1187 536874668]
   [1186 :block/open true 536874641]
@@ -9371,11 +9371,11 @@
   [1187 :block/parents 1396 536875596]
   [1187
    :block/string
-   "verarbeitet und speichert Info kurzzeitig in sprachbasierter Form"
-   536874641]
+   "verarbeitet und speichert auditive Informationen kurzzeitig"
+   536875604]
   [1187 :block/uid "bqs64XwWI" 536874641]
   [1187 :edit/seen-by 3 536874667]
-  [1187 :edit/time 1621856904657 536874641]
+  [1187 :edit/time 1622036725269 536875604]
   [1187 :edit/user 3 536874641]
   [1188 :block/children 1189 536874671]
   [1188 :block/open true 536874641]

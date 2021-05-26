@@ -7156,9 +7156,9 @@
                 }
               },
               {
-                "string": "verwendet Untersysteme",
+                "string": "verwendet Untersysteme (s.u.)",
                 "uid": "RYHgQ157s",
-                "edit-time": 1621856913790,
+                "edit-time": 1622036706054,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
@@ -7184,9 +7184,9 @@
             ],
             "children": [
               {
-                "string": "verarbeitet und speichert Info kurzzeitig in sprachbasierter Form",
+                "string": "verarbeitet und speichert auditive Informationen kurzzeitig",
                 "uid": "bqs64XwWI",
-                "edit-time": 1621856904657,
+                "edit-time": 1622036725269,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
