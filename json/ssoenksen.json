@@ -7194,24 +7194,14 @@
             }
           },
           {
-            "string": "[[Räumlich-visueller Notizblock]] (VSSP)",
+            "string": "[[Räumlich-visueller Notizblock]] (VSSP): spezialisiert auf räumliche und visuelle Kodierung und Verarbeitung",
             "refs": [
               {
                 "uid": "5fYz7zvVT"
               }
             ],
-            "children": [
-              {
-                "string": "spezialisiert auf räumliche und visuelle Kodierung und Verarbeitung",
-                "uid": "5AX5gxMeN",
-                "edit-time": 1621856904657,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
             "uid": "xQKnbX4IS",
-            "edit-time": 1621857504070,
+            "edit-time": 1622037871336,
             ":block/refs": [
               {
                 ":block/uid": "5fYz7zvVT"
@@ -7462,41 +7452,36 @@
         },
         "children": [
           {
-            "string": "Stärken",
+            "string": "Stärken: einflussreiche Erweiterung des [[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]]",
+            "refs": [
+              {
+                "uid": "inHugqSKJ"
+              }
+            ],
             "children": [
               {
-                "string": "einflussreiche Erweiterung des Mehrspeichermodells von Atkinson und Shiffrin (1968)",
-                "children": [
-                  {
-                    "string": "beschreibt neben Speicherung auch aktive Verarbeitung ",
-                    "create-time": 1621857879845,
-                    "uid": "aW542ThZ2",
-                    "edit-time": 1621857879845,
-                    ":create/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  },
-                  {
-                    "string": "Daten von hirngeschädigten Patienten erklärt",
-                    "uid": "NUVxp1aie",
-                    "edit-time": 1621857879850,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  },
-                  {
-                    "string": "weniger zentrale Rolle des verbalen rehearsals",
-                    "uid": "ARs6-O5nE",
-                    "edit-time": 1621857871721,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
-                "uid": "w9LhdHj5c",
+                "string": "beschreibt neben Speicherung auch aktive Verarbeitung ",
+                "create-time": 1621857879845,
+                "uid": "aW542ThZ2",
+                "edit-time": 1621857879845,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Daten von hirngeschädigten Patienten erklärt",
+                "uid": "NUVxp1aie",
+                "edit-time": 1621857879850,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "weniger zentrale Rolle des verbalen rehearsals",
+                "uid": "ARs6-O5nE",
                 "edit-time": 1621857871721,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -7504,7 +7489,12 @@
               }
             ],
             "uid": "gB6K2InDD",
-            "edit-time": 1621857871721,
+            "edit-time": 1622039204908,
+            ":block/refs": [
+              {
+                ":block/uid": "inHugqSKJ"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -7659,6 +7649,14 @@
             "string": "**Wortlängeneffekt**: Gedächtnisspanne ist kleiner für Wörter, die viel Zeit benötigen, um ausgesprochen zu werden",
             "children": [
               {
+                "string": "legt nahe, dass die Kapazität der phonologischen Schleife von der zeitlichen Dauer der Artikulation bestimmt wird",
+                "uid": "OmFRTVWnk",
+                "edit-time": 1621857439652,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
                 "string": "nachgewiesen in Aufgaben zur Messung der Gedächtnisspanne ",
                 "create-time": 1621857451300,
                 ":create/user": {
@@ -7701,25 +7699,27 @@
                 }
               },
               {
-                "string": "Baddeley et al. (1975, 2002): artikulatorische Unterdrückung beseitigte den Wortlängeneffekt",
+                "string": "nachgewiesen durch Baddeley et al. (1975, 2002): artikulatorische Unterdrückung beseitigte den Wortlängeneffekt #unklar",
+                "refs": [
+                  {
+                    "uid": "NUh0oFMJ9"
+                  }
+                ],
                 "uid": "XyL37QiuS",
-                "edit-time": 1622037669904,
+                "edit-time": 1622037824895,
+                ":block/refs": [
+                  {
+                    ":block/uid": "NUh0oFMJ9"
+                  }
+                ],
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               },
               {
-                "string": "legt nahe, dass die Kapazität der phonologischen Schleife von der zeitlichen Dauer der Artikulation bestimmt wird",
-                "uid": "OmFRTVWnk",
-                "edit-time": 1621857439652,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "aber Kritik: Konfundierung durch orthographische Nachbarschaft",
+                "string": "(aber **Kritik**: Konfundierung durch orthographische Nachbarschaft)",
                 "uid": "oOjyzvhs4",
-                "edit-time": 1621857439652,
+                "edit-time": 1622037857414,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
@@ -7754,260 +7754,222 @@
     "children": [
       {
         "string": "verwendet zum temporären Speichern und zur Verarbeitung räumlicher und visueller Information",
-        "uid": "gNalrvnKC",
-        "edit-time": 1621857517655,
+        "create-time": 1622037876947,
+        "uid": "jsa5Ewajv",
+        "edit-time": 1622037888694,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
       },
       {
-        "string": "Kontroverse",
+        "string": "**Kontroverse**: Verarbeitung visueller und räumlicher Infos in separaten Systemen?",
         "children": [
           {
-            "string": "Verarbeitung visueller und räumlicher Infos in separaten Systemen?",
-            "uid": "Wp1dg86dm",
-            "edit-time": 1621857517655,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "uid": "SNC7ULqA6",
-        "edit-time": 1621857517655,
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "Logie (1995): separate Subsysteme",
-        "children": [
-          {
-            "string": "visueller Zwischenspeicher (Puffer)",
+            "string": "Logie (1995): separate Subsysteme",
             "children": [
               {
-                "string": "speichert Information über visuelle Form und Farbe",
-                "uid": "NRejW0GjM",
-                "edit-time": 1621857517655,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
-            "uid": "juiMvwZuV",
-            "edit-time": 1621857517655,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "innerer Schreiber",
-            "children": [
-              {
-                "string": "verarbeitet räumliche und Bewegungsinformation",
-                "uid": "TBZh9Z1V9",
-                "edit-time": 1621857517655,
+                "string": "**visueller Zwischenspeicher** (Puffer): speichert Information über visuelle Form und Farbe",
+                "uid": "juiMvwZuV",
+                "edit-time": 1622037929496,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               },
               {
-                "string": "beteiligt an rehearsal von Information im visuellen Zwischenspeicher",
-                "uid": "4MyzqIIjO",
-                "edit-time": 1621857517655,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "gibt Information aus dem Zwischenspeicher an die zentrale Exekutive weiter",
-                "uid": "GG1CFyS4M",
-                "edit-time": 1621857517655,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
-            "uid": "G5EAbJ7Ok",
-            "edit-time": 1621857517655,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Evidenz: verschiedene Pfade für visuelle und räumliche Informationventraler Pfad vs. dorsaler Pfad",
-            "uid": "pUX6lD3NZ",
-            "edit-time": 1621857517655,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "uid": "YKE0TLJ3v",
-        "edit-time": 1621857517655,
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "Empirische Studie Klauer & Zhao (2004): Zwei Subsysteme?",
-        "children": [
-          {
-            "string": "Primäraufgaben",
-            "uid": "JxZaORoHj",
-            "edit-time": 1621857548725,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Räumliche Aufgabe: Position von Punkten merken (Dots)",
-            "uid": "1ejX5S4_R",
-            "edit-time": 1621857548725,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Visuelle Aufgabe: Chinesische Schriftzeichen merken (Ideographs)",
-            "uid": "MLWn6GUOV",
-            "edit-time": 1621857548725,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Sekundäraufgaben ",
-            "create-time": 1621857562777,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            "children": [
-              {
-                "string": "Farbdiskriminierungsaufgabe ",
-                "create-time": 1621857565394,
-                "uid": "IgrioqiDF",
-                "edit-time": 1621857565394,
-                ":create/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                },
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "Bewegungsdiskriminierungsaufgabe",
-                "uid": "_Eo6rlgns",
-                "edit-time": 1621857565397,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
-            "uid": "jf2kdwHID",
-            "edit-time": 1621857562777,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Ergebnisse",
-            "children": [
-              {
-                "string": "Störungen",
+                "string": "**innerer Schreiber**",
                 "children": [
                   {
-                    "string": "Dots – Bewegung",
-                    "uid": "JwGVrmhWv",
+                    "string": "verarbeitet räumliche und Bewegungsinformation",
+                    "uid": "TBZh9Z1V9",
+                    "edit-time": 1621857517655,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "beteiligt an rehearsal von Information im visuellen Zwischenspeicher",
+                    "uid": "4MyzqIIjO",
+                    "edit-time": 1621857517655,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "gibt Information aus dem Zwischenspeicher an die zentrale Exekutive weiter",
+                    "uid": "GG1CFyS4M",
+                    "edit-time": 1621857517655,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "G5EAbJ7Ok",
+                "edit-time": 1622037936802,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Evidenz: verschiedene Pfade für visuelle und räumliche Information --> ventraler Pfad vs. dorsaler Pfad",
+                "uid": "pUX6lD3NZ",
+                "edit-time": 1622037971952,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "YKE0TLJ3v",
+            "edit-time": 1621857517655,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Empirische Studie Klauer & Zhao (2004): Zwei Subsysteme? #studie",
+            "refs": [
+              {
+                "uid": "2js24S1Un"
+              }
+            ],
+            "children": [
+              {
+                "string": "Primäraufgaben",
+                "children": [
+                  {
+                    "string": "Räumliche Aufgabe: Position von Punkten merken (Dots)",
+                    "uid": "1ejX5S4_R",
                     "edit-time": 1621857548725,
                     ":edit/user": {
                       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                     }
                   },
                   {
-                    "string": "Zeichen – Farbe",
-                    "uid": "_NGS_Tc3A",
+                    "string": "Visuelle Aufgabe: Chinesische Schriftzeichen merken (Ideographs)",
+                    "uid": "MLWn6GUOV",
                     "edit-time": 1621857548725,
                     ":edit/user": {
                       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                     }
                   }
                 ],
-                "uid": "K-0XY7mVz",
-                "edit-time": 1621857548725,
+                "uid": "JxZaORoHj",
+                "edit-time": 1622038063160,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Sekundäraufgaben ",
+                "create-time": 1621857562777,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Farbdiskriminierungsaufgabe ",
+                    "create-time": 1621857565394,
+                    "uid": "IgrioqiDF",
+                    "edit-time": 1621857565394,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Bewegungsdiskriminierungsaufgabe",
+                    "uid": "_Eo6rlgns",
+                    "edit-time": 1621857565397,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "jf2kdwHID",
+                "edit-time": 1621857562777,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "**Ergebnisse**: Bestätigt zwei Subsysteme und teilweise Unabhängigkeit",
+                "children": [
+                  {
+                    "string": "Störungen",
+                    "children": [
+                      {
+                        "string": "Dots – Bewegung (2x innerer Schreiber) --> Interferenz",
+                        "uid": "JwGVrmhWv",
+                        "edit-time": 1622038115136,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      },
+                      {
+                        "string": "Zeichen – Farbe (2x vis. Zwischenspeicher) --> Interferenz ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef)",
+                        "props": {
+                          "image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef": {
+                              "width": 219,
+                              "height": null
+                            }
+                          }
+                        },
+                        "uid": "_NGS_Tc3A",
+                        "edit-time": 1622038182185,
+                        ":block/props": {
+                          ":image-size": {
+                            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef": {
+                              ":width": 219,
+                              ":height": null
+                            }
+                          }
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "K-0XY7mVz",
+                    "edit-time": 1621857548725,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "IcmT4RoJe",
+                "edit-time": 1622038199351,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               }
             ],
-            "uid": "IcmT4RoJe",
-            "edit-time": 1621857548725,
+            "uid": "6rmYF-b2y",
+            "edit-time": 1622037992472,
+            ":block/refs": [
+              {
+                ":block/uid": "2js24S1Un"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef)",
-            "props": {
-              "image-size": {
-                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef": {
-                  "width": 250,
-                  "height": null
-                }
-              }
-            },
-            "create-time": 1621857602235,
-            ":block/props": {
-              ":image-size": {
-                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef": {
-                  ":width": 250,
-                  ":height": null
-                }
-              }
-            },
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            "uid": "vX9Zwud4w",
-            "edit-time": 1621857606284,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "uid": "6rmYF-b2y",
-        "edit-time": 1621857548725,
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "Befunde für teilweise Unabhängigkeit ",
-        "create-time": 1621857582137,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
-        "children": [
-          {
-            "string": "aber: viele Aufgaben erfordern beide Komponenten",
-            "children": [
-              {
-                "string": "es ist noch nicht klar, wie Informationen kombiniert und integriert werden",
-                "uid": "ndcY4naot",
-                "edit-time": 1621857548725,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
+            "string": "**aber**: viele (komplexe) Aufgaben erfordern beide Komponenten, es ist noch nicht klar, wie Informationen kombiniert und integriert werden",
             "uid": "iplIT7ftu",
-            "edit-time": 1621857582140,
+            "edit-time": 1622038232178,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           }
         ],
-        "uid": "phFmfzJJw",
-        "edit-time": 1621857582137,
+        "uid": "SNC7ULqA6",
+        "edit-time": 1622037898527,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -8027,47 +7989,49 @@
     },
     "children": [
       {
-        "string": "Lokalisierung in Frontallappen wird angenommen",
-        "children": [
-          {
-            "string": "rTMS des dorsolateralen präfrontalen Kortex (DLPFC; BA 9, 10, 46) stört komplexe kognitive Prozesse (Mottaghy, 2006)",
-            "uid": "7i7272wW2",
-            "edit-time": 1621857634225,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2Fy1hYggB6fI.png?alt=media&token=5865a3ef-6f26-4fb7-bce2-a8e98aa1e4ac)",
-            "props": {
-              "image-size": {
-                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2Fy1hYggB6fI.png?alt=media&token=5865a3ef-6f26-4fb7-bce2-a8e98aa1e4ac": {
-                  "width": 215,
-                  "height": null
-                }
-              }
-            },
-            "create-time": 1621857663090,
-            ":block/props": {
-              ":image-size": {
-                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2Fy1hYggB6fI.png?alt=media&token=5865a3ef-6f26-4fb7-bce2-a8e98aa1e4ac": {
-                  ":width": 215,
-                  ":height": null
-                }
-              }
-            },
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            "uid": "JvEilrAbj",
-            "edit-time": 1621857676734,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "uid": "JxkCtCEEk",
-        "edit-time": 1621857634225,
+        "string": "modalitätsfreie zentrale Steuereinheit / Leitung",
+        "create-time": 1622038368125,
+        "uid": "W5D7Tr489",
+        "edit-time": 1622038368125,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "aktiviert bei Bearbeitung aller kognitiv anspruchsvollen Aufgaben ",
+        "create-time": 1622038368125,
+        "uid": "GjrHzKECD",
+        "edit-time": 1622038368125,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "ähnelt Aufmerksamkeit",
+        "create-time": 1622038368125,
+        "uid": "KqjJmqDnl",
+        "edit-time": 1622038368125,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "verwendet Untersysteme (s.u.), v.a. episodischen Puffer",
+        "create-time": 1622038368125,
+        "uid": "G7BboKUdz",
+        "edit-time": 1622038368125,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -8123,6 +8087,24 @@
         }
       },
       {
+        "string": "**Gehirnareal**: Frontallappen wird angenommen",
+        "children": [
+          {
+            "string": "rTMS des dorsolateralen präfrontalen Kortex (DLPFC; BA 9, 10, 46) stört komplexe kognitive Prozesse (Mottaghy, 2006) ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2Fy1hYggB6fI.png?alt=media&token=5865a3ef-6f26-4fb7-bce2-a8e98aa1e4ac)",
+            "uid": "7i7272wW2",
+            "edit-time": 1622038591489,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "JxkCtCEEk",
+        "edit-time": 1622038390867,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
         "string": "Störung: [[Dysexekutives Syndrom]]",
         "create-time": 1621857705808,
         ":block/refs": [
@@ -8159,9 +8141,19 @@
     },
     "children": [
       {
-        "string": "Zustand der Schädigung des Frontallappens, der zur Störung der zentralen Exekutive des Arbeitsgedächtnisses führt",
+        "string": "Zustand der Schädigung des Frontallappens, der zur Störung der [[Zentrale Exekutive]] führt",
+        "refs": [
+          {
+            "uid": "-SUg_SPnX"
+          }
+        ],
         "uid": "60rc6TTdc",
-        "edit-time": 1621857720155,
+        "edit-time": 1622038678323,
+        ":block/refs": [
+          {
+            ":block/uid": "-SUg_SPnX"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -8217,109 +8209,89 @@
         }
       },
       {
-        "string": "Oft Schädigung des Frontallappens",
-        "children": [
-          {
-            "string": "einige Patienten stattdessen Schädigung posteriorer / parietaler Regionen",
-            "uid": "Xn-5BFzQD",
-            "edit-time": 1621857720155,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
+        "string": "Oft Schädigung des Frontallappens, einige Patienten stattdessen Schädigung posteriorer / parietaler Regionen",
         "uid": "FsvUeL6TY",
-        "edit-time": 1621857720155,
+        "edit-time": 1622038724177,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
       },
       {
-        "string": "Stuss & Alexander (2007): Differenzierte Betrachtung Teilfunktionen",
+        "string": "**Kontroverse**: Anzahl der gestörten Funktionen",
+        "create-time": 1622038769589,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
         "children": [
           {
-            "string": "Patienten mit ausgedehnten frontalen Schädigungen haben ein globales dysexekutives Syndrom",
-            "uid": "K-PurLbAY",
-            "edit-time": 1621857752815,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "aber es gibt effektiv drei exekutive Prozesse innerhalb des Frontallappens",
+            "edit-time": 1622038778122,
             "children": [
               {
-                "string": "Patienten mit selektiven Läsionen zeigen möglicherweise Probleme mit einem einzigen Prozess",
-                "uid": "rpRmUnAUB",
+                "string": "Patienten mit ausgedehnten frontalen Schädigungen haben ein globales dysexekutives Syndrom",
+                "uid": "K-PurLbAY",
                 "edit-time": 1621857752815,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
-              }
-            ],
-            "uid": "-6plz7yVL",
-            "edit-time": 1621857752815,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Aufgabenstellung",
-            "children": [
+              },
               {
-                "string": "Planung linke laterale frontale Region",
-                "uid": "sX9TTcQjP",
-                "edit-time": 1621857752815,
+                "string": "aber es gibt effektiv **drei exekutive Prozesse** innerhalb des Frontallappens --> Patienten mit selektiven Läsionen zeigen möglicherweise Probleme mit einem einzigen Prozess: ",
+                "children": [
+                  {
+                    "string": "Aufgabenstellung (Planung) --> linke laterale frontale Region",
+                    "uid": "OXxmUdR7a",
+                    "edit-time": 1622038881900,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Überwachung (Kontrolle) --> rechte laterale frontale Region",
+                    "uid": "OtsEnM-i4",
+                    "edit-time": 1622038890608,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Energetisierung: Aufrechterhaltung der Aufmerksamkeit & Initiierung von Reaktion --> superiore mediale Regionen des präfrontalen Kortex",
+                    "uid": "L6ZnMb9tZ",
+                    "edit-time": 1622038903168,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "-6plz7yVL",
+                "edit-time": 1622038839062,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               }
             ],
-            "uid": "OXxmUdR7a",
-            "edit-time": 1621857752815,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Überwachung",
-            "children": [
+            "refs": [
               {
-                "string": "Kontrolle rechte laterale frontale Region",
-                "uid": "hJxFk9wDW",
-                "edit-time": 1621857752815,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
+                "uid": "2js24S1Un"
               }
             ],
-            "uid": "OtsEnM-i4",
-            "edit-time": 1621857752815,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Energetisierung",
-            "children": [
+            "uid": "8tug39nan",
+            ":block/refs": [
               {
-                "string": "Aufrechterhaltung der Aufmerksamkeit & Initiierung von Reaktion --> superiore mediale Regionen des präfrontalen Kortex",
-                "uid": "xXfubE2Y4",
-                "edit-time": 1621857800336,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
+                ":block/uid": "2js24S1Un"
               }
             ],
-            "uid": "L6ZnMb9tZ",
-            "edit-time": 1621857752815,
+            "string": "Stuss & Alexander (2007): Differenzierte Betrachtung Teilfunktionen #studie",
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "create-time": 1622038768020,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           }
         ],
-        "uid": "xkWUTLhzW",
-        "edit-time": 1621857752815,
+        "uid": "-2I_fRWTt",
+        "edit-time": 1622038773089,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -8339,9 +8311,33 @@
     },
     "children": [
       {
-        "string": "erklärt, wie das Langzeitgedächtnis die Verarbeitung im Kurzzeitgedächtnis beeinflussen kann",
+        "string": "temporäres Speichersystem",
+        "create-time": 1622038959023,
+        "uid": "keT1plaJk",
+        "edit-time": 1622038959023,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "enthält iIntegriertenformation aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden",
+        "create-time": 1622038959023,
+        "uid": "w9CwecfMQ",
+        "edit-time": 1622038959023,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**erklärt, wie das LZG die Verarbeitung im KZG beeinflussen kann**",
         "uid": "zWsKpaOY9",
-        "edit-time": 1621857822064,
+        "edit-time": 1622038996870,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -8354,25 +8350,15 @@
         },
         "children": [
           {
-            "string": "System mit beschränkter Kapazität",
-            "children": [
-              {
-                "string": "4 Chunks / „Episoden“",
-                "uid": "VnAFB61Gl",
-                "edit-time": 1621857822064,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
+            "string": "System mit beschränkter **Kapazität**: 4 Chunks / „Episoden“",
             "uid": "RH7_AlJCE",
-            "edit-time": 1621857827996,
+            "edit-time": 1622039014873,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "integriert Informationen aus unterschiedlichen Quellen",
+            "string": "integriert Informationen aus unterschiedlichen **Quellen**",
             "children": [
               {
                 "string": "fungiert als Vermittler zwischen der phonologischen Schleife und dem räumlich-visuellen Notizblock",
@@ -8384,16 +8370,16 @@
               }
             ],
             "uid": "wMQh_E0ei",
-            "edit-time": 1621857822064,
+            "edit-time": 1622039025930,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "ein Prozess aktiven Verbindens von Informationen (active binding) ",
+            "string": "ein Prozess aktiven Verbindens von Informationen (active binding, LZG involviert)",
             "create-time": 1621857842046,
             "uid": "on8G0YRF8",
-            "edit-time": 1621857842046,
+            "edit-time": 1622039040064,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -8409,13 +8395,13 @@
         }
       },
       {
-        "string": "Schwächen",
+        "string": "__Schwächen__",
         "children": [
           {
-            "string": "unklar wie alle unterschiedlichen Informationen integriert werden ",
+            "string": "unklar wie unterschiedlichen Informationen integriert werden ",
             "create-time": 1621857848935,
             "uid": "SNKV89jNc",
-            "edit-time": 1621857848935,
+            "edit-time": 1622039084727,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -8424,9 +8410,9 @@
             }
           },
           {
-            "string": "erhöht Flexibilität des Modells – schwerer testbar",
+            "string": "erhöht Flexibilität des Modells – schwerer testbar (geringer empirischer Gehalt)",
             "uid": "SDKd1CJnQ",
-            "edit-time": 1621857848940,
+            "edit-time": 1622039116001,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -8441,7 +8427,7 @@
           }
         ],
         "uid": "fpSJj5Ot0",
-        "edit-time": 1621857842050,
+        "edit-time": 1622039064706,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }

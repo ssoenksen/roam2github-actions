@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid24d1b253-9b12-4166-8e2b-85f812f2e225"
-   536875720]
+   "uuid7680c86a-afb0-4a5a-a94d-116c6559c80f"
+   536875880]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -9366,7 +9366,6 @@
   [1186 :edit/seen-by 3 536874799]
   [1186 :edit/time 1622037344428 536875676]
   [1186 :edit/user 3 536874641]
-  [1188 :block/children 1189 536874671]
   [1188 :block/open true 536874641]
   [1188 :block/order 2 536875635]
   [1188 :block/page 1179 536874648]
@@ -9375,26 +9374,12 @@
   [1188 :block/refs 1252 536874949]
   [1188
    :block/string
-   "[[Räumlich-visueller Notizblock]] (VSSP)"
-   536874948]
+   "[[Räumlich-visueller Notizblock]] (VSSP): spezialisiert auf räumliche und visuelle Kodierung und Verarbeitung"
+   536875729]
   [1188 :block/uid "xQKnbX4IS" 536874641]
   [1188 :edit/seen-by 3 536874947]
-  [1188 :edit/time 1621857504070 536874948]
+  [1188 :edit/time 1622037871336 536875729]
   [1188 :edit/user 3 536874641]
-  [1189 :block/open true 536874641]
-  [1189 :block/order 0 536874671]
-  [1189 :block/page 1179 536874649]
-  [1189 :block/parents 1179 536874649]
-  [1189 :block/parents 1188 536874672]
-  [1189 :block/parents 1396 536875597]
-  [1189
-   :block/string
-   "spezialisiert auf räumliche und visuelle Kodierung und Verarbeitung"
-   536874641]
-  [1189 :block/uid "5AX5gxMeN" 536874641]
-  [1189 :edit/seen-by 3 536874670]
-  [1189 :edit/time 1621856904657 536874641]
-  [1189 :edit/user 3 536874641]
   [1190 :block/open true 536874641]
   [1190 :block/order 0 536874681]
   [1190 :block/page 1179 536874650]
@@ -9776,21 +9761,22 @@
   [1244 :edit/time 1621857439652 536874899]
   [1244 :edit/user 3 536874899]
   [1245 :block/open true 536874899]
-  [1245 :block/order 1 536875716]
+  [1245 :block/order 2 536875723]
   [1245 :block/page 1223 536874903]
   [1245 :block/parents 1223 536874903]
   [1245 :block/parents 1238 536875696]
   [1245 :block/parents 1249 536874927]
+  [1245 :block/refs 1394 536875722]
   [1245
    :block/string
-   "Baddeley et al. (1975, 2002): artikulatorische Unterdrückung beseitigte den Wortlängeneffekt"
-   536875720]
+   "nachgewiesen durch Baddeley et al. (1975, 2002): artikulatorische Unterdrückung beseitigte den Wortlängeneffekt #unklar"
+   536875724]
   [1245 :block/uid "XyL37QiuS" 536874899]
   [1245 :edit/seen-by 3 536874925]
-  [1245 :edit/time 1622037669904 536875720]
+  [1245 :edit/time 1622037824895 536875724]
   [1245 :edit/user 3 536874899]
   [1247 :block/open true 536874899]
-  [1247 :block/order 2 536875716]
+  [1247 :block/order 0 536875723]
   [1247 :block/page 1223 536874905]
   [1247 :block/parents 1223 536874905]
   [1247 :block/parents 1238 536875696]
@@ -9811,11 +9797,11 @@
   [1248 :block/parents 1249 536874946]
   [1248
    :block/string
-   "aber Kritik: Konfundierung durch orthographische Nachbarschaft"
-   536874899]
+   "(aber **Kritik**: Konfundierung durch orthographische Nachbarschaft)"
+   536875728]
   [1248 :block/uid "oOjyzvhs4" 536874899]
   [1248 :edit/seen-by 3 536874944]
-  [1248 :edit/time 1621857439652 536874899]
+  [1248 :edit/time 1622037857414 536875728]
   [1248 :edit/user 3 536874899]
   [1249 :block/children 1245 536874934]
   [1249 :block/children 1247 536874942]
@@ -9838,7 +9824,7 @@
   [1250 :block/children 1244 536874923]
   [1250 :block/children 1251 536874931]
   [1250 :block/open true 536874915]
-  [1250 :block/order 0 536875716]
+  [1250 :block/order 1 536875723]
   [1250 :block/page 1223 536874916]
   [1250 :block/parents 1223 536874916]
   [1250 :block/parents 1238 536875696]
@@ -9866,10 +9852,7 @@
   [1251 :edit/time 1621857469879 536874931]
   [1251 :edit/user 3 536874931]
   [1252 :block/children 1254 536874952]
-  [1252 :block/children 1256 536874952]
-  [1252 :block/children 1264 536874952]
-  [1252 :block/children 1288 536875009]
-  [1252 :block/children 1291 536875064]
+  [1252 :block/children 1404 536875730]
   [1252 :block/open true 536874952]
   [1252 :block/uid "5fYz7zvVT" 536874949]
   [1252 :create/time 1621857504072 536874949]
@@ -9878,64 +9861,48 @@
   [1252 :edit/time 1621857504073 536874949]
   [1252 :edit/user 3 536874949]
   [1252 :node/title "Räumlich-visueller Notizblock" 536874949]
-  [1254 :block/children 1255 536874966]
+  [1254 :block/children 1256 536875739]
+  [1254 :block/children 1286 536875777]
+  [1254 :block/children 1288 536875749]
   [1254 :block/open true 536874952]
-  [1254 :block/order 1 536874952]
+  [1254 :block/order 1 536875735]
   [1254 :block/page 1252 536874953]
   [1254 :block/parents 1252 536874953]
-  [1254 :block/string "Kontroverse" 536874952]
-  [1254 :block/uid "SNC7ULqA6" 536874952]
-  [1254 :edit/time 1621857517655 536874952]
-  [1254 :edit/user 3 536874952]
-  [1255 :block/open true 536874952]
-  [1255 :block/order 0 536874966]
-  [1255 :block/page 1252 536874954]
-  [1255 :block/parents 1252 536874954]
-  [1255 :block/parents 1254 536874967]
-  [1255
+  [1254
    :block/string
-   "Verarbeitung visueller und räumlicher Infos in separaten Systemen?"
-   536874952]
-  [1255 :block/uid "Wp1dg86dm" 536874952]
-  [1255 :edit/seen-by 3 536874965]
-  [1255 :edit/time 1621857517655 536874952]
-  [1255 :edit/user 3 536874952]
+   "**Kontroverse**: Verarbeitung visueller und räumlicher Infos in separaten Systemen?"
+   536875737]
+  [1254 :block/uid "SNC7ULqA6" 536874952]
+  [1254 :edit/seen-by 3 536875733]
+  [1254 :edit/time 1622037898527 536875737]
+  [1254 :edit/user 3 536874952]
   [1256 :block/children 1257 536874969]
   [1256 :block/children 1259 536874977]
   [1256 :block/children 1263 536874989]
   [1256 :block/open true 536874952]
-  [1256 :block/order 2 536874966]
+  [1256 :block/order 0 536875739]
   [1256 :block/page 1252 536874955]
   [1256 :block/parents 1252 536874955]
+  [1256 :block/parents 1254 536875740]
   [1256 :block/string "Logie (1995): separate Subsysteme" 536874952]
   [1256 :block/uid "YKE0TLJ3v" 536874952]
+  [1256 :edit/seen-by 3 536875738]
   [1256 :edit/time 1621857517655 536874952]
   [1256 :edit/user 3 536874952]
-  [1257 :block/children 1258 536874974]
   [1257 :block/open true 536874952]
   [1257 :block/order 0 536874969]
   [1257 :block/page 1252 536874956]
   [1257 :block/parents 1252 536874956]
+  [1257 :block/parents 1254 536875740]
   [1257 :block/parents 1256 536874970]
-  [1257 :block/string "visueller Zwischenspeicher (Puffer)" 536874952]
+  [1257
+   :block/string
+   "**visueller Zwischenspeicher** (Puffer): speichert Information über visuelle Form und Farbe"
+   536875742]
   [1257 :block/uid "juiMvwZuV" 536874952]
   [1257 :edit/seen-by 3 536874968]
-  [1257 :edit/time 1621857517655 536874952]
+  [1257 :edit/time 1622037929496 536875742]
   [1257 :edit/user 3 536874952]
-  [1258 :block/open true 536874952]
-  [1258 :block/order 0 536874974]
-  [1258 :block/page 1252 536874957]
-  [1258 :block/parents 1252 536874957]
-  [1258 :block/parents 1256 536874973]
-  [1258 :block/parents 1257 536874975]
-  [1258
-   :block/string
-   "speichert Information über visuelle Form und Farbe"
-   536874952]
-  [1258 :block/uid "NRejW0GjM" 536874952]
-  [1258 :edit/seen-by 3 536874971]
-  [1258 :edit/time 1621857517655 536874952]
-  [1258 :edit/user 3 536874952]
   [1259 :block/children 1260 536874984]
   [1259 :block/children 1261 536874984]
   [1259 :block/children 1262 536874984]
@@ -9943,16 +9910,18 @@
   [1259 :block/order 1 536874977]
   [1259 :block/page 1252 536874958]
   [1259 :block/parents 1252 536874958]
+  [1259 :block/parents 1254 536875740]
   [1259 :block/parents 1256 536874978]
-  [1259 :block/string "innerer Schreiber" 536874952]
+  [1259 :block/string "**innerer Schreiber**" 536875745]
   [1259 :block/uid "G5EAbJ7Ok" 536874952]
   [1259 :edit/seen-by 3 536874976]
-  [1259 :edit/time 1621857517655 536874952]
+  [1259 :edit/time 1622037936802 536875745]
   [1259 :edit/user 3 536874952]
   [1260 :block/open true 536874952]
   [1260 :block/order 0 536874984]
   [1260 :block/page 1252 536874959]
   [1260 :block/parents 1252 536874959]
+  [1260 :block/parents 1254 536875740]
   [1260 :block/parents 1256 536874981]
   [1260 :block/parents 1259 536874985]
   [1260
@@ -9967,6 +9936,7 @@
   [1261 :block/order 1 536874984]
   [1261 :block/page 1252 536874960]
   [1261 :block/parents 1252 536874960]
+  [1261 :block/parents 1254 536875740]
   [1261 :block/parents 1256 536874982]
   [1261 :block/parents 1259 536874986]
   [1261
@@ -9974,12 +9944,14 @@
    "beteiligt an rehearsal von Information im visuellen Zwischenspeicher"
    536874952]
   [1261 :block/uid "4MyzqIIjO" 536874952]
+  [1261 :edit/seen-by 3 536875746]
   [1261 :edit/time 1621857517655 536874952]
   [1261 :edit/user 3 536874952]
   [1262 :block/open true 536874952]
   [1262 :block/order 2 536874984]
   [1262 :block/page 1252 536874961]
   [1262 :block/parents 1252 536874961]
+  [1262 :block/parents 1254 536875740]
   [1262 :block/parents 1256 536874983]
   [1262 :block/parents 1259 536874987]
   [1262
@@ -9987,47 +9959,42 @@
    "gibt Information aus dem Zwischenspeicher an die zentrale Exekutive weiter"
    536874952]
   [1262 :block/uid "GG1CFyS4M" 536874952]
+  [1262 :edit/seen-by 3 536875753]
   [1262 :edit/time 1621857517655 536874952]
   [1262 :edit/user 3 536874952]
   [1263 :block/open true 536874952]
   [1263 :block/order 2 536874989]
   [1263 :block/page 1252 536874962]
   [1263 :block/parents 1252 536874962]
+  [1263 :block/parents 1254 536875740]
   [1263 :block/parents 1256 536874990]
   [1263
    :block/string
-   "Evidenz: verschiedene Pfade für visuelle und räumliche Informationventraler Pfad vs. dorsaler Pfad"
-   536874952]
+   "Evidenz: verschiedene Pfade für visuelle und räumliche Information --> ventraler Pfad vs. dorsaler Pfad"
+   536875748]
   [1263 :block/uid "pUX6lD3NZ" 536874952]
   [1263 :edit/seen-by 3 536874988]
-  [1263 :edit/time 1621857517655 536874952]
+  [1263 :edit/time 1622037971952 536875748]
   [1263 :edit/user 3 536874952]
-  [1264 :block/open true 536874952]
-  [1264 :block/order 0 536874952]
-  [1264 :block/page 1252 536874963]
-  [1264 :block/parents 1252 536874963]
-  [1264
-   :block/string
-   "verwendet zum temporären Speichern und zur Verarbeitung räumlicher und visueller Information"
-   536874952]
-  [1264 :block/uid "gNalrvnKC" 536874952]
-  [1264 :edit/seen-by 3 536874964]
-  [1264 :edit/time 1621857517655 536874952]
-  [1264 :edit/user 3 536874952]
+  [1278 :block/children 1279 536875754]
+  [1278 :block/children 1280 536875754]
   [1278 :block/open true 536875009]
   [1278 :block/order 0 536875023]
   [1278 :block/page 1252 536875010]
   [1278 :block/parents 1252 536875010]
+  [1278 :block/parents 1254 536875750]
   [1278 :block/parents 1288 536875024]
-  [1278 :block/string "Primäraufgaben" 536875009]
+  [1278 :block/string "Primäraufgaben" 536875758]
   [1278 :block/uid "JxZaORoHj" 536875009]
   [1278 :edit/seen-by 3 536875022]
-  [1278 :edit/time 1621857548725 536875009]
+  [1278 :edit/time 1622038063160 536875758]
   [1278 :edit/user 3 536875009]
   [1279 :block/open true 536875009]
-  [1279 :block/order 1 536875026]
+  [1279 :block/order 0 536875754]
   [1279 :block/page 1252 536875011]
   [1279 :block/parents 1252 536875011]
+  [1279 :block/parents 1254 536875750]
+  [1279 :block/parents 1278 536875755]
   [1279 :block/parents 1288 536875027]
   [1279
    :block/string
@@ -10037,9 +10004,11 @@
   [1279 :edit/time 1621857548725 536875009]
   [1279 :edit/user 3 536875009]
   [1280 :block/open true 536875009]
-  [1280 :block/order 2 536875026]
+  [1280 :block/order 1 536875754]
   [1280 :block/page 1252 536875012]
   [1280 :block/parents 1252 536875012]
+  [1280 :block/parents 1254 536875750]
+  [1280 :block/parents 1278 536875756]
   [1280 :block/parents 1288 536875028]
   [1280
    :block/string
@@ -10053,6 +10022,7 @@
   [1281 :block/order 1 536875038]
   [1281 :block/page 1252 536875013]
   [1281 :block/parents 1252 536875013]
+  [1281 :block/parents 1254 536875750]
   [1281 :block/parents 1288 536875031]
   [1281 :block/parents 1289 536875040]
   [1281 :block/string "Bewegungsdiskriminierungsaufgabe" 536875037]
@@ -10062,14 +10032,18 @@
   [1281 :edit/user 3 536875009]
   [1282 :block/children 1283 536875047]
   [1282 :block/open true 536875009]
-  [1282 :block/order 4 536875030]
+  [1282 :block/order 2 536875754]
   [1282 :block/page 1252 536875014]
   [1282 :block/parents 1252 536875014]
+  [1282 :block/parents 1254 536875750]
   [1282 :block/parents 1288 536875043]
-  [1282 :block/string "Ergebnisse" 536875009]
+  [1282
+   :block/string
+   "**Ergebnisse**: Bestätigt zwei Subsysteme und teilweise Unabhängigkeit"
+   536875772]
   [1282 :block/uid "IcmT4RoJe" 536875009]
   [1282 :edit/seen-by 3 536875041]
-  [1282 :edit/time 1621857548725 536875009]
+  [1282 :edit/time 1622038199351 536875772]
   [1282 :edit/user 3 536875009]
   [1283 :block/children 1284 536875054]
   [1283 :block/children 1285 536875061]
@@ -10077,6 +10051,7 @@
   [1283 :block/order 0 536875047]
   [1283 :block/page 1252 536875015]
   [1283 :block/parents 1252 536875015]
+  [1283 :block/parents 1254 536875750]
   [1283 :block/parents 1282 536875048]
   [1283 :block/parents 1288 536875046]
   [1283 :block/string "Störungen" 536875009]
@@ -10088,78 +10063,77 @@
   [1284 :block/order 0 536875054]
   [1284 :block/page 1252 536875016]
   [1284 :block/parents 1252 536875016]
+  [1284 :block/parents 1254 536875750]
   [1284 :block/parents 1282 536875053]
   [1284 :block/parents 1283 536875055]
   [1284 :block/parents 1288 536875051]
-  [1284 :block/string "Dots – Bewegung" 536875009]
+  [1284
+   :block/string
+   "Dots – Bewegung (2x innerer Schreiber) --> Interferenz"
+   536875762]
   [1284 :block/uid "JwGVrmhWv" 536875009]
   [1284 :edit/seen-by 3 536875049]
-  [1284 :edit/time 1621857548725 536875009]
+  [1284 :edit/time 1622038115136 536875762]
   [1284 :edit/user 3 536875009]
   [1285 :block/open true 536875009]
   [1285 :block/order 1 536875059]
   [1285 :block/page 1252 536875017]
   [1285 :block/parents 1252 536875017]
+  [1285 :block/parents 1254 536875750]
   [1285 :block/parents 1282 536875060]
   [1285 :block/parents 1283 536875062]
   [1285 :block/parents 1288 536875058]
-  [1285 :block/string "Zeichen – Farbe" 536875009]
+  [1285
+   :block/props
+   {:image-size
+    {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef"
+     {:width 219, :height ##NaN}}}
+   536875769]
+  [1285
+   :block/string
+   "Zeichen – Farbe (2x vis. Zwischenspeicher) --> Interferenz ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef)"
+   536875768]
   [1285 :block/uid "_NGS_Tc3A" 536875009]
   [1285 :edit/seen-by 3 536875056]
-  [1285 :edit/time 1621857548725 536875009]
+  [1285 :edit/time 1622038182185 536875768]
   [1285 :edit/user 3 536875009]
-  [1286 :block/children 1287 536875072]
   [1286 :block/open true 536875009]
-  [1286 :block/order 0 536875067]
+  [1286 :block/order 2 536875776]
   [1286 :block/page 1252 536875018]
   [1286 :block/parents 1252 536875018]
-  [1286 :block/parents 1291 536875068]
+  [1286 :block/parents 1254 536875778]
   [1286
    :block/string
-   "aber: viele Aufgaben erfordern beide Komponenten"
-   536875066]
+   "**aber**: viele (komplexe) Aufgaben erfordern beide Komponenten, es ist noch nicht klar, wie Informationen kombiniert und integriert werden"
+   536875781]
   [1286 :block/uid "iplIT7ftu" 536875009]
   [1286 :edit/seen-by 3 536875063]
-  [1286 :edit/time 1621857582140 536875066]
+  [1286 :edit/time 1622038232178 536875781]
   [1286 :edit/user 3 536875009]
-  [1287 :block/open true 536875009]
-  [1287 :block/order 0 536875072]
-  [1287 :block/page 1252 536875019]
-  [1287 :block/parents 1252 536875019]
-  [1287 :block/parents 1286 536875073]
-  [1287 :block/parents 1291 536875071]
-  [1287
-   :block/string
-   "es ist noch nicht klar, wie Informationen kombiniert und integriert werden"
-   536875009]
-  [1287 :block/uid "ndcY4naot" 536875009]
-  [1287 :edit/seen-by 3 536875069]
-  [1287 :edit/time 1621857548725 536875009]
-  [1287 :edit/user 3 536875009]
   [1288 :block/children 1278 536875023]
-  [1288 :block/children 1279 536875026]
-  [1288 :block/children 1280 536875026]
   [1288 :block/children 1282 536875042]
   [1288 :block/children 1289 536875032]
-  [1288 :block/children 1292 536875078]
   [1288 :block/open true 536875009]
-  [1288 :block/order 3 536875009]
+  [1288 :block/order 1 536875749]
   [1288 :block/page 1252 536875020]
   [1288 :block/parents 1252 536875020]
+  [1288 :block/parents 1254 536875750]
+  [1288 :block/refs 1395 536875752]
   [1288
    :block/string
-   "Empirische Studie Klauer & Zhao (2004): Zwei Subsysteme?"
-   536875009]
+   "Empirische Studie Klauer & Zhao (2004): Zwei Subsysteme? #studie"
+   536875751]
   [1288 :block/uid "6rmYF-b2y" 536875009]
   [1288 :edit/seen-by 3 536875021]
-  [1288 :edit/time 1621857548725 536875009]
+  [1288 :edit/time 1622037992472 536875751]
   [1288 :edit/user 3 536875009]
   [1289 :block/children 1281 536875038]
   [1289 :block/children 1290 536875038]
   [1289 :block/open true 536875032]
-  [1289 :block/order 3 536875032]
+  [1289 :block/order 1 536875754]
   [1289 :block/page 1252 536875033]
   [1289 :block/parents 1252 536875033]
+  [1289 :block/parents 1254 536875750]
   [1289 :block/parents 1288 536875033]
   [1289 :block/string "Sekundäraufgaben " 536875032]
   [1289 :block/uid "jf2kdwHID" 536875032]
@@ -10171,6 +10145,7 @@
   [1290 :block/order 0 536875038]
   [1290 :block/page 1252 536875036]
   [1290 :block/parents 1252 536875036]
+  [1290 :block/parents 1254 536875750]
   [1290 :block/parents 1288 536875036]
   [1290 :block/parents 1289 536875039]
   [1290 :block/string "Farbdiskriminierungsaufgabe " 536875035]
@@ -10179,43 +10154,13 @@
   [1290 :create/user 3 536875035]
   [1290 :edit/time 1621857565394 536875035]
   [1290 :edit/user 3 536875035]
-  [1291 :block/children 1286 536875067]
-  [1291 :block/open true 536875064]
-  [1291 :block/order 4 536875064]
-  [1291 :block/page 1252 536875065]
-  [1291 :block/parents 1252 536875065]
-  [1291
-   :block/string
-   "Befunde für teilweise Unabhängigkeit "
-   536875064]
-  [1291 :block/uid "phFmfzJJw" 536875064]
-  [1291 :create/time 1621857582137 536875064]
-  [1291 :create/user 3 536875064]
-  [1291 :edit/time 1621857582137 536875064]
-  [1291 :edit/user 3 536875064]
-  [1292 :block/open true 536875074]
-  [1292 :block/order 5 536875078]
-  [1292 :block/page 1252 536875075]
-  [1292 :block/parents 1252 536875075]
-  [1292 :block/parents 1288 536875075]
-  [1292
-   :block/props
-   {:image-size
-    {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef"
-     {:width 250, :height ##NaN}}}
-   536875081]
-  [1292
-   :block/string
-   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef)"
-   536875080]
-  [1292 :block/uid "vX9Zwud4w" 536875074]
-  [1292 :create/time 1621857602235 536875074]
-  [1292 :create/user 3 536875074]
-  [1292 :edit/time 1621857606284 536875080]
-  [1292 :edit/user 3 536875074]
   [1293 :block/children 1299 536875087]
-  [1293 :block/children 1300 536875098]
+  [1293 :block/children 1300 536875799]
   [1293 :block/children 1310 536875130]
+  [1293 :block/children 1406 536875784]
+  [1293 :block/children 1407 536875784]
+  [1293 :block/children 1408 536875784]
+  [1293 :block/children 1409 536875784]
   [1293 :block/open true 536875087]
   [1293 :block/uid "-SUg_SPnX" 536875084]
   [1293 :create/time 1621857628157 536875084]
@@ -10231,11 +10176,11 @@
   [1295 :block/parents 1299 536875096]
   [1295
    :block/string
-   "rTMS des dorsolateralen präfrontalen Kortex (DLPFC; BA 9, 10, 46) stört komplexe kognitive Prozesse (Mottaghy, 2006)"
-   536875087]
+   "rTMS des dorsolateralen präfrontalen Kortex (DLPFC; BA 9, 10, 46) stört komplexe kognitive Prozesse (Mottaghy, 2006) ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2Fy1hYggB6fI.png?alt=media&token=5865a3ef-6f26-4fb7-bce2-a8e98aa1e4ac)"
+   536875796]
   [1295 :block/uid "7i7272wW2" 536875087]
   [1295 :edit/seen-by 3 536875094]
-  [1295 :edit/time 1621857634225 536875087]
+  [1295 :edit/time 1622038591489 536875796]
   [1295 :edit/user 3 536875087]
   [1296 :block/open true 536875087]
   [1296 :block/order 0 536875101]
@@ -10277,25 +10222,24 @@
   [1298 :edit/time 1621857634225 536875127]
   [1298 :edit/user 3 536875087]
   [1299 :block/children 1295 536875095]
-  [1299 :block/children 1308 536875121]
   [1299 :block/open true 536875087]
-  [1299 :block/order 0 536875087]
+  [1299 :block/order 5 536875801]
   [1299 :block/page 1293 536875092]
   [1299 :block/parents 1293 536875092]
   [1299
    :block/string
-   "Lokalisierung in Frontallappen wird angenommen"
-   536875087]
+   "**Gehirnareal**: Frontallappen wird angenommen"
+   536875792]
   [1299 :block/uid "JxkCtCEEk" 536875087]
   [1299 :edit/seen-by 3 536875093]
-  [1299 :edit/time 1621857634225 536875087]
+  [1299 :edit/time 1622038390867 536875792]
   [1299 :edit/user 3 536875087]
   [1300 :block/children 1296 536875101]
   [1300 :block/children 1297 536875104]
   [1300 :block/children 1298 536875110]
   [1300 :block/children 1301 536875106]
   [1300 :block/open true 536875098]
-  [1300 :block/order 1 536875098]
+  [1300 :block/order 4 536875801]
   [1300 :block/page 1293 536875099]
   [1300 :block/parents 1293 536875099]
   [1300
@@ -10321,28 +10265,8 @@
   [1301 :create/user 3 536875106]
   [1301 :edit/time 1621857648708 536875106]
   [1301 :edit/user 3 536875106]
-  [1308 :block/open true 536875121]
-  [1308 :block/order 1 536875121]
-  [1308 :block/page 1293 536875121]
-  [1308 :block/parents 1293 536875121]
-  [1308 :block/parents 1299 536875121]
-  [1308
-   :block/props
-   {:image-size
-    {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2Fy1hYggB6fI.png?alt=media&token=5865a3ef-6f26-4fb7-bce2-a8e98aa1e4ac"
-     {:width 215, :height ##NaN}}}
-   536875123]
-  [1308
-   :block/string
-   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2Fy1hYggB6fI.png?alt=media&token=5865a3ef-6f26-4fb7-bce2-a8e98aa1e4ac)"
-   536875122]
-  [1308 :block/uid "JvEilrAbj" 536875121]
-  [1308 :create/time 1621857663090 536875121]
-  [1308 :create/user 3 536875121]
-  [1308 :edit/time 1621857676734 536875122]
-  [1308 :edit/user 3 536875121]
   [1310 :block/open true 536875128]
-  [1310 :block/order 2 536875130]
+  [1310 :block/order 6 536875799]
   [1310 :block/page 1293 536875129]
   [1310 :block/parents 1293 536875129]
   [1310 :block/refs 1311 536875133]
@@ -10355,7 +10279,7 @@
   [1311 :block/children 1316 536875136]
   [1311 :block/children 1318 536875136]
   [1311 :block/children 1319 536875154]
-  [1311 :block/children 1332 536875174]
+  [1311 :block/children 1411 536875817]
   [1311 :block/open true 536875136]
   [1311 :block/uid "54INV6FIc" 536875133]
   [1311 :create/time 1621857713490 536875133]
@@ -10394,39 +10318,30 @@
   [1315 :edit/seen-by 3 536875161]
   [1315 :edit/time 1621857740446 536875166]
   [1315 :edit/user 3 536875136]
-  [1316 :block/children 1317 536875168]
   [1316 :block/open true 536875136]
   [1316 :block/order 2 536875162]
   [1316 :block/page 1311 536875140]
   [1316 :block/parents 1311 536875140]
-  [1316 :block/string "Oft Schädigung des Frontallappens" 536875136]
-  [1316 :block/uid "FsvUeL6TY" 536875136]
-  [1316 :edit/time 1621857720155 536875136]
-  [1316 :edit/user 3 536875136]
-  [1317 :block/open true 536875136]
-  [1317 :block/order 0 536875168]
-  [1317 :block/page 1311 536875141]
-  [1317 :block/parents 1311 536875141]
-  [1317 :block/parents 1316 536875169]
-  [1317
+  [1316
    :block/string
-   "einige Patienten stattdessen Schädigung posteriorer / parietaler Regionen"
-   536875136]
-  [1317 :block/uid "Xn-5BFzQD" 536875136]
-  [1317 :edit/seen-by 3 536875167]
-  [1317 :edit/time 1621857720155 536875136]
-  [1317 :edit/user 3 536875136]
+   "Oft Schädigung des Frontallappens, einige Patienten stattdessen Schädigung posteriorer / parietaler Regionen"
+   536875808]
+  [1316 :block/uid "FsvUeL6TY" 536875136]
+  [1316 :edit/seen-by 3 536875807]
+  [1316 :edit/time 1622038724177 536875808]
+  [1316 :edit/user 3 536875136]
   [1318 :block/open true 536875136]
   [1318 :block/order 0 536875136]
   [1318 :block/page 1311 536875142]
   [1318 :block/parents 1311 536875142]
+  [1318 :block/refs 1293 536875805]
   [1318
    :block/string
-   "Zustand der Schädigung des Frontallappens, der zur Störung der zentralen Exekutive des Arbeitsgedächtnisses führt"
-   536875136]
+   "Zustand der Schädigung des Frontallappens, der zur Störung der [[Zentrale Exekutive]] führt"
+   536875806]
   [1318 :block/uid "60rc6TTdc" 536875136]
   [1318 :edit/seen-by 3 536875143]
-  [1318 :edit/time 1621857720155 536875136]
+  [1318 :edit/time 1622038678323 536875806]
   [1318 :edit/user 3 536875136]
   [1319 :block/children 1313 536875157]
   [1319 :block/children 1314 536875159]
@@ -10460,7 +10375,8 @@
   [1323 :block/order 0 536875190]
   [1323 :block/page 1311 536875176]
   [1323 :block/parents 1311 536875176]
-  [1323 :block/parents 1332 536875191]
+  [1323 :block/parents 1410 536875812]
+  [1323 :block/parents 1411 536875821]
   [1323
    :block/string
    "Patienten mit ausgedehnten frontalen Schädigungen haben ein globales dysexekutives Syndrom"
@@ -10469,129 +10385,74 @@
   [1323 :edit/seen-by 3 536875189]
   [1323 :edit/time 1621857752815 536875174]
   [1323 :edit/user 3 536875174]
-  [1324 :block/children 1325 536875198]
+  [1324 :block/children 1326 536875827]
+  [1324 :block/children 1328 536875829]
+  [1324 :block/children 1330 536875831]
   [1324 :block/open true 536875174]
   [1324 :block/order 1 536875193]
   [1324 :block/page 1311 536875177]
   [1324 :block/parents 1311 536875177]
-  [1324 :block/parents 1332 536875194]
+  [1324 :block/parents 1410 536875813]
+  [1324 :block/parents 1411 536875821]
   [1324
    :block/string
-   "aber es gibt effektiv drei exekutive Prozesse innerhalb des Frontallappens"
-   536875174]
+   "aber es gibt effektiv **drei exekutive Prozesse** innerhalb des Frontallappens --> Patienten mit selektiven Läsionen zeigen möglicherweise Probleme mit einem einzigen Prozess: "
+   536875833]
   [1324 :block/uid "-6plz7yVL" 536875174]
+  [1324 :children/view-type :numbered 536875834]
   [1324 :edit/seen-by 3 536875192]
-  [1324 :edit/time 1621857752815 536875174]
+  [1324 :edit/time 1622038839062 536875833]
   [1324 :edit/user 3 536875174]
-  [1325 :block/open true 536875174]
-  [1325 :block/order 0 536875198]
-  [1325 :block/page 1311 536875178]
-  [1325 :block/parents 1311 536875178]
-  [1325 :block/parents 1324 536875199]
-  [1325 :block/parents 1332 536875197]
-  [1325
-   :block/string
-   "Patienten mit selektiven Läsionen zeigen möglicherweise Probleme mit einem einzigen Prozess"
-   536875174]
-  [1325 :block/uid "rpRmUnAUB" 536875174]
-  [1325 :edit/seen-by 3 536875195]
-  [1325 :edit/time 1621857752815 536875174]
-  [1325 :edit/user 3 536875174]
-  [1326 :block/children 1327 536875210]
   [1326 :block/open true 536875174]
-  [1326 :block/order 2 536875205]
+  [1326 :block/order 0 536875827]
   [1326 :block/page 1311 536875179]
   [1326 :block/parents 1311 536875179]
-  [1326 :block/parents 1332 536875206]
-  [1326 :block/string "Aufgabenstellung" 536875174]
+  [1326 :block/parents 1324 536875828]
+  [1326 :block/parents 1410 536875814]
+  [1326 :block/parents 1411 536875821]
+  [1326
+   :block/string
+   "Aufgabenstellung (Planung) --> linke laterale frontale Region"
+   536875841]
   [1326 :block/uid "OXxmUdR7a" 536875174]
   [1326 :edit/seen-by 3 536875200]
-  [1326 :edit/time 1621857752815 536875174]
+  [1326 :edit/time 1622038881900 536875841]
   [1326 :edit/user 3 536875174]
-  [1327 :block/open true 536875174]
-  [1327 :block/order 0 536875210]
-  [1327 :block/page 1311 536875180]
-  [1327 :block/parents 1311 536875180]
-  [1327 :block/parents 1326 536875211]
-  [1327 :block/parents 1332 536875209]
-  [1327
-   :block/string
-   "Planung linke laterale frontale Region"
-   536875174]
-  [1327 :block/uid "sX9TTcQjP" 536875174]
-  [1327 :edit/seen-by 3 536875207]
-  [1327 :edit/time 1621857752815 536875174]
-  [1327 :edit/user 3 536875174]
-  [1328 :block/children 1329 536875218]
   [1328 :block/open true 536875174]
-  [1328 :block/order 3 536875213]
+  [1328 :block/order 1 536875829]
   [1328 :block/page 1311 536875181]
   [1328 :block/parents 1311 536875181]
-  [1328 :block/parents 1332 536875214]
-  [1328 :block/string "Überwachung" 536875174]
+  [1328 :block/parents 1324 536875830]
+  [1328 :block/parents 1410 536875815]
+  [1328 :block/parents 1411 536875821]
+  [1328
+   :block/string
+   "Überwachung (Kontrolle) --> rechte laterale frontale Region"
+   536875844]
   [1328 :block/uid "OtsEnM-i4" 536875174]
   [1328 :edit/seen-by 3 536875212]
-  [1328 :edit/time 1621857752815 536875174]
+  [1328 :edit/time 1622038890608 536875844]
   [1328 :edit/user 3 536875174]
-  [1329 :block/open true 536875174]
-  [1329 :block/order 0 536875218]
-  [1329 :block/page 1311 536875182]
-  [1329 :block/parents 1311 536875182]
-  [1329 :block/parents 1328 536875219]
-  [1329 :block/parents 1332 536875217]
-  [1329
-   :block/string
-   "Kontrolle rechte laterale frontale Region"
-   536875174]
-  [1329 :block/uid "hJxFk9wDW" 536875174]
-  [1329 :edit/seen-by 3 536875215]
-  [1329 :edit/time 1621857752815 536875174]
-  [1329 :edit/user 3 536875174]
-  [1330 :block/children 1331 536875226]
   [1330 :block/open true 536875174]
-  [1330 :block/order 4 536875216]
+  [1330 :block/order 2 536875829]
   [1330 :block/page 1311 536875183]
   [1330 :block/parents 1311 536875183]
-  [1330 :block/parents 1332 536875222]
-  [1330 :block/string "Energetisierung" 536875174]
+  [1330 :block/parents 1324 536875832]
+  [1330 :block/parents 1410 536875816]
+  [1330 :block/parents 1411 536875821]
+  [1330
+   :block/string
+   "Energetisierung: Aufrechterhaltung der Aufmerksamkeit & Initiierung von Reaktion --> superiore mediale Regionen des präfrontalen Kortex"
+   536875847]
   [1330 :block/uid "L6ZnMb9tZ" 536875174]
   [1330 :edit/seen-by 3 536875220]
-  [1330 :edit/time 1621857752815 536875174]
+  [1330 :edit/time 1622038903168 536875847]
   [1330 :edit/user 3 536875174]
-  [1331 :block/open true 536875174]
-  [1331 :block/order 0 536875226]
-  [1331 :block/page 1311 536875184]
-  [1331 :block/parents 1311 536875184]
-  [1331 :block/parents 1330 536875227]
-  [1331 :block/parents 1332 536875225]
-  [1331
-   :block/string
-   "Aufrechterhaltung der Aufmerksamkeit & Initiierung von Reaktion --> superiore mediale Regionen des präfrontalen Kortex"
-   536875228]
-  [1331 :block/uid "xXfubE2Y4" 536875174]
-  [1331 :edit/seen-by 3 536875223]
-  [1331 :edit/time 1621857800336 536875228]
-  [1331 :edit/user 3 536875174]
-  [1332 :block/children 1323 536875190]
-  [1332 :block/children 1324 536875193]
-  [1332 :block/children 1326 536875205]
-  [1332 :block/children 1328 536875213]
-  [1332 :block/children 1330 536875221]
-  [1332 :block/open true 536875174]
-  [1332 :block/order 3 536875174]
-  [1332 :block/page 1311 536875185]
-  [1332 :block/parents 1311 536875185]
-  [1332
-   :block/string
-   "Stuss & Alexander (2007): Differenzierte Betrachtung Teilfunktionen"
-   536875174]
-  [1332 :block/uid "xkWUTLhzW" 536875174]
-  [1332 :edit/seen-by 3 536875186]
-  [1332 :edit/time 1621857752815 536875174]
-  [1332 :edit/user 3 536875174]
   [1333 :block/children 1339 536875268]
   [1333 :block/children 1342 536875233]
   [1333 :block/children 1343 536875244]
+  [1333 :block/children 1413 536875850]
+  [1333 :block/children 1414 536875850]
   [1333 :block/open true 536875233]
   [1333 :block/uid "8X-7iSrVW" 536875230]
   [1333 :create/time 1621857814127 536875230]
@@ -10600,28 +10461,19 @@
   [1333 :edit/time 1621857814128 536875230]
   [1333 :edit/user 3 536875230]
   [1333 :node/title "Episodischer Puffer" 536875230]
-  [1335 :block/children 1336 536875252]
   [1335 :block/open true 536875233]
   [1335 :block/order 0 536875247]
   [1335 :block/page 1333 536875234]
   [1335 :block/parents 1333 536875234]
   [1335 :block/parents 1343 536875248]
-  [1335 :block/string "System mit beschränkter Kapazität" 536875246]
+  [1335
+   :block/string
+   "System mit beschränkter **Kapazität**: 4 Chunks / „Episoden“"
+   536875862]
   [1335 :block/uid "RH7_AlJCE" 536875233]
   [1335 :edit/seen-by 3 536875243]
-  [1335 :edit/time 1621857827996 536875246]
+  [1335 :edit/time 1622039014873 536875862]
   [1335 :edit/user 3 536875233]
-  [1336 :block/open true 536875233]
-  [1336 :block/order 0 536875252]
-  [1336 :block/page 1333 536875235]
-  [1336 :block/parents 1333 536875235]
-  [1336 :block/parents 1335 536875253]
-  [1336 :block/parents 1343 536875251]
-  [1336 :block/string "4 Chunks / „Episoden“" 536875233]
-  [1336 :block/uid "VnAFB61Gl" 536875233]
-  [1336 :edit/seen-by 3 536875249]
-  [1336 :edit/time 1621857822064 536875233]
-  [1336 :edit/user 3 536875233]
   [1337 :block/children 1338 536875260]
   [1337 :block/open true 536875233]
   [1337 :block/order 1 536875255]
@@ -10630,11 +10482,11 @@
   [1337 :block/parents 1343 536875256]
   [1337
    :block/string
-   "integriert Informationen aus unterschiedlichen Quellen"
-   536875233]
+   "integriert Informationen aus unterschiedlichen **Quellen**"
+   536875863]
   [1337 :block/uid "wMQh_E0ei" 536875233]
   [1337 :edit/seen-by 3 536875254]
-  [1337 :edit/time 1621857822064 536875233]
+  [1337 :edit/time 1622039025930 536875863]
   [1337 :edit/user 3 536875233]
   [1338 :block/open true 536875233]
   [1338 :block/order 0 536875260]
@@ -10654,13 +10506,13 @@
   [1339 :block/children 1341 536875277]
   [1339 :block/children 1345 536875273]
   [1339 :block/open true 536875233]
-  [1339 :block/order 2 536875268]
+  [1339 :block/order 4 536875850]
   [1339 :block/page 1333 536875238]
   [1339 :block/parents 1333 536875238]
-  [1339 :block/string "Schwächen" 536875267]
+  [1339 :block/string "__Schwächen__" 536875866]
   [1339 :block/uid "fpSJj5Ot0" 536875233]
   [1339 :edit/seen-by 3 536875262]
-  [1339 :edit/time 1621857842050 536875267]
+  [1339 :edit/time 1622039064706 536875866]
   [1339 :edit/user 3 536875233]
   [1340 :block/open true 536875233]
   [1340 :block/order 1 536875273]
@@ -10669,11 +10521,11 @@
   [1340 :block/parents 1339 536875272]
   [1340
    :block/string
-   "erhöht Flexibilität des Modells – schwerer testbar"
-   536875275]
+   "erhöht Flexibilität des Modells – schwerer testbar (geringer empirischer Gehalt)"
+   536875868]
   [1340 :block/uid "SDKd1CJnQ" 536875233]
   [1340 :edit/seen-by 3 536875270]
-  [1340 :edit/time 1621857848940 536875275]
+  [1340 :edit/time 1622039116001 536875868]
   [1340 :edit/user 3 536875233]
   [1341 :block/open true 536875233]
   [1341 :block/order 2 536875277]
@@ -10689,22 +10541,22 @@
   [1341 :edit/time 1621857822064 536875233]
   [1341 :edit/user 3 536875233]
   [1342 :block/open true 536875233]
-  [1342 :block/order 0 536875233]
+  [1342 :block/order 2 536875850]
   [1342 :block/page 1333 536875241]
   [1342 :block/parents 1333 536875241]
   [1342
    :block/string
-   "erklärt, wie das Langzeitgedächtnis die Verarbeitung im Kurzzeitgedächtnis beeinflussen kann"
-   536875233]
+   "**erklärt, wie das LZG die Verarbeitung im KZG beeinflussen kann**"
+   536875860]
   [1342 :block/uid "zWsKpaOY9" 536875233]
   [1342 :edit/seen-by 3 536875242]
-  [1342 :edit/time 1621857822064 536875233]
+  [1342 :edit/time 1622038996870 536875860]
   [1342 :edit/user 3 536875233]
   [1343 :block/children 1335 536875247]
   [1343 :block/children 1337 536875255]
   [1343 :block/children 1344 536875265]
   [1343 :block/open true 536875244]
-  [1343 :block/order 1 536875244]
+  [1343 :block/order 3 536875850]
   [1343 :block/page 1333 536875245]
   [1343 :block/parents 1333 536875245]
   [1343
@@ -10723,12 +10575,12 @@
   [1344 :block/parents 1343 536875266]
   [1344
    :block/string
-   "ein Prozess aktiven Verbindens von Informationen (active binding) "
-   536875265]
+   "ein Prozess aktiven Verbindens von Informationen (active binding, LZG involviert)"
+   536875865]
   [1344 :block/uid "on8G0YRF8" 536875265]
   [1344 :create/time 1621857842046 536875265]
   [1344 :create/user 3 536875265]
-  [1344 :edit/time 1621857842046 536875265]
+  [1344 :edit/time 1622039040064 536875865]
   [1344 :edit/user 3 536875265]
   [1345 :block/open true 536875273]
   [1345 :block/order 0 536875273]
@@ -10737,36 +10589,18 @@
   [1345 :block/parents 1339 536875274]
   [1345
    :block/string
-   "unklar wie alle unterschiedlichen Informationen integriert werden "
-   536875273]
+   "unklar wie unterschiedlichen Informationen integriert werden "
+   536875867]
   [1345 :block/uid "SNKV89jNc" 536875273]
   [1345 :create/time 1621857848935 536875273]
   [1345 :create/user 3 536875273]
-  [1345 :edit/time 1621857848935 536875273]
+  [1345 :edit/time 1622039084727 536875867]
   [1345 :edit/user 3 536875273]
-  [1347 :block/children 1348 536875305]
-  [1347 :block/children 1349 536875315]
-  [1347 :block/children 1354 536875307]
-  [1347 :block/open true 536875284]
-  [1347 :block/order 0 536875298]
-  [1347 :block/page 1179 536875285]
-  [1347 :block/parents 1179 536875285]
-  [1347 :block/parents 1221 536875297]
-  [1347 :block/parents 1353 536875299]
-  [1347
-   :block/string
-   "einflussreiche Erweiterung des Mehrspeichermodells von Atkinson und Shiffrin (1968)"
-   536875284]
-  [1347 :block/uid "w9LhdHj5c" 536875284]
-  [1347 :edit/seen-by 3 536875295]
-  [1347 :edit/time 1621857871721 536875284]
-  [1347 :edit/user 3 536875284]
   [1348 :block/open true 536875284]
-  [1348 :block/order 1 536875307]
+  [1348 :block/order 1 536875879]
   [1348 :block/page 1179 536875286]
   [1348 :block/parents 1179 536875286]
   [1348 :block/parents 1221 536875302]
-  [1348 :block/parents 1347 536875306]
   [1348 :block/parents 1353 536875304]
   [1348
    :block/string
@@ -10777,11 +10611,10 @@
   [1348 :edit/time 1621857879850 536875309]
   [1348 :edit/user 3 536875284]
   [1349 :block/open true 536875284]
-  [1349 :block/order 2 536875315]
+  [1349 :block/order 2 536875879]
   [1349 :block/page 1179 536875287]
   [1349 :block/parents 1179 536875287]
   [1349 :block/parents 1221 536875312]
-  [1349 :block/parents 1347 536875316]
   [1349 :block/parents 1353 536875314]
   [1349
    :block/string
@@ -10832,23 +10665,28 @@
   [1352 :edit/seen-by 3 536875325]
   [1352 :edit/time 1621857893998 536875332]
   [1352 :edit/user 3 536875284]
-  [1353 :block/children 1347 536875298]
+  [1353 :block/children 1348 536875875]
+  [1353 :block/children 1349 536875875]
+  [1353 :block/children 1354 536875875]
   [1353 :block/open true 536875284]
   [1353 :block/order 0 536875293]
   [1353 :block/page 1179 536875291]
   [1353 :block/parents 1179 536875291]
   [1353 :block/parents 1221 536875294]
-  [1353 :block/string "Stärken" 536875284]
+  [1353 :block/refs 1080 536875880]
+  [1353
+   :block/string
+   "Stärken: einflussreiche Erweiterung des [[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]]"
+   536875879]
   [1353 :block/uid "gB6K2InDD" 536875284]
   [1353 :edit/seen-by 3 536875292]
-  [1353 :edit/time 1621857871721 536875284]
+  [1353 :edit/time 1622039204908 536875879]
   [1353 :edit/user 3 536875284]
   [1354 :block/open true 536875307]
-  [1354 :block/order 0 536875307]
+  [1354 :block/order 0 536875879]
   [1354 :block/page 1179 536875308]
   [1354 :block/parents 1179 536875308]
   [1354 :block/parents 1221 536875308]
-  [1354 :block/parents 1347 536875308]
   [1354 :block/parents 1353 536875308]
   [1354
    :block/string
@@ -11369,4 +11207,120 @@
   [1402 :create/time 1622037331912 536875673]
   [1402 :create/user 3 536875673]
   [1402 :edit/time 1622037333165 536875675]
-  [1402 :edit/user 3 536875673]]}
+  [1402 :edit/user 3 536875673]
+  [1404 :block/open true 536875730]
+  [1404 :block/order 0 536875730]
+  [1404 :block/page 1252 536875731]
+  [1404 :block/parents 1252 536875731]
+  [1404
+   :block/string
+   "verwendet zum temporären Speichern und zur Verarbeitung räumlicher und visueller Information"
+   536875735]
+  [1404 :block/uid "jsa5Ewajv" 536875730]
+  [1404 :create/time 1622037876947 536875730]
+  [1404 :create/user 3 536875730]
+  [1404 :edit/time 1622037888694 536875735]
+  [1404 :edit/user 3 536875730]
+  [1406 :block/open true 536875784]
+  [1406 :block/order 1 536875784]
+  [1406 :block/page 1293 536875785]
+  [1406 :block/parents 1293 536875785]
+  [1406
+   :block/string
+   "aktiviert bei Bearbeitung aller kognitiv anspruchsvollen Aufgaben "
+   536875784]
+  [1406 :block/uid "GjrHzKECD" 536875784]
+  [1406 :create/time 1622038368125 536875784]
+  [1406 :create/user 3 536875784]
+  [1406 :edit/time 1622038368125 536875784]
+  [1406 :edit/user 3 536875784]
+  [1407 :block/open true 536875784]
+  [1407 :block/order 2 536875784]
+  [1407 :block/page 1293 536875786]
+  [1407 :block/parents 1293 536875786]
+  [1407 :block/string "ähnelt Aufmerksamkeit" 536875784]
+  [1407 :block/uid "KqjJmqDnl" 536875784]
+  [1407 :create/time 1622038368125 536875784]
+  [1407 :create/user 3 536875784]
+  [1407 :edit/time 1622038368125 536875784]
+  [1407 :edit/user 3 536875784]
+  [1408 :block/open true 536875784]
+  [1408 :block/order 3 536875784]
+  [1408 :block/page 1293 536875787]
+  [1408 :block/parents 1293 536875787]
+  [1408
+   :block/string
+   "verwendet Untersysteme (s.u.), v.a. episodischen Puffer"
+   536875784]
+  [1408 :block/uid "G7BboKUdz" 536875784]
+  [1408 :create/time 1622038368125 536875784]
+  [1408 :create/user 3 536875784]
+  [1408 :edit/time 1622038368125 536875784]
+  [1408 :edit/user 3 536875784]
+  [1409 :block/open true 536875784]
+  [1409 :block/order 0 536875784]
+  [1409 :block/page 1293 536875788]
+  [1409 :block/parents 1293 536875788]
+  [1409
+   :block/string
+   "modalitätsfreie zentrale Steuereinheit / Leitung"
+   536875784]
+  [1409 :block/uid "W5D7Tr489" 536875784]
+  [1409 :create/time 1622038368125 536875784]
+  [1409 :create/user 3 536875784]
+  [1409 :edit/time 1622038368125 536875784]
+  [1409 :edit/user 3 536875784]
+  [1410 :block/children 1323 536875811]
+  [1410 :block/children 1324 536875811]
+  [1410 :block/open true 536875809]
+  [1410 :block/order 0 536875820]
+  [1410 :block/page 1311 536875810]
+  [1410 :block/parents 1311 536875810]
+  [1410 :block/parents 1411 536875821]
+  [1410 :block/refs 1395 536875824]
+  [1410
+   :block/string
+   "Stuss & Alexander (2007): Differenzierte Betrachtung Teilfunktionen #studie"
+   536875823]
+  [1410 :block/uid "8tug39nan" 536875809]
+  [1410 :create/time 1622038768020 536875809]
+  [1410 :create/user 3 536875809]
+  [1410 :edit/time 1622038778122 536875823]
+  [1410 :edit/user 3 536875809]
+  [1411 :block/children 1410 536875820]
+  [1411 :block/open true 536875817]
+  [1411 :block/order 3 536875817]
+  [1411 :block/page 1311 536875818]
+  [1411 :block/parents 1311 536875818]
+  [1411
+   :block/string
+   "**Kontroverse**: Anzahl der gestörten Funktionen"
+   536875822]
+  [1411 :block/uid "-2I_fRWTt" 536875817]
+  [1411 :create/time 1622038769589 536875817]
+  [1411 :create/user 3 536875817]
+  [1411 :edit/time 1622038773089 536875822]
+  [1411 :edit/user 3 536875817]
+  [1413 :block/open true 536875850]
+  [1413 :block/order 1 536875850]
+  [1413 :block/page 1333 536875851]
+  [1413 :block/parents 1333 536875851]
+  [1413
+   :block/string
+   "enthält iIntegriertenformation aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden"
+   536875850]
+  [1413 :block/uid "w9CwecfMQ" 536875850]
+  [1413 :create/time 1622038959023 536875850]
+  [1413 :create/user 3 536875850]
+  [1413 :edit/time 1622038959023 536875850]
+  [1413 :edit/user 3 536875850]
+  [1414 :block/open true 536875850]
+  [1414 :block/order 0 536875850]
+  [1414 :block/page 1333 536875852]
+  [1414 :block/parents 1333 536875852]
+  [1414 :block/string "temporäres Speichersystem" 536875850]
+  [1414 :block/uid "keT1plaJk" 536875850]
+  [1414 :create/time 1622038959023 536875850]
+  [1414 :create/user 3 536875850]
+  [1414 :edit/time 1622038959023 536875850]
+  [1414 :edit/user 3 536875850]]}

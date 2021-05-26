@@ -1,11 +1,12 @@
-- erklärt, wie das Langzeitgedächtnis die Verarbeitung im Kurzzeitgedächtnis beeinflussen kann
+- temporäres Speichersystem
+- enthält iIntegriertenformation aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden
+- **erklärt, wie das LZG die Verarbeitung im KZG beeinflussen kann**
 - Episodischer Puffer (Baddeley & Wilson, 2002) 
-    - System mit beschränkter Kapazität
-        - 4 Chunks / „Episoden“
-    - integriert Informationen aus unterschiedlichen Quellen
+    - System mit beschränkter **Kapazität**: 4 Chunks / „Episoden“
+    - integriert Informationen aus unterschiedlichen **Quellen**
         - fungiert als Vermittler zwischen der phonologischen Schleife und dem räumlich-visuellen Notizblock
-    - ein Prozess aktiven Verbindens von Informationen (active binding) 
-- Schwächen
-    - unklar wie alle unterschiedlichen Informationen integriert werden 
-    - erhöht Flexibilität des Modells – schwerer testbar
+    - ein Prozess aktiven Verbindens von Informationen (active binding, LZG involviert)
+- __Schwächen__
+    - unklar wie unterschiedlichen Informationen integriert werden 
+    - erhöht Flexibilität des Modells – schwerer testbar (geringer empirischer Gehalt)
     - Annahme der zusätzlichen Integration von Informationen anderer Modalitäten nicht geprüft (z.B. Geruch, Geschmack)

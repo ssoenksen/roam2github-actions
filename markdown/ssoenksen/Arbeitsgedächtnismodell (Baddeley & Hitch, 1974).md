@@ -6,8 +6,7 @@
         - ähnelt Aufmerksamkeit
         - verwendet Untersysteme (s.u.), v.a. episodischen Puffer
     - [[Phonologische Schleife]]: verarbeitet und speichert auditive Informationen kurzzeitig
-    - [[Räumlich-visueller Notizblock]] (VSSP)
-        - spezialisiert auf räumliche und visuelle Kodierung und Verarbeitung
+    - [[Räumlich-visueller Notizblock]] (VSSP): spezialisiert auf räumliche und visuelle Kodierung und Verarbeitung
     - [[Episodischer Puffer]] (in verbessertem Modell hinzugefügt, u.a. Baddeley, 2001) 
         - temporäres Speichersystem
         - enthält iIntegriertenformation aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden
@@ -27,11 +26,10 @@
         - Unterdrückung Zentrale Exekutive: Zufallszahlen generieren
     - Ergebnis: Verschlechterung bei Unterdrückung VSSP & CE, nicht bei phonolog. Schleife ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)
 - __Bewertung__
-    - Stärken
-        - einflussreiche Erweiterung des Mehrspeichermodells von Atkinson und Shiffrin (1968)
-            - beschreibt neben Speicherung auch aktive Verarbeitung 
-            - Daten von hirngeschädigten Patienten erklärt
-            - weniger zentrale Rolle des verbalen rehearsals
+    - Stärken: einflussreiche Erweiterung des [[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]]
+        - beschreibt neben Speicherung auch aktive Verarbeitung 
+        - Daten von hirngeschädigten Patienten erklärt
+        - weniger zentrale Rolle des verbalen rehearsals
     - Schwächen
         - in Teilen etwas unspezifisch, erschwert Testung
         - Anzahl Teilfunktionen der zentralen Exekutive noch umstritten 
