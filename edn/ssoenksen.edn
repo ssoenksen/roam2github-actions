@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuidc0595378-63d0-46cc-b24b-054d45f26083"
-   536875628]
+   "uuid44387965-ef72-4370-9e9b-f1eab962ae33"
+   536875638]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -9283,12 +9283,10 @@
   [1178 :edit/user 3 536874627]
   [1179 :block/children 1193 536874641]
   [1179 :block/children 1196 536874689]
-  [1179 :block/children 1199 536874695]
-  [1179 :block/children 1200 536874698]
-  [1179 :block/children 1203 536874712]
   [1179 :block/children 1205 536874721]
   [1179 :block/children 1221 536875279]
   [1179 :block/children 1396 536875591]
+  [1179 :block/children 1401 536875631]
   [1179 :block/open true 536874641]
   [1179 :block/uid "TT7iygHvN" 536874636]
   [1179 :create/time 1621856878472 536874636]
@@ -9305,7 +9303,7 @@
   [1182 :block/children 1185 536874662]
   [1182 :block/children 1194 536874664]
   [1182 :block/open true 536874641]
-  [1182 :block/order 1 536875626]
+  [1182 :block/order 0 536875635]
   [1182 :block/page 1179 536874642]
   [1182 :block/parents 1179 536874642]
   [1182 :block/parents 1396 536875595]
@@ -9356,7 +9354,7 @@
   [1185 :edit/user 3 536874641]
   [1186 :block/children 1187 536874668]
   [1186 :block/open true 536874641]
-  [1186 :block/order 2 536875626]
+  [1186 :block/order 1 536875635]
   [1186 :block/page 1179 536874646]
   [1186 :block/parents 1179 536874646]
   [1186 :block/parents 1396 536875596]
@@ -9382,7 +9380,7 @@
   [1187 :edit/user 3 536874641]
   [1188 :block/children 1189 536874671]
   [1188 :block/open true 536874641]
-  [1188 :block/order 3 536875626]
+  [1188 :block/order 2 536875635]
   [1188 :block/page 1179 536874648]
   [1188 :block/parents 1179 536874648]
   [1188 :block/parents 1396 536875597]
@@ -9465,7 +9463,7 @@
   [1195 :block/children 1190 536874681]
   [1195 :block/children 1192 536874684]
   [1195 :block/open true 536874678]
-  [1195 :block/order 4 536875626]
+  [1195 :block/order 3 536875635]
   [1195 :block/page 1179 536874679]
   [1195 :block/parents 1179 536874679]
   [1195 :block/parents 1396 536875598]
@@ -9496,7 +9494,7 @@
   [1198 :block/order 1 536874717]
   [1198 :block/page 1179 536874697]
   [1198 :block/parents 1179 536874697]
-  [1198 :block/parents 1203 536874716]
+  [1198 :block/parents 1401 536875633]
   [1198
    :block/string
    "Prozesse, die unterschiedliche Ressourcen verwenden, sollten problemlos gleichzeitig ausgeführt werden können"
@@ -9507,9 +9505,10 @@
   [1198 :edit/time 1621857071122 536874719]
   [1198 :edit/user 3 536874695]
   [1199 :block/open true 536874695]
-  [1199 :block/order 5 536875594]
+  [1199 :block/order 2 536875637]
   [1199 :block/page 1179 536874696]
   [1199 :block/parents 1179 536874696]
+  [1199 :block/parents 1401 536875638]
   [1199
    :block/string
    "--> starke empirische Stützung durch Dual-Task Aufgaben"
@@ -9519,36 +9518,11 @@
   [1199 :create/user 3 536874695]
   [1199 :edit/time 1621857076645 536874720]
   [1199 :edit/user 3 536874695]
-  [1200 :block/open true 536874698]
-  [1200 :block/order 3 536875594]
-  [1200 :block/page 1179 536874699]
-  [1200 :block/parents 1179 536874699]
-  [1200
-   :block/string
-   "Zentrale Exekutive, Phonologische Schleife und Räumlich-visueller Notizblock "
-   536874698]
-  [1200 :block/uid "MZppcZ226" 536874698]
-  [1200 :create/time 1621857055508 536874698]
-  [1200 :create/user 3 536874698]
-  [1200 :edit/time 1621857055508 536874698]
-  [1200 :edit/user 3 536874698]
-  [1203 :block/children 1198 536874715]
-  [1203 :block/children 1204 536874717]
-  [1203 :block/open true 536874712]
-  [1203 :block/order 4 536875594]
-  [1203 :block/page 1179 536874713]
-  [1203 :block/parents 1179 536874713]
-  [1203 :block/string "Vorhersagen " 536874712]
-  [1203 :block/uid "De8a46aq5" 536874712]
-  [1203 :create/time 1621857067385 536874712]
-  [1203 :create/user 3 536874712]
-  [1203 :edit/time 1621857067385 536874712]
-  [1203 :edit/user 3 536874712]
   [1204 :block/open true 536874717]
   [1204 :block/order 0 536874717]
   [1204 :block/page 1179 536874718]
   [1204 :block/parents 1179 536874718]
-  [1204 :block/parents 1203 536874718]
+  [1204 :block/parents 1401 536875634]
   [1204
    :block/string
    "Prozesse, die die gleichen Ressourcen verwenden, sollten sich gegenseitig behindern "
@@ -9561,7 +9535,7 @@
   [1205 :block/children 1215 536874790]
   [1205 :block/children 1220 536874794]
   [1205 :block/open true 536874721]
-  [1205 :block/order 6 536875594]
+  [1205 :block/order 4 536875637]
   [1205 :block/page 1179 536874722]
   [1205 :block/parents 1179 536874722]
   [1205 :block/string "Testung" 536874725]
@@ -9767,7 +9741,7 @@
   [1221 :block/children 1350 536875318]
   [1221 :block/children 1353 536875293]
   [1221 :block/open true 536874797]
-  [1221 :block/order 7 536875594]
+  [1221 :block/order 5 536875637]
   [1221 :block/page 1179 536874798]
   [1221 :block/parents 1179 536874798]
   [1221 :block/string "Bewertung" 536875283]
@@ -11530,7 +11504,7 @@
   [1398 :block/children 1399 536875626]
   [1398 :block/children 1400 536875626]
   [1398 :block/open true 536875620]
-  [1398 :block/order 0 536875620]
+  [1398 :block/order 4 536875635]
   [1398 :block/page 1179 536875621]
   [1398 :block/parents 1179 536875621]
   [1398 :block/parents 1396 536875621]
@@ -11566,4 +11540,18 @@
   [1400 :create/time 1621857064320 536875622]
   [1400 :create/user 3 536875622]
   [1400 :edit/time 1622036917187 536875622]
-  [1400 :edit/user 3 536875622]]}
+  [1400 :edit/user 3 536875622]
+  [1401 :block/children 1198 536875632]
+  [1401 :block/children 1199 536875637]
+  [1401 :block/children 1204 536875632]
+  [1401 :block/open true 536875631]
+  [1401 :block/order 3 536875631]
+  [1401 :block/page 1179 536875631]
+  [1401 :block/parents 1179 536875631]
+  [1401 :block/string "Vorhersagen " 536875632]
+  [1401 :block/uid "MZppcZ226" 536875631]
+  [1401 :children/view-type :numbered 536875636]
+  [1401 :create/time 1621857055508 536875631]
+  [1401 :create/user 3 536875631]
+  [1401 :edit/time 1622036943092 536875632]
+  [1401 :edit/user 3 536875631]]}

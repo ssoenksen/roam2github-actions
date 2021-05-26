@@ -7120,44 +7120,6 @@
         },
         "children": [
           {
-            "string": "Alle: ",
-            "create-time": 1622036915029,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            "children": [
-              {
-                "string": "begrenzte Verarbeitungskapazität ",
-                "create-time": 1621857059031,
-                "uid": "MTBqHgwo3",
-                "edit-time": 1622036917187,
-                ":create/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                },
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "arbeiten relativ unabhängig voneinander ",
-                "create-time": 1621857064320,
-                "uid": "jIePpnaP1",
-                "edit-time": 1622036917187,
-                ":create/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                },
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
-            "uid": "m4U26Fe1_",
-            "edit-time": 1622036917200,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
             "string": "[[Zentrale Exekutive]]",
             "refs": [
               {
@@ -7308,6 +7270,44 @@
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
+          },
+          {
+            "string": "Alle: ",
+            "create-time": 1622036915029,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "begrenzte Verarbeitungskapazität ",
+                "create-time": 1621857059031,
+                "uid": "MTBqHgwo3",
+                "edit-time": 1622036917187,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "arbeiten relativ unabhängig voneinander ",
+                "create-time": 1621857064320,
+                "uid": "jIePpnaP1",
+                "edit-time": 1622036917187,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "m4U26Fe1_",
+            "edit-time": 1622036917200,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
           }
         ],
         "uid": "dweNE9XNY",
@@ -7329,20 +7329,8 @@
         }
       },
       {
-        "string": "Zentrale Exekutive, Phonologische Schleife und Räumlich-visueller Notizblock ",
-        "create-time": 1621857055508,
-        "uid": "MZppcZ226",
-        "edit-time": 1621857055508,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
         "string": "Vorhersagen ",
-        "create-time": 1621857067385,
+        "create-time": 1621857055508,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
@@ -7370,22 +7358,22 @@
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
+          },
+          {
+            "string": "--> starke empirische Stützung durch Dual-Task Aufgaben",
+            "create-time": 1621857049975,
+            "uid": "HsWpWd1d-",
+            "edit-time": 1621857076645,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
           }
         ],
-        "uid": "De8a46aq5",
-        "edit-time": 1621857067385,
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "--> starke empirische Stützung durch Dual-Task Aufgaben",
-        "create-time": 1621857049975,
-        "uid": "HsWpWd1d-",
-        "edit-time": 1621857076645,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
+        "uid": "MZppcZ226",
+        "edit-time": 1622036943092,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }

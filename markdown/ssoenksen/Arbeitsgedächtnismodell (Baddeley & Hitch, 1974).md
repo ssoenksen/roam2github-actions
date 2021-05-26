@@ -1,8 +1,5 @@
 - **Arbeitsgedächtnis **ersetzt einheitliches **Kurzzeitgedächtnis **wie im [[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]] 
 - Elemente:
-    - Alle: 
-        - begrenzte Verarbeitungskapazität 
-        - arbeiten relativ unabhängig voneinander 
     - [[Zentrale Exekutive]]
         - modalitätsfreie zentrale Steuereinheit / Leitung
         - aktiviert bei Bearbeitung aller kognitiv anspruchsvollen Aufgaben 
@@ -15,12 +12,14 @@
     - [[Episodischer Puffer]] (in verbessertem Modell hinzugefügt, u.a. Baddeley, 2001) 
         - temporäres Speichersystem
         - enthält iIntegriertenformation aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden
+    - Alle: 
+        - begrenzte Verarbeitungskapazität 
+        - arbeiten relativ unabhängig voneinander 
 - Informationsfluss im Arbeitsgedächtnis ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F7fOVNkQQyd.png?alt=media&token=ce240035-57ed-4a63-8dfc-cd2e43fc3fe6)
-- Zentrale Exekutive, Phonologische Schleife und Räumlich-visueller Notizblock 
-- Vorhersagen 
-    - Prozesse, die die gleichen Ressourcen verwenden, sollten sich gegenseitig behindern 
-    - Prozesse, die unterschiedliche Ressourcen verwenden, sollten problemlos gleichzeitig ausgeführt werden können
-- --> starke empirische Stützung durch Dual-Task Aufgaben
+- Vorhersagen --> starke empirische Stützung durch Dual-Task Aufgaben
+    1. Prozesse, die die gleichen Ressourcen verwenden, sollten sich gegenseitig behindern 
+    2. Prozesse, die unterschiedliche Ressourcen verwenden, sollten problemlos gleichzeitig ausgeführt werden können
+    3. 
 - Testung
     - Studie Robbins et al. (1996): Unabhängigkeit der Teilsysteme 
         - Auswählen nächster Schachzüge
