@@ -1,12 +1,8 @@
 - verarbeitet und speichert auditive Informationen kurzzeitig
-- weitere Entwicklung: zwei Komponenten
-    - Phonologischer Speicher
-        - passiv, befasst mit Sprachwahrnehmung
-    - Artikulatorische Kontrollprozesse
-        - aktiv, befasst mit Sprachproduktion 
-        - Wiederholung
-- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FUT54NYu4MC.png?alt=media&token=b76e0a4e-921c-47e2-ac0d-af26cdb7a391)
-- Speicherformat wirklich auditiv?: Empirische Evidenz 
+- weitere Entwicklung: **zwei Komponenten**
+    - **Phonologischer Speicher**: passiv, befasst mit Sprachwahrnehmung
+    - **Artikulatorische Kontrollprozesse**: aktiv, befasst mit Sprachproduktion / Wiederholung von Informationen ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FUT54NYu4MC.png?alt=media&token=b76e0a4e-921c-47e2-ac0d-af26cdb7a391)
+- Speicherformat auditiv?: Empirische Evidenz 
 - Phonologischer Ähnlichkeitseffekt
     - Wiedergabe in der richtigen Reihenfolge um 25% schlechter mit einer phonologisch ähnlichen Liste, verglichen mit unähnlicher Liste
         - Vertauschungen durch phonologische Ähnlichkeit

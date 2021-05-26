@@ -7581,71 +7581,27 @@
         }
       },
       {
-        "string": "zwei Komponenten",
+        "string": "weitere Entwicklung: **zwei Komponenten**",
         "children": [
           {
-            "string": "Phonologischer Speicher",
-            "children": [
-              {
-                "string": "passiv, befasst mit Sprachwahrnehmung",
-                "uid": "h65GUH-P2",
-                "edit-time": 1621857321259,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
+            "string": "**Phonologischer Speicher**: passiv, befasst mit Sprachwahrnehmung",
             "uid": "Driu3R2F7",
-            "edit-time": 1621857321259,
+            "edit-time": 1622037373051,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "Artikulatorische Kontrollprozesse",
-            "children": [
-              {
-                "string": "aktiv, befasst mit Sprachproduktion ",
-                "create-time": 1621857330016,
-                "uid": "eu9hSaU9H",
-                "edit-time": 1621857330016,
-                ":create/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                },
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "Wiederholung",
-                "uid": "RHf6i7r9a",
-                "edit-time": 1621857330020,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
+            "string": "**Artikulatorische Kontrollprozesse**: aktiv, befasst mit Sprachproduktion / Wiederholung von Informationen ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FUT54NYu4MC.png?alt=media&token=b76e0a4e-921c-47e2-ac0d-af26cdb7a391)",
             "uid": "HWm-spRPy",
-            "edit-time": 1621857321259,
+            "edit-time": 1622037404759,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           }
         ],
         "uid": "3nVLm43kT",
-        "edit-time": 1621857321259,
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FUT54NYu4MC.png?alt=media&token=b76e0a4e-921c-47e2-ac0d-af26cdb7a391)",
-        "create-time": 1621857336788,
-        "uid": "gfgTm_-_r",
-        "edit-time": 1621857339958,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
+        "edit-time": 1622037364766,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
