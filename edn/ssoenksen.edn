@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid4b88e6e5-b9df-4508-8f10-d80d5f58924b"
-   536875686]
+   "uuidcced8388-8b6f-4d05-ad30-b71ce4a522c1"
+   536875697]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -9633,9 +9633,7 @@
   [1221 :edit/time 1622037281165 536875672]
   [1221 :edit/user 3 536874797]
   [1223 :block/children 1229 536874811]
-  [1223 :block/children 1237 536874879]
   [1223 :block/children 1238 536874853]
-  [1223 :block/children 1249 536874899]
   [1223 :block/children 1402 536875673]
   [1223 :block/open true 536874811]
   [1223 :block/uid "g7AFG9-6M" 536874808]
@@ -9691,6 +9689,7 @@
   [1233 :block/page 1223 536874847]
   [1233 :block/parents 1223 536874847]
   [1233 :block/parents 1237 536874882]
+  [1233 :block/parents 1238 536875694]
   [1233
    :block/string
    "Wiedergabe in der richtigen Reihenfolge um 25% schlechter mit einer phonologisch ähnlichen Liste, verglichen mit unähnlicher Liste"
@@ -9705,6 +9704,7 @@
   [1235 :block/parents 1223 536874849]
   [1235 :block/parents 1233 536874887]
   [1235 :block/parents 1237 536874885]
+  [1235 :block/parents 1238 536875694]
   [1235
    :block/string
    "Vertauschungen durch phonologische Ähnlichkeit"
@@ -9718,6 +9718,7 @@
   [1236 :block/page 1223 536874850]
   [1236 :block/parents 1223 536874850]
   [1236 :block/parents 1237 536874890]
+  [1236 :block/parents 1238 536875694]
   [1236
    :block/string
    "legt sprachbasierte rehearsal-Prozesse innerhalb der phonologischen Schleife nahe"
@@ -9730,32 +9731,37 @@
   [1237 :block/children 1236 536874889]
   [1237 :block/children 1240 536874891]
   [1237 :block/open true 536874846]
-  [1237 :block/order 3 536875685]
+  [1237 :block/order 0 536875693]
   [1237 :block/page 1223 536874851]
   [1237 :block/parents 1223 536874851]
+  [1237 :block/parents 1238 536875694]
   [1237 :block/string "Phonologischer Ähnlichkeitseffekt" 536874855]
   [1237 :block/uid "fmpwI_YTI" 536874846]
   [1237 :edit/seen-by 3 536874852]
   [1237 :edit/time 1621857355304 536874855]
   [1237 :edit/user 3 536874846]
+  [1238 :block/children 1237 536875693]
+  [1238 :block/children 1249 536875695]
   [1238 :block/open true 536874853]
   [1238 :block/order 2 536875685]
   [1238 :block/page 1223 536874854]
   [1238 :block/parents 1223 536874854]
   [1238
    :block/string
-   "Speicherformat wirklich auditiv?: Empirische Evidenz "
-   536874853]
+   "Speicherformat auditiv --> Empirische Evidenz  "
+   536875692]
   [1238 :block/uid "EJMHCjSnZ" 536874853]
+  [1238 :children/view-type :numbered 536875697]
   [1238 :create/time 1621857355299 536874853]
   [1238 :create/user 3 536874853]
-  [1238 :edit/time 1621857355299 536874853]
+  [1238 :edit/time 1622037440786 536875692]
   [1238 :edit/user 3 536874853]
   [1240 :block/open true 536874891]
   [1240 :block/order 2 536874891]
   [1240 :block/page 1223 536874892]
   [1240 :block/parents 1223 536874892]
   [1240 :block/parents 1237 536874892]
+  [1240 :block/parents 1238 536875694]
   [1240
    :block/props
    {:image-size
@@ -9775,6 +9781,7 @@
   [1242 :block/order 0 536874910]
   [1242 :block/page 1223 536874900]
   [1242 :block/parents 1223 536874900]
+  [1242 :block/parents 1238 536875696]
   [1242 :block/parents 1249 536874911]
   [1242
    :block/string
@@ -9788,6 +9795,7 @@
   [1243 :block/order 0 536874918]
   [1243 :block/page 1223 536874901]
   [1243 :block/parents 1223 536874901]
+  [1243 :block/parents 1238 536875696]
   [1243 :block/parents 1249 536874914]
   [1243 :block/parents 1250 536874919]
   [1243 :block/string "Präsentation von Wörtern" 536874917]
@@ -9799,6 +9807,7 @@
   [1244 :block/order 1 536874923]
   [1244 :block/page 1223 536874902]
   [1244 :block/parents 1223 536874902]
+  [1244 :block/parents 1238 536875696]
   [1244 :block/parents 1249 536874922]
   [1244 :block/parents 1250 536874924]
   [1244
@@ -9814,6 +9823,7 @@
   [1245 :block/order 2 536874934]
   [1245 :block/page 1223 536874903]
   [1245 :block/parents 1223 536874903]
+  [1245 :block/parents 1238 536875696]
   [1245 :block/parents 1249 536874927]
   [1245 :block/string "Baddeley et al. (1975, 2002)" 536874933]
   [1245 :block/uid "XyL37QiuS" 536874899]
@@ -9824,6 +9834,7 @@
   [1246 :block/order 0 536874939]
   [1246 :block/page 1223 536874904]
   [1246 :block/parents 1223 536874904]
+  [1246 :block/parents 1238 536875696]
   [1246 :block/parents 1245 536874940]
   [1246 :block/parents 1249 536874938]
   [1246
@@ -9838,6 +9849,7 @@
   [1247 :block/order 3 536874942]
   [1247 :block/page 1223 536874905]
   [1247 :block/parents 1223 536874905]
+  [1247 :block/parents 1238 536875696]
   [1247 :block/parents 1249 536874943]
   [1247
    :block/string
@@ -9851,6 +9863,7 @@
   [1248 :block/order 4 536874945]
   [1248 :block/page 1223 536874906]
   [1248 :block/parents 1223 536874906]
+  [1248 :block/parents 1238 536875696]
   [1248 :block/parents 1249 536874946]
   [1248
    :block/string
@@ -9866,9 +9879,10 @@
   [1249 :block/children 1248 536874945]
   [1249 :block/children 1250 536874915]
   [1249 :block/open true 536874899]
-  [1249 :block/order 4 536875685]
+  [1249 :block/order 1 536875695]
   [1249 :block/page 1223 536874907]
   [1249 :block/parents 1223 536874907]
+  [1249 :block/parents 1238 536875696]
   [1249 :block/string "Wortlängeneffekt" 536874899]
   [1249 :block/uid "6NiDsRWLm" 536874899]
   [1249 :edit/seen-by 3 536874908]
@@ -9881,6 +9895,7 @@
   [1250 :block/order 1 536874915]
   [1250 :block/page 1223 536874916]
   [1250 :block/parents 1223 536874916]
+  [1250 :block/parents 1238 536875696]
   [1250 :block/parents 1249 536874916]
   [1250
    :block/string
@@ -9895,6 +9910,7 @@
   [1251 :block/order 2 536874931]
   [1251 :block/page 1223 536874932]
   [1251 :block/parents 1223 536874932]
+  [1251 :block/parents 1238 536875696]
   [1251 :block/parents 1249 536874932]
   [1251 :block/parents 1250 536874932]
   [1251 :block/string "--> weniger für lange Wörter " 536874931]
