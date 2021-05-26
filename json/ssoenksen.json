@@ -7626,8 +7626,24 @@
               },
               {
                 "string": "legt sprachbasierte rehearsal-Prozesse innerhalb der phonologischen Schleife nahe ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FxY30l--udC.png?alt=media&token=bdb31372-179a-4531-b387-4d7dc84bbdf8)",
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FxY30l--udC.png?alt=media&token=bdb31372-179a-4531-b387-4d7dc84bbdf8": {
+                      "width": 165,
+                      "height": null
+                    }
+                  }
+                },
                 "uid": "JnpjbgXO8",
                 "edit-time": 1622037511497,
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FxY30l--udC.png?alt=media&token=bdb31372-179a-4531-b387-4d7dc84bbdf8": {
+                      ":width": 165,
+                      ":height": null
+                    }
+                  }
+                },
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
@@ -7640,16 +7656,8 @@
             }
           },
           {
-            "string": "Wortlängeneffekt",
+            "string": "**Wortlängeneffekt**: Gedächtnisspanne ist kleiner für Wörter, die viel Zeit benötigen, um ausgesprochen zu werden",
             "children": [
-              {
-                "string": "Gedächtnisspanne ist kleiner für Wörter, die viel Zeit benötigen, um ausgesprochen zu werden",
-                "uid": "wlaMWD-cC",
-                "edit-time": 1621857439652,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
               {
                 "string": "nachgewiesen in Aufgaben zur Messung der Gedächtnisspanne ",
                 "create-time": 1621857451300,
@@ -7728,7 +7736,7 @@
               }
             ],
             "uid": "6NiDsRWLm",
-            "edit-time": 1621857439652,
+            "edit-time": 1622037565137,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
