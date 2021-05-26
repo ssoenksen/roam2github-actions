@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuida7edde96-fb60-4502-9a84-d89c66bb47be"
-   536875667]
+   "uuid33632641-1ac0-4f30-a132-38944f8412bb"
+   536875672]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -9529,11 +9529,11 @@
   [1205
    :block/string
    "Testung: Studie Robbins et al. (1996): Unabhängigkeit der Teilsysteme #studie"
-   536875643]
+   536875670]
   [1205 :block/uid "NrOKuXEdP" 536874721]
   [1205 :create/time 1621857132509 536874721]
   [1205 :create/user 3 536874721]
-  [1205 :edit/time 1622037017145 536875643]
+  [1205 :edit/time 1622037252610 536875670]
   [1205 :edit/user 3 536874721]
   [1208 :block/children 1216 536874752]
   [1208 :block/children 1217 536874762]
@@ -9556,11 +9556,11 @@
   [1213 :block/parents 1205 536874791]
   [1213
    :block/string
-   "Ergebnis: Verschlechterung bei Unterdrückung VSSP & CE ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)"
-   536875667]
+   "Ergebnis: Verschlechterung bei Unterdrückung VSSP & CE, nicht bei phonolog. Schleife ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)"
+   536875671]
   [1213 :block/uid "lG1elOjOc" 536874726]
   [1213 :edit/seen-by 3 536874787]
-  [1213 :edit/time 1622037208911 536875667]
+  [1213 :edit/time 1622037267554 536875671]
   [1213 :edit/user 3 536874726]
   [1214 :block/open true 536874726]
   [1214 :block/order 0 536875654]
@@ -9638,11 +9638,11 @@
   [1221 :block/order 5 536875637]
   [1221 :block/page 1179 536874798]
   [1221 :block/parents 1179 536874798]
-  [1221 :block/string "Bewertung" 536875283]
+  [1221 :block/string "__Bewertung__" 536875672]
   [1221 :block/uid "TTHLQWfht" 536874797]
   [1221 :create/time 1621857228103 536874797]
   [1221 :create/user 3 536874797]
-  [1221 :edit/time 1621857866915 536875283]
+  [1221 :edit/time 1622037281165 536875672]
   [1221 :edit/user 3 536874797]
   [1223 :block/children 1229 536874811]
   [1223 :block/children 1231 536874841]

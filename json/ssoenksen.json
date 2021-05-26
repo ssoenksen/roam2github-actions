@@ -7367,7 +7367,7 @@
         }
       },
       {
-        "edit-time": 1622037017145,
+        "edit-time": 1622037252610,
         "children": [
           {
             "string": "Auswählen nächster Schachzüge: erfordert zentrale Exekutive (CE) und den räumlich-visuellen Notizblock (VSSP), aber nicht die phonologische Schleife",
@@ -7436,9 +7436,9 @@
             }
           },
           {
-            "string": "Ergebnis: Verschlechterung bei Unterdrückung VSSP & CE ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)",
+            "string": "Ergebnis: Verschlechterung bei Unterdrückung VSSP & CE, nicht bei phonolog. Schleife ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)",
             "uid": "lG1elOjOc",
-            "edit-time": 1622037208911,
+            "edit-time": 1622037267554,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -7465,7 +7465,7 @@
         }
       },
       {
-        "string": "Bewertung",
+        "string": "__Bewertung__",
         "create-time": 1621857228103,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -7559,7 +7559,7 @@
           }
         ],
         "uid": "TTHLQWfht",
-        "edit-time": 1621857866915,
+        "edit-time": 1622037281165,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
