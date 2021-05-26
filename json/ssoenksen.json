@@ -7120,6 +7120,44 @@
         },
         "children": [
           {
+            "string": "Alle: ",
+            "create-time": 1622036915029,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "begrenzte Verarbeitungskapazität ",
+                "create-time": 1621857059031,
+                "uid": "MTBqHgwo3",
+                "edit-time": 1622036917187,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "arbeiten relativ unabhängig voneinander ",
+                "create-time": 1621857064320,
+                "uid": "jIePpnaP1",
+                "edit-time": 1622036917187,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "m4U26Fe1_",
+            "edit-time": 1622036917200,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
             "string": "[[Zentrale Exekutive]]",
             "refs": [
               {
@@ -7156,9 +7194,9 @@
                 }
               },
               {
-                "string": "verwendet Untersysteme (s.u.)",
+                "string": "verwendet Untersysteme (s.u.), v.a. episodischen Puffer",
                 "uid": "RYHgQ157s",
-                "edit-time": 1622036706054,
+                "edit-time": 1622036878858,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
@@ -7293,37 +7331,11 @@
       {
         "string": "Zentrale Exekutive, Phonologische Schleife und Räumlich-visueller Notizblock ",
         "create-time": 1621857055508,
+        "uid": "MZppcZ226",
+        "edit-time": 1621857055508,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
-        "children": [
-          {
-            "string": "begrenzte Verarbeitungskapazität ",
-            "create-time": 1621857059031,
-            "uid": "MTBqHgwo3",
-            "edit-time": 1621857059031,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "arbeiten relativ unabhängig voneinander ",
-            "create-time": 1621857064320,
-            "uid": "jIePpnaP1",
-            "edit-time": 1621857064320,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "uid": "MZppcZ226",
-        "edit-time": 1621857055508,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
