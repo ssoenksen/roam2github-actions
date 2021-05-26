@@ -6494,71 +6494,55 @@
             }
           },
           {
-            "string": "verlängert Verfügbarkeit von Informationen --> Bearbeitung",
+            "string": "verlängert Verfügbarkeit von Informationen --> zur Verarbeitung",
+            "uid": "TRBKvSbGb",
+            "edit-time": 1622034467371,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Teile",
+            "create-time": 1622034500632,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
             "children": [
               {
-                "string": "Ikonisches Gedächtnis (visuell, bspw. Lesen)",
-                "children": [
-                  {
-                    "string": "Behalten für ca. 500 msec (neue Befunde: etwas länger)",
-                    "uid": "k4zFPIv6_",
-                    "edit-time": 1621856299540,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
+                "string": "**Ikonisches Gedächtnis** (visuell, bspw. Lesen), Behalten für ca. 500 msec (neue Befunde: etwas länger)",
                 "uid": "BEvRSp1S2",
-                "edit-time": 1621856332993,
+                "edit-time": 1622034707606,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               },
               {
-                "string": "Echoartiges (echoisches) Gedächtnis (auditiv, bspw. Gespräch) ",
+                "string": "**Echoartiges (echoisches) Gedächtnis** (auditiv, bspw. Gespräch), Behalten für ca. 2 sec",
                 "create-time": 1621856346624,
+                "uid": "UeI0B5xcW",
+                "edit-time": 1622034714494,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
-                "children": [
-                  {
-                    "string": "Behalten für ca. 2 sec",
-                    "uid": "wVU_j1dDz",
-                    "edit-time": 1621856346630,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
-                "uid": "UeI0B5xcW",
-                "edit-time": 1621856346624,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               }
             ],
-            "uid": "TRBKvSbGb",
-            "edit-time": 1621856318520,
+            "uid": "-AKEPOZci",
+            "edit-time": 1622034507396,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "Zuwendung von Aufmerksamkeit ",
+            "string": "Zuwendung von Aufmerksamkeit --> KZG, ansonsten: schneller Zerfall",
             "create-time": 1621856354966,
             "uid": "xsFIF0_-s",
-            "edit-time": 1621856354966,
+            "edit-time": 1622034788995,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "KZG ansonsten: schneller Zerfall",
-            "uid": "ptWJqo4in",
-            "edit-time": 1621856354972,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -6586,17 +6570,17 @@
             }
           },
           {
-            "string": "zentrale Funktion: Weiterverarbeitung und Weiterleitung ins LZG",
+            "string": "zentrale Funktion: Weiterverarbeitung und Weiterleitung ins **LZG**",
             "create-time": 1621856383548,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
             "children": [
               {
-                "string": "Wiederholung und Konsolidierung der Information",
+                "string": "Wiederholung (Rehearsal) und Konsolidierung der Information",
                 "create-time": 1621856383548,
                 "uid": "UJ60K0mvq",
-                "edit-time": 1621856383563,
+                "edit-time": 1622034894608,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -6617,66 +6601,38 @@
                 }
               },
               {
-                "string": "Zerfall kann durch rehearsal (= innere Wiederholung) verhindert werden",
+                "string": "Zerfall kann durch rehearsal (= innere Wiederholung) verhindert werden --> Weiterleitung der Information zur unbefristeten Speicherung ",
                 "create-time": 1621856383548,
+                "uid": "WOxgK3UC1",
+                "edit-time": 1622034938574,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
-                "children": [
-                  {
-                    "string": "Weiterleitung der Information zur unbefristeten Speicherung ",
-                    "create-time": 1621856419100,
-                    "uid": "chccR_o_O",
-                    "edit-time": 1621856419100,
-                    ":create/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
-                "uid": "WOxgK3UC1",
-                "edit-time": 1621856383563,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               }
             ],
             "uid": "8Lj2L4ea5",
-            "edit-time": 1621856391159,
+            "edit-time": 1622034906104,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "Verlust: Information wird durch neue Information ersetzt",
+            "string": "Verlust: Information wird durch neue Information ersetzt, geht aber auch durch Zerfall und Interferenz verloren ",
             "create-time": 1621856383548,
+            "uid": "nQdQlio1n",
+            "edit-time": 1622034952097,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
-            "children": [
-              {
-                "string": "geht aber auch durch Zerfall und Interferenz verloren ",
-                "create-time": 1621856435514,
-                "uid": "6Uf3XbZO0",
-                "edit-time": 1621856435514,
-                ":create/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                },
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
-            "uid": "nQdQlio1n",
-            "edit-time": 1621856419104,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "Erweiterung: nicht Items sondern Chunks",
+            "string": "Erweiterung: nicht Items sondern **Chunks**",
             "create-time": 1621856383548,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -6695,10 +6651,10 @@
                 }
               },
               {
-                "string": "ca. 4 “Chunks” (Cowan, 2000)",
+                "string": "ca. 4 “Chunks” (Cowan, 2000) - können sehr komplex werden",
                 "create-time": 1621856383548,
                 "uid": "r370CuBST",
-                "edit-time": 1621856383563,
+                "edit-time": 1622035112161,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -6708,7 +6664,7 @@
               }
             ],
             "uid": "GGBD8ffOm",
-            "edit-time": 1621856435518,
+            "edit-time": 1622034986254,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -6736,18 +6692,28 @@
             }
           },
           {
-            "string": "unbegrenzte Kapazität sowie Behaltensdauer",
+            "string": "unbegrenzte Kapazität sowie Behaltensdauer #unklar",
+            "refs": [
+              {
+                "uid": "NUh0oFMJ9"
+              }
+            ],
             "uid": "VYgNATsR1",
-            "edit-time": 1621856464107,
+            "edit-time": 1622035521402,
+            ":block/refs": [
+              {
+                ":block/uid": "NUh0oFMJ9"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "primär semantische Kodierung in einheitlichem Speicher ",
+            "string": "primär semantische (inhaltlich, mit Bedeutung) Kodierung in einheitlichem Speicher ",
             "create-time": 1621856471656,
             "uid": "odkP7s8ex",
-            "edit-time": 1621856471656,
+            "edit-time": 1622035176747,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -6756,10 +6722,10 @@
             }
           },
           {
-            "string": "Vergessen: Interferenz",
+            "string": "**Vergessen**: Interferenz",
             "create-time": 1621856470671,
             "uid": "_byxY8sY7",
-            "edit-time": 1621856545644,
+            "edit-time": 1622035185372,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -6775,7 +6741,7 @@
         }
       },
       {
-        "string": "Bewertung",
+        "string": "__Bewertung__",
         "create-time": 1621856557966,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -6785,35 +6751,19 @@
             "string": "Stärken",
             "children": [
               {
-                "string": "Belege für unterschiedliche Gedächtnisspeicher",
+                "string": "Belege für unterschiedliche Gedächtnisspeicher: Dauer & Kapazitäten, Vergessensmechanismen",
                 "children": [
                   {
-                    "string": "Dauer & Kapazitäten",
-                    "uid": "4zl7cxTrP",
-                    "edit-time": 1621856567459,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  },
-                  {
-                    "string": "Vergessensmechanismen",
-                    "uid": "l6ye8gpfg",
-                    "edit-time": 1621856567459,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  },
-                  {
-                    "string": "Effekte von Hirnschädigung: Doppel-Dissoziation KZG vs. LZG",
+                    "string": "Effekte von Hirnschädigung: Doppelte Dissoziation KZG vs. LZG",
                     "uid": "GIM9eXJhN",
-                    "edit-time": 1621856567459,
+                    "edit-time": 1622035263416,
                     ":edit/user": {
                       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                     }
                   }
                 ],
                 "uid": "rRWIhSTHr",
-                "edit-time": 1621856567459,
+                "edit-time": 1622035254962,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
@@ -6829,71 +6779,25 @@
             "string": "Schwächen",
             "children": [
               {
-                "string": "(zu) stark vereinfachtes Modell: homogene Speicher KZG & LZG",
-                "children": [
-                  {
-                    "string": "Speicher können intern uneinheitlich sein ",
-                    "create-time": 1621856599549,
-                    "uid": "MpxNbwqxF",
-                    "edit-time": 1621856599549,
-                    ":create/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
-                "uid": "5QFwubI4u",
-                "edit-time": 1621856567459,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "KZG ist nicht der einzige Weg zum LZG",
-                "children": [
-                  {
-                    "string": "Information schon mit LZG „in Kontakt“, bevor es im KZG ankommt",
-                    "uid": "XWjFX8mCs",
-                    "edit-time": 1621856567459,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  },
-                  {
-                    "string": "Top-down Prozesse der Wahrnehmung & Bildung von Chunks ",
-                    "create-time": 1621856616207,
-                    "uid": "oo1GNb0bo",
-                    "edit-time": 1621856616207,
-                    ":create/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    },
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
-                "uid": "eIuC39GQV",
-                "edit-time": 1621856599554,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "erlaubt kein implizites Gedächtnis",
-                "children": [
-                  {
-                    "string": "Inhalte im KZG bewusst verarbeitet",
-                    "uid": "Cdpk6yj0W",
-                    "edit-time": 1621856567459,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
+                "string": "^^erlaubt kein implizites Gedächtnis^^",
                 "uid": "q42az0Zm1",
-                "edit-time": 1621856616211,
+                "edit-time": 1622035451019,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "KZG ist nicht der einzige Weg zum LZG: Information schon mit LZG „in Kontakt“, bevor es im KZG ankommt - Top-down Prozesse der Wahrnehmung & Bildung von Chunks ",
+                "uid": "eIuC39GQV",
+                "edit-time": 1622035411696,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "zu stark vereinfachtes Modell: homogene Speicher KZG & LZG, Speicher können intern uneinheitlich sein ",
+                "uid": "5QFwubI4u",
+                "edit-time": 1622035417475,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
@@ -6923,7 +6827,7 @@
           }
         ],
         "uid": "mjc3sJrkx",
-        "edit-time": 1621856560134,
+        "edit-time": 1622035121933,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -6943,32 +6847,32 @@
     },
     "children": [
       {
-        "string": "Atkinson & Shiffrin fokussieren auf Unterschiede LZG & KZG ",
+        "string": "[[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]] fokussiert auf Unterschiede LZG & KZG, hier: Fokus auf Gemeinsamkeiten von LZG + KZG",
         "create-time": 1621856717699,
+        ":block/refs": [
+          {
+            ":block/uid": "inHugqSKJ"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "inHugqSKJ"
+          }
+        ],
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
-        "children": [
-          {
-            "string": "Jonides et al.: Fokus auf Gemeinsamkeiten",
-            "uid": "OM5ay43D-",
-            "edit-time": 1621856717703,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
         "uid": "lpbGRiRSw",
-        "edit-time": 1621856717699,
+        "edit-time": 1622035704860,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
       },
       {
-        "string": "ein einheitlicher Gedächtnisspeicher",
+        "string": "--> **ein einheitlicher Gedächtnisspeicher**",
         "children": [
           {
-            "string": "KZG besteht aus temporären Aktivierungen von LZG Repräsentationen oder kürzlich wahrgenommenen Items",
+            "string": "**KZG **besteht aus temporären Aktivierungen von LZG-Repräsentationen oder kürzlich wahrgenommenen Items",
             "children": [
               {
                 "string": "Aktivierungen entstehen normalerweise durch fokussierte Aufmerksamkeit",
@@ -6980,7 +6884,7 @@
               }
             ],
             "uid": "VTr9XwrJx",
-            "edit-time": 1621856712992,
+            "edit-time": 1622035759266,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -6994,7 +6898,7 @@
             }
           },
           {
-            "string": "Problem: amnestische Patienten die Störung des LZG haben, aber intaktes KZG",
+            "string": "**Problem**: amnestische Patienten die Störung des LZG haben, aber intaktes KZG",
             "children": [
               {
                 "string": "Erklärungsversuch: Beeinträchtigte Fähigkeit zur Abspeicherung von Relationen",
@@ -7006,32 +6910,28 @@
               }
             ],
             "uid": "Sk_G5sLrE",
-            "edit-time": 1621856712992,
+            "edit-time": 1622035845777,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "KZG in erster Linie unterstützt vom Hippocampus und dem umgebenden medialen Temporallappen",
+            "string": "Gehirnareale: KZG in erster Linie unterstützt vom Hippocampus und dem umgebenden medialen Temporallappen",
             "uid": "SfA1ppHro",
-            "edit-time": 1621856712992,
+            "edit-time": 1622035915684,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           }
         ],
         "uid": "Bfy2VEL3U",
-        "edit-time": 1621856712992,
+        "edit-time": 1622035715674,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
       },
       {
-        "string": "Studie zum Kurzzeitgedächtnis bei Hirnschädigung (Race et al., 2013)",
-        "create-time": 1621856758091,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
+        "edit-time": 1622035926419,
         "children": [
           {
             "string": "Wiedererkennenstest von Gesichtern nach 8 oder 15 sec",
@@ -7050,9 +6950,9 @@
             }
           },
           {
-            "string": "KZG nur gestört bei Patienten H+",
+            "string": "^^**KZG **nur gestört bei Patienten H+ (mit med. Temporallappen)^^, Hippocampus idR. eher mit LZG in Verbindung gebracht",
             "uid": "JcW4x7Ie8",
-            "edit-time": 1621856753486,
+            "edit-time": 1622036046092,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -7086,8 +6986,22 @@
             }
           }
         ],
+        "refs": [
+          {
+            "uid": "2js24S1Un"
+          }
+        ],
         "uid": "-rePU-Pi-",
-        "edit-time": 1621856758091,
+        ":block/refs": [
+          {
+            ":block/uid": "2js24S1Un"
+          }
+        ],
+        "string": "Studie zum Kurzzeitgedächtnis bei Hirnschädigung (Race et al., 2013) #studie ",
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "create-time": 1621856758091,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -7103,27 +7017,17 @@
             "string": "Stärken",
             "children": [
               {
-                "string": "betont enge Beziehung zwischen KZG und LZG",
-                "children": [
-                  {
-                    "string": "gute Belege, dass das KZG wenigstens teilweise von LZG Aktivierungen abhängt",
-                    "uid": "-yPCkfRuf",
-                    "edit-time": 1621856796436,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
+                "string": "betont enge Beziehung zwischen KZG und LZG: gute Belege, dass das KZG wenigstens teilweise von LZG Aktivierungen abhängt",
                 "uid": "4YmXkcUNK",
-                "edit-time": 1621856796436,
+                "edit-time": 1622036098581,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               },
               {
-                "string": "funktionelle Bildgebung stützt Annahme der Bedeutung des medialen Temporallappens",
+                "string": "funktionelle Bildgebung stützt Annahme der Bedeutung des medialen Temporallappens für KZG",
                 "uid": "Hq055UrIJ",
-                "edit-time": 1621856796436,
+                "edit-time": 1622036364293,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
@@ -7139,6 +7043,14 @@
             "string": "Schwächen",
             "children": [
               {
+                "string": "^^Studien mit bildgebenden Verfahren unterstützen Annahmen des Einspeichermodells eher nicht^^",
+                "uid": "I2tyE2acU",
+                "edit-time": 1622036435134,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
                 "string": "zu starke Vereinfachung, dass das KZG nur als Teil des LZG aktiviert wird",
                 "uid": "_pK-SjU-6",
                 "edit-time": 1621856796436,
@@ -7149,14 +7061,6 @@
               {
                 "string": "keine starken Belege dafür, dass amnestische Patienten Leistungseinschränkungen bei Aufgaben zum relationalen Gedächtnis aufweisen, die vor allem auf dem KZG beruhen",
                 "uid": "yq8ompQvP",
-                "edit-time": 1621856796436,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "Studien mit bildgebenden Verfahren unterstützen Annahmen des Einspeichermodells eher nicht",
-                "uid": "I2tyE2acU",
                 "edit-time": 1621856796436,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -7191,63 +7095,17 @@
     },
     "children": [
       {
-        "string": "Arbeitsgedächtnis ersetzt einheitliches “Kurzzeitgedächtnis”",
+        "string": "**Arbeitsgedächtnis **ersetzt einheitliches **Kurzzeitgedächtnis **wie im [[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]] ",
+        "refs": [
+          {
+            "uid": "inHugqSKJ"
+          }
+        ],
         "uid": "DbEafD3tr",
-        "edit-time": 1621856904657,
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "[[Zentrale Exekutive]]",
-        "refs": [
-          {
-            "uid": "-SUg_SPnX"
-          }
-        ],
-        "children": [
-          {
-            "string": "modalitätsfreie zentrale Steuereinheit / Leitung",
-            "uid": "0BGrRhQtv",
-            "edit-time": 1621856904657,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "ähnelt Aufmerksamkeit",
-            "uid": "6NGZ_FQc4",
-            "edit-time": 1621856904657,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "aktiviert bei Bearbeitung aller kognitiv anspruchsvollen Aufgaben ",
-            "create-time": 1621856913786,
-            "uid": "OKZTJr5cQ",
-            "edit-time": 1621856913786,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "verwendet Untersysteme",
-            "uid": "RYHgQ157s",
-            "edit-time": 1621856913790,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "uid": "ukSqJh7hP",
-        "edit-time": 1621857628156,
+        "edit-time": 1622036614984,
         ":block/refs": [
           {
-            ":block/uid": "-SUg_SPnX"
+            ":block/uid": "inHugqSKJ"
           }
         ],
         ":edit/user": {
@@ -7255,97 +7113,167 @@
         }
       },
       {
-        "string": "[[Phonologische Schleife]]",
-        "refs": [
-          {
-            "uid": "g7AFG9-6M"
-          }
-        ],
-        "children": [
-          {
-            "string": "verarbeitet und speichert Info kurzzeitig in sprachbasierter Form",
-            "uid": "bqs64XwWI",
-            "edit-time": 1621856904657,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "uid": "pq1iTvUdW",
-        "edit-time": 1621857314521,
-        ":block/refs": [
-          {
-            ":block/uid": "g7AFG9-6M"
-          }
-        ],
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "[[Räumlich-visueller Notizblock]] (VSSP)",
-        "refs": [
-          {
-            "uid": "5fYz7zvVT"
-          }
-        ],
-        "children": [
-          {
-            "string": "spezialisiert auf räumliche und visuelle Kodierung und Verarbeitung",
-            "uid": "5AX5gxMeN",
-            "edit-time": 1621856904657,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "uid": "xQKnbX4IS",
-        "edit-time": 1621857504070,
-        ":block/refs": [
-          {
-            ":block/uid": "5fYz7zvVT"
-          }
-        ],
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "edit-time": 1621857814125,
-        "children": [
-          {
-            "string": "temporäres Speichersystem",
-            "uid": "u_bV2lJME",
-            "edit-time": 1621856936577,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "enthält verbundene Information aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden",
-            "uid": "J-OSN1M_9",
-            "edit-time": 1621856904657,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "refs": [
-          {
-            "uid": "8X-7iSrVW"
-          }
-        ],
-        "uid": "29dDve82W",
-        ":block/refs": [
-          {
-            ":block/uid": "8X-7iSrVW"
-          }
-        ],
-        "string": "[[Episodischer Puffer]] (in verbessertem Modell hinzugefügt, u.a. Baddeley, 2001) ",
+        "string": "Elemente:",
+        "create-time": 1622036573488,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
-        "create-time": 1621856936573,
+        "children": [
+          {
+            "string": "[[Zentrale Exekutive]]",
+            "refs": [
+              {
+                "uid": "-SUg_SPnX"
+              }
+            ],
+            "children": [
+              {
+                "string": "modalitätsfreie zentrale Steuereinheit / Leitung",
+                "uid": "0BGrRhQtv",
+                "edit-time": 1621856904657,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "aktiviert bei Bearbeitung aller kognitiv anspruchsvollen Aufgaben ",
+                "create-time": 1621856913786,
+                "uid": "OKZTJr5cQ",
+                "edit-time": 1621856913786,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "ähnelt Aufmerksamkeit",
+                "uid": "6NGZ_FQc4",
+                "edit-time": 1621856904657,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "verwendet Untersysteme",
+                "uid": "RYHgQ157s",
+                "edit-time": 1621856913790,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "ukSqJh7hP",
+            "edit-time": 1621857628156,
+            ":block/refs": [
+              {
+                ":block/uid": "-SUg_SPnX"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "[[Phonologische Schleife]]",
+            "refs": [
+              {
+                "uid": "g7AFG9-6M"
+              }
+            ],
+            "children": [
+              {
+                "string": "verarbeitet und speichert Info kurzzeitig in sprachbasierter Form",
+                "uid": "bqs64XwWI",
+                "edit-time": 1621856904657,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "pq1iTvUdW",
+            "edit-time": 1621857314521,
+            ":block/refs": [
+              {
+                ":block/uid": "g7AFG9-6M"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "[[Räumlich-visueller Notizblock]] (VSSP)",
+            "refs": [
+              {
+                "uid": "5fYz7zvVT"
+              }
+            ],
+            "children": [
+              {
+                "string": "spezialisiert auf räumliche und visuelle Kodierung und Verarbeitung",
+                "uid": "5AX5gxMeN",
+                "edit-time": 1621856904657,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "xQKnbX4IS",
+            "edit-time": 1621857504070,
+            ":block/refs": [
+              {
+                ":block/uid": "5fYz7zvVT"
+              }
+            ],
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "edit-time": 1621857814125,
+            "children": [
+              {
+                "string": "temporäres Speichersystem",
+                "uid": "u_bV2lJME",
+                "edit-time": 1621856936577,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "enthält verbundene Information aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden",
+                "uid": "J-OSN1M_9",
+                "edit-time": 1621856904657,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "8X-7iSrVW"
+              }
+            ],
+            "uid": "29dDve82W",
+            ":block/refs": [
+              {
+                ":block/uid": "8X-7iSrVW"
+              }
+            ],
+            "string": "[[Episodischer Puffer]] (in verbessertem Modell hinzugefügt, u.a. Baddeley, 2001) ",
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "create-time": 1621856936573,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "dweNE9XNY",
+        "edit-time": 1622036575357,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -9002,6 +8930,30 @@
     "title": "May 26th, 2021",
     "uid": "05-26-2021",
     "edit-time": 1621991037721,
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1622035521405,
+    "title": "unklar",
+    "uid": "NUh0oFMJ9",
+    "edit-time": 1622035521407,
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1622035926420,
+    "title": "studie",
+    "uid": "2js24S1Un",
+    "edit-time": 1622035926421,
     ":create/user": {
       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
     },

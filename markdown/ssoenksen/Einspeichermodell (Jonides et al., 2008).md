@@ -1,23 +1,21 @@
-- Atkinson & Shiffrin fokussieren auf Unterschiede LZG & KZG 
-    - Jonides et al.: Fokus auf Gemeinsamkeiten
-- ein einheitlicher Gedächtnisspeicher
-    - KZG besteht aus temporären Aktivierungen von LZG Repräsentationen oder kürzlich wahrgenommenen Items
+- [[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]] fokussiert auf Unterschiede LZG & KZG, hier: Fokus auf Gemeinsamkeiten von LZG + KZG
+- --> **ein einheitlicher Gedächtnisspeicher**
+    - **KZG **besteht aus temporären Aktivierungen von LZG-Repräsentationen oder kürzlich wahrgenommenen Items
         - Aktivierungen entstehen normalerweise durch fokussierte Aufmerksamkeit
     - kann erklären, warum Info im KZG bereits mit LZG „in Berührung“ war sowie schnelle Top-Down Effekte der Wahrnehmung
-    - Problem: amnestische Patienten die Störung des LZG haben, aber intaktes KZG
+    - **Problem**: amnestische Patienten die Störung des LZG haben, aber intaktes KZG
         - Erklärungsversuch: Beeinträchtigte Fähigkeit zur Abspeicherung von Relationen
-    - KZG in erster Linie unterstützt vom Hippocampus und dem umgebenden medialen Temporallappen
-- Studie zum Kurzzeitgedächtnis bei Hirnschädigung (Race et al., 2013)
+    - Gehirnareale: KZG in erster Linie unterstützt vom Hippocampus und dem umgebenden medialen Temporallappen
+- Studie zum Kurzzeitgedächtnis bei Hirnschädigung (Race et al., 2013) #studie 
     - Wiedererkennenstest von Gesichtern nach 8 oder 15 sec
     - Kontrollpersonen vs. Patienten mit Schädigung Hippocampus (H only) vs. Hippocampus + medialer Temporallappen (H+)
-    - KZG nur gestört bei Patienten H+
+    - ^^**KZG **nur gestört bei Patienten H+ (mit med. Temporallappen)^^, Hippocampus idR. eher mit LZG in Verbindung gebracht
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FHqu4tsK605.png?alt=media&token=2841445f-8d1a-43a2-bcb9-ae0764375837)
 - Bewertung
     - Stärken
-        - betont enge Beziehung zwischen KZG und LZG
-            - gute Belege, dass das KZG wenigstens teilweise von LZG Aktivierungen abhängt
-        - funktionelle Bildgebung stützt Annahme der Bedeutung des medialen Temporallappens
+        - betont enge Beziehung zwischen KZG und LZG: gute Belege, dass das KZG wenigstens teilweise von LZG Aktivierungen abhängt
+        - funktionelle Bildgebung stützt Annahme der Bedeutung des medialen Temporallappens für KZG
     - Schwächen
+        - ^^Studien mit bildgebenden Verfahren unterstützen Annahmen des Einspeichermodells eher nicht^^
         - zu starke Vereinfachung, dass das KZG nur als Teil des LZG aktiviert wird
         - keine starken Belege dafür, dass amnestische Patienten Leistungseinschränkungen bei Aufgaben zum relationalen Gedächtnis aufweisen, die vor allem auf dem KZG beruhen
-        - Studien mit bildgebenden Verfahren unterstützen Annahmen des Einspeichermodells eher nicht

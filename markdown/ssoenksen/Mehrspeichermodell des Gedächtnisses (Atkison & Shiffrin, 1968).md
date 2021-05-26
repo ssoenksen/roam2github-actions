@@ -4,43 +4,33 @@
     - bewusstseinsunabhängig
     - große Speicherkapazität
     - kurze Haltedauer
-    - verlängert Verfügbarkeit von Informationen --> Bearbeitung
-        - Ikonisches Gedächtnis (visuell, bspw. Lesen)
-            - Behalten für ca. 500 msec (neue Befunde: etwas länger)
-        - Echoartiges (echoisches) Gedächtnis (auditiv, bspw. Gespräch) 
-            - Behalten für ca. 2 sec
-    - Zuwendung von Aufmerksamkeit 
-    - KZG ansonsten: schneller Zerfall
+    - verlängert Verfügbarkeit von Informationen --> zur Verarbeitung
+    - Teile
+        - **Ikonisches Gedächtnis** (visuell, bspw. Lesen), Behalten für ca. 500 msec (neue Befunde: etwas länger)
+        - **Echoartiges (echoisches) Gedächtnis** (auditiv, bspw. Gespräch), Behalten für ca. 2 sec
+    - Zuwendung von Aufmerksamkeit --> KZG, ansonsten: schneller Zerfall
 - **Kurzzeit-Gedächtnis**
     - Speicherkapazität für ungefähr 7 ± 2 Items (Miller, 1956) 
-    - zentrale Funktion: Weiterverarbeitung und Weiterleitung ins LZG
-        - Wiederholung und Konsolidierung der Information
+    - zentrale Funktion: Weiterverarbeitung und Weiterleitung ins **LZG**
+        - Wiederholung (Rehearsal) und Konsolidierung der Information
         - bewusste, kontrollierte, elaborierte Verarbeitung
-        - Zerfall kann durch rehearsal (= innere Wiederholung) verhindert werden
-            - Weiterleitung der Information zur unbefristeten Speicherung 
-    - Verlust: Information wird durch neue Information ersetzt
-        - geht aber auch durch Zerfall und Interferenz verloren 
-    - Erweiterung: nicht Items sondern Chunks
+        - Zerfall kann durch rehearsal (= innere Wiederholung) verhindert werden --> Weiterleitung der Information zur unbefristeten Speicherung 
+    - Verlust: Information wird durch neue Information ersetzt, geht aber auch durch Zerfall und Interferenz verloren 
+    - Erweiterung: nicht Items sondern **Chunks**
         - Chunks: Gruppen von Informationen, die aus mehreren Teilen zusammengesetzt sind, aber als Einheit verarbeitet werden können (z.B. TNTIBMUFO oder TNT IBM UFO)
-        - ca. 4 “Chunks” (Cowan, 2000)
+        - ca. 4 “Chunks” (Cowan, 2000) - können sehr komplex werden
 - **Langzeit-Gedächtnis**
     - langfristige Speicherung
-    - unbegrenzte Kapazität sowie Behaltensdauer
-    - primär semantische Kodierung in einheitlichem Speicher 
-    - Vergessen: Interferenz
-- Bewertung
+    - unbegrenzte Kapazität sowie Behaltensdauer #unklar
+    - primär semantische (inhaltlich, mit Bedeutung) Kodierung in einheitlichem Speicher 
+    - **Vergessen**: Interferenz
+- __Bewertung__
     - Stärken
-        - Belege für unterschiedliche Gedächtnisspeicher
-            - Dauer & Kapazitäten
-            - Vergessensmechanismen
-            - Effekte von Hirnschädigung: Doppel-Dissoziation KZG vs. LZG
+        - Belege für unterschiedliche Gedächtnisspeicher: Dauer & Kapazitäten, Vergessensmechanismen
+            - Effekte von Hirnschädigung: Doppelte Dissoziation KZG vs. LZG
     - Schwächen
-        - (zu) stark vereinfachtes Modell: homogene Speicher KZG & LZG
-            - Speicher können intern uneinheitlich sein 
-        - KZG ist nicht der einzige Weg zum LZG
-            - Information schon mit LZG „in Kontakt“, bevor es im KZG ankommt
-            - Top-down Prozesse der Wahrnehmung & Bildung von Chunks 
-        - erlaubt kein implizites Gedächtnis
-            - Inhalte im KZG bewusst verarbeitet
+        - ^^erlaubt kein implizites Gedächtnis^^
+        - KZG ist nicht der einzige Weg zum LZG: Information schon mit LZG „in Kontakt“, bevor es im KZG ankommt - Top-down Prozesse der Wahrnehmung & Bildung von Chunks 
+        - zu stark vereinfachtes Modell: homogene Speicher KZG & LZG, Speicher können intern uneinheitlich sein 
         - Annahme, dass alle Items im KZG gleich behandelt werden, ist nicht haltbar --> Vorteile durch Aufmerksamkeit
         - übertreibt die Rolle von rehearsal für Weiterleitung ins LZG

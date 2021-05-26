@@ -1,16 +1,17 @@
-- Arbeitsgedächtnis ersetzt einheitliches “Kurzzeitgedächtnis”
-- [[Zentrale Exekutive]]
-    - modalitätsfreie zentrale Steuereinheit / Leitung
-    - ähnelt Aufmerksamkeit
-    - aktiviert bei Bearbeitung aller kognitiv anspruchsvollen Aufgaben 
-    - verwendet Untersysteme
-- [[Phonologische Schleife]]
-    - verarbeitet und speichert Info kurzzeitig in sprachbasierter Form
-- [[Räumlich-visueller Notizblock]] (VSSP)
-    - spezialisiert auf räumliche und visuelle Kodierung und Verarbeitung
-- [[Episodischer Puffer]] (in verbessertem Modell hinzugefügt, u.a. Baddeley, 2001) 
-    - temporäres Speichersystem
-    - enthält verbundene Information aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden
+- **Arbeitsgedächtnis **ersetzt einheitliches **Kurzzeitgedächtnis **wie im [[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]] 
+- Elemente:
+    - [[Zentrale Exekutive]]
+        - modalitätsfreie zentrale Steuereinheit / Leitung
+        - aktiviert bei Bearbeitung aller kognitiv anspruchsvollen Aufgaben 
+        - ähnelt Aufmerksamkeit
+        - verwendet Untersysteme 
+    - [[Phonologische Schleife]]
+        - verarbeitet und speichert Info kurzzeitig in sprachbasierter Form
+    - [[Räumlich-visueller Notizblock]] (VSSP)
+        - spezialisiert auf räumliche und visuelle Kodierung und Verarbeitung
+    - [[Episodischer Puffer]] (in verbessertem Modell hinzugefügt, u.a. Baddeley, 2001) 
+        - temporäres Speichersystem
+        - enthält verbundene Information aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden
 - Informationsfluss: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F7fOVNkQQyd.png?alt=media&token=ce240035-57ed-4a63-8dfc-cd2e43fc3fe6)
 - Zentrale Exekutive, Phonologische Schleife und Räumlich-visueller Notizblock 
     - begrenzte Verarbeitungskapazität 
