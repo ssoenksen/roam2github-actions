@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid55971b75-7dae-4109-8335-2e4ed8e3f48e"
-   536875716]
+   "uuid24d1b253-9b12-4166-8e2b-85f812f2e225"
+   536875720]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -9740,13 +9740,13 @@
   [1238 :block/parents 1223 536874854]
   [1238
    :block/string
-   "Speicherformat auditiv --> Empirische Evidenz  "
-   536875692]
+   "**Speicherformat **auditiv --> Empirische Evidenz  "
+   536875717]
   [1238 :block/uid "EJMHCjSnZ" 536874853]
   [1238 :children/view-type :numbered 536875697]
   [1238 :create/time 1621857355299 536874853]
   [1238 :create/user 3 536874853]
-  [1238 :edit/time 1622037440786 536875692]
+  [1238 :edit/time 1622037637126 536875717]
   [1238 :edit/user 3 536874853]
   [1243 :block/open true 536874899]
   [1243 :block/order 0 536874918]
@@ -9775,33 +9775,20 @@
   [1244 :edit/seen-by 3 536874920]
   [1244 :edit/time 1621857439652 536874899]
   [1244 :edit/user 3 536874899]
-  [1245 :block/children 1246 536874939]
   [1245 :block/open true 536874899]
   [1245 :block/order 1 536875716]
   [1245 :block/page 1223 536874903]
   [1245 :block/parents 1223 536874903]
   [1245 :block/parents 1238 536875696]
   [1245 :block/parents 1249 536874927]
-  [1245 :block/string "Baddeley et al. (1975, 2002)" 536874933]
+  [1245
+   :block/string
+   "Baddeley et al. (1975, 2002): artikulatorische Unterdrückung beseitigte den Wortlängeneffekt"
+   536875720]
   [1245 :block/uid "XyL37QiuS" 536874899]
   [1245 :edit/seen-by 3 536874925]
-  [1245 :edit/time 1621857469883 536874933]
+  [1245 :edit/time 1622037669904 536875720]
   [1245 :edit/user 3 536874899]
-  [1246 :block/open true 536874899]
-  [1246 :block/order 0 536874939]
-  [1246 :block/page 1223 536874904]
-  [1246 :block/parents 1223 536874904]
-  [1246 :block/parents 1238 536875696]
-  [1246 :block/parents 1245 536874940]
-  [1246 :block/parents 1249 536874938]
-  [1246
-   :block/string
-   "artikulatorische Unterdrückung beseitigte den Wortlängeneffekt"
-   536874899]
-  [1246 :block/uid "7s3oOeEqg" 536874899]
-  [1246 :edit/seen-by 3 536874936]
-  [1246 :edit/time 1621857439652 536874899]
-  [1246 :edit/user 3 536874899]
   [1247 :block/open true 536874899]
   [1247 :block/order 2 536875716]
   [1247 :block/page 1223 536874905]

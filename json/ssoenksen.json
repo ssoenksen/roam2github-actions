@@ -7607,7 +7607,7 @@
         }
       },
       {
-        "string": "Speicherformat auditiv --> Empirische Evidenz  ",
+        "string": "**Speicherformat **auditiv --> Empirische Evidenz  ",
         "create-time": 1621857355299,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -7701,19 +7701,9 @@
                 }
               },
               {
-                "string": "Baddeley et al. (1975, 2002)",
-                "children": [
-                  {
-                    "string": "artikulatorische Unterdrückung beseitigte den Wortlängeneffekt",
-                    "uid": "7s3oOeEqg",
-                    "edit-time": 1621857439652,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
+                "string": "Baddeley et al. (1975, 2002): artikulatorische Unterdrückung beseitigte den Wortlängeneffekt",
                 "uid": "XyL37QiuS",
-                "edit-time": 1621857469883,
+                "edit-time": 1622037669904,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
@@ -7743,7 +7733,7 @@
           }
         ],
         "uid": "EJMHCjSnZ",
-        "edit-time": 1622037440786,
+        "edit-time": 1622037637126,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
