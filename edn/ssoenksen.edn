@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid417ace60-bd3e-48bd-9001-6656fa7652e7"
-   536875615]
+   "uuid0a4db5df-0060-4669-b97c-e68ae83f09c7"
+   536875616]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -9482,12 +9482,12 @@
   [1196 :block/parents 1179 536874688]
   [1196
    :block/string
-   "Informationsfluss: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F7fOVNkQQyd.png?alt=media&token=ce240035-57ed-4a63-8dfc-cd2e43fc3fe6)"
-   536874692]
+   "Informationsfluss im Arbeitsgedächtnis ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F7fOVNkQQyd.png?alt=media&token=ce240035-57ed-4a63-8dfc-cd2e43fc3fe6)"
+   536875616]
   [1196 :block/uid "Z3TyMBdWK" 536874687]
   [1196 :create/time 1621856951633 536874687]
   [1196 :create/user 3 536874687]
-  [1196 :edit/time 1621856965165 536874692]
+  [1196 :edit/time 1622036808731 536875616]
   [1196 :edit/user 3 536874687]
   [1198 :block/open true 536874695]
   [1198 :block/order 1 536874717]
