@@ -20,8 +20,7 @@
     1. Prozesse, die die gleichen Ressourcen verwenden, sollten sich gegenseitig behindern 
     2. Prozesse, die unterschiedliche Ressourcen verwenden, sollten problemlos gleichzeitig ausgeführt werden können
 - Testung: Studie Robbins et al. (1996): Unabhängigkeit der Teilsysteme #studie
-    - Auswählen nächster Schachzüge
-    - erfordert zentrale Exekutive (CE) und den räumlich-visuellen Notizblock (VSSP), aber nicht die phonologische Schleife
+    - Auswählen nächster Schachzüge: erfordert zentrale Exekutive (CE) und den räumlich-visuellen Notizblock (VSSP), aber nicht die phonologische Schleife
     - Bedingungen
         - Control 
             - klopfen

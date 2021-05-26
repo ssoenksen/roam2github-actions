@@ -7370,149 +7370,127 @@
         "edit-time": 1622037017145,
         "children": [
           {
-            "string": "",
-            "create-time": 1621857141028,
-            ":create/user": {
+            "string": "Auswählen nächster Schachzüge: erfordert zentrale Exekutive (CE) und den räumlich-visuellen Notizblock (VSSP), aber nicht die phonologische Schleife",
+            "uid": "yD05FLIjB",
+            "edit-time": 1622037078412,
+            ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
+            }
+          },
+          {
+            "string": "Bedingungen",
             "children": [
               {
-                "string": "Auswählen nächster Schachzüge",
-                "uid": "yD05FLIjB",
-                "edit-time": 1621857141032,
-                ":edit/user": {
+                "string": "Control ",
+                "create-time": 1621857152854,
+                ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "erfordert zentrale Exekutive (CE) und den räumlich-visuellen Notizblock (VSSP), aber nicht die phonologische Schleife",
-                "uid": "1T9-iqmR9",
-                "edit-time": 1621857134744,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "Bedingungen",
+                },
                 "children": [
                   {
-                    "string": "Control ",
-                    "create-time": 1621857152854,
-                    ":create/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    },
-                    "children": [
-                      {
-                        "string": "klopfen",
-                        "uid": "OejRuyEF1",
-                        "edit-time": 1621857152857,
-                        ":edit/user": {
-                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                        }
-                      }
-                    ],
-                    "uid": "CPaML47BK",
-                    "edit-time": 1621857152854,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  },
-                  {
-                    "string": "Artikulatorische Unterdrückung ",
-                    "create-time": 1621857160426,
-                    ":create/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    },
-                    "children": [
-                      {
-                        "string": "Wörter wiederholt aussprechen",
-                        "uid": "QBOnSWXiE",
-                        "edit-time": 1621857160431,
-                        ":edit/user": {
-                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                        }
-                      }
-                    ],
-                    "uid": "tbZs6Eot5",
-                    "edit-time": 1621857160426,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  },
-                  {
-                    "string": "Unterdrückung Notizblock ",
-                    "create-time": 1621857167569,
-                    ":create/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    },
-                    "children": [
-                      {
-                        "string": "Zahlen im Uhrzeigersinn drücken",
-                        "uid": "uwFmmCFhR",
-                        "edit-time": 1621857167572,
-                        ":edit/user": {
-                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                        }
-                      }
-                    ],
-                    "uid": "j8FT3m2_q",
-                    "edit-time": 1621857167569,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  },
-                  {
-                    "string": "Unterdrückung Zentrale Exekutive ",
-                    "create-time": 1621857175346,
-                    ":create/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    },
-                    "children": [
-                      {
-                        "string": "Zufallszahlen generieren",
-                        "uid": "wSW02MCe-",
-                        "edit-time": 1621857175349,
-                        ":edit/user": {
-                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                        }
-                      }
-                    ],
-                    "uid": "sVFUn_A8F",
-                    "edit-time": 1621857175346,
+                    "string": "klopfen",
+                    "uid": "OejRuyEF1",
+                    "edit-time": 1621857152857,
                     ":edit/user": {
                       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                     }
                   }
                 ],
-                "uid": "Hgycchjdo",
-                "edit-time": 1621857134744,
+                "uid": "CPaML47BK",
+                "edit-time": 1621857152854,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               },
               {
-                "string": "Verschlechterung bei Unterdrückung VSSP & CE",
-                "uid": "lG1elOjOc",
-                "edit-time": 1621857134744,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)",
-                "create-time": 1621857220345,
-                "uid": "bqmHJUq5a",
-                "edit-time": 1621857224663,
+                "string": "Artikulatorische Unterdrückung ",
+                "create-time": 1621857160426,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
+                "children": [
+                  {
+                    "string": "Wörter wiederholt aussprechen",
+                    "uid": "QBOnSWXiE",
+                    "edit-time": 1621857160431,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "tbZs6Eot5",
+                "edit-time": 1621857160426,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Unterdrückung Notizblock ",
+                "create-time": 1621857167569,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Zahlen im Uhrzeigersinn drücken",
+                    "uid": "uwFmmCFhR",
+                    "edit-time": 1621857167572,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "j8FT3m2_q",
+                "edit-time": 1621857167569,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Unterdrückung Zentrale Exekutive ",
+                "create-time": 1621857175346,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Zufallszahlen generieren",
+                    "uid": "wSW02MCe-",
+                    "edit-time": 1621857175349,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "sVFUn_A8F",
+                "edit-time": 1621857175346,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               }
             ],
-            "uid": "1v2dT-QMm",
-            "edit-time": 1622037019750,
+            "uid": "Hgycchjdo",
+            "edit-time": 1621857134744,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Verschlechterung bei Unterdrückung VSSP & CE",
+            "uid": "lG1elOjOc",
+            "edit-time": 1621857134744,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)",
+            "create-time": 1621857220345,
+            "uid": "bqmHJUq5a",
+            "edit-time": 1621857224663,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
