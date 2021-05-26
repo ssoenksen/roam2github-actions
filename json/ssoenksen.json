@@ -7614,65 +7614,27 @@
         },
         "children": [
           {
-            "string": "Phonologischer Ähnlichkeitseffekt",
+            "string": "**Phonologischer Ähnlichkeitseffekt**: Wiedergabe in der richtigen Reihenfolge um 25% schlechter mit einer phonologisch ähnlichen Liste, verglichen mit unähnlicher Liste",
             "children": [
               {
-                "string": "Wiedergabe in der richtigen Reihenfolge um 25% schlechter mit einer phonologisch ähnlichen Liste, verglichen mit unähnlicher Liste",
-                "children": [
-                  {
-                    "string": "Vertauschungen durch phonologische Ähnlichkeit",
-                    "uid": "R2KDL2v3p",
-                    "edit-time": 1621857348186,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
-                "uid": "d36KhpJ4e",
-                "edit-time": 1621857359113,
+                "string": "Vertauschungen durch **phonologische **Ähnlichkeit",
+                "uid": "R2KDL2v3p",
+                "edit-time": 1622037495281,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               },
               {
-                "string": "legt sprachbasierte rehearsal-Prozesse innerhalb der phonologischen Schleife nahe",
+                "string": "legt sprachbasierte rehearsal-Prozesse innerhalb der phonologischen Schleife nahe ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FxY30l--udC.png?alt=media&token=bdb31372-179a-4531-b387-4d7dc84bbdf8)",
                 "uid": "JnpjbgXO8",
-                "edit-time": 1621857348186,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FxY30l--udC.png?alt=media&token=bdb31372-179a-4531-b387-4d7dc84bbdf8)",
-                "props": {
-                  "image-size": {
-                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FxY30l--udC.png?alt=media&token=bdb31372-179a-4531-b387-4d7dc84bbdf8": {
-                      "width": 183,
-                      "height": null
-                    }
-                  }
-                },
-                "create-time": 1621857404988,
-                ":block/props": {
-                  ":image-size": {
-                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FxY30l--udC.png?alt=media&token=bdb31372-179a-4531-b387-4d7dc84bbdf8": {
-                      ":width": 183,
-                      ":height": null
-                    }
-                  }
-                },
-                ":create/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                },
-                "uid": "zFj2tAdgI",
-                "edit-time": 1621857409681,
+                "edit-time": 1622037511497,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               }
             ],
             "uid": "fmpwI_YTI",
-            "edit-time": 1621857355304,
+            "edit-time": 1622037522938,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
