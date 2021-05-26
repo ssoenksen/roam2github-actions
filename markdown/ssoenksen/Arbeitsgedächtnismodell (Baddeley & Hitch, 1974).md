@@ -22,12 +22,9 @@
 - Testung: Studie Robbins et al. (1996): Unabhängigkeit der Teilsysteme #studie
     - Auswählen nächster Schachzüge: erfordert zentrale Exekutive (CE) und den räumlich-visuellen Notizblock (VSSP), aber nicht die phonologische Schleife
     - Bedingungen
-        - Control 
-            - klopfen
-        - Artikulatorische Unterdrückung 
-            - Wörter wiederholt aussprechen
-        - Unterdrückung Notizblock 
-            - Zahlen im Uhrzeigersinn drücken
+        - Control: klopfen (unabhängig)
+        - Artikulatorische Unterdrückung: Wörter wiederholt aussprechen (phonolog. Schleife)
+        - Unterdrückung Notizblock: Zahlen im Uhrzeigersinn drücken
         - Unterdrückung Zentrale Exekutive 
             - Zufallszahlen generieren
     - Verschlechterung bei Unterdrückung VSSP & CE

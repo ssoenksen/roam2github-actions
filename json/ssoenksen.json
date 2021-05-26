@@ -7381,67 +7381,37 @@
             "string": "Bedingungen",
             "children": [
               {
-                "string": "Control ",
+                "string": "Control: klopfen (unabhängig)",
                 "create-time": 1621857152854,
-                ":create/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                },
-                "children": [
-                  {
-                    "string": "klopfen",
-                    "uid": "OejRuyEF1",
-                    "edit-time": 1621857152857,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
                 "uid": "CPaML47BK",
-                "edit-time": 1621857152854,
+                "edit-time": 1622037137309,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               },
               {
-                "string": "Artikulatorische Unterdrückung ",
+                "string": "Artikulatorische Unterdrückung: Wörter wiederholt aussprechen (phonolog. Schleife)",
                 "create-time": 1621857160426,
+                "uid": "tbZs6Eot5",
+                "edit-time": 1622037144965,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
-                "children": [
-                  {
-                    "string": "Wörter wiederholt aussprechen",
-                    "uid": "QBOnSWXiE",
-                    "edit-time": 1621857160431,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
-                "uid": "tbZs6Eot5",
-                "edit-time": 1621857160426,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               },
               {
-                "string": "Unterdrückung Notizblock ",
+                "string": "Unterdrückung Notizblock: Zahlen im Uhrzeigersinn drücken",
                 "create-time": 1621857167569,
+                "uid": "j8FT3m2_q",
+                "edit-time": 1622037151868,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
-                "children": [
-                  {
-                    "string": "Zahlen im Uhrzeigersinn drücken",
-                    "uid": "uwFmmCFhR",
-                    "edit-time": 1621857167572,
-                    ":edit/user": {
-                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                    }
-                  }
-                ],
-                "uid": "j8FT3m2_q",
-                "edit-time": 1621857167569,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
