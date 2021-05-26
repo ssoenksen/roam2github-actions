@@ -6186,9 +6186,9 @@
         },
         "children": [
           {
-            "string": "Wahrnehmung, Verarbeitung, Erinnerung kurz- und langfristig",
+            "string": "Wahrnehmung (bspw. bei Top-Down-Prozessen), Verarbeitung, Erinnerung kurz- und langfristig",
             "uid": "nvxfFh5ww",
-            "edit-time": 1621856074282,
+            "edit-time": 1622025985034,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -6226,21 +6226,19 @@
           {
             "string": "Abruf ",
             "create-time": 1621856086484,
+            "uid": "zGzgAdnvw",
+            "edit-time": 1621856086484,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
-            "children": [
-              {
-                "string": "Vergessen",
-                "uid": "AgVHZb4IR",
-                "edit-time": 1621856086490,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
-            "uid": "zGzgAdnvw",
-            "edit-time": 1621856086484,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Vergessen",
+            "uid": "AgVHZb4IR",
+            "edit-time": 1622026055462,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -6453,7 +6451,7 @@
         }
       },
       {
-        "string": "Ultra-Kurzzeitgedächtnis / Sensorischer Speicher ",
+        "string": "**Ultra-Kurzzeitgedächtnis / Sensorischer Speicher** ",
         "create-time": 1621856246724,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -6567,13 +6565,13 @@
           }
         ],
         "uid": "xWNQtB4SE",
-        "edit-time": 1621856246724,
+        "edit-time": 1622026250551,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
       },
       {
-        "string": "Kurzzeit-Gedächtnis",
+        "string": "**Kurzzeit-Gedächtnis**",
         "children": [
           {
             "string": "Speicherkapazität für ungefähr 7 ± 2 Items (Miller, 1956) ",
@@ -6717,13 +6715,13 @@
           }
         ],
         "uid": "QKTA6tf8h",
-        "edit-time": 1621856246730,
+        "edit-time": 1622026256043,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
       },
       {
-        "string": "Langzeit-Gedächtnis",
+        "string": "**Langzeit-Gedächtnis**",
         "create-time": 1621856378036,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -6771,7 +6769,7 @@
           }
         ],
         "uid": "rQH9oqT-r",
-        "edit-time": 1621856462185,
+        "edit-time": 1622026258462,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }

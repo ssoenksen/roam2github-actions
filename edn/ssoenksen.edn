@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuiddd6fcb96-1335-422f-9d20-0c1f58e2ff7c"
-   536875450]
+   "uuid704e50fe-12d4-4a77-917f-c34cc01d5d14"
+   536875462]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -8300,15 +8300,14 @@
   [1065 :edit/time 1621856019844 536874191]
   [1065 :edit/user 3 536874191]
   [1066 :block/open true 536874191]
-  [1066 :block/order 0 536874219]
+  [1066 :block/order 3 536875453]
   [1066 :block/page 1062 536874194]
   [1066 :block/parents 1062 536874194]
   [1066 :block/parents 1070 536874215]
-  [1066 :block/parents 1071 536874220]
-  [1066 :block/string "Vergessen" 536874218]
+  [1066 :block/string "Vergessen" 536875459]
   [1066 :block/uid "AgVHZb4IR" 536874191]
   [1066 :edit/seen-by 3 536874213]
-  [1066 :edit/time 1621856086490 536874218]
+  [1066 :edit/time 1622026055462 536875459]
   [1066 :edit/user 3 536874191]
   [1067 :block/open true 536874191]
   [1067 :block/order 1 536874227]
@@ -8327,14 +8326,15 @@
   [1068 :block/parents 1074 536875335]
   [1068
    :block/string
-   "Wahrnehmung, Verarbeitung, Erinnerung kurz- und langfristig"
-   536874200]
+   "Wahrnehmung (bspw. bei Top-Down-Prozessen), Verarbeitung, Erinnerung kurz- und langfristig"
+   536875451]
   [1068 :block/uid "nvxfFh5ww" 536874191]
   [1068 :edit/seen-by 3 536874197]
-  [1068 :edit/time 1621856074282 536874200]
+  [1068 :edit/time 1622025985034 536875451]
   [1068 :edit/user 3 536874191]
   [1070 :block/children 1064 536874207]
   [1070 :block/children 1065 536874211]
+  [1070 :block/children 1066 536875453]
   [1070 :block/children 1071 536874216]
   [1070 :block/open true 536874204]
   [1070 :block/order 1 536875333]
@@ -8342,11 +8342,11 @@
   [1070 :block/parents 1062 536874205]
   [1070 :block/string "Gedächtnisprozesse" 536874204]
   [1070 :block/uid "fZtn_rOaP" 536874204]
+  [1070 :children/view-type :numbered 536875452]
   [1070 :create/time 1621856081775 536874204]
   [1070 :create/user 3 536874204]
   [1070 :edit/time 1621856081775 536874204]
   [1070 :edit/user 3 536874204]
-  [1071 :block/children 1066 536874219]
   [1071 :block/open true 536874216]
   [1071 :block/order 2 536874216]
   [1071 :block/page 1062 536874217]
@@ -8471,10 +8471,10 @@
   [1084 :block/order 2 536874503]
   [1084 :block/page 1080 536874257]
   [1084 :block/parents 1080 536874257]
-  [1084 :block/string "Kurzzeit-Gedächtnis" 536874261]
+  [1084 :block/string "**Kurzzeit-Gedächtnis**" 536875461]
   [1084 :block/uid "QKTA6tf8h" 536874255]
   [1084 :edit/seen-by 3 536874258]
-  [1084 :edit/time 1621856246730 536874261]
+  [1084 :edit/time 1622026256043 536875461]
   [1084 :edit/user 3 536874255]
   [1085 :block/children 1091 536874318]
   [1085 :block/children 1092 536874318]
@@ -8489,12 +8489,12 @@
   [1085 :block/parents 1080 536874260]
   [1085
    :block/string
-   "Ultra-Kurzzeitgedächtnis / Sensorischer Speicher "
-   536874259]
+   "**Ultra-Kurzzeitgedächtnis / Sensorischer Speicher** "
+   536875460]
   [1085 :block/uid "xWNQtB4SE" 536874259]
   [1085 :create/time 1621856246724 536874259]
   [1085 :create/user 3 536874259]
-  [1085 :edit/time 1621856246724 536874259]
+  [1085 :edit/time 1622026250551 536875460]
   [1085 :edit/user 3 536874259]
   [1091 :block/open true 536874275]
   [1091 :block/order 2 536874318]
@@ -8637,11 +8637,11 @@
   [1105 :block/order 3 536874503]
   [1105 :block/page 1080 536874333]
   [1105 :block/parents 1080 536874333]
-  [1105 :block/string "Langzeit-Gedächtnis" 536874390]
+  [1105 :block/string "**Langzeit-Gedächtnis**" 536875462]
   [1105 :block/uid "rQH9oqT-r" 536874332]
   [1105 :create/time 1621856378036 536874332]
   [1105 :create/user 3 536874332]
-  [1105 :edit/time 1621856462185 536874390]
+  [1105 :edit/time 1622026258462 536875462]
   [1105 :edit/user 3 536874332]
   [1107 :block/children 1108 536874348]
   [1107 :block/children 1109 536874350]

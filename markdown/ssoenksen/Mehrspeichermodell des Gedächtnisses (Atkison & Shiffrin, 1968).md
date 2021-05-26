@@ -1,5 +1,5 @@
 - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FdcefIoG5pm.png?alt=media&token=3d019569-8358-4f8c-a4e3-ea2b8d7673fc)
-- Ultra-Kurzzeitgedächtnis / Sensorischer Speicher 
+- **Ultra-Kurzzeitgedächtnis / Sensorischer Speicher** 
     - modalitätsspezifisch 
     - bewusstseinsunabhängig
     - große Speicherkapazität
@@ -11,7 +11,7 @@
             - Behalten für ca. 2 sec
     - Zuwendung von Aufmerksamkeit 
     - KZG ansonsten: schneller Zerfall
-- Kurzzeit-Gedächtnis
+- **Kurzzeit-Gedächtnis**
     - Speicherkapazität für ungefähr 7 ± 2 Items (Miller, 1956) 
     - zentrale Funktion: Weiterverarbeitung und Weiterleitung ins LZG
         - Wiederholung und Konsolidierung der Information
@@ -23,7 +23,7 @@
     - Erweiterung: nicht Items sondern Chunks
         - Chunks: Gruppen von Informationen, die aus mehreren Teilen zusammengesetzt sind, aber als Einheit verarbeitet werden können (z.B. TNTIBMUFO oder TNT IBM UFO)
         - ca. 4 “Chunks” (Cowan, 2000)
-- Langzeit-Gedächtnis
+- **Langzeit-Gedächtnis**
     - langfristige Speicherung
     - unbegrenzte Kapazität sowie Behaltensdauer
     - primär semantische Kodierung in einheitlichem Speicher 
