@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid44387965-ef72-4370-9e9b-f1eab962ae33"
-   536875638]
+   "uuidbaa74fee-5a2f-43ab-b1ab-b86ac4bf2de2"
+   536875648]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -9504,20 +9504,6 @@
   [1198 :create/user 3 536874695]
   [1198 :edit/time 1621857071122 536874719]
   [1198 :edit/user 3 536874695]
-  [1199 :block/open true 536874695]
-  [1199 :block/order 2 536875637]
-  [1199 :block/page 1179 536874696]
-  [1199 :block/parents 1179 536874696]
-  [1199 :block/parents 1401 536875638]
-  [1199
-   :block/string
-   "--> starke empirische Stützung durch Dual-Task Aufgaben"
-   536874720]
-  [1199 :block/uid "HsWpWd1d-" 536874695]
-  [1199 :create/time 1621857049975 536874695]
-  [1199 :create/user 3 536874695]
-  [1199 :edit/time 1621857076645 536874720]
-  [1199 :edit/user 3 536874695]
   [1204 :block/open true 536874717]
   [1204 :block/order 0 536874717]
   [1204 :block/page 1179 536874718]
@@ -9532,20 +9518,28 @@
   [1204 :create/user 3 536874717]
   [1204 :edit/time 1621857071119 536874717]
   [1204 :edit/user 3 536874717]
+  [1205 :block/children 1207 536875648]
+  [1205 :block/children 1208 536875648]
+  [1205 :block/children 1213 536875648]
+  [1205 :block/children 1214 536875648]
   [1205 :block/children 1215 536874790]
-  [1205 :block/children 1220 536874794]
+  [1205 :block/children 1220 536875648]
   [1205 :block/open true 536874721]
   [1205 :block/order 4 536875637]
   [1205 :block/page 1179 536874722]
   [1205 :block/parents 1179 536874722]
-  [1205 :block/string "Testung" 536874725]
+  [1205 :block/refs 1395 536875644]
+  [1205
+   :block/string
+   "Testung: Studie Robbins et al. (1996): Unabhängigkeit der Teilsysteme #studie"
+   536875643]
   [1205 :block/uid "NrOKuXEdP" 536874721]
   [1205 :create/time 1621857132509 536874721]
   [1205 :create/user 3 536874721]
-  [1205 :edit/time 1621857133659 536874725]
+  [1205 :edit/time 1622037017145 536875643]
   [1205 :edit/user 3 536874721]
   [1207 :block/open true 536874726]
-  [1207 :block/order 1 536874742]
+  [1207 :block/order 2 536875648]
   [1207 :block/page 1179 536874727]
   [1207 :block/parents 1179 536874727]
   [1207 :block/parents 1205 536874791]
@@ -9563,7 +9557,7 @@
   [1208 :block/children 1218 536874772]
   [1208 :block/children 1219 536874782]
   [1208 :block/open true 536874726]
-  [1208 :block/order 2 536874745]
+  [1208 :block/order 3 536875648]
   [1208 :block/page 1179 536874728]
   [1208 :block/parents 1179 536874728]
   [1208 :block/parents 1205 536874791]
@@ -9626,7 +9620,7 @@
   [1212 :edit/time 1621857175349 536874784]
   [1212 :edit/user 3 536874726]
   [1213 :block/open true 536874726]
-  [1213 :block/order 3 536874788]
+  [1213 :block/order 4 536875648]
   [1213 :block/page 1179 536874733]
   [1213 :block/parents 1179 536874733]
   [1213 :block/parents 1205 536874791]
@@ -9640,7 +9634,7 @@
   [1213 :edit/time 1621857134744 536874726]
   [1213 :edit/user 3 536874726]
   [1214 :block/open true 536874726]
-  [1214 :block/order 0 536874739]
+  [1214 :block/order 1 536875648]
   [1214 :block/page 1179 536874734]
   [1214 :block/parents 1179 536874734]
   [1214 :block/parents 1205 536874791]
@@ -9650,23 +9644,16 @@
   [1214 :edit/seen-by 3 536874735]
   [1214 :edit/time 1621857141032 536874738]
   [1214 :edit/user 3 536874726]
-  [1215 :block/children 1207 536874742]
-  [1215 :block/children 1208 536874745]
-  [1215 :block/children 1213 536874788]
-  [1215 :block/children 1214 536874739]
   [1215 :block/open true 536874736]
   [1215 :block/order 0 536874790]
   [1215 :block/page 1179 536874737]
   [1215 :block/parents 1179 536874737]
   [1215 :block/parents 1205 536874791]
-  [1215
-   :block/string
-   "Studie Robbins et al. (1996): Unabhängigkeit der Teilsysteme "
-   536874736]
+  [1215 :block/string "" 536875645]
   [1215 :block/uid "1v2dT-QMm" 536874736]
   [1215 :create/time 1621857141028 536874736]
   [1215 :create/user 3 536874736]
-  [1215 :edit/time 1621857141028 536874736]
+  [1215 :edit/time 1622037019750 536875645]
   [1215 :edit/user 3 536874736]
   [1216 :block/children 1209 536874755]
   [1216 :block/open true 536874752]
@@ -9725,10 +9712,11 @@
   [1219 :edit/time 1621857175346 536874782]
   [1219 :edit/user 3 536874782]
   [1220 :block/open true 536874792]
-  [1220 :block/order 1 536874794]
+  [1220 :block/order 5 536875648]
   [1220 :block/page 1179 536874793]
   [1220 :block/parents 1179 536874793]
   [1220 :block/parents 1205 536874793]
+  [1220 :block/parents 1215 536875647]
   [1220
    :block/string
    "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)"
@@ -11542,16 +11530,18 @@
   [1400 :edit/time 1622036917187 536875622]
   [1400 :edit/user 3 536875622]
   [1401 :block/children 1198 536875632]
-  [1401 :block/children 1199 536875637]
   [1401 :block/children 1204 536875632]
   [1401 :block/open true 536875631]
   [1401 :block/order 3 536875631]
   [1401 :block/page 1179 536875631]
   [1401 :block/parents 1179 536875631]
-  [1401 :block/string "Vorhersagen " 536875632]
+  [1401
+   :block/string
+   "Vorhersagen --> starke empirische Stützung durch Dual-Task Aufgaben"
+   536875639]
   [1401 :block/uid "MZppcZ226" 536875631]
   [1401 :children/view-type :numbered 536875636]
   [1401 :create/time 1621857055508 536875631]
   [1401 :create/user 3 536875631]
-  [1401 :edit/time 1622036943092 536875632]
+  [1401 :edit/time 1622036991887 536875639]
   [1401 :edit/user 3 536875631]]}

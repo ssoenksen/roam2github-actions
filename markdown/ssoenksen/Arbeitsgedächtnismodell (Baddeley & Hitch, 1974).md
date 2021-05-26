@@ -19,21 +19,19 @@
 - Vorhersagen --> starke empirische Stützung durch Dual-Task Aufgaben
     1. Prozesse, die die gleichen Ressourcen verwenden, sollten sich gegenseitig behindern 
     2. Prozesse, die unterschiedliche Ressourcen verwenden, sollten problemlos gleichzeitig ausgeführt werden können
-    3. 
-- Testung
-    - Studie Robbins et al. (1996): Unabhängigkeit der Teilsysteme 
-        - Auswählen nächster Schachzüge
-        - erfordert zentrale Exekutive (CE) und den räumlich-visuellen Notizblock (VSSP), aber nicht die phonologische Schleife
-        - Bedingungen
-            - Control 
-                - klopfen
-            - Artikulatorische Unterdrückung 
-                - Wörter wiederholt aussprechen
-            - Unterdrückung Notizblock 
-                - Zahlen im Uhrzeigersinn drücken
-            - Unterdrückung Zentrale Exekutive 
-                - Zufallszahlen generieren
-        - Verschlechterung bei Unterdrückung VSSP & CE
+- Testung: Studie Robbins et al. (1996): Unabhängigkeit der Teilsysteme #studie
+    - Auswählen nächster Schachzüge
+    - erfordert zentrale Exekutive (CE) und den räumlich-visuellen Notizblock (VSSP), aber nicht die phonologische Schleife
+    - Bedingungen
+        - Control 
+            - klopfen
+        - Artikulatorische Unterdrückung 
+            - Wörter wiederholt aussprechen
+        - Unterdrückung Notizblock 
+            - Zahlen im Uhrzeigersinn drücken
+        - Unterdrückung Zentrale Exekutive 
+            - Zufallszahlen generieren
+    - Verschlechterung bei Unterdrückung VSSP & CE
     - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)
 - Bewertung
     - Stärken

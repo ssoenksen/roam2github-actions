@@ -7329,7 +7329,7 @@
         }
       },
       {
-        "string": "Vorhersagen ",
+        "string": "Vorhersagen --> starke empirische Stützung durch Dual-Task Aufgaben",
         "create-time": 1621857055508,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -7358,35 +7358,19 @@
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
-          },
-          {
-            "string": "--> starke empirische Stützung durch Dual-Task Aufgaben",
-            "create-time": 1621857049975,
-            "uid": "HsWpWd1d-",
-            "edit-time": 1621857076645,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
           }
         ],
         "uid": "MZppcZ226",
-        "edit-time": 1622036943092,
+        "edit-time": 1622036991887,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
       },
       {
-        "string": "Testung",
-        "create-time": 1621857132509,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
+        "edit-time": 1622037017145,
         "children": [
           {
-            "string": "Studie Robbins et al. (1996): Unabhängigkeit der Teilsysteme ",
+            "string": "",
             "create-time": 1621857141028,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -7513,29 +7497,43 @@
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
+              },
+              {
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)",
+                "create-time": 1621857220345,
+                "uid": "bqmHJUq5a",
+                "edit-time": 1621857224663,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
               }
             ],
             "uid": "1v2dT-QMm",
-            "edit-time": 1621857141028,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FgbmhoTEzXp.png?alt=media&token=f3397c0a-aa2e-4dc2-b849-f174582d6b98)",
-            "create-time": 1621857220345,
-            "uid": "bqmHJUq5a",
-            "edit-time": 1621857224663,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
+            "edit-time": 1622037019750,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           }
         ],
+        "refs": [
+          {
+            "uid": "2js24S1Un"
+          }
+        ],
         "uid": "NrOKuXEdP",
-        "edit-time": 1621857133659,
+        ":block/refs": [
+          {
+            ":block/uid": "2js24S1Un"
+          }
+        ],
+        "string": "Testung: Studie Robbins et al. (1996): Unabhängigkeit der Teilsysteme #studie",
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "create-time": 1621857132509,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
