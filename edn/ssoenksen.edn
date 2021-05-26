@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid92b8b8d1-95ae-4cae-a58f-10ab45aea9e2"
-   536875604]
+   "uuid417ace60-bd3e-48bd-9001-6656fa7652e7"
+   536875615]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -9335,13 +9335,13 @@
   [1184 :block/parents 1179 536874644]
   [1184 :block/parents 1182 536874660]
   [1184 :block/parents 1396 536875595]
-  [1184 :block/string "ähnelt Aufmerksamkeit" 536874641]
+  [1184 :block/string "ähnelt Aufmerksamkeit" 536875613]
   [1184 :block/uid "6NGZ_FQc4" 536874641]
   [1184 :edit/seen-by 3 536874658]
-  [1184 :edit/time 1621856904657 536874641]
+  [1184 :edit/time 1622036771509 536875613]
   [1184 :edit/user 3 536874641]
   [1185 :block/open true 536874641]
-  [1185 :block/order 3 536874664]
+  [1185 :block/order 3 536875609]
   [1185 :block/page 1179 536874645]
   [1185 :block/parents 1179 536874645]
   [1185 :block/parents 1182 536874663]
@@ -9425,11 +9425,11 @@
   [1192 :block/parents 1396 536875598]
   [1192
    :block/string
-   "enthält verbundene Information aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden"
-   536874641]
+   "enthält iIntegriertenformation aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden"
+   536875615]
   [1192 :block/uid "J-OSN1M_9" 536874641]
   [1192 :edit/seen-by 3 536874683]
-  [1192 :edit/time 1621856904657 536874641]
+  [1192 :edit/time 1622036788196 536875615]
   [1192 :edit/user 3 536874641]
   [1193 :block/open true 536874641]
   [1193 :block/order 0 536874641]
