@@ -1,4 +1,5 @@
-- zwei Komponenten
+- verarbeitet und speichert auditive Informationen kurzzeitig
+- weitere Entwicklung: zwei Komponenten
     - Phonologischer Speicher
         - passiv, befasst mit Sprachwahrnehmung
     - Artikulatorische Kontrollprozesse

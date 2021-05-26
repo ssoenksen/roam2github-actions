@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid33632641-1ac0-4f30-a132-38944f8412bb"
-   536875672]
+   "uuid5fbef67d-2173-4b12-bf26-8ce780712818"
+   536875676]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -9352,32 +9352,20 @@
   [1185 :edit/seen-by 3 536874661]
   [1185 :edit/time 1622036878858 536875618]
   [1185 :edit/user 3 536874641]
-  [1186 :block/children 1187 536874668]
   [1186 :block/open true 536874641]
   [1186 :block/order 1 536875635]
   [1186 :block/page 1179 536874646]
   [1186 :block/parents 1179 536874646]
   [1186 :block/parents 1396 536875596]
   [1186 :block/refs 1223 536874808]
-  [1186 :block/string "[[Phonologische Schleife]]" 536874807]
+  [1186
+   :block/string
+   "[[Phonologische Schleife]]: verarbeitet und speichert auditive Informationen kurzzeitig"
+   536875676]
   [1186 :block/uid "pq1iTvUdW" 536874641]
   [1186 :edit/seen-by 3 536874799]
-  [1186 :edit/time 1621857314521 536874807]
+  [1186 :edit/time 1622037344428 536875676]
   [1186 :edit/user 3 536874641]
-  [1187 :block/open true 536874641]
-  [1187 :block/order 0 536874668]
-  [1187 :block/page 1179 536874647]
-  [1187 :block/parents 1179 536874647]
-  [1187 :block/parents 1186 536874669]
-  [1187 :block/parents 1396 536875596]
-  [1187
-   :block/string
-   "verarbeitet und speichert auditive Informationen kurzzeitig"
-   536875604]
-  [1187 :block/uid "bqs64XwWI" 536874641]
-  [1187 :edit/seen-by 3 536874667]
-  [1187 :edit/time 1622036725269 536875604]
-  [1187 :edit/user 3 536874641]
   [1188 :block/children 1189 536874671]
   [1188 :block/open true 536874641]
   [1188 :block/order 2 536875635]
@@ -9649,6 +9637,7 @@
   [1223 :block/children 1237 536874879]
   [1223 :block/children 1238 536874853]
   [1223 :block/children 1249 536874899]
+  [1223 :block/children 1402 536875673]
   [1223 :block/open true 536874811]
   [1223 :block/uid "g7AFG9-6M" 536874808]
   [1223 :create/time 1621857314525 536874808]
@@ -9708,7 +9697,7 @@
   [1229 :block/children 1225 536874819]
   [1229 :block/children 1227 536874827]
   [1229 :block/open true 536874811]
-  [1229 :block/order 0 536874811]
+  [1229 :block/order 1 536875673]
   [1229 :block/page 1223 536874816]
   [1229 :block/parents 1223 536874816]
   [1229 :block/string "zwei Komponenten" 536874811]
@@ -9729,7 +9718,7 @@
   [1230 :edit/time 1621857330016 536874834]
   [1230 :edit/user 3 536874834]
   [1231 :block/open true 536874837]
-  [1231 :block/order 1 536874841]
+  [1231 :block/order 2 536875673]
   [1231 :block/page 1223 536874838]
   [1231 :block/parents 1223 536874838]
   [1231
@@ -9786,7 +9775,7 @@
   [1237 :block/children 1236 536874889]
   [1237 :block/children 1240 536874891]
   [1237 :block/open true 536874846]
-  [1237 :block/order 3 536874879]
+  [1237 :block/order 4 536875673]
   [1237 :block/page 1223 536874851]
   [1237 :block/parents 1223 536874851]
   [1237 :block/string "Phonologischer Ähnlichkeitseffekt" 536874855]
@@ -9795,7 +9784,7 @@
   [1237 :edit/time 1621857355304 536874855]
   [1237 :edit/user 3 536874846]
   [1238 :block/open true 536874853]
-  [1238 :block/order 2 536874853]
+  [1238 :block/order 3 536875673]
   [1238 :block/page 1223 536874854]
   [1238 :block/parents 1223 536874854]
   [1238
@@ -9922,7 +9911,7 @@
   [1249 :block/children 1248 536874945]
   [1249 :block/children 1250 536874915]
   [1249 :block/open true 536874899]
-  [1249 :block/order 4 536874899]
+  [1249 :block/order 5 536875673]
   [1249 :block/page 1223 536874907]
   [1249 :block/parents 1223 536874907]
   [1249 :block/string "Wortlängeneffekt" 536874899]
@@ -11450,4 +11439,17 @@
   [1401 :create/time 1621857055508 536875631]
   [1401 :create/user 3 536875631]
   [1401 :edit/time 1622036991887 536875639]
-  [1401 :edit/user 3 536875631]]}
+  [1401 :edit/user 3 536875631]
+  [1402 :block/open true 536875673]
+  [1402 :block/order 0 536875673]
+  [1402 :block/page 1223 536875674]
+  [1402 :block/parents 1223 536875674]
+  [1402
+   :block/string
+   "verarbeitet und speichert auditive Informationen kurzzeitig"
+   536875675]
+  [1402 :block/uid "ljnKucWwh" 536875673]
+  [1402 :create/time 1622037331912 536875673]
+  [1402 :create/user 3 536875673]
+  [1402 :edit/time 1622037333165 536875675]
+  [1402 :edit/user 3 536875673]]}

@@ -5,8 +5,7 @@
         - aktiviert bei Bearbeitung aller kognitiv anspruchsvollen Aufgaben 
         - ähnelt Aufmerksamkeit
         - verwendet Untersysteme (s.u.), v.a. episodischen Puffer
-    - [[Phonologische Schleife]]
-        - verarbeitet und speichert auditive Informationen kurzzeitig
+    - [[Phonologische Schleife]]: verarbeitet und speichert auditive Informationen kurzzeitig
     - [[Räumlich-visueller Notizblock]] (VSSP)
         - spezialisiert auf räumliche und visuelle Kodierung und Verarbeitung
     - [[Episodischer Puffer]] (in verbessertem Modell hinzugefügt, u.a. Baddeley, 2001) 

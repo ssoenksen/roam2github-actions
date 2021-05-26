@@ -7176,24 +7176,14 @@
             }
           },
           {
-            "string": "[[Phonologische Schleife]]",
+            "string": "[[Phonologische Schleife]]: verarbeitet und speichert auditive Informationen kurzzeitig",
             "refs": [
               {
                 "uid": "g7AFG9-6M"
               }
             ],
-            "children": [
-              {
-                "string": "verarbeitet und speichert auditive Informationen kurzzeitig",
-                "uid": "bqs64XwWI",
-                "edit-time": 1622036725269,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
             "uid": "pq1iTvUdW",
-            "edit-time": 1621857314521,
+            "edit-time": 1622037344428,
             ":block/refs": [
               {
                 ":block/uid": "g7AFG9-6M"
@@ -7578,6 +7568,18 @@
       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
     },
     "children": [
+      {
+        "string": "verarbeitet und speichert auditive Informationen kurzzeitig",
+        "create-time": 1622037331912,
+        "uid": "ljnKucWwh",
+        "edit-time": 1622037333165,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
       {
         "string": "zwei Komponenten",
         "children": [
