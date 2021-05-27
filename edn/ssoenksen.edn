@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid0752d95b-7bf4-4465-8644-897959a73595"
-   536876760]
+   "uuidf24cfffb-6c6b-4dcb-832d-946e874b71e9"
+   536876761]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -12946,7 +12946,6 @@
   [1547 :block/children 1591 536876730]
   [1547 :block/children 1592 536876733]
   [1547 :block/children 1594 536876750]
-  [1547 :block/children 1595 536876757]
   [1547 :block/open true 536876411]
   [1547 :block/order 4 536876543]
   [1547 :block/page 1539 536876412]
@@ -13499,15 +13498,4 @@
   [1594 :create/time 1622097637154 536876750]
   [1594 :create/user 3 536876750]
   [1594 :edit/time 1622097637154 536876750]
-  [1594 :edit/user 3 536876750]
-  [1595 :block/open true 536876757]
-  [1595 :block/order 4 536876757]
-  [1595 :block/page 1539 536876758]
-  [1595 :block/parents 1539 536876758]
-  [1595 :block/parents 1547 536876758]
-  [1595 :block/string "" 536876757]
-  [1595 :block/uid "e7r3qI-1T" 536876757]
-  [1595 :create/time 1622097663772 536876757]
-  [1595 :create/user 3 536876757]
-  [1595 :edit/time 1622097663772 536876757]
-  [1595 :edit/user 3 536876757]]}
+  [1594 :edit/user 3 536876750]]}

@@ -10355,18 +10355,6 @@
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
-          },
-          {
-            "string": "",
-            "create-time": 1622097663772,
-            "uid": "e7r3qI-1T",
-            "edit-time": 1622097663772,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
           }
         ],
         "uid": "oUb-R_ty3",

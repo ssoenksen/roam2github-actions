@@ -17,4 +17,3 @@
     - Bei Neuentwicklung eines Tests: Wie am besten mit Vielfalt umgehen?
     - Für jede mögliche Interpretation und Verwendung eines Testwerts Argumente und empirische Belege zu erbringen idR. unrealistisch 
     - --> Wahl der wichtigsten Interpretationen und Verwendungen, Ableitung von Prioritäten
-    - 
