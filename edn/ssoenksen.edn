@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid676e6214-cf54-4628-8c3f-ad07dfed2bf7"
-   536875881]
+   "uuid961943fe-1d52-41a8-beec-99c592f3224c"
+   536875910]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -9039,11 +9039,11 @@
   [1157 :block/parents 1151 536874552]
   [1157
    :block/string
-   "Gehirnareale: KZG in erster Linie unterstützt vom Hippocampus und dem umgebenden medialen Temporallappen"
-   536875564]
+   "**Gehirnareale**: KZG in erster Linie unterstützt vom Hippocampus und dem umgebenden medialen Temporallappen"
+   536875905]
   [1157 :block/uid "SfA1ppHro" 536874516]
   [1157 :edit/seen-by 3 536874550]
-  [1157 :edit/time 1622035915684 536875564]
+  [1157 :edit/time 1622091043471 536875905]
   [1157 :edit/user 3 536874516]
   [1159 :block/open true 536874526]
   [1159 :block/order 0 536874526]
@@ -9884,10 +9884,13 @@
   [1256 :block/page 1252 536874955]
   [1256 :block/parents 1252 536874955]
   [1256 :block/parents 1254 536875740]
-  [1256 :block/string "Logie (1995): separate Subsysteme" 536874952]
+  [1256
+   :block/string
+   "Logie (1995): separate **Subsysteme**"
+   536875910]
   [1256 :block/uid "YKE0TLJ3v" 536874952]
   [1256 :edit/seen-by 3 536875738]
-  [1256 :edit/time 1621857517655 536874952]
+  [1256 :edit/time 1622091310137 536875910]
   [1256 :edit/user 3 536874952]
   [1257 :block/open true 536874952]
   [1257 :block/order 0 536874969]
@@ -10087,8 +10090,8 @@
    :block/props
    {:image-size
     {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef"
-     {:width 219, :height ##NaN}}}
-   536875769]
+     {:width 320, :height ##NaN}}}
+   536875909]
   [1285
    :block/string
    "Zeichen – Farbe (2x vis. Zwischenspeicher) --> Interferenz ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef)"
@@ -10770,6 +10773,7 @@
    "tiefere Verarbeitung produziert elaboriertere, dauerhaftere und stärkere Gedächtnisspuren als oberflächliche Verarbeitung"
    536875351]
   [1362 :block/uid "1PNEwbvCB" 536875351]
+  [1362 :edit/seen-by 3 536875887]
   [1362 :edit/time 1621857961525 536875351]
   [1362 :edit/user 3 536875351]
   [1363 :block/open true 536875351]
@@ -10777,39 +10781,42 @@
   [1363 :block/page 1360 536875353]
   [1363 :block/parents 1360 536875353]
   [1363 :block/parents 1362 536875359]
+  [1363 :block/refs 1360 536875893]
   [1363
    :block/string
-   "Elaboration = tiefgehende semantische Verarbeitung"
-   536875364]
+   "Elaboration = tiefgehende semantische Verarbeitung [[Theorie der Verarbeitungsebenen (Craik & Lockhart, 1972)]]"
+   536875892]
   [1363 :block/uid "j40dQ3_2Q" 536875351]
   [1363 :edit/seen-by 3 536875357]
-  [1363 :edit/time 1621857981201 536875364]
+  [1363 :edit/time 1622090086528 536875892]
   [1363 :edit/user 3 536875351]
   [1364 :block/open true 536875351]
   [1364 :block/order 0 536875351]
   [1364 :block/page 1360 536875354]
   [1364 :block/parents 1360 536875354]
+  [1364 :block/refs 1080 536875886]
   [1364
    :block/string
-   "die Ebene (Tiefe) der Stimulusverarbeitung beeinflusst die Einprägsamkeit einer Information (vs. nur rehearsal --> Atkinson & Shiffrin)"
-   536875356]
+   "die Ebene (**Tiefe**) der Stimulusverarbeitung beeinflusst die **Einprägsamkeit** einer Information (vs. nur rehearsal --> [[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]])"
+   536875889]
   [1364 :block/uid "BQzMeqgsN" 536875351]
   [1364 :edit/seen-by 3 536875355]
-  [1364 :edit/time 1621857972952 536875356]
+  [1364 :edit/time 1622090016246 536875889]
   [1364 :edit/user 3 536875351]
   [1366 :block/open true 536875362]
   [1366 :block/order 0 536875362]
   [1366 :block/page 1360 536875363]
   [1366 :block/parents 1360 536875363]
   [1366 :block/parents 1362 536875363]
+  [1366 :block/refs 1080 536875891]
   [1366
    :block/string
-   "Rehearsal / Aufrechterhaltung = einfach das Wiederholen von Information "
-   536875362]
+   "Rehearsal / Aufrechterhaltung = einfach das Wiederholen von Information [[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]]"
+   536875890]
   [1366 :block/uid "8aSlZXC5k" 536875362]
   [1366 :create/time 1621857981197 536875362]
   [1366 :create/user 3 536875362]
-  [1366 :edit/time 1621857981197 536875362]
+  [1366 :edit/time 1622090080837 536875890]
   [1366 :edit/user 3 536875362]
   [1367 :block/children 1368 536875374]
   [1367 :block/children 1371 536875380]
@@ -10820,15 +10827,16 @@
   [1367 :block/order 2 536875366]
   [1367 :block/page 1360 536875367]
   [1367 :block/parents 1360 536875367]
+  [1367 :block/refs 1395 536875895]
   [1367
    :block/string
-   "Studie von Craik und Tulving (1975): Verarbeitungstiefe"
-   536875373]
+   "Studie von Craik und Tulving (1975): Verarbeitungstiefe #studie"
+   536875894]
   [1367 :block/uid "d6hPmECoB" 536875366]
   [1367 :create/time 1621857997835 536875366]
   [1367 :create/user 3 536875366]
   [1367 :edit/seen-by 3 536875387]
-  [1367 :edit/time 1621858007356 536875373]
+  [1367 :edit/time 1622090093543 536875894]
   [1367 :edit/user 3 536875366]
   [1368 :block/open true 536875371]
   [1368 :block/order 0 536875374]
@@ -10839,16 +10847,16 @@
    :block/props
    {:image-size
     {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F4Q72WP8T8C.png?alt=media&token=5956eb83-7155-4499-9dba-f7b14b32d49b"
-     {:width 324, :height ##NaN}}}
-   536875377]
+     {:width 366, :height ##NaN}}}
+   536875897]
   [1368
    :block/string
-   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F4Q72WP8T8C.png?alt=media&token=5956eb83-7155-4499-9dba-f7b14b32d49b)"
-   536875376]
+   "Aufgaben: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F4Q72WP8T8C.png?alt=media&token=5956eb83-7155-4499-9dba-f7b14b32d49b)"
+   536875896]
   [1368 :block/uid "D0XY0Vb7R" 536875371]
   [1368 :create/time 1621858007350 536875371]
   [1368 :create/user 3 536875371]
-  [1368 :edit/time 1621858018961 536875376]
+  [1368 :edit/time 1622090131124 536875896]
   [1368 :edit/user 3 536875371]
   [1370 :block/open true 536875380]
   [1370 :block/order 0 536875397]
@@ -10870,10 +10878,11 @@
   [1371 :block/parents 1367 536875382]
   [1371
    :block/string
-   "Besonderheit beeinflusst Erinnerung positiv"
-   536875380]
+   "**Besonderheit** beeinflusst Erinnerung positiv"
+   536875902]
   [1371 :block/uid "QM4stu-jl" 536875380]
-  [1371 :edit/time 1621858048162 536875380]
+  [1371 :edit/seen-by 3 536875900]
+  [1371 :edit/time 1622090499242 536875902]
   [1371 :edit/user 3 536875380]
   [1372 :block/open true 536875380]
   [1372 :block/order 0 536875401]
@@ -10939,12 +10948,12 @@
   [1376 :block/parents 1367 536875389]
   [1376
    :block/string
-   "explizite Gedächtnistests fanden Belege für Einfluss von Verarbeitungstiefe "
-   536875388]
+   "Weitere Studien: **explizite** Gedächtnistests fanden Belege für Einfluss von Verarbeitungstiefe "
+   536875901]
   [1376 :block/uid "US9vEZfoG" 536875388]
   [1376 :create/time 1621858052985 536875388]
   [1376 :create/user 3 536875388]
-  [1376 :edit/time 1621858052985 536875388]
+  [1376 :edit/time 1622090482697 536875901]
   [1376 :edit/user 3 536875388]
   [1377 :block/children 1370 536875397]
   [1377 :block/open true 536875394]
@@ -10954,12 +10963,12 @@
   [1377 :block/parents 1367 536875395]
   [1377
    :block/string
-   "implizite Gedächtnistests fanden schwächere Belege für Verarbeitungstiefe"
-   536875394]
+   "**implizite** Gedächtnistests fanden schwächere Belege für Verarbeitungstiefe"
+   536875899]
   [1377 :block/uid "XhgtGafoW" 536875394]
   [1377 :create/time 1621858057802 536875394]
   [1377 :create/user 3 536875394]
-  [1377 :edit/time 1621858057802 536875394]
+  [1377 :edit/time 1622090478382 536875899]
   [1377 :edit/user 3 536875394]
   [1378 :block/children 1374 536875410]
   [1378 :block/open true 536875407]
@@ -10969,12 +10978,12 @@
   [1378 :block/parents 1367 536875408]
   [1378
    :block/string
-   "Vorwissen hilft, Gedächtnis während des Enkodierens zu organisieren "
-   536875407]
+   "**Vorwissen** hilft, Gedächtnis während des Enkodierens zu organisieren "
+   536875903]
   [1378 :block/uid "9LC5QCY5F" 536875407]
   [1378 :create/time 1621858068033 536875407]
   [1378 :create/user 3 536875407]
-  [1378 :edit/time 1621858068033 536875407]
+  [1378 :edit/time 1622090554564 536875903]
   [1378 :edit/user 3 536875407]
   [1379 :block/children 1383 536875444]
   [1379 :block/children 1385 536875444]
@@ -10982,11 +10991,11 @@
   [1379 :block/order 3 536875416]
   [1379 :block/page 1360 536875413]
   [1379 :block/parents 1360 536875413]
-  [1379 :block/string "Bewertung" 536875420]
+  [1379 :block/string "__Bewertung__" 536875904]
   [1379 :block/uid "YrgYnFerb" 536875412]
   [1379 :create/time 1621858076280 536875412]
   [1379 :create/user 3 536875412]
-  [1379 :edit/time 1621858079122 536875420]
+  [1379 :edit/time 1622090590938 536875904]
   [1379 :edit/user 3 536875412]
   [1381 :block/open true 536875421]
   [1381 :block/order 0 536875429]
@@ -11158,11 +11167,14 @@
   [1399 :block/parents 1179 536875623]
   [1399 :block/parents 1396 536875623]
   [1399 :block/parents 1398 536875627]
-  [1399 :block/string "begrenzte Verarbeitungskapazität " 536875622]
+  [1399
+   :block/string
+   "begrenzte **Verarbeitungskapazität** "
+   536875906]
   [1399 :block/uid "MTBqHgwo3" 536875622]
   [1399 :create/time 1621857059031 536875622]
   [1399 :create/user 3 536875622]
-  [1399 :edit/time 1622036917187 536875622]
+  [1399 :edit/time 1622091154914 536875906]
   [1399 :edit/user 3 536875622]
   [1400 :block/open true 536875622]
   [1400 :block/order 1 536875626]
@@ -11172,12 +11184,12 @@
   [1400 :block/parents 1398 536875628]
   [1400
    :block/string
-   "arbeiten relativ unabhängig voneinander "
-   536875622]
+   "arbeiten relativ **unabhängig** voneinander "
+   536875907]
   [1400 :block/uid "jIePpnaP1" 536875622]
   [1400 :create/time 1621857064320 536875622]
   [1400 :create/user 3 536875622]
-  [1400 :edit/time 1622036917187 536875622]
+  [1400 :edit/time 1622091156944 536875907]
   [1400 :edit/user 3 536875622]
   [1401 :block/children 1198 536875632]
   [1401 :block/children 1204 536875632]
@@ -11187,13 +11199,13 @@
   [1401 :block/parents 1179 536875631]
   [1401
    :block/string
-   "Vorhersagen --> starke empirische Stützung durch Dual-Task Aufgaben"
-   536875639]
+   "**Vorhersagen** --> starke empirische Stützung durch Dual-Task Aufgaben"
+   536875908]
   [1401 :block/uid "MZppcZ226" 536875631]
   [1401 :children/view-type :numbered 536875636]
   [1401 :create/time 1621857055508 536875631]
   [1401 :create/user 3 536875631]
-  [1401 :edit/time 1622036991887 536875639]
+  [1401 :edit/time 1622091162510 536875908]
   [1401 :edit/user 3 536875631]
   [1402 :block/open true 536875673]
   [1402 :block/order 0 536875673]

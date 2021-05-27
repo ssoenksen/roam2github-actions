@@ -11,10 +11,10 @@
         - temporäres Speichersystem
         - enthält iIntegriertenformation aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden
     - Alle: 
-        - begrenzte Verarbeitungskapazität 
-        - arbeiten relativ unabhängig voneinander 
+        - begrenzte **Verarbeitungskapazität** 
+        - arbeiten relativ **unabhängig** voneinander 
 - Informationsfluss im Arbeitsgedächtnis ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F7fOVNkQQyd.png?alt=media&token=ce240035-57ed-4a63-8dfc-cd2e43fc3fe6)
-- Vorhersagen --> starke empirische Stützung durch Dual-Task Aufgaben
+- **Vorhersagen** --> starke empirische Stützung durch Dual-Task Aufgaben
     1. Prozesse, die die gleichen Ressourcen verwenden, sollten sich gegenseitig behindern 
     2. Prozesse, die unterschiedliche Ressourcen verwenden, sollten problemlos gleichzeitig ausgeführt werden können
 - Testung: Studie Robbins et al. (1996): Unabhängigkeit der Teilsysteme #studie

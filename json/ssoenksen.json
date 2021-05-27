@@ -6916,9 +6916,9 @@
             }
           },
           {
-            "string": "Gehirnareale: KZG in erster Linie unterstützt vom Hippocampus und dem umgebenden medialen Temporallappen",
+            "string": "**Gehirnareale**: KZG in erster Linie unterstützt vom Hippocampus und dem umgebenden medialen Temporallappen",
             "uid": "SfA1ppHro",
-            "edit-time": 1622035915684,
+            "edit-time": 1622091043471,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -7259,10 +7259,10 @@
             },
             "children": [
               {
-                "string": "begrenzte Verarbeitungskapazität ",
+                "string": "begrenzte **Verarbeitungskapazität** ",
                 "create-time": 1621857059031,
                 "uid": "MTBqHgwo3",
-                "edit-time": 1622036917187,
+                "edit-time": 1622091154914,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -7271,10 +7271,10 @@
                 }
               },
               {
-                "string": "arbeiten relativ unabhängig voneinander ",
+                "string": "arbeiten relativ **unabhängig** voneinander ",
                 "create-time": 1621857064320,
                 "uid": "jIePpnaP1",
-                "edit-time": 1622036917187,
+                "edit-time": 1622091156944,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -7309,7 +7309,7 @@
         }
       },
       {
-        "string": "Vorhersagen --> starke empirische Stützung durch Dual-Task Aufgaben",
+        "string": "**Vorhersagen** --> starke empirische Stützung durch Dual-Task Aufgaben",
         "create-time": 1621857055508,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -7341,7 +7341,7 @@
           }
         ],
         "uid": "MZppcZ226",
-        "edit-time": 1622036991887,
+        "edit-time": 1622091162510,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -7768,7 +7768,7 @@
         "string": "**Kontroverse**: Verarbeitung visueller und räumlicher Infos in separaten Systemen?",
         "children": [
           {
-            "string": "Logie (1995): separate Subsysteme",
+            "string": "Logie (1995): separate **Subsysteme**",
             "children": [
               {
                 "string": "**visueller Zwischenspeicher** (Puffer): speichert Information über visuelle Form und Farbe",
@@ -7822,7 +7822,7 @@
               }
             ],
             "uid": "YKE0TLJ3v",
-            "edit-time": 1621857517655,
+            "edit-time": 1622091310137,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -7914,7 +7914,7 @@
                         "props": {
                           "image-size": {
                             "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef": {
-                              "width": 219,
+                              "width": 320,
                               "height": null
                             }
                           }
@@ -7924,7 +7924,7 @@
                         ":block/props": {
                           ":image-size": {
                             "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FzDq6E9F8pO.png?alt=media&token=8709b7ab-0189-416e-9dd4-5a7a8f482bef": {
-                              ":width": 219,
+                              ":width": 320,
                               ":height": null
                             }
                           }
@@ -8483,9 +8483,19 @@
     },
     "children": [
       {
-        "string": "die Ebene (Tiefe) der Stimulusverarbeitung beeinflusst die Einprägsamkeit einer Information (vs. nur rehearsal --> Atkinson & Shiffrin)",
+        "string": "die Ebene (**Tiefe**) der Stimulusverarbeitung beeinflusst die **Einprägsamkeit** einer Information (vs. nur rehearsal --> [[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]])",
+        "refs": [
+          {
+            "uid": "inHugqSKJ"
+          }
+        ],
         "uid": "BQzMeqgsN",
-        "edit-time": 1621857972952,
+        "edit-time": 1622090016246,
+        ":block/refs": [
+          {
+            ":block/uid": "inHugqSKJ"
+          }
+        ],
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -8494,21 +8504,41 @@
         "string": "tiefere Verarbeitung produziert elaboriertere, dauerhaftere und stärkere Gedächtnisspuren als oberflächliche Verarbeitung",
         "children": [
           {
-            "string": "Rehearsal / Aufrechterhaltung = einfach das Wiederholen von Information ",
+            "string": "Rehearsal / Aufrechterhaltung = einfach das Wiederholen von Information [[Mehrspeichermodell des Gedächtnisses (Atkison & Shiffrin, 1968)]]",
             "create-time": 1621857981197,
-            "uid": "8aSlZXC5k",
-            "edit-time": 1621857981197,
+            ":block/refs": [
+              {
+                ":block/uid": "inHugqSKJ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "inHugqSKJ"
+              }
+            ],
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
+            "uid": "8aSlZXC5k",
+            "edit-time": 1622090080837,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "Elaboration = tiefgehende semantische Verarbeitung",
+            "string": "Elaboration = tiefgehende semantische Verarbeitung [[Theorie der Verarbeitungsebenen (Craik & Lockhart, 1972)]]",
+            "refs": [
+              {
+                "uid": "ToPjDRLFi"
+              }
+            ],
             "uid": "j40dQ3_2Q",
-            "edit-time": 1621857981201,
+            "edit-time": 1622090086528,
+            ":block/refs": [
+              {
+                ":block/uid": "ToPjDRLFi"
+              }
+            ],
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -8521,18 +8551,14 @@
         }
       },
       {
-        "string": "Studie von Craik und Tulving (1975): Verarbeitungstiefe",
-        "create-time": 1621857997835,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
+        "edit-time": 1622090093543,
         "children": [
           {
-            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F4Q72WP8T8C.png?alt=media&token=5956eb83-7155-4499-9dba-f7b14b32d49b)",
+            "string": "Aufgaben: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F4Q72WP8T8C.png?alt=media&token=5956eb83-7155-4499-9dba-f7b14b32d49b)",
             "props": {
               "image-size": {
                 "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F4Q72WP8T8C.png?alt=media&token=5956eb83-7155-4499-9dba-f7b14b32d49b": {
-                  "width": 324,
+                  "width": 366,
                   "height": null
                 }
               }
@@ -8541,7 +8567,7 @@
             ":block/props": {
               ":image-size": {
                 "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F4Q72WP8T8C.png?alt=media&token=5956eb83-7155-4499-9dba-f7b14b32d49b": {
-                  ":width": 324,
+                  ":width": 366,
                   ":height": null
                 }
               }
@@ -8550,13 +8576,13 @@
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
             "uid": "D0XY0Vb7R",
-            "edit-time": 1621858018961,
+            "edit-time": 1622090131124,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "explizite Gedächtnistests fanden Belege für Einfluss von Verarbeitungstiefe ",
+            "string": "Weitere Studien: **explizite** Gedächtnistests fanden Belege für Einfluss von Verarbeitungstiefe ",
             "create-time": 1621858052985,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -8572,13 +8598,13 @@
               }
             ],
             "uid": "US9vEZfoG",
-            "edit-time": 1621858052985,
+            "edit-time": 1622090482697,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "implizite Gedächtnistests fanden schwächere Belege für Verarbeitungstiefe",
+            "string": "**implizite** Gedächtnistests fanden schwächere Belege für Verarbeitungstiefe",
             "create-time": 1621858057802,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -8594,13 +8620,13 @@
               }
             ],
             "uid": "XhgtGafoW",
-            "edit-time": 1621858057802,
+            "edit-time": 1622090478382,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "Besonderheit beeinflusst Erinnerung positiv",
+            "string": "**Besonderheit** beeinflusst Erinnerung positiv",
             "children": [
               {
                 "string": "eine Gedächtnisspur, die anders enkodiert wurde",
@@ -8620,13 +8646,13 @@
               }
             ],
             "uid": "QM4stu-jl",
-            "edit-time": 1621858048162,
+            "edit-time": 1622090499242,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "Vorwissen hilft, Gedächtnis während des Enkodierens zu organisieren ",
+            "string": "**Vorwissen** hilft, Gedächtnis während des Enkodierens zu organisieren ",
             "create-time": 1621858068033,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -8642,20 +8668,34 @@
               }
             ],
             "uid": "9LC5QCY5F",
-            "edit-time": 1621858068033,
+            "edit-time": 1622090554564,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           }
         ],
+        "refs": [
+          {
+            "uid": "2js24S1Un"
+          }
+        ],
         "uid": "d6hPmECoB",
-        "edit-time": 1621858007356,
+        ":block/refs": [
+          {
+            ":block/uid": "2js24S1Un"
+          }
+        ],
+        "string": "Studie von Craik und Tulving (1975): Verarbeitungstiefe #studie",
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "create-time": 1621857997835,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
       },
       {
-        "string": "Bewertung",
+        "string": "__Bewertung__",
         "create-time": 1621858076280,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -8731,7 +8771,7 @@
           }
         ],
         "uid": "YrgYnFerb",
-        "edit-time": 1621858079122,
+        "edit-time": 1622090590938,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }

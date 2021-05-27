@@ -5,7 +5,7 @@
     - kann erklären, warum Info im KZG bereits mit LZG „in Berührung“ war sowie schnelle Top-Down Effekte der Wahrnehmung
     - **Problem**: amnestische Patienten die Störung des LZG haben, aber intaktes KZG
         - Erklärungsversuch: Beeinträchtigte Fähigkeit zur Abspeicherung von Relationen
-    - Gehirnareale: KZG in erster Linie unterstützt vom Hippocampus und dem umgebenden medialen Temporallappen
+    - **Gehirnareale**: KZG in erster Linie unterstützt vom Hippocampus und dem umgebenden medialen Temporallappen
 - Studie zum Kurzzeitgedächtnis bei Hirnschädigung (Race et al., 2013) #studie 
     - Wiedererkennenstest von Gesichtern nach 8 oder 15 sec
     - Kontrollpersonen vs. Patienten mit Schädigung Hippocampus (H only) vs. Hippocampus + medialer Temporallappen (H+)
