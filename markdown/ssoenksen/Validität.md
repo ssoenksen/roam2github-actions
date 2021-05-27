@@ -1,0 +1,20 @@
+- Validität ist ein integriertes, bewertendes Urteil über das Aumaß, in dem die Angemessenheit und die Güte von Interpretationen und Maßnahmen auf Basis von Testwerten und anderen diagnostischen Verfahren durch empirische Belege und theoretische Argumente gestützt sind (Messick, 1989) #definition
+- **Geschichte**
+    - Begann mit [[Kriteriumsvalidität]] zu Beginn des 20. Jahrhunderts (Kriegsdienst): Klar messbares Kriterium
+    - 1950er Jahre - [[Konstruktvalidität]]: Annahme von konstruierten Größen auf Basis von psychologischen Theorien, empirisch zu überprüfen --> Cronbach & Meehl (1955)
+        - einheitliches Gütekriterium bis 1990er
+        - Psychologische Theorien oft schwach formalisiert, Hypothesenerstellung schwierig --> Konstruktvalidität als "Mülleimerkategorie" (Cronbach, 1980) ohne theoretische Argumentation
+    - neuere Konzeptionen: Bezug auf theoretische Konstrukte bedeutsam, aber formalisierte Theorien weniger wichtig
+        - **Mittelpunkt heute:** Validität der **Interpretationen** und der **Verwendung** diagnostischer Ergebnisse --> Frage nach theoretische Argumente und empirische Belege (bspw. Kane, 2001)
+- Statt "Validität eines Tests": Validität verschiedener möglicher Interpretationen von Ergebnissen eines Tests
+    - **Validierung**: Untersuchung der Validität von Testwertinterpretationen, bspw. zu Bewertung, Verallgemeinerung, Extrapolation, kausale Erklärung, Entscheidungen --> unterschiedliche Interpretationen sollen legitimiert/ falsifiziert werden
+- **Formen**
+    - [[Inhaltsvalidität]]
+    - [[Konstruktvalidität]]
+    - [[Kriteriumsvalidität]]
+- Wahl einer geeigneten **Validierungsstrategie**
+    - Testergebnis kann vielfältig interpretiert werden, daher vielfältige mögliche Strategien zur Validierung dieser Interpretationen
+    - Bei Neuentwicklung eines Tests: Wie am besten mit Vielfalt umgehen?
+    - Für jede mögliche Interpretation und Verwendung eines Testwerts Argumente und empirische Belege zu erbringen idR. unrealistisch 
+    - --> Wahl der wichtigsten Interpretationen und Verwendungen, Ableitung von Prioritäten
+    - 

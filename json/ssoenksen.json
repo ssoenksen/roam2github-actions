@@ -1748,6 +1748,40 @@
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
+          },
+          {
+            "string": "V7 [[Validität]]",
+            "create-time": 1622094292506,
+            ":block/refs": [
+              {
+                ":block/uid": "dajBA3hIW"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "dajBA3hIW"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "XwvygmW_u",
+            "edit-time": 1622094296778,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1622094296773,
+            "uid": "IAEQBMXUI",
+            "edit-time": 1622094296773,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
           }
         ],
         "uid": "YRA5RQfyx",
@@ -6131,35 +6165,240 @@
     },
     "children": [
       {
-        "string": "V6 [[Gedächtnis]]",
-        "create-time": 1621855954778,
-        ":block/refs": [
+        "string": "Organisation",
+        "heading": 1,
+        "children": [
           {
-            ":block/uid": "cduY_lyQ1"
+            "string": "Zeitplan: Im Ordner",
+            "uid": "4tCq0Z1NT",
+            "edit-time": 1622092831685,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Materialien für jede Vorlesung",
+            "children": [
+              {
+                "string": "Vorlesungen (Passwort: UEH)",
+                "uid": "O0g_6rGtW",
+                "edit-time": 1622092831685,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Buch",
+                "uid": "ly_mVZ_q2",
+                "edit-time": 1622092831685,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Studienbriefe",
+                "uid": "THDbqWWMp",
+                "edit-time": 1622092831685,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "[Material zum Buch](https://routledgetextbooks.com/textbooks/9781138482234/) (Karteikarten, Quizzes etc.)",
+                "uid": "vlFES73JQ",
+                "edit-time": 1622092831685,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "[Linksammlung 3D-Darstellung von Hirnregionen](https://moodle-psy.fernuni-hagen.de/mod/page/view.php?id=78113)",
+                "uid": "3OYqPZ2WF",
+                "edit-time": 1622092831685,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "J2KPDca31",
+            "edit-time": 1622092831685,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Prüfungsvorleistungen: 3 Stück vom 17.5.-30.6.",
+            "uid": "nGRYlFTkp",
+            "edit-time": 1622092831685,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Schwerpunkte Klausur: s. Ordner",
+            "uid": "j_Gt5BQTn",
+            "edit-time": 1622092851333,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Fehlerliste Buch: s. Ordner",
+            "uid": "fV0TBnM3S",
+            "edit-time": 1622092872648,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
           }
         ],
-        "refs": [
-          {
-            "uid": "cduY_lyQ1"
-          }
-        ],
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
-        "uid": "M_1S3sycB",
-        "edit-time": 1621855972540,
+        "uid": "gb8GuAdEI",
+        "edit-time": 1622092831685,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
       },
       {
-        "string": "",
-        "create-time": 1621855972529,
-        "uid": "ZQmCQ8fdL",
-        "edit-time": 1621855972529,
+        "string": "Aktivitäten pro Unit",
+        "heading": 1,
+        "children": [
+          {
+            "string": "Wiederholen der vorherige(n) Units",
+            "uid": "d8G_UK-iS",
+            "edit-time": 1622092899220,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Flashcards + Quiz der vorherige(n) Units im Buch-Campanion",
+            "uid": "RVyvKEldg",
+            "edit-time": 1622092899220,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Lehrbuch",
+            "uid": "TjDAe7d0s",
+            "edit-time": 1622092899220,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Einleitung für Vorlesungen (moodle)",
+            "uid": "PemnzchxG",
+            "edit-time": 1622092899220,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Vorlesungen",
+            "uid": "goYb3TNLT",
+            "edit-time": 1622092899220,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Skript (Text, keine Aufgaben)",
+            "uid": "NzPCCprn4",
+            "edit-time": 1622092899220,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Aufgaben (moodle)",
+            "uid": "N-eCmtv6u",
+            "edit-time": 1622092899220,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Abhaken im Dateisystem 🙂",
+            "uid": "GJ8LmcXTS",
+            "edit-time": 1622092899220,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "S8idXPSGy",
+        "edit-time": 1622092907696,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Vorlesungen",
+        "create-time": 1622092795357,
+        "heading": 1,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
+        "children": [
+          {
+            "string": "V1 [[Grundlagen]]",
+            "create-time": 1622093019266,
+            ":block/refs": [
+              {
+                ":block/uid": "x3WlbiUij"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "x3WlbiUij"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "i4_eaCZeg",
+            "edit-time": 1622093023288,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "^^fehlt:^^ V2-V5",
+            "create-time": 1622093940577,
+            "uid": "yMgrRUJ02",
+            "edit-time": 1622093993435,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "V6 [[Gedächtnis]]",
+            "create-time": 1621855954778,
+            ":block/refs": [
+              {
+                ":block/uid": "cduY_lyQ1"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "cduY_lyQ1"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "M_1S3sycB",
+            "edit-time": 1621855972540,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "sJqeS_Szr",
+        "edit-time": 1622092797376,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -7699,19 +7938,9 @@
                 }
               },
               {
-                "string": "nachgewiesen durch Baddeley et al. (1975, 2002): artikulatorische Unterdrückung beseitigte den Wortlängeneffekt #unklar",
-                "refs": [
-                  {
-                    "uid": "NUh0oFMJ9"
-                  }
-                ],
+                "string": "nachgewiesen durch Baddeley et al. (1975, 2002): artikulatorische Unterdrückung beseitigte den Wortlängeneffekt",
                 "uid": "XyL37QiuS",
-                "edit-time": 1622037824895,
-                ":block/refs": [
-                  {
-                    ":block/uid": "NUh0oFMJ9"
-                  }
-                ],
+                "edit-time": 1622092091773,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
@@ -7768,7 +7997,7 @@
         "string": "**Kontroverse**: Verarbeitung visueller und räumlicher Infos in separaten Systemen?",
         "children": [
           {
-            "string": "Logie (1995): separate **Subsysteme**",
+            "string": "Logie (1995): separate Subsysteme",
             "children": [
               {
                 "string": "**visueller Zwischenspeicher** (Puffer): speichert Information über visuelle Form und Farbe",
@@ -7822,7 +8051,7 @@
               }
             ],
             "uid": "YKE0TLJ3v",
-            "edit-time": 1622091310137,
+            "edit-time": 1621857517655,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -8323,10 +8552,10 @@
         }
       },
       {
-        "string": "enthält iIntegriertenformation aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden",
+        "string": "integriert Information aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden",
         "create-time": 1622038959023,
         "uid": "w9CwecfMQ",
-        "edit-time": 1622038959023,
+        "edit-time": 1622092202308,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
@@ -8836,6 +9065,1686 @@
     "title": "May 27th, 2021",
     "uid": "05-27-2021",
     "edit-time": 1622077706381,
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1622093023290,
+    "title": "Grundlagen",
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    "children": [
+      {
+        "string": "Allgemeine Psychologie = Erforschung der psychischen Prozesse des menschlichen Erlebens und Verhaltens, die bei allen Menschen auf eine vergleichbare Weise stattfinden",
+        "create-time": 1622093029068,
+        "uid": "cG5a9BaTQ",
+        "edit-time": 1622093029347,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Four approaches",
+        "create-time": 1622093030753,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "{{table}}",
+            "create-time": 1622093040786,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "**Approach**",
+                "create-time": 1622093053169,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "**Characteristics**",
+                    "create-time": 1622093059676,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "**Strengths**",
+                        "create-time": 1622093062956,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "**Limitations**",
+                            "create-time": 1622093065565,
+                            "uid": "mwQQkPfVs",
+                            "edit-time": 1622093202443,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "THLKnDy5e",
+                        "edit-time": 1622093201411,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "ONkosAGsg",
+                    "edit-time": 1622093200437,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "FmezgsEOM",
+                "edit-time": 1622093199508,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "(Experimental) Cognitive psychology",
+                "create-time": 1622093068436,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "= beschäftigt sich mit internen Prozessen, die es uns erlauben, die Umwelt wahrzunehmen und mit ihr zu interagieren (→ Beschreiben, Erklären, Vorhersagen) \n\ndurch: Beobachtung von Verhalten während der Bewältigung kognitiver Aufgaben \n\nErstes Labor: W. Wundt in Leipzig (1879), dann H. Ebbinghaus \n\nMessung in Experimenten: 1) Reaktionsgeschwindigkeit, 2) Akkuratheit (Verhalten) \n\nCrucial year 1956: Meeting at MIT with 1) Noam Chomsky's theory of language; 2) George Miller's magic number seven in short-term memory; 3) Alan Newell/ Herbert Simon's General Problem Solver; 4) first systematic attempt to cognitively study concept formation (Bruner et al.) \n\nInformation-processing approach: • Classical (1970s): bottom-up (stimulus defines way) and serial processing, S → Attention → Perception → Thought processes → Decision → R • Modern (Netzwerkmetapher): + top-drown (Vorwissen/ Erfahrungen), parallel and cascade processing (= later processing stages start before earlier have been completed), automatische Aktivationsausbreitung \n\nTask-impurity problem = Due to several processes in most cognitive tasks, findings are hard to interpret; solved by considering various tasks requiring same processes",
+                    "create-time": 1622093075424,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "1st systematic approach \n\nSource of most theories and tasks, numerous replicated findings \n\nFlexible \n\nInfluenced other areas of psychology",
+                        "create-time": 1622093083954,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Cognitive processes complex and hard to distinguish \n\nBehavioral evidence only indirect \n\nTheories vague and hard to test, lack of overarching framework \n\nParadigm specificity = Findings not replicated with different tasks or paradigms \n\nProblems of ecological validity (= applicability of findings of laboratory studies to everyday settings)",
+                            "create-time": 1622093089057,
+                            "uid": "CG0xd5T3W",
+                            "edit-time": 1622093195939,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "FTKqW4d5c",
+                        "edit-time": 1622093179475,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "pITav3IXo",
+                    "edit-time": 1622093156501,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "_5qel1VtA",
+                "edit-time": 1622093075431,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Cognitive neuropsychology",
+                "create-time": 1622093210562,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Überprüfung kognitiver Theorien mithilfe der Untersuchung von Patienten mit Hirnschädigungen \n\nFocus on  cognitive performance of brain-damaged patients with lesions, e.g. patient KF (Shallice & Warrington, 1970) with impaired short-term but intact long-term memory \n\nAssumptions: • Modularity = Assumption that cognitive system consists of independent/ separate modules • Domain specificity = Modules specialized for a given type of processing, serial processing • Anatomical modularity = Each module located in specific brain area (e.g. visual processing, not for most complex tasks) • Universality  (=  Individuals share similar organisation of cognitive functions, have same brain anatomy) refuted (e.g. brain networks for speech and language) → Two-level model (Duffau, 2017): ◦ Cortical level: High variability ◦ Subcortial level: Little variability • Subtractivity = Brain damage impairs processing modules but does not change/ add anything • Transparency = Ausfälle nicht durch andere Module kompensierbar \n\nMethods: • Einfache Dissoziation (im Vgl. zu Normal-TN); prevention of wrong conclusions through double dissociations (= intact performance by brain-damaged patients on one tasks and poor performance on another + opposite pattern with another patient) • Through associations (= multiple symptoms found together in brain-damaged patients  → common source) • Case-series studies → allow analysis of extent of variation, identification of outliers",
+                    "create-time": 1622093221417,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Double dissociations provide strong evidence for processing modules \n\nCausal links shown between brain damage and cognitive performance \n\nTransformed memory and language research \n\nLink between cognitive psychology and cognitive neuroscience \n\nKausalschlüsse, Überprüfung von Theorien",
+                        "create-time": 1622093263255,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Patients may develop compensatory strategies not found in healthy individuals (Hartwigsen, 2018: general processes compensate for specific ones, not vice-versa) \n\nBrain plasticity complicates interpretation \n\nMany theoretical assumptions too extreme \n\nProcesses low in detail \n\nExcessive reliance on single-case studies",
+                            "create-time": 1622093283293,
+                            "uid": "QhbVkx-BL",
+                            "edit-time": 1622093295839,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "doYa_sWHI",
+                        "edit-time": 1622093276131,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "LI5pgN5X1",
+                    "edit-time": 1622093244361,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "52Js21ZHX",
+                "edit-time": 1622093221423,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Cognitive neuroscience",
+                "create-time": 1622093307192,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Approach to understand human cognition by studying behavior and brain activity and structure \n\nMessung: Gehirnaktivität bei der Bewältigung kognitiver Aufgaben \n\nTechniques see below \n\nResearch: • Neural decoding = Using patterns of brain activity to determine stimulus",
+                    "create-time": 1622093308708,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Great variety of techniques for high temporal or spatial resolution \n\nFunctional specialisation (= each brain area specialized for specific function) and brain integration to be studied \n\nTMS permits causal inferences",
+                        "create-time": 1622093329945,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Mostly correlational data (fMRI) \n\nOver-interpretation (\"blobology\") and undue reliance on reverse inference (= using patterns of brain activity to determine cognitive process) \n\nMany false positives and replication failures (Uttal, 2012: only 14-51% agreement in meta-analyses) \n\nLess new theories \n\nDifficulty in relating to psychological processes \n\nProblems of ecological validity and paradigm specificity \n\nProne to \"neuroenchantment\" (Ali et al., 2014)",
+                            "create-time": 1622093343409,
+                            "uid": "Ekltfkb0t",
+                            "edit-time": 1622093365749,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "zO4qaSsrb",
+                        "edit-time": 1622093338451,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "wYdEORn9Y",
+                    "edit-time": 1622093323153,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "1RqBvFm6A",
+                "edit-time": 1622093308714,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Computational cognitive science",
+                "create-time": 1622093370589,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Understanding human mind through computer simulation / Entwicklung mathematisch-spez. Modelle zur Beschreibung und Vorhersage von Kognition \n\nSub-categories: • Computational modelling (= computer programs that simulate human cognitive processes) • Artificial intelligence (= computer programs that produce intelligent outcomes) • Cognitive architectures (= domänenübergreifende kognitive Modelle) \n\nTools (cognitive architectures): 1. Connectionism/ konnektionistische Netzwerke/ neural network models (= consisting of interconnected networks of nodes): ◦ knowledge items are distributed, processing involves simultaneous activation ◦ Back-propagation = Learning mechanism based on comparing actual responses to correct ones (bottom-up + top-down) ◦ Deep neural networks = several hidden layers 2. Production systems = large numbers of production rules (if-then) plus working memory, ◦ Adaptive Control of Thought-Rational (ACT-R, Anderson et al., 2004): ▪ Several modules form cognitive system, ACT-R identifies brain regions of modules ▪ Four modules: Retrieval module, imaginal module, goal module, procedural module (production rules) ◦ Standard model of the mind (Laird et al., 2017): Commonalities among major cognitive architectures: ▪ Five independent modules: • Declarative long-term memory • Procedural long-term memory • Working memory • Perception • Motor ▪ Cognitive cycle",
+                    "create-time": 1622093372452,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Bindeglied kognitive Neurowissenschaften - exper. kognitive Psychologie \n\nPrecise theoretical assumptions \n\nComprehensive cognitive architectures \n\nComputational models used to model brain activity and damage",
+                        "create-time": 1622093403855,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Often no knowledge gain \n\nOverfitting \n\nHard to falsify \n\nLack of motivational and emotional factors \n\nResearchers' reluctance to transparency",
+                            "create-time": 1622093423513,
+                            "uid": "z1CFnCO05",
+                            "edit-time": 1622093437188,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "N9IQpyOtF",
+                        "edit-time": 1622093419374,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "bKchZrJNM",
+                    "edit-time": 1622093393651,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "wSgdJHqiy",
+                "edit-time": 1622093372456,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "ZptB9j7mI",
+            "edit-time": 1622093053176,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "7sa3rumY0",
+        "edit-time": 1622093040795,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Cognitive neuroscience",
+        "create-time": 1622093463372,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Brain structure",
+            "heading": 2,
+            "children": [
+              {
+                "string": "Graue Substanz: Neuronale Zellkörper (Neuronen, Gliazellen, Synapsen) → Verarbeitung und Kontrolle",
+                "uid": "i3cxqGifw",
+                "edit-time": 1622093489688,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Weiße Substanz: Myelinisierte Axone → Koordination und Kommunikation",
+                "uid": "3CBq1jmst",
+                "edit-time": 1622093489688,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Directions: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F7ouj2KN0hK.png?alt=media&token=c4702a80-65f2-4c5c-9dd1-c34c2342a4c6)",
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F7ouj2KN0hK.png?alt=media&token=c4702a80-65f2-4c5c-9dd1-c34c2342a4c6": {
+                      "width": 222,
+                      "height": null
+                    }
+                  }
+                },
+                "uid": "059O1D2VT",
+                "edit-time": 1622093521031,
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F7ouj2KN0hK.png?alt=media&token=c4702a80-65f2-4c5c-9dd1-c34c2342a4c6": {
+                      ":width": 222,
+                      ":height": null
+                    }
+                  }
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Seitliche Ansicht: lateral",
+                "uid": "YUl7qwSRe",
+                "edit-time": 1622093536969,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Innenliegende Ansicht: medial",
+                "uid": "0EdIE9M2R",
+                "edit-time": 1622093536969,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Coronal-/Frontalebene: Querschnitt (Krone)",
+                "uid": "LbPtkoBVJ",
+                "edit-time": 1622093536969,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Horizontalschnitt",
+                "uid": "J-3zlHZrW",
+                "edit-time": 1622093536969,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Saggitalebene: Querschnitt lateral",
+                "uid": "7aQY5k6Uo",
+                "edit-time": 1622093536969,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Cerebral cortex (left hemisphere): ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FChutOba-J7.png?alt=media&token=4f5643e6-9a1d-4f95-86de-55a3d09a7be0)",
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FChutOba-J7.png?alt=media&token=4f5643e6-9a1d-4f95-86de-55a3d09a7be0": {
+                      "width": 313,
+                      "height": null
+                    }
+                  }
+                },
+                "uid": "QPCHtjslL",
+                "edit-time": 1622093555291,
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FChutOba-J7.png?alt=media&token=4f5643e6-9a1d-4f95-86de-55a3d09a7be0": {
+                      ":width": 313,
+                      ":height": null
+                    }
+                  }
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Sulcus (pl. Sulci): Furrow in brain surface",
+                "uid": "I3yeE04m_",
+                "edit-time": 1622093566669,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Gyrus (pl. gyri): Prominent elevated area on brain surface",
+                "uid": "k03XIXP0D",
+                "edit-time": 1622093566669,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Brodmann brain areas (lateral, medial; e.g. BA17: Primary visual cortex): Total 52, distributed based on cell types, not cortical areas: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FRcfOyxwvL7.png?alt=media&token=9d9096ad-5b8a-432a-9dc2-0b2850caa6fb)",
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FRcfOyxwvL7.png?alt=media&token=9d9096ad-5b8a-432a-9dc2-0b2850caa6fb": {
+                      "width": 234,
+                      "height": null
+                    }
+                  }
+                },
+                "uid": "epZxlMIWJ",
+                "edit-time": 1622093593922,
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FRcfOyxwvL7.png?alt=media&token=9d9096ad-5b8a-432a-9dc2-0b2850caa6fb": {
+                      ":width": 234,
+                      ":height": null
+                    }
+                  }
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Connectome (= wiring diagram of neural connections in brain) → Theorie der komplexen Topologie (Bullmore & Sporns, 2012):",
+                "children": [
+                  {
+                    "string": "Prinzip der Kosten-Kontrolle (→ lattice topology)",
+                    "uid": "FBU1ASGi6",
+                    "edit-time": 1622093613966,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Prinzip der Effizienz (→ random topology) ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FNUMnsZTmLX.png?alt=media&token=ecd9659a-cd1a-4a91-b609-664d950a85a8)",
+                    "uid": "kGrk_1VtA",
+                    "edit-time": 1622093633810,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "JA7TNF22m",
+                "edit-time": 1622093613966,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Human brain: Komplexe Topologie (moderate efficiency and cost, 100 bn neurons with ca. 10,000 connections each)",
+                "children": [
+                  {
+                    "string": "Modules (= small areas of tightly clustered connections)",
+                    "uid": "avqkAexLU",
+                    "edit-time": 1622093650852,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Hubs (= regions with large numbers of connections to other regions): Hubs are strongly interconnected → rich club (Collin et al., 2014): ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FIdClRVBDmY.png?alt=media&token=155919e5-cab1-4d6b-92e8-89188849fa3a)",
+                    "props": {
+                      "image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FIdClRVBDmY.png?alt=media&token=155919e5-cab1-4d6b-92e8-89188849fa3a": {
+                          "width": 333,
+                          "height": null
+                        }
+                      }
+                    },
+                    "uid": "bHaQmN_he",
+                    "edit-time": 1622093671100,
+                    ":block/props": {
+                      ":image-size": {
+                        "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FIdClRVBDmY.png?alt=media&token=155919e5-cab1-4d6b-92e8-89188849fa3a": {
+                          ":width": 333,
+                          ":height": null
+                        }
+                      }
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "MhJT1uxaM",
+                "edit-time": 1622093650852,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Global efficiency vs. nodal efficiency (= of hubs/ nodes): Unrelated with global, but related with nodal efficiency of anterior insula (task-relevant stimuli detection) and dorsal anterior cingulate cortex (performance monitoring) (Hilger et al., 2017)",
+                "uid": "Xb0vtyjXf",
+                "edit-time": 1622093650852,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Default mode network = Network of brain regions active when not involved in current tasks, associated with mind wandering, remembering the past and imagining the future; performing a cognitive task adds less than 5% brain activity",
+                "uid": "UCvwq3zV4",
+                "edit-time": 1622093650852,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "eACwgf-SZ",
+            "edit-time": 1622093497907,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Techniques",
+            "create-time": 1622093680976,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "{{table}}",
+                "create-time": 1622093696938,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "**Technique**",
+                    "create-time": 1622093708662,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "**Description**",
+                        "create-time": 1622093713577,
+                        "uid": "c852xGkDH",
+                        "edit-time": 1622093721162,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "mCS-5XeQl",
+                    "edit-time": 1622093720041,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Single-unit recording/ Einzelzell-Ableitung",
+                    "create-time": 1622093716291,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Micro-electrode inserted into brain to measure single neuron, bspw. Hubel & Wiesel (1962): Primärer visueller Kortex bei Katzen und Affen \n\n→ High temporal, high spatial resolution \n→ Nachteile: Invasiv, ungeeignet für höhere Kognition",
+                        "create-time": 1622093726968,
+                        "uid": "BvRRpsHyw",
+                        "edit-time": 1622093737759,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "o1HrMcAzp",
+                    "edit-time": 1622093726977,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Event-related potentials (ERPs)/ Ereigniskorrelierte Potenziale",
+                    "create-time": 1622093740731,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Same/ similiar stimulus presented repeatedly, pattern of EEG averaged to single waveform \n\n→ High  temporal, low spatial resolution \n→ Nachteile: Wiederholungen notwendig, subkortikale Aktivitäten schwer messbar",
+                        "create-time": 1622093746125,
+                        "uid": "AeL8K20M6",
+                        "edit-time": 1622093758947,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "wWlVa56pe",
+                    "edit-time": 1622093746130,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Positron emission tomography (PET)",
+                    "create-time": 1622093762142,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Detection of radioactive substance (tracer)-induced positrons in brain\n\n→ Low temporal, high spatial resolution\n→ Nachteile: Invasiv, indirekte Messung (Kogn. Aktivität → gemessene neuronale Aktivität, eigentlich erzielte Schlussrichtung vice-versa)",
+                        "create-time": 1622093767416,
+                        "uid": "QAp6_mZWC",
+                        "edit-time": 1622093779796,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "CJtjCPYjp",
+                    "edit-time": 1622093767421,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Functional magnetic resonance imaging (fMRI)",
+                    "create-time": 1622093783735,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Activity in brain measures by MRI machine through BOLD (= blood oxygen-level-dependent contrast) \n\n→ Low temporal, high spatial resolution\n→ Limitations:Only indirect measures of neural activityDue to individual brain differences raw BOLD-fMRI data often mathematically changed\nConstraints on visual stimuli (situation/ loudness)",
+                        "create-time": 1622093789985,
+                        "uid": "YIAfTb2cn",
+                        "edit-time": 1622093802735,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "CuDoBxGl9",
+                    "edit-time": 1622093789992,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Event-related fMRI (efMRI)",
+                    "create-time": 1622093806106,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "→ High temporal, high spatial resolution",
+                        "create-time": 1622093812616,
+                        "uid": "oTASjx9fm",
+                        "edit-time": 1622093818346,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "MF6fpnvER",
+                    "edit-time": 1622093812621,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Magneto-encephalography (MEG)",
+                    "create-time": 1622093818341,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "→ Measurement of magnetic fields of brain activity on scalp\n→ High temporal, high spatial resolution \n→ Nachteil: Expensive, not fully understood",
+                        "create-time": 1622093822434,
+                        "uid": "pnnYjX8HI",
+                        "edit-time": 1622093831415,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "L-7MNvQcq",
+                    "edit-time": 1622093822440,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Transcranial magnetic stimulation (TMS)",
+                    "create-time": 1622093832006,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Coil on head creates short pulse of current, producing magnetic field that inhibits activity in affected brain area; for longer duration: repetitive TMS (rTMS)Kausalschlüsse möglich\n\n→ Low temporal, high spatial resolution",
+                        "create-time": 1622093838278,
+                        "uid": "9Gekinm9f",
+                        "edit-time": 1622093851748,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "0Zs0jcCpi",
+                    "edit-time": 1622093838283,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Transcranial direct current stimulation (tDCS)",
+                    "create-time": 1622093853154,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Weak electric current passed through brain area, anode (positive) side is increased in excitability (= anodale Stimulation, cathodal (negative) side is impaired (= kathodale Stimulation)\n\nKausalschlüsse möglich\n→ Complex",
+                        "create-time": 1622093858881,
+                        "uid": "SmXVVM65n",
+                        "edit-time": 1622093870788,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "h2V2cCXCg",
+                    "edit-time": 1622093858886,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "_v2RzorG-",
+                "edit-time": 1622093708375,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Best approach: Converging operations (= using several methods with different strengths/ limitations)",
+                "create-time": 1622093882558,
+                "uid": "XgiKlErW5",
+                "edit-time": 1622093897748,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "s69aWqKcJ",
+            "edit-time": 1622093696942,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "9SGwcngfY",
+        "edit-time": 1622093472567,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Replication crisis",
+        "heading": 1,
+        "children": [
+          {
+            "string": "Basis: OSC (2015) - only 36% replication rate, in cognitive psychology only 50%",
+            "uid": "2838YIhy3",
+            "edit-time": 1622093908944,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "But replication hard to do:",
+            "children": [
+              {
+                "string": "Cognitive processes complex and influenced by numerous factors",
+                "uid": "z3jkuzfwV",
+                "edit-time": 1622093908944,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Findings-to-be-replicated sometimes grounded on questionable research practices, thus not replicable",
+                "uid": "RN9XLAM-v",
+                "edit-time": 1622093908944,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "bssHxGODk",
+            "edit-time": 1622093908944,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "No crisis!",
+            "children": [
+              {
+                "string": "Important findings have been replicated many times",
+                "uid": "67pQOb78o",
+                "edit-time": 1622093908944,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Scientific practices have improved",
+                "uid": "pXfv16YT-",
+                "edit-time": 1622093908944,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "KbkVqZBwS",
+            "edit-time": 1622093908944,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "l92dVJZKz",
+        "edit-time": 1622093911311,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Other definitions",
+        "heading": 2,
+        "children": [
+          {
+            "string": "Social cognition = Social psychology approach, emphasis is on cognitive processing of information about other people and situations",
+            "uid": "MMdqX2EU1",
+            "edit-time": 1622093920036,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Algorithm = Computational procedure providing specified set of steps to problem solution",
+            "uid": "yTXvbrzi1",
+            "edit-time": 1622093920036,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Stroop task = Naming of color in which color words are presented (needs inhibition of saying the color word)",
+            "uid": "OQcO5P4bc",
+            "edit-time": 1622093920036,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Pure alexia = Severe reading problems but normal language skills, caused by damage to brain areas of visual processing",
+            "uid": "4dWQp8SSn",
+            "edit-time": 1622093920036,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Diaschisis = Disruption to distant brain areas by localized injury/ lesion",
+            "uid": "nChmHnALD",
+            "edit-time": 1622093920036,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Implacable experimenter = Experimenter's behavior is uninfluenced by participant's behavior",
+            "uid": "YMeJj8zz7",
+            "edit-time": 1622093920036,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "3Tsz28W4i",
+        "edit-time": 1622093922476,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      }
+    ],
+    "uid": "x3WlbiUij",
+    "edit-time": 1622093023297,
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1622094296779,
+    "title": "Validität",
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    "children": [
+      {
+        "string": "Validität ist ein integriertes, bewertendes Urteil über das Aumaß, in dem die Angemessenheit und die Güte von Interpretationen und Maßnahmen auf Basis von Testwerten und anderen diagnostischen Verfahren durch empirische Belege und theoretische Argumente gestützt sind (Messick, 1989) #definition",
+        "create-time": 1622094550289,
+        ":block/refs": [
+          {
+            ":block/uid": "_giQeQhbl"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "_giQeQhbl"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "uid": "KI4jylqIM",
+        "edit-time": 1622094618122,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Geschichte**",
+        "create-time": 1622095145034,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Begann mit [[Kriteriumsvalidität]] zu Beginn des 20. Jahrhunderts (Kriegsdienst): Klar messbares Kriterium",
+            "create-time": 1622095033763,
+            ":block/refs": [
+              {
+                ":block/uid": "aa0Pqk2Do"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "aa0Pqk2Do"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "saNU4AEkc",
+            "edit-time": 1622095168616,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "edit-time": 1622095575291,
+            "children": [
+              {
+                "string": "einheitliches Gütekriterium bis 1990er",
+                "create-time": 1622095146656,
+                "uid": "b4VAjEX_A",
+                "edit-time": 1622095575297,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Psychologische Theorien oft schwach formalisiert, Hypothesenerstellung schwierig --> Konstruktvalidität als \"Mülleimerkategorie\" (Cronbach, 1980) ohne theoretische Argumentation",
+                "create-time": 1622095429572,
+                "uid": "2BVyt6jaZ",
+                "edit-time": 1622095587676,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "refs": [
+              {
+                "uid": "9YPlGyhSN"
+              }
+            ],
+            "uid": "v9GLWidGf",
+            ":block/refs": [
+              {
+                ":block/uid": "9YPlGyhSN"
+              }
+            ],
+            "string": "1950er Jahre - [[Konstruktvalidität]]: Annahme von konstruierten Größen auf Basis von psychologischen Theorien, empirisch zu überprüfen --> Cronbach & Meehl (1955)",
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "create-time": 1622095575291,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "neuere Konzeptionen: Bezug auf theoretische Konstrukte bedeutsam, aber formalisierte Theorien weniger wichtig",
+            "create-time": 1622095579374,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "**Mittelpunkt heute:** Validität der **Interpretationen** und der **Verwendung** diagnostischer Ergebnisse --> Frage nach theoretische Argumente und empirische Belege (bspw. Kane, 2001)",
+                "create-time": 1622095617638,
+                "uid": "KJY3BRWrd",
+                "edit-time": 1622095675229,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "Si7kUUFO_",
+            "edit-time": 1622095616430,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "525RtnguG",
+        "edit-time": 1622095145034,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Statt \"Validität eines Tests\": Validität verschiedener möglicher Interpretationen von Ergebnissen eines Tests",
+        "create-time": 1622094732377,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "**Validierung**: Untersuchung der Validität von Testwertinterpretationen, bspw. zu Bewertung, Verallgemeinerung, Extrapolation, kausale Erklärung, Entscheidungen --> unterschiedliche Interpretationen sollen legitimiert/ falsifiziert werden",
+            "create-time": 1622094781579,
+            "uid": "EnhJP78o4",
+            "edit-time": 1622094950476,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "OW1XmAqSy",
+        "edit-time": 1622094773347,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Formen**",
+        "create-time": 1622094494222,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "[[Inhaltsvalidität]]",
+            "create-time": 1622094523172,
+            ":block/refs": [
+              {
+                ":block/uid": "w1x07kAnl"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "w1x07kAnl"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "NH0vhsRrz",
+            "edit-time": 1622094529882,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "[[Konstruktvalidität]]",
+            "create-time": 1622094529876,
+            ":block/refs": [
+              {
+                ":block/uid": "9YPlGyhSN"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "9YPlGyhSN"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "pHN8mQri1",
+            "edit-time": 1622094534331,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "[[Kriteriumsvalidität]]",
+            "create-time": 1622094534325,
+            ":block/refs": [
+              {
+                ":block/uid": "aa0Pqk2Do"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "aa0Pqk2Do"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "0Ar_ph6SW",
+            "edit-time": 1622094538582,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "jZQN8vIz5",
+        "edit-time": 1622094867327,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Wahl einer geeigneten **Validierungsstrategie**",
+        "create-time": 1622094538596,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Testergebnis kann vielfältig interpretiert werden, daher vielfältige mögliche Strategien zur Validierung dieser Interpretationen",
+            "create-time": 1622094803734,
+            "uid": "uQ-oraHKS",
+            "edit-time": 1622097515357,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Bei Neuentwicklung eines Tests: Wie am besten mit Vielfalt umgehen?",
+            "create-time": 1622097515352,
+            "uid": "7PByy8fh_",
+            "edit-time": 1622097527337,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Für jede mögliche Interpretation und Verwendung eines Testwerts Argumente und empirische Belege zu erbringen idR. unrealistisch ",
+            "create-time": 1622097637154,
+            "uid": "G8Ch6St33",
+            "edit-time": 1622097637154,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "--> Wahl der wichtigsten Interpretationen und Verwendungen, Ableitung von Prioritäten",
+            "create-time": 1622097527330,
+            "uid": "SRsbCzIOK",
+            "edit-time": 1622097662557,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1622097663772,
+            "uid": "e7r3qI-1T",
+            "edit-time": 1622097663772,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "oUb-R_ty3",
+        "edit-time": 1622097577573,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      }
+    ],
+    "uid": "dajBA3hIW",
+    "edit-time": 1622094296780,
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1622094529882,
+    "title": "Inhaltsvalidität",
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    "children": [
+      {
+        "string": "Der Begriff der Inhaltsvalidität bezieht sich darauf, inwieweit die Inhalte eines Tests bzw. der Items, aus denen er sich zusammensetzt, tatsächlich das interessierende Merkmal erfassen #definition",
+        "create-time": 1622095720983,
+        ":block/refs": [
+          {
+            ":block/uid": "_giQeQhbl"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "_giQeQhbl"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "uid": "qQrpK5YCy",
+        "edit-time": 1622095739894,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Operationale Definition**: Konstrukt allein durch Testinhalte definiert",
+        "create-time": 1622095739960,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Inhaltsvalidität --> verallgemeinernde Interpretation von Ergebnissen (**Repräsentationsschluss**)",
+            "create-time": 1622095837296,
+            "uid": "OJ6IS97hr",
+            "edit-time": 1622097738358,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "aveoZ9v8F",
+        "edit-time": 1622095820313,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Theoretische Definition**: Bei theoretischen Konstrukten spezifiziert, Unterschiede zwischen Vpn durch Theorie bestimmt",
+        "create-time": 1622095792240,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Inhaltsvalidität --> zusätzlich noch Bezug zu erklärender Interpretation auf Itemebene",
+            "create-time": 1622095916286,
+            "uid": "6dsDhxOF9",
+            "edit-time": 1622095978074,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Unterschiedliche Item-Antworten erklärbar durch unterschiedliche Ausprägungen im Konstrukt",
+            "create-time": 1622096003080,
+            "uid": "BKVY0s-yv",
+            "edit-time": 1622096029604,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "--> notwendig: gute theoretische Fundierung und Konstruktdefinition",
+            "create-time": 1622096034724,
+            "uid": "w45WyDZ6Y",
+            "edit-time": 1622096048124,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "dfQjRIa6K",
+        "edit-time": 1622095823097,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      }
+    ],
+    "uid": "w1x07kAnl",
+    "edit-time": 1622094529883,
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1622094534332,
+    "title": "Konstruktvalidität",
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    "children": [
+      {
+        "string": "Konstruktvalidität umfasst die empirischen Befunde und Argumente, mit denen die Zuverlässigkeit der Interpretation von Testergebnissen im Sinne erklärender Konzepte, die sowohl die Testergebnisse selbst als auch die Zusammenhänge der Testwerte mit anderen Variablen erklären, gestützt wird. (Messick, 1995) #definition",
+        "create-time": 1622096066316,
+        ":block/refs": [
+          {
+            ":block/uid": "_giQeQhbl"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "_giQeQhbl"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "uid": "nwSbQ7Qvt",
+        "edit-time": 1622096084749,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Cronbach und Meehl (1955): **Theoriebasierte Testwertinterpretation**",
+        "create-time": 1622096085082,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Im Bereich der Theorie werden nicht direkt beobachtbare theoretische **Konstrukte** und deren theoretische Zusammenhänge („**Axiome**“) untereinander definiert",
+            "uid": "aG4VzDkPQ",
+            "edit-time": 1622096244603,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Es werden Annahmen („**Korrespondenzregeln**“) formuliert, welche Konstrukte in Verbindung mit welchen beobachtbaren Testwerten stehen ",
+            "uid": "581ixjlu-",
+            "edit-time": 1622096283394,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Aufgrund der theoretischen Zusammenhänge von Konstrukten lassen sich entsprechende Vorhersagen für die Zusammenhänge beobachtbarer Testwerte ableiten, die empirisch überprüft werden können ",
+            "create-time": 1622096364436,
+            "uid": "nHutkskEU",
+            "edit-time": 1622096364436,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FOHUMDHw-9v.png?alt=media&token=ac11b924-7c0b-4a0e-a338-621ebbfffb9c)",
+            "uid": "UyM7IYMKv",
+            "edit-time": 1622096364440,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "zpLT1dgF9",
+        "edit-time": 1622096234730,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Konvergente Validität:** Theoretische Erwartung eines hohen Zusammenhangs zwischen zwei Tests ",
+        "create-time": 1622096464090,
+        "uid": "TVWeuXaCb",
+        "edit-time": 1622096630144,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Diskriminante Validität:** Theoretische Annahme eines fehlenden Zusammenhangs",
+        "create-time": 1622096593460,
+        "uid": "fv4Mzy7J8",
+        "edit-time": 1622096636950,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      }
+    ],
+    "uid": "9YPlGyhSN",
+    "edit-time": 1622094534332,
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1622094538586,
+    "title": "Kriteriumsvalidität",
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    "children": [
+      {
+        "string": "Kriteriumsvalidität bedeutet, dass von einem Testergebnis auf ein für diagnostische Entscheidungen praktisch relevantes Kriterium außerhalb der Testsituation geschlossen werden kann; Kriteriumsvalidität kann durch empirische Zusammenhänge zwischen dem Testwert und möglichen Außenkriterien belegt werden; je enger diese Zusammenhänge, desto besser kann die Kriteriumsvalidität als belegt gelten #definition",
+        "create-time": 1622096679823,
+        ":block/refs": [
+          {
+            ":block/uid": "_giQeQhbl"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "_giQeQhbl"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "uid": "JC6FjhkD-",
+        "edit-time": 1622096741860,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Rahmen: Psychologische Praxis mit weitreichenden Konsequenzen für Vpn auf Basis ihrer Testergebnisse",
+        "create-time": 1622096719296,
+        "uid": "OS74fGoa_",
+        "edit-time": 1622096900873,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Multiple Validität**",
+        "create-time": 1622096902761,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Diagnostische Entscheidung kann auf Basis mehrerer Tests getroffen werden (Testbatterie)",
+            "create-time": 1622096915562,
+            "uid": "Dtp23y6de",
+            "edit-time": 1622096939234,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Güte der Vorhersage eines Kriteriums kann empirisch durch lineare Regressionsanalyse untersucht werden",
+            "create-time": 1622096939292,
+            "uid": "2BKkRp7GW",
+            "edit-time": 1622096994102,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "vSd9xzncp",
+        "edit-time": 1622096987715,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Inkrementelle Validität**: Ausmaß, in dem die Vorhersage eines Kriteriums durch Hinzunahme eines weiteren Tests verbessert werden kann",
+        "create-time": 1622096959841,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Kann in multipler Regression durch Zuwachs an erklärter Varianz bei Vorhersage eines externen Kriteriums ermittelt werden",
+            "create-time": 1622097226521,
+            "uid": "nan1EDSg2",
+            "edit-time": 1622097280424,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Wichtig: Ökonomische Entscheidung, welcher zusätzliche diagnostische Aufwand noch zu lohnender Verbesserung führt",
+            "create-time": 1622097282697,
+            "uid": "SF4yg3uWJ",
+            "edit-time": 1622097307423,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "upAuGf0-I",
+        "edit-time": 1622097247677,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622097307419,
+        "uid": "7Y_ev1lK6",
+        "edit-time": 1622097307419,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      }
+    ],
+    "uid": "aa0Pqk2Do",
+    "edit-time": 1622094538586,
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1622094618126,
+    "title": "definition",
+    "uid": "_giQeQhbl",
+    "edit-time": 1622094618126,
     ":create/user": {
       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
     },

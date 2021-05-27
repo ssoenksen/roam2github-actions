@@ -1,2 +1,24 @@
-- V6 [[Gedächtnis]]
-- 
+- # Organisation
+    - Zeitplan: Im Ordner
+    - Materialien für jede Vorlesung
+        - Vorlesungen (Passwort: UEH)
+        - Buch
+        - Studienbriefe
+        - [Material zum Buch](https://routledgetextbooks.com/textbooks/9781138482234/) (Karteikarten, Quizzes etc.)
+        - [Linksammlung 3D-Darstellung von Hirnregionen](https://moodle-psy.fernuni-hagen.de/mod/page/view.php?id=78113)
+    - Prüfungsvorleistungen: 3 Stück vom 17.5.-30.6.
+    - Schwerpunkte Klausur: s. Ordner
+    - Fehlerliste Buch: s. Ordner
+- # Aktivitäten pro Unit
+    - Wiederholen der vorherige(n) Units
+    - Flashcards + Quiz der vorherige(n) Units im Buch-Campanion
+    - Lehrbuch
+    - Einleitung für Vorlesungen (moodle)
+    - Vorlesungen
+    - Skript (Text, keine Aufgaben)
+    - Aufgaben (moodle)
+    - Abhaken im Dateisystem 🙂
+- # Vorlesungen
+    - V1 [[Grundlagen]]
+    - ^^fehlt:^^ V2-V5
+    - V6 [[Gedächtnis]]

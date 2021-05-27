@@ -1,5 +1,5 @@
 - temporäres Speichersystem
-- enthält iIntegriertenformation aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden
+- integriert Information aus phonologischer Schleife, räumlich- visuellem Notizblock und dem LZG bzw. erlaubt es diese zu verbinden / integrieren und neue Repräsentationen zu bilden
 - **erklärt, wie das LZG die Verarbeitung im KZG beeinflussen kann**
 - Episodischer Puffer (Baddeley & Wilson, 2002) 
     - System mit beschränkter **Kapazität**: 4 Chunks / „Episoden“

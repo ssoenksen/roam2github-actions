@@ -1,0 +1,8 @@
+- Konstruktvalidität umfasst die empirischen Befunde und Argumente, mit denen die Zuverlässigkeit der Interpretation von Testergebnissen im Sinne erklärender Konzepte, die sowohl die Testergebnisse selbst als auch die Zusammenhänge der Testwerte mit anderen Variablen erklären, gestützt wird. (Messick, 1995) #definition
+- Cronbach und Meehl (1955): **Theoriebasierte Testwertinterpretation**
+    - Im Bereich der Theorie werden nicht direkt beobachtbare theoretische **Konstrukte** und deren theoretische Zusammenhänge („**Axiome**“) untereinander definiert
+    - Es werden Annahmen („**Korrespondenzregeln**“) formuliert, welche Konstrukte in Verbindung mit welchen beobachtbaren Testwerten stehen 
+    - Aufgrund der theoretischen Zusammenhänge von Konstrukten lassen sich entsprechende Vorhersagen für die Zusammenhänge beobachtbarer Testwerte ableiten, die empirisch überprüft werden können 
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FOHUMDHw-9v.png?alt=media&token=ac11b924-7c0b-4a0e-a338-621ebbfffb9c)
+- **Konvergente Validität:** Theoretische Erwartung eines hohen Zusammenhangs zwischen zwei Tests 
+- **Diskriminante Validität:** Theoretische Annahme eines fehlenden Zusammenhangs

@@ -22,3 +22,5 @@
     - V4 [[Itemanalyse]] und [[Testwerteverteilungen]]
     - V5 [[Klassische Testtheorie]]
     - V6 [[Reliabilität]]
+    - V7 [[Validität]]
+    - 

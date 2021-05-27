@@ -12,5 +12,5 @@
             - Präsentation von Wörtern
             - so viele Wörter wie möglich in der richtigen Reihenfolge abrufen
             - --> weniger für lange Wörter 
-        - nachgewiesen durch Baddeley et al. (1975, 2002): artikulatorische Unterdrückung beseitigte den Wortlängeneffekt #unklar
+        - nachgewiesen durch Baddeley et al. (1975, 2002): artikulatorische Unterdrückung beseitigte den Wortlängeneffekt
         - (aber **Kritik**: Konfundierung durch orthographische Nachbarschaft)

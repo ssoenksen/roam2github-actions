@@ -1,6 +1,6 @@
 - verwendet zum temporären Speichern und zur Verarbeitung räumlicher und visueller Information
 - **Kontroverse**: Verarbeitung visueller und räumlicher Infos in separaten Systemen?
-    - Logie (1995): separate **Subsysteme**
+    - Logie (1995): separate Subsysteme
         - **visueller Zwischenspeicher** (Puffer): speichert Information über visuelle Form und Farbe
         - **innerer Schreiber**
             - verarbeitet räumliche und Bewegungsinformation
