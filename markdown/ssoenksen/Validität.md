@@ -14,8 +14,8 @@
     - Entscheidungen als Konsequenz des Ergebnisses
 - **Formen**
     - [[Inhaltsvalidität]]: Verallgemeinernde Interpretation (operational), erklärende Interpretation (theoretisch)
-    - [[Konstruktvalidität]]
-    - [[Kriteriumsvalidität]]
+    - [[Konstruktvalidität]]: Erklärende und extrapolierende Interpretation
+    - [[Kriteriumsvalidität]]: Extrapolierende Interpretationen, Entscheidungen
 - Wahl einer geeigneten **Validierungsstrategie**
     - Testergebnis kann vielfältig interpretiert werden, daher vielfältige mögliche Strategien zur Validierung dieser Interpretationen
     - Bei Neuentwicklung eines Tests: Wie am besten mit Vielfalt umgehen?

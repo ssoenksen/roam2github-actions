@@ -1,10 +1,25 @@
 - Konstruktvalidität umfasst die empirischen Befunde und Argumente, mit denen die Zuverlässigkeit der Interpretation von Testergebnissen im Sinne erklärender Konzepte, die sowohl die Testergebnisse selbst als auch die Zusammenhänge der Testwerte mit anderen Variablen erklären, gestützt wird. (Messick, 1995) #definition
 - **Ziel**: Erklärende und extrapolierende Interpretationen (Schluss auf Ausprägungen in anderen Konstrukten); dabei auch Überprüfung des nomologischen Netzes
 - Seit 1970er übergreifendes Konzept der Validität, das [[Inhaltsvalidität]] und [[Kriteriumsvalidität]] einschließt
-- Cronbach und Meehl (1955): **Theoriebasierte Testwertinterpretation**
-    - Im Bereich der Theorie werden nicht direkt beobachtbare theoretische **Konstrukte** und deren theoretische Zusammenhänge („**Axiome**“) untereinander definiert
-    - Es werden Annahmen („**Korrespondenzregeln**“) formuliert, welche Konstrukte in Verbindung mit welchen beobachtbaren Testwerten stehen 
-    - Aufgrund der theoretischen Zusammenhänge von Konstrukten lassen sich entsprechende Vorhersagen für die Zusammenhänge beobachtbarer Testwerte ableiten, die empirisch überprüft werden können 
-    - Grundlage ist nomologisches Netz: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FOHUMDHw-9v.png?alt=media&token=ac11b924-7c0b-4a0e-a338-621ebbfffb9c)
-- **Konvergente Validität:** Theoretische Erwartung eines hohen Zusammenhangs zwischen zwei Tests 
-- **Diskriminante Validität:** Theoretische Annahme eines fehlenden Zusammenhangs
+- Auf **Testebene**
+    - Cronbach und Meehl (1955): **Theoriebasierte Testwertinterpretation**
+        - Im Bereich der Theorie werden nicht direkt beobachtbare theoretische **Konstrukte** und deren theoretische Zusammenhänge („**Axiome**“) untereinander definiert
+        - Es werden Annahmen („**Korrespondenzregeln**“) formuliert, welche Konstrukte in Verbindung mit welchen beobachtbaren Testwerten stehen 
+        - Aufgrund der theoretischen Zusammenhänge von Konstrukten lassen sich entsprechende Vorhersagen für die Zusammenhänge beobachtbarer Testwerte ableiten, die empirisch überprüft werden können 
+        - Grundlage ist nomologisches Netz - aber in vielen psychologischen Theorien nicht vorhanden: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FOHUMDHw-9v.png?alt=media&token=ac11b924-7c0b-4a0e-a338-621ebbfffb9c)
+            - **Starker Ansatz**: Prüfung des nomologischen Netzes auf Basis einer Theorie
+            - **Schwacher Ansatz** (üblich): Validierung ohne formale Theorie (nur theoretische Annahmen über Variablenzusammenhänge)
+    - **Konvergente Validität:** Theoretische Erwartung eines hohen Zusammenhangs zwischen zwei Tests 
+    - **Diskriminante Validität:** Theoretische Annahme eines fehlenden Zusammenhangs
+    - **Empirische Bestimmung**: In der Regel durch Korrelation
+        - Konstruktvalidität als **abhängige **Variable: Messung der Veränderungen in Testergebnissen bei systematischer Variierung der unabhängigen Variable (vorhergesagt durch Theorie)
+        - Konstruktvalidität als **unabhängige **Variable = **Organismusfaktor**: Unterschiedliche Ausprägungen des Konstrukts sind unabhängige Variable, geprüft werden (theoretisch vorhergesagte) Effekte auf abhängige Variablen
+        - Interferenzstatistischer Test
+            - Festlegung erwartete Effektgröße, $$\alpha$$- und $$\beta$$-Fehler, nötige Stichprobengröße
+            - Formulierung $$H_0$$ und $$H_1$$ inkl. entsprechenden Grenzwerten für Korrelationen
+            - Berücksichtigung der Reliabilität der genutzten Tests durch **doppelte Minderungskorrektur** (Spearman, 1904): 
+$$\rho(X,Y) = \rho(\tau_X, \tau_Y) \cdot \sqrt{Rel(X) \cdot Rel(Y)}$$ 
+(mit $$\rho(\tau_X, \tau_Y)$$ als der erwarteten Korrelation)
+- Auf **Itemebene**
+    - Bestimmung der kognitiven Prozesse notwendig zur Itembeantwortung --> Methode des lauten Denkens (__cognitive lab__) oder anschließendes Interview
+    - Faktorenanalyse

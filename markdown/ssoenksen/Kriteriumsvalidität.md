@@ -1,9 +1,12 @@
 - Kriteriumsvalidität bedeutet, dass von einem Testergebnis auf ein für diagnostische Entscheidungen praktisch relevantes Kriterium außerhalb der Testsituation geschlossen werden kann; Kriteriumsvalidität kann durch empirische Zusammenhänge zwischen dem Testwert und möglichen Außenkriterien belegt werden; je enger diese Zusammenhänge, desto besser kann die Kriteriumsvalidität als belegt gelten #definition
-- Rahmen: Psychologische Praxis mit weitreichenden Konsequenzen für Vpn auf Basis ihrer Testergebnisse
+- **Rahmen**: Psychologische Praxis mit weitreichenden Konsequenzen für Vpn auf Basis ihrer Testergebnisse
+- **Ziel**: Extrapolierende Interpretationen und Entscheidungen aufgrund von Kriterien außerhalb der Testsituation
+- **Außenkriterien **müssen für zu treffende Entscheidungen möglichst unmittelbra relevant sein und eine hinreichende Messgenauigkeit aufweisen
+    - Auswahl: Sorgfältige Begründung und Dokumentation --> Ggf. aus Theorie ableitbar
+    - **Übereinstimmungsvalidität **(zeitlich parallel) vs. **prognostische Validität**
 - **Multiple Validität**
     - Diagnostische Entscheidung kann auf Basis mehrerer Tests getroffen werden (Testbatterie)
     - Güte der Vorhersage eines Kriteriums kann empirisch durch lineare Regressionsanalyse untersucht werden
 - **Inkrementelle Validität**: Ausmaß, in dem die Vorhersage eines Kriteriums durch Hinzunahme eines weiteren Tests verbessert werden kann
     - Kann in multipler Regression durch Zuwachs an erklärter Varianz bei Vorhersage eines externen Kriteriums ermittelt werden
     - Wichtig: Ökonomische Entscheidung, welcher zusätzliche diagnostische Aufwand noch zu lohnender Verbesserung führt
-- 

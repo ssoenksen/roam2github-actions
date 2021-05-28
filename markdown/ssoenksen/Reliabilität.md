@@ -10,6 +10,7 @@
         - [[Spearman-Brown-Formel]] zur Berechnung der neuen Reliabilität
         - Effekte (→ lohnt sich eher bei geringer Reliabilität, auch umgekehrt denkbar): ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F-pP1_mqCJE.png?alt=media&token=d33ea657-874b-4187-88e7-25d44de15756)
     - ## Methoden der Reliabilitätsbestimmung
+        - Da basierend auf Stichproben immer nur Schätzung!
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FBwcGo926hT.png?alt=media&token=dfde6961-4c5e-4912-a15b-71269711382c)
         - ### Retest-Reliabilität
             - Vorgehen:

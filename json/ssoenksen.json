@@ -211,6 +211,18 @@
             },
             "children": [
               {
+                "string": "Da basierend auf Stichproben immer nur Schätzung!",
+                "create-time": 1622202014498,
+                "uid": "TgBRYqf1h",
+                "edit-time": 1622202021723,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
                 "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FBwcGo926hT.png?alt=media&token=dfde6961-4c5e-4912-a15b-71269711382c)",
                 "props": {
                   "image-size": {
@@ -10206,7 +10218,7 @@
             "string": "Bewerten des Ergebnisses",
             "create-time": 1622185386399,
             "uid": "9tXyQAgue",
-            "edit-time": 1622185392591,
+            "edit-time": 1622200096764,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -10299,7 +10311,7 @@
             }
           },
           {
-            "string": "[[Konstruktvalidität]]",
+            "string": "[[Konstruktvalidität]]: Erklärende und extrapolierende Interpretation",
             "create-time": 1622094529876,
             ":block/refs": [
               {
@@ -10315,13 +10327,13 @@
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
             "uid": "pHN8mQri1",
-            "edit-time": 1622094534331,
+            "edit-time": 1622200088855,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "[[Kriteriumsvalidität]]",
+            "string": "[[Kriteriumsvalidität]]: Extrapolierende Interpretationen, Entscheidungen",
             "create-time": 1622094534325,
             ":block/refs": [
               {
@@ -10337,7 +10349,7 @@
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
             "uid": "0Ar_ph6SW",
-            "edit-time": 1622094538582,
+            "edit-time": 1622200309010,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -10702,33 +10714,93 @@
         }
       },
       {
-        "string": "Cronbach und Meehl (1955): **Theoriebasierte Testwertinterpretation**",
-        "create-time": 1622096085082,
+        "string": "Auf **Testebene**",
+        "create-time": 1622199861247,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
         "children": [
           {
-            "string": "Im Bereich der Theorie werden nicht direkt beobachtbare theoretische **Konstrukte** und deren theoretische Zusammenhänge („**Axiome**“) untereinander definiert",
-            "uid": "aG4VzDkPQ",
-            "edit-time": 1622096244603,
+            "string": "Cronbach und Meehl (1955): **Theoriebasierte Testwertinterpretation**",
+            "create-time": 1622096085082,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Im Bereich der Theorie werden nicht direkt beobachtbare theoretische **Konstrukte** und deren theoretische Zusammenhänge („**Axiome**“) untereinander definiert",
+                "uid": "aG4VzDkPQ",
+                "edit-time": 1622096244603,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Es werden Annahmen („**Korrespondenzregeln**“) formuliert, welche Konstrukte in Verbindung mit welchen beobachtbaren Testwerten stehen ",
+                "uid": "581ixjlu-",
+                "edit-time": 1622096283394,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Aufgrund der theoretischen Zusammenhänge von Konstrukten lassen sich entsprechende Vorhersagen für die Zusammenhänge beobachtbarer Testwerte ableiten, die empirisch überprüft werden können ",
+                "create-time": 1622096364436,
+                "uid": "nHutkskEU",
+                "edit-time": 1622096364436,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Grundlage ist nomologisches Netz - aber in vielen psychologischen Theorien nicht vorhanden: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FOHUMDHw-9v.png?alt=media&token=ac11b924-7c0b-4a0e-a338-621ebbfffb9c)",
+                "children": [
+                  {
+                    "string": "**Starker Ansatz**: Prüfung des nomologischen Netzes auf Basis einer Theorie",
+                    "create-time": 1622199013184,
+                    "uid": "N6lwRgH6E",
+                    "edit-time": 1622199063594,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "**Schwacher Ansatz** (üblich): Validierung ohne formale Theorie (nur theoretische Annahmen über Variablenzusammenhänge)",
+                    "create-time": 1622199031817,
+                    "uid": "zecEVDkWB",
+                    "edit-time": 1622199176330,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "UyM7IYMKv",
+                "edit-time": 1622198989425,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "zpLT1dgF9",
+            "edit-time": 1622199853309,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "Es werden Annahmen („**Korrespondenzregeln**“) formuliert, welche Konstrukte in Verbindung mit welchen beobachtbaren Testwerten stehen ",
-            "uid": "581ixjlu-",
-            "edit-time": 1622096283394,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Aufgrund der theoretischen Zusammenhänge von Konstrukten lassen sich entsprechende Vorhersagen für die Zusammenhänge beobachtbarer Testwerte ableiten, die empirisch überprüft werden können ",
-            "create-time": 1622096364436,
-            "uid": "nHutkskEU",
-            "edit-time": 1622096364436,
+            "string": "**Konvergente Validität:** Theoretische Erwartung eines hohen Zusammenhangs zwischen zwei Tests ",
+            "create-time": 1622096464090,
+            "uid": "TVWeuXaCb",
+            "edit-time": 1622096630144,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -10737,40 +10809,146 @@
             }
           },
           {
-            "string": "Grundlage ist nomologisches Netz: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FOHUMDHw-9v.png?alt=media&token=ac11b924-7c0b-4a0e-a338-621ebbfffb9c)",
-            "uid": "UyM7IYMKv",
-            "edit-time": 1622198372716,
+            "string": "**Diskriminante Validität:** Theoretische Annahme eines fehlenden Zusammenhangs",
+            "create-time": 1622096593460,
+            "uid": "fv4Mzy7J8",
+            "edit-time": 1622096636950,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**Empirische Bestimmung**: In der Regel durch Korrelation",
+            "create-time": 1622199185993,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Konstruktvalidität als **abhängige **Variable: Messung der Veränderungen in Testergebnissen bei systematischer Variierung der unabhängigen Variable (vorhergesagt durch Theorie)",
+                "create-time": 1622199225302,
+                "uid": "CbD6DSU30",
+                "edit-time": 1622199376538,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Konstruktvalidität als **unabhängige **Variable = **Organismusfaktor**: Unterschiedliche Ausprägungen des Konstrukts sind unabhängige Variable, geprüft werden (theoretisch vorhergesagte) Effekte auf abhängige Variablen",
+                "create-time": 1622199301574,
+                "uid": "plUXEO3vL",
+                "edit-time": 1622199379878,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Interferenzstatistischer Test",
+                "create-time": 1622199443927,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Festlegung erwartete Effektgröße, $$\\alpha$$- und $$\\beta$$-Fehler, nötige Stichprobengröße",
+                    "create-time": 1622199454627,
+                    "uid": "wJvdzj5AY",
+                    "edit-time": 1622199565571,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Formulierung $$H_0$$ und $$H_1$$ inkl. entsprechenden Grenzwerten für Korrelationen",
+                    "create-time": 1622199546097,
+                    "uid": "G3tZYk5g5",
+                    "edit-time": 1622199617613,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Berücksichtigung der Reliabilität der genutzten Tests durch **doppelte Minderungskorrektur** (Spearman, 1904): \n$$\\rho(X,Y) = \\rho(\\tau_X, \\tau_Y) \\cdot \\sqrt{Rel(X) \\cdot Rel(Y)}$$ \n(mit $$\\rho(\\tau_X, \\tau_Y)$$ als der erwarteten Korrelation)",
+                    "create-time": 1622199557218,
+                    "uid": "qaGzTXYSn",
+                    "edit-time": 1622199793433,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "FVYAqb0zh",
+                "edit-time": 1622199454632,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "bHzSSfJsU",
+            "edit-time": 1622199410789,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           }
         ],
-        "uid": "zpLT1dgF9",
-        "edit-time": 1622096234730,
+        "uid": "IWaPtNFVI",
+        "edit-time": 1622199896998,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
       },
       {
-        "string": "**Konvergente Validität:** Theoretische Erwartung eines hohen Zusammenhangs zwischen zwei Tests ",
-        "create-time": 1622096464090,
-        "uid": "TVWeuXaCb",
-        "edit-time": 1622096630144,
+        "string": "Auf **Itemebene**",
+        "create-time": 1622199741107,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "**Diskriminante Validität:** Theoretische Annahme eines fehlenden Zusammenhangs",
-        "create-time": 1622096593460,
-        "uid": "fv4Mzy7J8",
-        "edit-time": 1622096636950,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
+        "children": [
+          {
+            "string": "Bestimmung der kognitiven Prozesse notwendig zur Itembeantwortung --> Methode des lauten Denkens (__cognitive lab__) oder anschließendes Interview",
+            "create-time": 1622199892765,
+            "uid": "Kaeo5izBS",
+            "edit-time": 1622200029934,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Faktorenanalyse",
+            "create-time": 1622199968571,
+            "uid": "GCCBwJdzS",
+            "edit-time": 1622200048742,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "6uUe97vmn",
+        "edit-time": 1622199899203,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -10812,13 +10990,63 @@
         }
       },
       {
-        "string": "Rahmen: Psychologische Praxis mit weitreichenden Konsequenzen für Vpn auf Basis ihrer Testergebnisse",
+        "string": "**Rahmen**: Psychologische Praxis mit weitreichenden Konsequenzen für Vpn auf Basis ihrer Testergebnisse",
         "create-time": 1622096719296,
         "uid": "OS74fGoa_",
-        "edit-time": 1622096900873,
+        "edit-time": 1622200286246,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Ziel**: Extrapolierende Interpretationen und Entscheidungen aufgrund von Kriterien außerhalb der Testsituation",
+        "create-time": 1622200258839,
+        "uid": "tFD82thfi",
+        "edit-time": 1622200327063,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Außenkriterien **müssen für zu treffende Entscheidungen möglichst unmittelbra relevant sein und eine hinreichende Messgenauigkeit aufweisen",
+        "create-time": 1622200367142,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Auswahl: Sorgfältige Begründung und Dokumentation --> Ggf. aus Theorie ableitbar",
+            "create-time": 1622200401849,
+            "uid": "aevU4IpB7",
+            "edit-time": 1622200441817,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**Übereinstimmungsvalidität **(zeitlich parallel) vs. **prognostische Validität**",
+            "create-time": 1622200445424,
+            "uid": "4L1sC7xEl",
+            "edit-time": 1622200466562,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "I3SAoSsxs",
+        "edit-time": 1622200439260,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -10895,18 +11123,6 @@
         ],
         "uid": "upAuGf0-I",
         "edit-time": 1622097247677,
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1622097307419,
-        "uid": "7Y_ev1lK6",
-        "edit-time": 1622097307419,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
