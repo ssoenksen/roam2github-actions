@@ -10064,7 +10064,7 @@
     },
     "children": [
       {
-        "string": "Validität ist ein integriertes, bewertendes Urteil über das Aumaß, in dem die Angemessenheit und die Güte von Interpretationen und Maßnahmen auf Basis von Testwerten und anderen diagnostischen Verfahren durch empirische Belege und theoretische Argumente gestützt sind (Messick, 1989) #definition",
+        "string": "Validität ist ein integriertes, bewertendes Urteil über das Ausmaß, in dem die Angemessenheit und die Güte von **Interpretationen und Maßnahmen** auf Basis von Testwerten und anderen diagnostischen Verfahren durch empirische Belege und theoretische Argumente gestützt sind (Messick, 1989) #definition",
         "create-time": 1622094550289,
         ":block/refs": [
           {
@@ -10080,7 +10080,7 @@
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
         "uid": "KI4jylqIM",
-        "edit-time": 1622094618122,
+        "edit-time": 1622185290889,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -10196,17 +10196,65 @@
         }
       },
       {
-        "string": "Statt \"Validität eines Tests\": Validität verschiedener möglicher Interpretationen von Ergebnissen eines Tests",
+        "string": "Validität bezieht sich auf **Interpretation von Testergebnissen**:",
         "create-time": 1622094732377,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
         "children": [
           {
-            "string": "**Validierung**: Untersuchung der Validität von Testwertinterpretationen, bspw. zu Bewertung, Verallgemeinerung, Extrapolation, kausale Erklärung, Entscheidungen --> unterschiedliche Interpretationen sollen legitimiert/ falsifiziert werden",
-            "create-time": 1622094781579,
-            "uid": "EnhJP78o4",
-            "edit-time": 1622094950476,
+            "string": "Bewerten des Ergebnisses",
+            "create-time": 1622185386399,
+            "uid": "9tXyQAgue",
+            "edit-time": 1622185392591,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Verallgemeinern des Ergebnisses",
+            "create-time": 1622185392583,
+            "uid": "W9wQTobjG",
+            "edit-time": 1622185399753,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Extrapolieren des Ergebnisses auf andere Bereiche",
+            "create-time": 1622185399746,
+            "uid": "necVMmvBS",
+            "edit-time": 1622185410294,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "(Kausales) Erklären des Ergebnisses",
+            "create-time": 1622185410287,
+            "uid": "B7phSMUNJ",
+            "edit-time": 1622185418742,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Entscheidungen als Konsequenz des Ergebnisses",
+            "create-time": 1622185418735,
+            "uid": "P_bvPpqPz",
+            "edit-time": 1622185427743,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -10216,7 +10264,7 @@
           }
         ],
         "uid": "OW1XmAqSy",
-        "edit-time": 1622094773347,
+        "edit-time": 1622185386405,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }

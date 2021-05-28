@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuidc6505a5d-2250-4171-91ee-487191c4c72c"
-   536876762]
+   "uuida00c9260-5f79-4447-9cac-6c9c034c159d"
+   536876821]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -12966,12 +12966,12 @@
   [1548 :block/refs 1549 536876423]
   [1548
    :block/string
-   "Validität ist ein integriertes, bewertendes Urteil über das Aumaß, in dem die Angemessenheit und die Güte von Interpretationen und Maßnahmen auf Basis von Testwerten und anderen diagnostischen Verfahren durch empirische Belege und theoretische Argumente gestützt sind (Messick, 1989) #definition"
-   536876422]
+   "Validität ist ein integriertes, bewertendes Urteil über das Ausmaß, in dem die Angemessenheit und die Güte von **Interpretationen und Maßnahmen** auf Basis von Testwerten und anderen diagnostischen Verfahren durch empirische Belege und theoretische Argumente gestützt sind (Messick, 1989) #definition"
+   536876764]
   [1548 :block/uid "KI4jylqIM" 536876415]
   [1548 :create/time 1622094550289 536876415]
   [1548 :create/user 3 536876415]
-  [1548 :edit/time 1622094618122 536876422]
+  [1548 :edit/time 1622185290889 536876764]
   [1548 :edit/user 3 536876415]
   [1549 :block/uid "_giQeQhbl" 536876423]
   [1549 :create/time 1622094618126 536876423]
@@ -12979,34 +12979,24 @@
   [1549 :edit/time 1622094618126 536876423]
   [1549 :edit/user 3 536876423]
   [1549 :node/title "definition" 536876423]
-  [1552 :block/children 1553 536876436]
+  [1552 :block/children 1597 536876802]
+  [1552 :block/children 1598 536876805]
+  [1552 :block/children 1599 536876809]
+  [1552 :block/children 1600 536876813]
+  [1552 :block/children 1601 536876816]
   [1552 :block/open true 536876429]
   [1552 :block/order 2 536876474]
   [1552 :block/page 1539 536876430]
   [1552 :block/parents 1539 536876430]
   [1552
    :block/string
-   "Statt \"Validität eines Tests\": Validität verschiedener möglicher Interpretationen von Ergebnissen eines Tests"
-   536876433]
+   "Validität bezieht sich auf **Interpretation von Testergebnissen**:"
+   536876804]
   [1552 :block/uid "OW1XmAqSy" 536876429]
   [1552 :create/time 1622094732377 536876429]
   [1552 :create/user 3 536876429]
-  [1552 :edit/time 1622094773347 536876433]
+  [1552 :edit/time 1622185386405 536876804]
   [1552 :edit/user 3 536876429]
-  [1553 :block/open true 536876434]
-  [1553 :block/order 0 536876436]
-  [1553 :block/page 1539 536876435]
-  [1553 :block/parents 1539 536876435]
-  [1553 :block/parents 1552 536876437]
-  [1553
-   :block/string
-   "**Validierung**: Untersuchung der Validität von Testwertinterpretationen, bspw. zu Bewertung, Verallgemeinerung, Extrapolation, kausale Erklärung, Entscheidungen --> unterschiedliche Interpretationen sollen legitimiert/ falsifiziert werden"
-   536876460]
-  [1553 :block/uid "EnhJP78o4" 536876434]
-  [1553 :create/time 1622094781579 536876434]
-  [1553 :create/user 3 536876434]
-  [1553 :edit/time 1622094950476 536876460]
-  [1553 :edit/user 3 536876434]
   [1554 :block/open true 536876442]
   [1554 :block/order 0 536876726]
   [1554 :block/page 1539 536876443]
@@ -13505,4 +13495,65 @@
   [1596 :edit/time 1622164658375 536876762]
   [1596 :edit/user 3 536876762]
   [1596 :log/id 1622164658374 536876762]
-  [1596 :node/title "May 28th, 2021" 536876762]]}
+  [1596 :node/title "May 28th, 2021" 536876762]
+  [1597 :block/open true 536876802]
+  [1597 :block/order 0 536876802]
+  [1597 :block/page 1539 536876803]
+  [1597 :block/parents 1539 536876803]
+  [1597 :block/parents 1552 536876803]
+  [1597 :block/string "Bewerten des Ergebnisses" 536876807]
+  [1597 :block/uid "9tXyQAgue" 536876802]
+  [1597 :create/time 1622185386399 536876802]
+  [1597 :create/user 3 536876802]
+  [1597 :edit/time 1622185392591 536876807]
+  [1597 :edit/user 3 536876802]
+  [1598 :block/open true 536876805]
+  [1598 :block/order 1 536876805]
+  [1598 :block/page 1539 536876806]
+  [1598 :block/parents 1539 536876806]
+  [1598 :block/parents 1552 536876806]
+  [1598 :block/string "Verallgemeinern des Ergebnisses" 536876811]
+  [1598 :block/uid "W9wQTobjG" 536876805]
+  [1598 :create/time 1622185392583 536876805]
+  [1598 :create/user 3 536876805]
+  [1598 :edit/time 1622185399753 536876811]
+  [1598 :edit/user 3 536876805]
+  [1599 :block/open true 536876809]
+  [1599 :block/order 2 536876809]
+  [1599 :block/page 1539 536876810]
+  [1599 :block/parents 1539 536876810]
+  [1599 :block/parents 1552 536876810]
+  [1599
+   :block/string
+   "Extrapolieren des Ergebnisses auf andere Bereiche"
+   536876815]
+  [1599 :block/uid "necVMmvBS" 536876809]
+  [1599 :create/time 1622185399746 536876809]
+  [1599 :create/user 3 536876809]
+  [1599 :edit/time 1622185410294 536876815]
+  [1599 :edit/user 3 536876809]
+  [1600 :block/open true 536876813]
+  [1600 :block/order 3 536876813]
+  [1600 :block/page 1539 536876814]
+  [1600 :block/parents 1539 536876814]
+  [1600 :block/parents 1552 536876814]
+  [1600 :block/string "(Kausales) Erklären des Ergebnisses" 536876818]
+  [1600 :block/uid "B7phSMUNJ" 536876813]
+  [1600 :create/time 1622185410287 536876813]
+  [1600 :create/user 3 536876813]
+  [1600 :edit/time 1622185418742 536876818]
+  [1600 :edit/user 3 536876813]
+  [1601 :block/open true 536876816]
+  [1601 :block/order 4 536876816]
+  [1601 :block/page 1539 536876817]
+  [1601 :block/parents 1539 536876817]
+  [1601 :block/parents 1552 536876817]
+  [1601
+   :block/string
+   "Entscheidungen als Konsequenz des Ergebnisses"
+   536876819]
+  [1601 :block/uid "P_bvPpqPz" 536876816]
+  [1601 :create/time 1622185418735 536876816]
+  [1601 :create/user 3 536876816]
+  [1601 :edit/time 1622185427743 536876819]
+  [1601 :edit/user 3 536876816]]}
