@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuida00c9260-5f79-4447-9cac-6c9c034c159d"
-   536876821]
+   "uuid84e59167-e34a-4354-a57f-771c4078319e"
+   536876951]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -12856,6 +12856,7 @@
   [1539 :block/children 1548 536876415]
   [1539 :block/children 1552 536876429]
   [1539 :block/children 1558 536876471]
+  [1539 :block/children 1602 536876824]
   [1539 :block/uid "dajBA3hIW" 536876393]
   [1539 :create/time 1622094296779 536876393]
   [1539 :create/user 3 536876393]
@@ -12881,11 +12882,14 @@
   [1541 :block/parents 1539 536876397]
   [1541 :block/parents 1540 536876400]
   [1541 :block/refs 1543 536876404]
-  [1541 :block/string "[[Inhaltsvalidität]]" 536876403]
+  [1541
+   :block/string
+   "[[Inhaltsvalidität]]: Verallgemeinernde Interpretation (operational), erklärende Interpretation (theoretisch)"
+   536876895]
   [1541 :block/uid "NH0vhsRrz" 536876396]
   [1541 :create/time 1622094523172 536876396]
   [1541 :create/user 3 536876396]
-  [1541 :edit/time 1622094529882 536876403]
+  [1541 :edit/time 1622197672885 536876895]
   [1541 :edit/user 3 536876396]
   [1542 :block/open true 536876401]
   [1542 :block/order 1 536876401]
@@ -12902,6 +12906,7 @@
   [1543 :block/children 1565 536876544]
   [1543 :block/children 1566 536876549]
   [1543 :block/children 1567 536876554]
+  [1543 :block/children 1612 536876921]
   [1543 :block/uid "w1x07kAnl" 536876404]
   [1543 :create/time 1622094529882 536876404]
   [1543 :create/user 3 536876404]
@@ -12924,6 +12929,8 @@
   [1545 :block/children 1573 536876605]
   [1545 :block/children 1579 536876640]
   [1545 :block/children 1580 536876649]
+  [1545 :block/children 1613 536876927]
+  [1545 :block/children 1614 536876937]
   [1545 :block/uid "9YPlGyhSN" 536876408]
   [1545 :create/time 1622094534332 536876408]
   [1545 :create/user 3 536876408]
@@ -13131,8 +13138,11 @@
   [1565 :edit/time 1622095739894 536876547]
   [1565 :edit/user 3 536876544]
   [1566 :block/children 1568 536876567]
+  [1566 :block/children 1606 536876858]
+  [1566 :block/children 1607 536876876]
+  [1566 :block/children 1608 536876883]
   [1566 :block/open true 536876549]
-  [1566 :block/order 1 536876549]
+  [1566 :block/order 1 536876858]
   [1566 :block/page 1543 536876550]
   [1566 :block/parents 1543 536876550]
   [1566
@@ -13144,11 +13154,11 @@
   [1566 :create/user 3 536876549]
   [1566 :edit/time 1622095820313 536876563]
   [1566 :edit/user 3 536876549]
-  [1567 :block/children 1569 536876577]
-  [1567 :block/children 1570 536876589]
-  [1567 :block/children 1571 536876595]
+  [1567 :block/children 1609 536876888]
+  [1567 :block/children 1610 536876899]
+  [1567 :block/children 1611 536876908]
   [1567 :block/open true 536876554]
-  [1567 :block/order 2 536876567]
+  [1567 :block/order 2 536876858]
   [1567 :block/page 1543 536876555]
   [1567 :block/parents 1543 536876555]
   [1567
@@ -13161,61 +13171,19 @@
   [1567 :edit/time 1622095823097 536876564]
   [1567 :edit/user 3 536876554]
   [1568 :block/open true 536876565]
-  [1568 :block/order 0 536876567]
+  [1568 :block/order 1 536876858]
   [1568 :block/page 1543 536876566]
   [1568 :block/parents 1543 536876566]
   [1568 :block/parents 1566 536876568]
   [1568
    :block/string
-   "Inhaltsvalidität --> verallgemeinernde Interpretation von Ergebnissen (**Repräsentationsschluss**)"
-   536876759]
+   "**Repräsentationsschluss**: Itemuniversum wird hinreichend gut repräsentiert durch Testitems"
+   536876875]
   [1568 :block/uid "OJ6IS97hr" 536876565]
   [1568 :create/time 1622095837296 536876565]
   [1568 :create/user 3 536876565]
-  [1568 :edit/time 1622097738358 536876759]
+  [1568 :edit/time 1622197560414 536876875]
   [1568 :edit/user 3 536876565]
-  [1569 :block/open true 536876575]
-  [1569 :block/order 0 536876577]
-  [1569 :block/page 1543 536876576]
-  [1569 :block/parents 1543 536876576]
-  [1569 :block/parents 1567 536876578]
-  [1569
-   :block/string
-   "Inhaltsvalidität --> zusätzlich noch Bezug zu erklärender Interpretation auf Itemebene"
-   536876588]
-  [1569 :block/uid "6dsDhxOF9" 536876575]
-  [1569 :create/time 1622095916286 536876575]
-  [1569 :create/user 3 536876575]
-  [1569 :edit/time 1622095978074 536876588]
-  [1569 :edit/user 3 536876575]
-  [1570 :block/open true 536876589]
-  [1570 :block/order 1 536876589]
-  [1570 :block/page 1543 536876590]
-  [1570 :block/parents 1543 536876590]
-  [1570 :block/parents 1567 536876590]
-  [1570
-   :block/string
-   "Unterschiedliche Item-Antworten erklärbar durch unterschiedliche Ausprägungen im Konstrukt"
-   536876594]
-  [1570 :block/uid "BKVY0s-yv" 536876589]
-  [1570 :create/time 1622096003080 536876589]
-  [1570 :create/user 3 536876589]
-  [1570 :edit/time 1622096029604 536876594]
-  [1570 :edit/user 3 536876589]
-  [1571 :block/open true 536876595]
-  [1571 :block/order 2 536876595]
-  [1571 :block/page 1543 536876596]
-  [1571 :block/parents 1543 536876596]
-  [1571 :block/parents 1567 536876596]
-  [1571
-   :block/string
-   "--> notwendig: gute theoretische Fundierung und Konstruktdefinition"
-   536876599]
-  [1571 :block/uid "w45WyDZ6Y" 536876595]
-  [1571 :create/time 1622096034724 536876595]
-  [1571 :create/user 3 536876595]
-  [1571 :edit/time 1622096048124 536876599]
-  [1571 :edit/user 3 536876595]
   [1572 :block/open true 536876600]
   [1572 :block/order 0 536876600]
   [1572 :block/page 1545 536876601]
@@ -13235,7 +13203,7 @@
   [1573 :block/children 1577 536876615]
   [1573 :block/children 1578 536876635]
   [1573 :block/open true 536876605]
-  [1573 :block/order 1 536876605]
+  [1573 :block/order 3 536876937]
   [1573 :block/page 1545 536876606]
   [1573 :block/parents 1545 536876606]
   [1573
@@ -13268,11 +13236,11 @@
   [1576 :block/parents 1573 536876617]
   [1576
    :block/string
-   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FOHUMDHw-9v.png?alt=media&token=ac11b924-7c0b-4a0e-a338-621ebbfffb9c)"
-   536876637]
+   "Grundlage ist nomologisches Netz: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FOHUMDHw-9v.png?alt=media&token=ac11b924-7c0b-4a0e-a338-621ebbfffb9c)"
+   536876947]
   [1576 :block/uid "UyM7IYMKv" 536876615]
   [1576 :edit/seen-by 3 536876622]
-  [1576 :edit/time 1622096364440 536876637]
+  [1576 :edit/time 1622198372716 536876947]
   [1576 :edit/user 3 536876615]
   [1577 :block/open true 536876615]
   [1577 :block/order 0 536876615]
@@ -13302,7 +13270,7 @@
   [1578 :edit/time 1622096364436 536876635]
   [1578 :edit/user 3 536876635]
   [1579 :block/open true 536876638]
-  [1579 :block/order 2 536876640]
+  [1579 :block/order 4 536876937]
   [1579 :block/page 1545 536876639]
   [1579 :block/parents 1545 536876639]
   [1579
@@ -13315,7 +13283,7 @@
   [1579 :edit/time 1622096630144 536876655]
   [1579 :edit/user 3 536876638]
   [1580 :block/open true 536876649]
-  [1580 :block/order 3 536876649]
+  [1580 :block/order 5 536876937]
   [1580 :block/page 1545 536876650]
   [1580 :block/parents 1545 536876650]
   [1580
@@ -13556,4 +13524,172 @@
   [1601 :create/time 1622185418735 536876816]
   [1601 :create/user 3 536876816]
   [1601 :edit/time 1622185427743 536876819]
-  [1601 :edit/user 3 536876816]]}
+  [1601 :edit/user 3 536876816]
+  [1602 :block/children 1603 536876830]
+  [1602 :block/children 1604 536876832]
+  [1602 :block/open true 536876822]
+  [1602 :block/order 5 536876824]
+  [1602 :block/page 1539 536876823]
+  [1602 :block/parents 1539 536876823]
+  [1602 :block/string "Merkmalsdefinitionen" 536876829]
+  [1602 :block/uid "EEcojiaVU" 536876822]
+  [1602 :create/time 1622196864992 536876822]
+  [1602 :create/user 3 536876822]
+  [1602 :edit/time 1622196873710 536876829]
+  [1602 :edit/user 3 536876822]
+  [1603 :block/open true 536876827]
+  [1603 :block/order 0 536876830]
+  [1603 :block/page 1539 536876828]
+  [1603 :block/parents 1539 536876828]
+  [1603 :block/parents 1602 536876831]
+  [1603
+   :block/string
+   "**Operational**: durch Testinhalte definiert, keine theoretischen Annahmen über Testergebnisse"
+   536876850]
+  [1603 :block/uid "hmBu54-g1" 536876827]
+  [1603 :create/time 1622196873703 536876827]
+  [1603 :create/user 3 536876827]
+  [1603 :edit/time 1622196966247 536876850]
+  [1603 :edit/user 3 536876827]
+  [1604 :block/open true 536876832]
+  [1604 :block/order 1 536876849]
+  [1604 :block/page 1539 536876833]
+  [1604 :block/parents 1539 536876833]
+  [1604 :block/parents 1602 536876833]
+  [1604
+   :block/string
+   "**Theoretisch**: auf Basis einer Theorie definiert; Theorie spezifiziert, worauf Unterschiede im Testergebnis zurückzuführen sind"
+   536876851]
+  [1604 :block/uid "sXvpnCy-n" 536876832]
+  [1604 :create/time 1622196875019 536876832]
+  [1604 :create/user 3 536876832]
+  [1604 :edit/time 1622196967058 536876851]
+  [1604 :edit/user 3 536876832]
+  [1606 :block/open true 536876852]
+  [1606 :block/order 0 536876858]
+  [1606 :block/page 1543 536876853]
+  [1606 :block/parents 1543 536876853]
+  [1606 :block/parents 1566 536876859]
+  [1606
+   :block/string
+   "**Ziel**: Verallgemeinernde Interpretation"
+   536876856]
+  [1606 :block/uid "xScctVgy2" 536876852]
+  [1606 :create/time 1622197441052 536876852]
+  [1606 :create/user 3 536876852]
+  [1606 :edit/time 1622197448816 536876856]
+  [1606 :edit/user 3 536876852]
+  [1607 :block/open true 536876876]
+  [1607 :block/order 2 536876876]
+  [1607 :block/page 1543 536876877]
+  [1607 :block/parents 1543 536876877]
+  [1607 :block/parents 1566 536876877]
+  [1607
+   :block/string
+   "**Vorgehen**: Präzise Definition des Itemuniversums, Beurteilung durch Experten"
+   536876926]
+  [1607 :block/uid "jjBrgB8Nk" 536876876]
+  [1607 :create/time 1622197568509 536876876]
+  [1607 :create/user 3 536876876]
+  [1607 :edit/time 1622198018243 536876926]
+  [1607 :edit/user 3 536876876]
+  [1608 :block/open true 536876883]
+  [1608 :block/order 3 536876883]
+  [1608 :block/page 1543 536876884]
+  [1608 :block/parents 1543 536876884]
+  [1608 :block/parents 1566 536876884]
+  [1608
+   :block/string
+   "Ermittlung für jedes einzelne Item + gesamten Test"
+   536876887]
+  [1608 :block/uid "zB_Yj1mSo" 536876883]
+  [1608 :create/time 1622197590087 536876883]
+  [1608 :create/user 3 536876883]
+  [1608 :edit/time 1622197601500 536876887]
+  [1608 :edit/user 3 536876883]
+  [1609 :block/open true 536876888]
+  [1609 :block/order 0 536876888]
+  [1609 :block/page 1543 536876889]
+  [1609 :block/parents 1543 536876889]
+  [1609 :block/parents 1567 536876889]
+  [1609 :block/string "**Ziel**: Erklärende Interpretation" 536876898]
+  [1609 :block/uid "jTMxItV-x" 536876888]
+  [1609 :create/time 1622197643220 536876888]
+  [1609 :create/user 3 536876888]
+  [1609 :edit/time 1622197680072 536876898]
+  [1609 :edit/user 3 536876888]
+  [1610 :block/open true 536876899]
+  [1610 :block/order 1 536876899]
+  [1610 :block/page 1543 536876900]
+  [1610 :block/parents 1543 536876900]
+  [1610 :block/parents 1567 536876900]
+  [1610
+   :block/string
+   "**Annahme**: Unterschiedliche Itemantworten durch Unterschiede im zu erfassenden Konstrukt begründet"
+   536876907]
+  [1610 :block/uid "BdLxq6D4f" 536876899]
+  [1610 :create/time 1622197693499 536876899]
+  [1610 :create/user 3 536876899]
+  [1610 :edit/time 1622197720378 536876907]
+  [1610 :edit/user 3 536876899]
+  [1611 :block/open true 536876908]
+  [1611 :block/order 2 536876925]
+  [1611 :block/page 1543 536876909]
+  [1611 :block/parents 1543 536876909]
+  [1611 :block/parents 1567 536876909]
+  [1611
+   :block/string
+   "**Vorgehen**: Theoretische Fundierung, daran orientierte Itementwicklung, Argumentation (__evidence-centered assessment design__)"
+   536876917]
+  [1611 :block/uid "7-b7KPnTq" 536876908]
+  [1611 :create/time 1622197745874 536876908]
+  [1611 :create/user 3 536876908]
+  [1611 :edit/time 1622197789168 536876917]
+  [1611 :edit/user 3 536876908]
+  [1612 :block/open true 536876918]
+  [1612 :block/order 3 536876921]
+  [1612 :block/page 1543 536876919]
+  [1612 :block/parents 1543 536876919]
+  [1612
+   :block/props
+   {:image-size
+    {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FGx6dVnBGeb.png?alt=media&token=1e41c7cf-8a7c-403f-98de-088518c7dbda"
+     {:width 553, :height ##NaN}}}
+   536876923]
+  [1612
+   :block/string
+   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FGx6dVnBGeb.png?alt=media&token=1e41c7cf-8a7c-403f-98de-088518c7dbda)"
+   536876920]
+  [1612 :block/uid "IPu3TCJAO" 536876918]
+  [1612 :create/time 1622197871434 536876918]
+  [1612 :create/user 3 536876918]
+  [1612 :edit/time 1622197955784 536876920]
+  [1612 :edit/user 3 536876918]
+  [1613 :block/open true 536876927]
+  [1613 :block/order 1 536876927]
+  [1613 :block/page 1545 536876928]
+  [1613 :block/parents 1545 536876928]
+  [1613
+   :block/string
+   "**Ziel**: Erklärende und extrapolierende Interpretationen (Schluss auf Ausprägungen in anderen Konstrukten); dabei auch Überprüfung des nomologischen Netzes"
+   536876951]
+  [1613 :block/uid "kurOORVEO" 536876927]
+  [1613 :create/time 1622198100775 536876927]
+  [1613 :create/user 3 536876927]
+  [1613 :edit/time 1622198414033 536876951]
+  [1613 :edit/user 3 536876927]
+  [1614 :block/open true 536876937]
+  [1614 :block/order 2 536876937]
+  [1614 :block/page 1545 536876938]
+  [1614 :block/parents 1545 536876938]
+  [1614 :block/refs 1543 536876943]
+  [1614 :block/refs 1546 536876946]
+  [1614
+   :block/string
+   "Seit 1970er übergreifendes Konzept der Validität, das [[Inhaltsvalidität]] und [[Kriteriumsvalidität]] einschließt"
+   536876945]
+  [1614 :block/uid "RqaPoSmDI" 536876937]
+  [1614 :create/time 1622198172012 536876937]
+  [1614 :create/user 3 536876937]
+  [1614 :edit/time 1622198226206 536876945]
+  [1614 :edit/user 3 536876937]]}

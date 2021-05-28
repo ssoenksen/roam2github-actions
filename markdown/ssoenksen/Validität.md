@@ -13,7 +13,7 @@
     - (Kausales) Erklären des Ergebnisses
     - Entscheidungen als Konsequenz des Ergebnisses
 - **Formen**
-    - [[Inhaltsvalidität]]
+    - [[Inhaltsvalidität]]: Verallgemeinernde Interpretation (operational), erklärende Interpretation (theoretisch)
     - [[Konstruktvalidität]]
     - [[Kriteriumsvalidität]]
 - Wahl einer geeigneten **Validierungsstrategie**
@@ -21,3 +21,6 @@
     - Bei Neuentwicklung eines Tests: Wie am besten mit Vielfalt umgehen?
     - Für jede mögliche Interpretation und Verwendung eines Testwerts Argumente und empirische Belege zu erbringen idR. unrealistisch 
     - --> Wahl der wichtigsten Interpretationen und Verwendungen, Ableitung von Prioritäten
+- Merkmalsdefinitionen
+    - **Operational**: durch Testinhalte definiert, keine theoretischen Annahmen über Testergebnisse
+    - **Theoretisch**: auf Basis einer Theorie definiert; Theorie spezifiziert, worauf Unterschiede im Testergebnis zurückzuführen sind

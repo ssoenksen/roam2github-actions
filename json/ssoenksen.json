@@ -10277,7 +10277,7 @@
         },
         "children": [
           {
-            "string": "[[Inhaltsvalidität]]",
+            "string": "[[Inhaltsvalidität]]: Verallgemeinernde Interpretation (operational), erklärende Interpretation (theoretisch)",
             "create-time": 1622094523172,
             ":block/refs": [
               {
@@ -10293,7 +10293,7 @@
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
             "uid": "NH0vhsRrz",
-            "edit-time": 1622094529882,
+            "edit-time": 1622197672885,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -10410,6 +10410,44 @@
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
+      },
+      {
+        "string": "Merkmalsdefinitionen",
+        "create-time": 1622196864992,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "**Operational**: durch Testinhalte definiert, keine theoretischen Annahmen über Testergebnisse",
+            "create-time": 1622196873703,
+            "uid": "hmBu54-g1",
+            "edit-time": 1622196966247,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**Theoretisch**: auf Basis einer Theorie definiert; Theorie spezifiziert, worauf Unterschiede im Testergebnis zurückzuführen sind",
+            "create-time": 1622196875019,
+            "uid": "sXvpnCy-n",
+            "edit-time": 1622196967058,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "EEcojiaVU",
+        "edit-time": 1622196873710,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
       }
     ],
     "uid": "dajBA3hIW",
@@ -10455,10 +10493,46 @@
         },
         "children": [
           {
-            "string": "Inhaltsvalidität --> verallgemeinernde Interpretation von Ergebnissen (**Repräsentationsschluss**)",
+            "string": "**Ziel**: Verallgemeinernde Interpretation",
+            "create-time": 1622197441052,
+            "uid": "xScctVgy2",
+            "edit-time": 1622197448816,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**Repräsentationsschluss**: Itemuniversum wird hinreichend gut repräsentiert durch Testitems",
             "create-time": 1622095837296,
             "uid": "OJ6IS97hr",
-            "edit-time": 1622097738358,
+            "edit-time": 1622197560414,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**Vorgehen**: Präzise Definition des Itemuniversums, Beurteilung durch Experten",
+            "create-time": 1622197568509,
+            "uid": "jjBrgB8Nk",
+            "edit-time": 1622198018243,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Ermittlung für jedes einzelne Item + gesamten Test",
+            "create-time": 1622197590087,
+            "uid": "zB_Yj1mSo",
+            "edit-time": 1622197601500,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -10481,10 +10555,10 @@
         },
         "children": [
           {
-            "string": "Inhaltsvalidität --> zusätzlich noch Bezug zu erklärender Interpretation auf Itemebene",
-            "create-time": 1622095916286,
-            "uid": "6dsDhxOF9",
-            "edit-time": 1622095978074,
+            "string": "**Ziel**: Erklärende Interpretation",
+            "create-time": 1622197643220,
+            "uid": "jTMxItV-x",
+            "edit-time": 1622197680072,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -10493,10 +10567,10 @@
             }
           },
           {
-            "string": "Unterschiedliche Item-Antworten erklärbar durch unterschiedliche Ausprägungen im Konstrukt",
-            "create-time": 1622096003080,
-            "uid": "BKVY0s-yv",
-            "edit-time": 1622096029604,
+            "string": "**Annahme**: Unterschiedliche Itemantworten durch Unterschiede im zu erfassenden Konstrukt begründet",
+            "create-time": 1622197693499,
+            "uid": "BdLxq6D4f",
+            "edit-time": 1622197720378,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -10505,10 +10579,10 @@
             }
           },
           {
-            "string": "--> notwendig: gute theoretische Fundierung und Konstruktdefinition",
-            "create-time": 1622096034724,
-            "uid": "w45WyDZ6Y",
-            "edit-time": 1622096048124,
+            "string": "**Vorgehen**: Theoretische Fundierung, daran orientierte Itementwicklung, Argumentation (__evidence-centered assessment design__)",
+            "create-time": 1622197745874,
+            "uid": "7-b7KPnTq",
+            "edit-time": 1622197789168,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -10519,6 +10593,34 @@
         ],
         "uid": "dfQjRIa6K",
         "edit-time": 1622095823097,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FGx6dVnBGeb.png?alt=media&token=1e41c7cf-8a7c-403f-98de-088518c7dbda)",
+        "props": {
+          "image-size": {
+            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FGx6dVnBGeb.png?alt=media&token=1e41c7cf-8a7c-403f-98de-088518c7dbda": {
+              "width": 553,
+              "height": null
+            }
+          }
+        },
+        "create-time": 1622197871434,
+        ":block/props": {
+          ":image-size": {
+            "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FGx6dVnBGeb.png?alt=media&token=1e41c7cf-8a7c-403f-98de-088518c7dbda": {
+              ":width": 553,
+              ":height": null
+            }
+          }
+        },
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "uid": "IPu3TCJAO",
+        "edit-time": 1622197955784,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -10560,6 +10662,46 @@
         }
       },
       {
+        "string": "**Ziel**: Erklärende und extrapolierende Interpretationen (Schluss auf Ausprägungen in anderen Konstrukten); dabei auch Überprüfung des nomologischen Netzes",
+        "create-time": 1622198100775,
+        "uid": "kurOORVEO",
+        "edit-time": 1622198414033,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Seit 1970er übergreifendes Konzept der Validität, das [[Inhaltsvalidität]] und [[Kriteriumsvalidität]] einschließt",
+        "create-time": 1622198172012,
+        ":block/refs": [
+          {
+            ":block/uid": "w1x07kAnl"
+          },
+          {
+            ":block/uid": "aa0Pqk2Do"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "w1x07kAnl"
+          },
+          {
+            "uid": "aa0Pqk2Do"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "uid": "RqaPoSmDI",
+        "edit-time": 1622198226206,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
         "string": "Cronbach und Meehl (1955): **Theoriebasierte Testwertinterpretation**",
         "create-time": 1622096085082,
         ":create/user": {
@@ -10595,9 +10737,9 @@
             }
           },
           {
-            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FOHUMDHw-9v.png?alt=media&token=ac11b924-7c0b-4a0e-a338-621ebbfffb9c)",
+            "string": "Grundlage ist nomologisches Netz: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FOHUMDHw-9v.png?alt=media&token=ac11b924-7c0b-4a0e-a338-621ebbfffb9c)",
             "uid": "UyM7IYMKv",
-            "edit-time": 1622096364440,
+            "edit-time": 1622198372716,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }

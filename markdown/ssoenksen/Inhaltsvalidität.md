@@ -1,7 +1,11 @@
 - Der Begriff der Inhaltsvalidität bezieht sich darauf, inwieweit die Inhalte eines Tests bzw. der Items, aus denen er sich zusammensetzt, tatsächlich das interessierende Merkmal erfassen #definition
 - **Operationale Definition**: Konstrukt allein durch Testinhalte definiert
-    - Inhaltsvalidität --> verallgemeinernde Interpretation von Ergebnissen (**Repräsentationsschluss**)
+    - **Ziel**: Verallgemeinernde Interpretation
+    - **Repräsentationsschluss**: Itemuniversum wird hinreichend gut repräsentiert durch Testitems
+    - **Vorgehen**: Präzise Definition des Itemuniversums, Beurteilung durch Experten
+    - Ermittlung für jedes einzelne Item + gesamten Test
 - **Theoretische Definition**: Bei theoretischen Konstrukten spezifiziert, Unterschiede zwischen Vpn durch Theorie bestimmt
-    - Inhaltsvalidität --> zusätzlich noch Bezug zu erklärender Interpretation auf Itemebene
-    - Unterschiedliche Item-Antworten erklärbar durch unterschiedliche Ausprägungen im Konstrukt
-    - --> notwendig: gute theoretische Fundierung und Konstruktdefinition
+    - **Ziel**: Erklärende Interpretation
+    - **Annahme**: Unterschiedliche Itemantworten durch Unterschiede im zu erfassenden Konstrukt begründet
+    - **Vorgehen**: Theoretische Fundierung, daran orientierte Itementwicklung, Argumentation (__evidence-centered assessment design__)
+- ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FGx6dVnBGeb.png?alt=media&token=1e41c7cf-8a7c-403f-98de-088518c7dbda)
