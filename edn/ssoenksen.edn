@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid760035aa-4bf4-4dae-a92e-fe8c8f5ffb07"
-   536877171]
+   "uuid4e1681d7-d7f8-4f70-b9a0-ff60a2ddcfae"
+   536877196]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -918,6 +918,7 @@
   [346 :edit/user 3 536872126]
   [347 :block/children 348 536872148]
   [347 :block/children 351 536872166]
+  [347 :block/children 1636 536877178]
   [347 :block/heading 3 536872145]
   [347 :block/open true 536872136]
   [347 :block/order 4 536877168]
@@ -1049,6 +1050,7 @@
   [356 :block/children 358 536872211]
   [356 :block/children 361 536872211]
   [356 :block/children 362 536872240]
+  [356 :block/children 1637 536877186]
   [356 :block/heading 3 536872203]
   [356 :block/open true 536872196]
   [356 :block/order 5 536877168]
@@ -13962,4 +13964,36 @@
   [1635 :create/time 1622202014498 536877168]
   [1635 :create/user 3 536877168]
   [1635 :edit/time 1622202021723 536877171]
-  [1635 :edit/user 3 536877168]]}
+  [1635 :edit/user 3 536877168]
+  [1636 :block/open true 536877172]
+  [1636 :block/order 2 536877178]
+  [1636 :block/page 272 536877173]
+  [1636 :block/parents 272 536877173]
+  [1636 :block/parents 273 536877173]
+  [1636 :block/parents 320 536877173]
+  [1636 :block/parents 347 536877173]
+  [1636
+   :block/string
+   "__SPSS__: Menü \"Reliabilitätsanalyse\""
+   536877183]
+  [1636 :block/uid "Ym5HMs7dO" 536877172]
+  [1636 :create/time 1622202489442 536877172]
+  [1636 :create/user 3 536877172]
+  [1636 :edit/time 1622202507545 536877183]
+  [1636 :edit/user 3 536877172]
+  [1637 :block/open true 536877184]
+  [1637 :block/order 3 536877186]
+  [1637 :block/page 272 536877185]
+  [1637 :block/parents 272 536877185]
+  [1637 :block/parents 273 536877185]
+  [1637 :block/parents 320 536877185]
+  [1637 :block/parents 356 536877185]
+  [1637
+   :block/string
+   "__SPSS__: Menü \"Reliabilitätsanalyse\", Optionen \"Statistiken\": \"Deskriptive Statistiken\" für \"Item\" und \"Skala, wenn Item gelöscht\""
+   536877196]
+  [1637 :block/uid "eTr1H9wvl" 536877184]
+  [1637 :create/time 1622202828707 536877184]
+  [1637 :create/user 3 536877184]
+  [1637 :edit/time 1622202858936 536877196]
+  [1637 :edit/user 3 536877184]]}

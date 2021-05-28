@@ -549,6 +549,18 @@
                     ":edit/user": {
                       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                     }
+                  },
+                  {
+                    "string": "__SPSS__: Menü \"Reliabilitätsanalyse\"",
+                    "create-time": 1622202489442,
+                    "uid": "Ym5HMs7dO",
+                    "edit-time": 1622202507545,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
                   }
                 ],
                 "uid": "LJK7WteBf",
@@ -617,6 +629,18 @@
                         ":block/uid": "bqTK9ngpG"
                       }
                     ],
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "__SPSS__: Menü \"Reliabilitätsanalyse\", Optionen \"Statistiken\": \"Deskriptive Statistiken\" für \"Item\" und \"Skala, wenn Item gelöscht\"",
+                    "create-time": 1622202828707,
+                    "uid": "eTr1H9wvl",
+                    "edit-time": 1622202858936,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
                     ":edit/user": {
                       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                     }

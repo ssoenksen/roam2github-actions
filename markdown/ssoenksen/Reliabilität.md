@@ -38,9 +38,11 @@
                 - **Odd-Even-Methode:** v.a. für Leistungstests mit steigenden Schwierigkeiten
                 - **Zeitpartitionierungsmethode**: v.a. bei gleichartigen Items, bspw. Konzentrationstests
                 - **Methode der Itemzwillinge:** Paarbildung aufgrund Schwierigkeit und Trennschärfe, dann zufällige Zuweisung auf Testhälfte; v.a. bei heterogenen Items
+            - __SPSS__: Menü "Reliabilitätsanalyse"
         - ### Interne Konsistenz (Cronbachs Alpha)
             - Jedes einzelne Item entspricht separatem Testteil zur Messung des Merkmals → Cronbachs Alpha: Verallgemeinerung auf beliebig viele Testteile
             - Berechnung: $$Rel(x)=\alpha= \frac{m}{m-1}\cdot (1-\frac{\sum_{i=1}^{m} Var(x_i)}{Var(x)})$$
             - Grundlage ist [[Parallelität von Tests]]; wenn nicht möglich:
                 - $$\tau$$-Äquivalenz: Gleiche wahre Werte, unterschiedliche Fehlervarianzen
                 - Essentielle $$\tau$$-Äquivalenz: Wahre Werte unterscheiden sich um additive Konstante, unterschiedliche Fehlervarianzen ($$\tau_i = \tau + c_i$$)
+            - __SPSS__: Menü "Reliabilitätsanalyse", Optionen "Statistiken": "Deskriptive Statistiken" für "Item" und "Skala, wenn Item gelöscht"
