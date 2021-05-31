@@ -11238,15 +11238,16 @@
       {
         "string": "Ziele von Faktorenanalysen",
         "create-time": 1622444636096,
+        "heading": 1,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
         "children": [
           {
-            "string": "Datenreduktion: Variation von Variablen wird auf geringere Zahl von gemeinsamen Dimensionen zurückgeführt",
+            "string": "Datenreduktion: Variation von Variablen wird auf geringere Zahl von gemeinsamen Dimensionen zurückgeführt / Itemanalyse",
             "create-time": 1622444694808,
             "uid": "x_bOVeL9o",
-            "edit-time": 1622444721910,
+            "edit-time": 1622459156276,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -11296,8 +11297,174 @@
         }
       },
       {
+        "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FfNtCAfCK3f.png?alt=media&token=5eb72477-19ed-4f6a-9d35-866120759710)",
+        "create-time": 1622459205772,
+        "uid": "YLsji8WQs",
+        "edit-time": 1622459208232,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Fundamentaltheorem der Faktorenanalyse ",
+        "create-time": 1622445836424,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "**Auf Personenebene:** $$z_{vi} = \\lambda_{i1} f_{1v} + \\lambda_{i2} f_{2v} + ... + \\lambda_{ik} f_{kv} + ... + \\lambda_{iq} f_{qv} + \\varepsilon_{vi} = \\sum_{k=1}^{q} (\\lambda_{ik} f_{kv}) + \\varepsilon_{vi}$$",
+            "create-time": 1622446120998,
+            "uid": "0muwrN5v5",
+            "edit-time": 1622457323794,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**Auf Itemebene:** $$z_i = \\lambda_{i1} F_1 = \\lambda_{i2} F_2 + ... + \\lambda_{ik} F_k + ... + \\lambda_{iq} F_q + \\varepsilon_i = \\sum_{k=1}^{q} (\\lambda_{ik} F_k) + \\varepsilon_i$$",
+            "create-time": 1622446584147,
+            "uid": "NxpbZx48N",
+            "edit-time": 1622457333339,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "$$Var(z_i) = 1,0 = \\lambda^2_{i1} + \\lambda^2_{i2} + ... + \\lambda^2_{ik} + ... + \\lambda^2_{iq} + Var(\\varepsilon_i)$$",
+            "create-time": 1622447103846,
+            "uid": "solibx0r3",
+            "edit-time": 1622447105456,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "($$v$$: Person; $$i$$: Item; $$k = 1, ..., q$$: Anzahl Faktorwerte ($$f$$); $$\\lambda$$: Faktorladungen)",
+            "create-time": 1622447118938,
+            "uid": "9Hd13ozAG",
+            "edit-time": 1622447120926,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**Faktorladungen** $$\\lambda = -1, ..., 1$$, interpretierbar als **Korrelationskoeffizient** zwischen $$z_vi$$ und $$f_{iv}$$ / **Zusammenhang** zwischen Faktor und Variable/ Item",
+            "create-time": 1622446707124,
+            "uid": "eyffCGore",
+            "edit-time": 1622459259996,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Eigenwert eines Faktors",
+            "create-time": 1622457277054,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "$$Eig(F_k) = \\sum_{i=1}^{m} \\lambda^2_{ik}$$ (__wie viel Varianz über alle Variablen/ Items erklärt ein Faktor?__)",
+                "create-time": 1622446798929,
+                "uid": "2_N8Dz3Br",
+                "edit-time": 1622457277060,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "$$Eig(F_k) > 1$$ --> Faktor erklärt mehr Varianz als die einer einzigen Variable, da $$s^2_{z_i} = 1$$, also Datenreduktion",
+                "create-time": 1622447360880,
+                "uid": "s5T6QX6_w",
+                "edit-time": 1622447559542,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "yOeLUc1MO",
+            "edit-time": 1622457280585,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Kommunalität einer Variable",
+            "create-time": 1622457302935,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "$$h^2_i = \\sum_{k=1}^{q} \\lambda^2_{ik}$$ (__wie viel Varianz einer Variable wird durch alle Faktoren erklärt?__)",
+                "create-time": 1622447514858,
+                "uid": "XGeG-LueF",
+                "edit-time": 1622457302939,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Da variablen standardisiert: Kommunalität bei PCA maximal 1, bei PFA maximal so groß wie Reliabilität",
+                "create-time": 1622447625636,
+                "uid": "SpoDksbZf",
+                "edit-time": 1622447756785,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "P2THum1Gy",
+            "edit-time": 1622457302935,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "UFgXnDQ_N",
+        "edit-time": 1622446111383,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
         "string": "Extraktionsmethoden",
         "create-time": 1622445062317,
+        "heading": 1,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
@@ -11315,8 +11482,47 @@
             }
           },
           {
+            "string": "**Vorgaben**",
+            "create-time": 1622459516857,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Faktoren wechselseitig unabhängig voneinander",
+                "create-time": 1622459537959,
+                "uid": "3NtdlPlW3",
+                "edit-time": 1622459546686,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Faktoren klären sukzessiv maximale Varianz auf",
+                "create-time": 1622459546680,
+                "uid": "juhUT5Q6X",
+                "edit-time": 1622459554781,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "fEMJt9ti9",
+            "edit-time": 1622459555809,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
             "string": "Hauptkomponentenanalyse (principal components analysis, PCA)",
             "create-time": 1622445125526,
+            "heading": 2,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -11377,8 +11583,9 @@
             }
           },
           {
-            "string": "^^Hauptachsenanalyse (principal axes factor analysis, PFA)^^",
+            "string": "Hauptachsenanalyse (principal axes factor analysis, PFA; **Präferenz!**) ",
             "create-time": 1622445327478,
+            "heading": 2,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -11421,7 +11628,7 @@
               }
             ],
             "uid": "kxOrwnrJ_",
-            "edit-time": 1622445357568,
+            "edit-time": 1622456397520,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -11434,139 +11641,356 @@
         }
       },
       {
-        "string": "Fundamentaltheorem der Faktorenanalyse ",
-        "create-time": 1622445836424,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
-        "children": [
-          {
-            "string": "Auf Personenebene: $$z_{vi} = \\lambda_{i1} f_{1v} + \\lambda_{i2} f_{2v} + ... + \\lambda_{ik} f_{kv} + ... + \\lambda_{iq} f_{qv} + \\varepsilon_{vi} = \\sum_{k=1}^{q} (\\lambda_{ik} f_{kv}) + \\varepsilon_{vi}$$",
-            "create-time": 1622446120998,
-            "uid": "0muwrN5v5",
-            "edit-time": 1622447091932,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Auf Itemebene: $$z_i = \\lambda_{i1} F_1 = \\lambda_{i2} F_2 + ... + \\lambda_{ik} F_k + ... + \\lambda_{iq} F_q + \\varepsilon_i = \\sum_{k=1}^{q} (\\lambda_{ik} F_k) + \\varepsilon_i$$",
-            "create-time": 1622446584147,
-            "uid": "NxpbZx48N",
-            "edit-time": 1622447096642,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "$$Var(z_i) = 1,0 = \\lambda^2_{i1} + \\lambda^2_{i2} + ... + \\lambda^2_{ik} + ... + \\lambda^2_{iq} + Var(\\varepsilon_i)$$",
-            "create-time": 1622447103846,
-            "uid": "solibx0r3",
-            "edit-time": 1622447105456,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "($$v$$: Person; $$i$$: Item; $$k = 1, ..., q$$: Anzahl Faktorwerte ($$f$$); $$\\lambda$$: Faktorladungen)",
-            "create-time": 1622447118938,
-            "uid": "9Hd13ozAG",
-            "edit-time": 1622447120926,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Faktorladungen $$\\lambda = -1, ..., 1$$, interpretierbar als Korrelationskoeffizient zwischen $$z_vi$$ und $$f_{iv}$$",
-            "create-time": 1622446707124,
-            "uid": "eyffCGore",
-            "edit-time": 1622446798363,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "uid": "UFgXnDQ_N",
-        "edit-time": 1622446111383,
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "Eigenwert eines Faktors: $$Eig(F_k) = \\sum_{i=1}^{m} \\lambda^2_{ik}$$ (__wie viel Varianz über alle Variablen/ Items erklärt ein Faktor?__)",
-        "create-time": 1622446798929,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
-        "children": [
-          {
-            "string": "$$Eig(F_k) > 1$$ --> Faktor erklärt mehr Varianz als die einer einzigen Variable, da $$s^2_{z_i} = 1$$, also Datenreduktion",
-            "create-time": 1622447360880,
-            "uid": "s5T6QX6_w",
-            "edit-time": 1622447559542,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "uid": "2_N8Dz3Br",
-        "edit-time": 1622447416381,
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "Kommunalität einer Variable: $$h^2_i = \\sum_{k=1}^{q} \\lambda^2_{ik}$$ (__wie viel Varianz einer Variable wird durch alle Faktoren erklärt?__)",
-        "create-time": 1622447514858,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
-        "children": [
-          {
-            "string": "Da variablen standardisiert: Kommunalität bei PCA maximal 1, bei PFA maximal so groß wie Reliabilität",
-            "create-time": 1622447625636,
-            "uid": "SpoDksbZf",
-            "edit-time": 1622447756785,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "uid": "XGeG-LueF",
-        "edit-time": 1622447658097,
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "",
+        "string": "Abbruchkriterien zur Festlegung der Faktorenanzahl",
         "create-time": 1622447769334,
-        "uid": "2XSMq2ID4",
-        "edit-time": 1622447769334,
+        "heading": 1,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
+        "children": [
+          {
+            "string": "Auf Basis des Eigenwerteverlaufs",
+            "create-time": 1622456504493,
+            "uid": "KGexE0c-m",
+            "edit-time": 1622456527771,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Kaiser-Guttman-Kriterium",
+            "create-time": 1622457210667,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Faktoren mit $$Eig(F) > 1$$ ausgewählt, da mehr Varianz aufgeklärt wird als eine einzelne Variable aufweist",
+                "create-time": 1622456527766,
+                "uid": "-id6hE6C-",
+                "edit-time": 1622457210673,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Probleme: Führt bei vielen Variablen zu Überschätzung der Faktorenanzahl; Eigenwerte nur Populationsschätzungen (keine Nutzung von Konfidenzintervallen)",
+                "create-time": 1622456568796,
+                "uid": "9qOEI3ASE",
+                "edit-time": 1622459686172,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "6AzffZodE",
+            "edit-time": 1622459653898,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Scree-Test",
+            "create-time": 1622457225727,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Darstellung des Eigenwerteverlaufs in Screeplot, Auswahl der Faktoren vor \"Knick\", ab dem sich Graph asymptotisch der Abszisse annähert",
+                "create-time": 1622456581365,
+                "uid": "S2-r_OLDQ",
+                "edit-time": 1622457225731,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "ao4Sa9Q6T",
+            "edit-time": 1622457225727,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Parallelanalyse (**Präferenz** mit anschließendem Einbezug der beiden anderen Kriterien)",
+            "create-time": 1622456685023,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "In Stichprobe treten oft Zufallskorrelationen auch bei orthogonalen Variablen auf",
+                "create-time": 1622456701559,
+                "uid": "B4Yt-a7cX",
+                "edit-time": 1622456724194,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Durchführung",
+                "create-time": 1622456866223,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Parallele Faktorenanalyse mit theoretischen Stichproben, die Korrelationen aufweisen aber in Population unkorreliert sind",
+                    "create-time": 1622456869740,
+                    "uid": "dl1IXwZqB",
+                    "edit-time": 1622456869740,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Darstellung in Scree-Plot (Eigenwerte der theoretischen Faktoren sind gemittelte Eigenwerte der theoretischen Stichproben)",
+                    "create-time": 1622456872515,
+                    "uid": "kTxbq-xwb",
+                    "edit-time": 1622456872515,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Auswahl der Faktoren (der empirischen Stichprobe), die höheren Eigenwert haben als Parallelanalyse-Faktoren",
+                    "create-time": 1622456725906,
+                    "uid": "Q8x77kJiH",
+                    "edit-time": 1622456908797,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "p1dWqXdlu",
+                "edit-time": 1622456866223,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "QWK5L4VCG",
+            "edit-time": 1622457385272,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FJ0FB4DwsXD.png?alt=media&token=04131c95-d833-4a50-b4b2-2e16cd620165)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FJ0FB4DwsXD.png?alt=media&token=04131c95-d833-4a50-b4b2-2e16cd620165": {
+                  "width": 238,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1622457158708,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FJ0FB4DwsXD.png?alt=media&token=04131c95-d833-4a50-b4b2-2e16cd620165": {
+                  ":width": 238,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "1hx1btCY3",
+            "edit-time": 1622457165461,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "2XSMq2ID4",
+        "edit-time": 1622456504500,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Faktorenrotation",
+        "create-time": 1622458519533,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Ergebnis der Faktorenextraktion: Maximale Eigenwerte der Faktoren; Problem: Faktorenraum inhaltlich oft nicht interpretierbar",
+            "create-time": 1622458523632,
+            "uid": "Db1m3CeEB",
+            "edit-time": 1622458576501,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Lösung: Drehung des Faktorenraums mit Ziel eines Ladungsmusters, das Kriterium der Einfachstruktur entspricht",
+            "create-time": 1622458576526,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Kriterium der Einfachstruktur: Jede Variable lädt hoch auf nur einem Faktor (Primärladung) und niedrig/ nicht auf allen anderen (Sekundärladungen)",
+                "create-time": 1622458594923,
+                "uid": "cRYloXlMZ",
+                "edit-time": 1622458628055,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "72hd9lSqn",
+            "edit-time": 1622458594931,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Orthogonale Rotationsverfahren",
+            "create-time": 1622458632984,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Unkorreliertheit der bereits extrahierten Faktoren wird beibehalten, rotierte Faktoren ebenfalls orthogonal und unabhängig interpretierbar",
+                "create-time": 1622458642664,
+                "uid": "IASKwmWnX",
+                "edit-time": 1622458678215,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Bspw. Varimax-Rotation",
+                "create-time": 1622458663930,
+                "uid": "CemYSWJWL",
+                "edit-time": 1622458667346,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "xFWaeQolD",
+            "edit-time": 1622458642670,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Oblique Rotationsverfahren (**Präferenz**)",
+            "create-time": 1622458667342,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Unkorreliertheit der bereits extrahierten Faktoren wird aufgegeben",
+                "create-time": 1622458681893,
+                "uid": "3aokBVoyE",
+                "edit-time": 1622458776490,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Bspw. Oblimin-Rotation",
+                "create-time": 1622458776484,
+                "uid": "fNyXz6pAY",
+                "edit-time": 1622458780204,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "UkeO4XB8B",
+            "edit-time": 1622458786218,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "1CDZTmfpD",
+        "edit-time": 1622458523637,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Faktorielle Validität**: Stützung der theoretischen Merkmalsstruktur durch Faktoranalyse",
+        "create-time": 1622459345725,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Eindimensionalität des Konstrukts: Zusammenhänge zwischen Items rückführbar auf gemeinsames latentes Konstrukt (Faktor)",
+            "create-time": 1622459388644,
+            "uid": "6snP722PE",
+            "edit-time": 1622459431900,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "wBIjIHfB9",
+        "edit-time": 1622459381094,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
