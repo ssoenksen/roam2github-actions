@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuidfa23b1ba-0bf7-48c5-bb99-81961faed2f3"
-   536878022]
+   "uuidb34c07e1-a5a0-48e9-ac6c-5a4a7e3bb747"
+   536878025]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -8051,14 +8051,14 @@
   [1008 :block/parents 445 536873946]
   [1008 :block/parents 1005 536873946]
   [1008 :block/parents 1012 536873963]
-  [1008 :block/refs 1013 536873975]
+  [1008 :block/refs 1014 536878024]
   [1008
    :block/string
-   "{{[[TODO]]}} Explorative Faktorenanalyse: 24.05.-06.06."
-   536873974]
+   "{{[[DONE]]}} Explorative Faktorenanalyse: 24.05.-06.06."
+   536878023]
   [1008 :block/uid "aG7Xq08TK" 536873944]
   [1008 :edit/seen-by 3 536873970]
-  [1008 :edit/time 1621704197805 536873974]
+  [1008 :edit/time 1622467169357 536878023]
   [1008 :edit/user 3 536873944]
   [1009 :block/open true 536873944]
   [1009 :block/order 3 536873978]
@@ -8100,12 +8100,6 @@
   [1012 :edit/seen-by 3 536873958]
   [1012 :edit/time 1621704179149 536873951]
   [1012 :edit/user 3 536873951]
-  [1013 :block/uid "WZXukFBXW" 536873969]
-  [1013 :create/time 1621704189614 536873969]
-  [1013 :create/user 3 536873969]
-  [1013 :edit/time 1621704189616 536873969]
-  [1013 :edit/user 3 536873969]
-  [1013 :node/title "TODO" 536873969]
   [1014 :block/uid "9_0zUjvY6" 536873977]
   [1014 :create/time 1621704199939 536873977]
   [1014 :create/user 3 536873977]

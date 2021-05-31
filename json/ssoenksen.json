@@ -1533,17 +1533,17 @@
                 }
               },
               {
-                "string": "{{[[TODO]]}} Explorative Faktorenanalyse: 24.05.-06.06.",
+                "string": "{{[[DONE]]}} Explorative Faktorenanalyse: 24.05.-06.06.",
                 "refs": [
                   {
-                    "uid": "WZXukFBXW"
+                    "uid": "9_0zUjvY6"
                   }
                 ],
                 "uid": "aG7Xq08TK",
-                "edit-time": 1621704197805,
+                "edit-time": 1622467169357,
                 ":block/refs": [
                   {
-                    ":block/uid": "WZXukFBXW"
+                    ":block/uid": "9_0zUjvY6"
                   }
                 ],
                 ":edit/user": {
@@ -6151,18 +6151,6 @@
     ],
     "uid": "HXe211KEb",
     "edit-time": 1621703464533,
-    ":edit/user": {
-      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-    }
-  },
-  {
-    "create-time": 1621704189614,
-    "title": "TODO",
-    "uid": "WZXukFBXW",
-    "edit-time": 1621704189616,
-    ":create/user": {
-      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-    },
     ":edit/user": {
       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
     }

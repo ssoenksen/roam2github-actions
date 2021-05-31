@@ -6,7 +6,7 @@
     - {{[[DONE]]}} Prüfungsvorleistungen (mind. 2/3): 
         - {{[[DONE]]}} Itemanalyse: 26.04.-09.05.
         - {{[[DONE]]}} Reliabilitätsbestimmung: 10.05.-23.05.
-        - {{[[TODO]]}} Explorative Faktorenanalyse: 24.05.-06.06.
+        - {{[[DONE]]}} Explorative Faktorenanalyse: 24.05.-06.06.
     - Klausur: Offene Fragen und Zuordnungen (nicht multiple choice!) — Prüfungsrelevant: s. PDF
     - Aktivitäten pro Unit:
         - Wiederholen der vorherige(n) Units
