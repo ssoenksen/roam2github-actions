@@ -1808,13 +1808,23 @@
             }
           },
           {
-            "string": "",
+            "string": "V8 [[Exploratische Faktorenanalyse]]",
             "create-time": 1622094296773,
-            "uid": "IAEQBMXUI",
-            "edit-time": 1622094296773,
+            ":block/refs": [
+              {
+                ":block/uid": "9rYgjz57b"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "9rYgjz57b"
+              }
+            ],
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
+            "uid": "IAEQBMXUI",
+            "edit-time": 1622444631205,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -11211,6 +11221,368 @@
     "title": "May 31st, 2021",
     "uid": "05-31-2021",
     "edit-time": 1622426030034,
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1622444631210,
+    "title": "Exploratische Faktorenanalyse",
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    "children": [
+      {
+        "string": "Ziele von Faktorenanalysen",
+        "create-time": 1622444636096,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Datenreduktion: Variation von Variablen wird auf geringere Zahl von gemeinsamen Dimensionen zurückgeführt",
+            "create-time": 1622444694808,
+            "uid": "x_bOVeL9o",
+            "edit-time": 1622444721910,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Überprüfung der Konstruktvalidität von Fragebögen/ Tests",
+            "create-time": 1622444721903,
+            "uid": "5ME4lET0a",
+            "edit-time": 1622444756528,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "1MQaEgyZB",
+        "edit-time": 1622445124746,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Exploratische Faktorenanalyse: Hypothesengenerierend ([[Konfirmatorische Faktorenanalyse]]: Hypothesenprüfend)",
+        "create-time": 1622444835283,
+        ":block/refs": [
+          {
+            ":block/uid": "kP0qxczSI"
+          }
+        ],
+        "refs": [
+          {
+            "uid": "kP0qxczSI"
+          }
+        ],
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "uid": "8-hbTieCM",
+        "edit-time": 1622445091406,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Extraktionsmethoden",
+        "create-time": 1622445062317,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Durch Datenreduktion entsteht in beiden Verfahren ein Fehlerterm, der Messfehler und systematische Varianz enthält",
+            "create-time": 1622445880808,
+            "uid": "OaSdlxhpe",
+            "edit-time": 1622445914120,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Hauptkomponentenanalyse (principal components analysis, PCA)",
+            "create-time": 1622445125526,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Annahme: Variablen sind messfehlerfrei",
+                "create-time": 1622445141637,
+                "uid": "IM4jhlgHI",
+                "edit-time": 1622445176252,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Ziel: Erklärung maximaler Varianz der Variablen durch Hauptkomponenten (Faktoren) ",
+                "create-time": 1622445699323,
+                "uid": "y_OKnRl_r",
+                "edit-time": 1622445752302,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Varianz jeder standardisierten Variable = 1 --> Gesamtvarianz aller Variablen = Anzahl Variablen",
+                "create-time": 1622445179373,
+                "uid": "uGPSm3OR8",
+                "edit-time": 1622445277076,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Extraktion von weniger Faktoren als beobachtete Variablen --> Fehlerterm (__uniqueness__) entsteht",
+                "create-time": 1622445277070,
+                "uid": "okoAiGe_a",
+                "edit-time": 1622445327484,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "i6-ubz906",
+            "edit-time": 1622445141242,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "^^Hauptachsenanalyse (principal axes factor analysis, PFA)^^",
+            "create-time": 1622445327478,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Annahme: Variablen enthalten Messfehler",
+                "create-time": 1622445350079,
+                "uid": "K2ulFpdrE",
+                "edit-time": 1622445688115,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Ziel: Aufdeckung von Faktoren, mit denen Beziehungsmuster zwischen Variablen erklärt werden kann, unter Ausschluss der Messfehler",
+                "create-time": 1622445758068,
+                "uid": "TsN3auxvw",
+                "edit-time": 1622445804470,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Schätzung der wahren Varianz der Variablen aufgrund quadrierter multipler Korrelation mit allen anderen Variablen --> Varianz jeder standardisierten Variable < 1",
+                "create-time": 1622445787293,
+                "uid": "BwjYRqhuy",
+                "edit-time": 1622445863999,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "kxOrwnrJ_",
+            "edit-time": 1622445357568,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "mAK169WSI",
+        "edit-time": 1622445121295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Fundamentaltheorem der Faktorenanalyse ",
+        "create-time": 1622445836424,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Auf Personenebene: $$z_{vi} = \\lambda_{i1} f_{1v} + \\lambda_{i2} f_{2v} + ... + \\lambda_{ik} f_{kv} + ... + \\lambda_{iq} f_{qv} + \\varepsilon_{vi} = \\sum_{k=1}^{q} (\\lambda_{ik} f_{kv}) + \\varepsilon_{vi}$$",
+            "create-time": 1622446120998,
+            "uid": "0muwrN5v5",
+            "edit-time": 1622447091932,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Auf Itemebene: $$z_i = \\lambda_{i1} F_1 = \\lambda_{i2} F_2 + ... + \\lambda_{ik} F_k + ... + \\lambda_{iq} F_q + \\varepsilon_i = \\sum_{k=1}^{q} (\\lambda_{ik} F_k) + \\varepsilon_i$$",
+            "create-time": 1622446584147,
+            "uid": "NxpbZx48N",
+            "edit-time": 1622447096642,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "$$Var(z_i) = 1,0 = \\lambda^2_{i1} + \\lambda^2_{i2} + ... + \\lambda^2_{ik} + ... + \\lambda^2_{iq} + Var(\\varepsilon_i)$$",
+            "create-time": 1622447103846,
+            "uid": "solibx0r3",
+            "edit-time": 1622447105456,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "($$v$$: Person; $$i$$: Item; $$k = 1, ..., q$$: Anzahl Faktorwerte ($$f$$); $$\\lambda$$: Faktorladungen)",
+            "create-time": 1622447118938,
+            "uid": "9Hd13ozAG",
+            "edit-time": 1622447120926,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Faktorladungen $$\\lambda = -1, ..., 1$$, interpretierbar als Korrelationskoeffizient zwischen $$z_vi$$ und $$f_{iv}$$",
+            "create-time": 1622446707124,
+            "uid": "eyffCGore",
+            "edit-time": 1622446798363,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "UFgXnDQ_N",
+        "edit-time": 1622446111383,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Eigenwert eines Faktors: $$Eig(F_k) = \\sum_{i=1}^{m} \\lambda^2_{ik}$$ (__wie viel Varianz über alle Variablen/ Items erklärt ein Faktor?__)",
+        "create-time": 1622446798929,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "$$Eig(F_k) > 1$$ --> Faktor erklärt mehr Varianz als die einer einzigen Variable, da $$s^2_{z_i} = 1$$, also Datenreduktion",
+            "create-time": 1622447360880,
+            "uid": "s5T6QX6_w",
+            "edit-time": 1622447559542,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "2_N8Dz3Br",
+        "edit-time": 1622447416381,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Kommunalität einer Variable: $$h^2_i = \\sum_{k=1}^{q} \\lambda^2_{ik}$$ (__wie viel Varianz einer Variable wird durch alle Faktoren erklärt?__)",
+        "create-time": 1622447514858,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Da variablen standardisiert: Kommunalität bei PCA maximal 1, bei PFA maximal so groß wie Reliabilität",
+            "create-time": 1622447625636,
+            "uid": "SpoDksbZf",
+            "edit-time": 1622447756785,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "XGeG-LueF",
+        "edit-time": 1622447658097,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1622447769334,
+        "uid": "2XSMq2ID4",
+        "edit-time": 1622447769334,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      }
+    ],
+    "uid": "9rYgjz57b",
+    "edit-time": 1622444631215,
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1622445077734,
+    "title": "Konfirmatorische Faktorenanalyse",
+    "uid": "kP0qxczSI",
+    "edit-time": 1622445077736,
     ":create/user": {
       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
     },

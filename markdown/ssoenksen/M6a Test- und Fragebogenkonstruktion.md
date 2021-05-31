@@ -23,4 +23,4 @@
     - V5 [[Klassische Testtheorie]]
     - V6 [[Reliabilität]]
     - V7 [[Validität]]
-    - 
+    - V8 [[Exploratische Faktorenanalyse]]
