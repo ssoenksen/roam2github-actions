@@ -12262,10 +12262,10 @@
             }
           },
           {
-            "string": "",
+            "string": "Gleiches Hormon kann an unterschiedlichen Zielzelle unterschiedliche Wirkungen haben",
             "create-time": 1623143864700,
             "uid": "evHfY7ZXx",
-            "edit-time": 1623143864700,
+            "edit-time": 1623143893098,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },

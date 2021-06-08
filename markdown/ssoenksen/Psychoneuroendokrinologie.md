@@ -6,7 +6,7 @@
         - Konzentration im Blut
         - Kontaktfläche der Zielzelle zum Blut
         - Rezeptordichte an Zelloberfläche
-    - Gleiches 
+    - Gleiches Hormon kann an unterschiedlichen Zielzelle unterschiedliche Wirkungen haben
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)
