@@ -16,7 +16,9 @@
         - Wirkort idR. nah am Produktionsort im Gewebe
         - z.B. Sekretin, Gastrin
 - Übertragungswege von Hormonen
-    - 
+    - Autokrine Übertragung (Wirkung auf ausscheidende Zelle)
+    - Parakin (auf benachbarte Zellen)
+    - Endokrin (über Blutbahn auf entfernte Zellen)
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)

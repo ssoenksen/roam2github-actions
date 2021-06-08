@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid74690930-eb27-4735-ae41-c669c238d1c6"
-   536878173]
+   "uuidadda69f4-a38e-46df-8a95-fe7998d47c59"
+   536878184]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15321,6 +15321,8 @@
   [1757 :edit/time 1623144027240 536878162]
   [1757 :edit/user 3 536878159]
   [1758 :block/children 1759 536878172]
+  [1758 :block/children 1760 536878175]
+  [1758 :block/children 1761 536878181]
   [1758 :block/open true 536878163]
   [1758 :block/order 2 536878165]
   [1758 :block/page 1734 536878164]
@@ -15336,9 +15338,37 @@
   [1759 :block/page 1734 536878170]
   [1759 :block/parents 1734 536878170]
   [1759 :block/parents 1758 536878173]
-  [1759 :block/string "" 536878169]
+  [1759
+   :block/string
+   "Autokrine Übertragung (Wirkung auf ausscheidende Zelle)"
+   536878177]
   [1759 :block/uid "67L0fpbC0" 536878169]
   [1759 :create/time 1623144084480 536878169]
   [1759 :create/user 3 536878169]
-  [1759 :edit/time 1623144084480 536878169]
-  [1759 :edit/user 3 536878169]]}
+  [1759 :edit/time 1623144129813 536878177]
+  [1759 :edit/user 3 536878169]
+  [1760 :block/open true 536878175]
+  [1760 :block/order 1 536878175]
+  [1760 :block/page 1734 536878176]
+  [1760 :block/parents 1734 536878176]
+  [1760 :block/parents 1758 536878176]
+  [1760 :block/string "Parakin (auf benachbarte Zellen)" 536878180]
+  [1760 :block/uid "_xF-qPulV" 536878175]
+  [1760 :create/time 1623144129808 536878175]
+  [1760 :create/user 3 536878175]
+  [1760 :edit/time 1623144139732 536878180]
+  [1760 :edit/user 3 536878175]
+  [1761 :block/open true 536878181]
+  [1761 :block/order 2 536878181]
+  [1761 :block/page 1734 536878182]
+  [1761 :block/parents 1734 536878182]
+  [1761 :block/parents 1758 536878182]
+  [1761
+   :block/string
+   "Endokrin (über Blutbahn auf entfernte Zellen)"
+   536878184]
+  [1761 :block/uid "Q_h5YwMez" 536878181]
+  [1761 :create/time 1623144139862 536878181]
+  [1761 :create/user 3 536878181]
+  [1761 :edit/time 1623144150812 536878184]
+  [1761 :edit/user 3 536878181]]}

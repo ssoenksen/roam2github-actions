@@ -12390,10 +12390,34 @@
         },
         "children": [
           {
-            "string": "",
+            "string": "Autokrine Übertragung (Wirkung auf ausscheidende Zelle)",
             "create-time": 1623144084480,
             "uid": "67L0fpbC0",
-            "edit-time": 1623144084480,
+            "edit-time": 1623144129813,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Parakin (auf benachbarte Zellen)",
+            "create-time": 1623144129808,
+            "uid": "_xF-qPulV",
+            "edit-time": 1623144139732,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Endokrin ()",
+            "create-time": 1623144139862,
+            "uid": "Q_h5YwMez",
+            "edit-time": 1623144144124,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
