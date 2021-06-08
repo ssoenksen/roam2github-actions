@@ -13391,12 +13391,28 @@
           },
           {
             "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450": {
+                  "width": 272,
+                  "height": null
+                }
+              }
+            },
             "create-time": 1623147989851,
-            "uid": "bcK51Xz-B",
-            "edit-time": 1623147993864,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450": {
+                  ":width": 272,
+                  ":height": null
+                }
+              }
+            },
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
+            "uid": "bcK51Xz-B",
+            "edit-time": 1623147993864,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
