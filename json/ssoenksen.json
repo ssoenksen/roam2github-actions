@@ -12307,10 +12307,10 @@
                 }
               },
               {
-                "string": "",
+                "string": "z.B. Schilddrüse, Bauchspeicheldrüse, Nebenniere, Keimdrüsen, Adenohypophysen",
                 "create-time": 1623143974067,
                 "uid": "fSfWc2mBQ",
-                "edit-time": 1623143974067,
+                "edit-time": 1623143987220,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -12328,11 +12328,49 @@
           {
             "string": "Aglanduläre Hormone",
             "create-time": 1623143952395,
-            "uid": "WGraz52r2",
-            "edit-time": 1623143957770,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
+            "children": [
+              {
+                "string": "Gewebehormone, in Geweben von spezialisierten Zellen hergestellt",
+                "create-time": 1623143990010,
+                "uid": "ocZCL_mys",
+                "edit-time": 1623144004854,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Wirkort idR. nah am Produktionsort im Gewebe",
+                "create-time": 1623144004848,
+                "uid": "PutTbkhzR",
+                "edit-time": 1623144017759,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "z.B. Sekretin, Gastrin",
+                "create-time": 1623144017753,
+                "uid": "uoK0waP-0",
+                "edit-time": 1623144027240,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "WGraz52r2",
+            "edit-time": 1623143957770,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }

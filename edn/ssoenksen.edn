@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid9e10b807-6f65-4f64-b9e9-6dbeee5b10ec"
-   536878146]
+   "uuid91421417-bfc2-46d5-85b9-55a25b85035c"
+   536878162]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15233,6 +15233,9 @@
   [1751 :create/user 3 536878128]
   [1751 :edit/time 1623143951831 536878135]
   [1751 :edit/user 3 536878128]
+  [1752 :block/children 1755 536878150]
+  [1752 :block/children 1756 536878153]
+  [1752 :block/children 1757 536878159]
   [1752 :block/open true 536878136]
   [1752 :block/order 1 536878141]
   [1752 :block/page 1734 536878137]
@@ -15265,9 +15268,54 @@
   [1754 :block/parents 1734 536878145]
   [1754 :block/parents 1750 536878145]
   [1754 :block/parents 1751 536878145]
-  [1754 :block/string "" 536878144]
+  [1754
+   :block/string
+   "z.B. Schilddrüse, Bauchspeicheldrüse, Nebenniere, Keimdrüsen, Adenohypophysen"
+   536878147]
   [1754 :block/uid "fSfWc2mBQ" 536878144]
   [1754 :create/time 1623143974067 536878144]
   [1754 :create/user 3 536878144]
-  [1754 :edit/time 1623143974067 536878144]
-  [1754 :edit/user 3 536878144]]}
+  [1754 :edit/time 1623143987220 536878147]
+  [1754 :edit/user 3 536878144]
+  [1755 :block/open true 536878148]
+  [1755 :block/order 0 536878150]
+  [1755 :block/page 1734 536878149]
+  [1755 :block/parents 1734 536878149]
+  [1755 :block/parents 1750 536878149]
+  [1755 :block/parents 1752 536878151]
+  [1755
+   :block/string
+   "Gewebehormone, in Geweben von spezialisierten Zellen hergestellt"
+   536878155]
+  [1755 :block/uid "ocZCL_mys" 536878148]
+  [1755 :create/time 1623143990010 536878148]
+  [1755 :create/user 3 536878148]
+  [1755 :edit/time 1623144004854 536878155]
+  [1755 :edit/user 3 536878148]
+  [1756 :block/open true 536878153]
+  [1756 :block/order 1 536878153]
+  [1756 :block/page 1734 536878154]
+  [1756 :block/parents 1734 536878154]
+  [1756 :block/parents 1750 536878154]
+  [1756 :block/parents 1752 536878154]
+  [1756
+   :block/string
+   "Wirkort idR. nah am Produktionsort im Gewebe"
+   536878161]
+  [1756 :block/uid "PutTbkhzR" 536878153]
+  [1756 :create/time 1623144004848 536878153]
+  [1756 :create/user 3 536878153]
+  [1756 :edit/time 1623144017759 536878161]
+  [1756 :edit/user 3 536878153]
+  [1757 :block/open true 536878159]
+  [1757 :block/order 2 536878159]
+  [1757 :block/page 1734 536878160]
+  [1757 :block/parents 1734 536878160]
+  [1757 :block/parents 1750 536878160]
+  [1757 :block/parents 1752 536878160]
+  [1757 :block/string "z.B. Sekretin, Gastrin" 536878162]
+  [1757 :block/uid "uoK0waP-0" 536878159]
+  [1757 :create/time 1623144017753 536878159]
+  [1757 :create/user 3 536878159]
+  [1757 :edit/time 1623144027240 536878162]
+  [1757 :edit/user 3 536878159]]}

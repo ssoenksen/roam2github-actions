@@ -12,7 +12,9 @@
         - in Hormondrüsen hergestellt und ins Blut abgegeben
         - z.B. Schilddrüse, Bauchspeicheldrüse, Nebenniere, Keimdrüsen, Adenohypophysen
     - Aglanduläre Hormone
-    - 
+        - Gewebehormone, in Geweben von spezialisierten Zellen hergestellt
+        - Wirkort idR. nah am Produktionsort im Gewebe
+        - z.B. Sekretin, Gastrin
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)
