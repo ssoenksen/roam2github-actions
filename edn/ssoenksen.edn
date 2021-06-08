@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuidcf434b32-b628-4827-8c95-c0052feda06a"
-   536878284]
+   "uuid1dc3ed54-d781-4a12-b44e-f5f3bc0f6127"
+   536878299]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15532,21 +15532,53 @@
   [1773 :block/parents 1734 536878273]
   [1773
    :block/string
-   "Hormonklassen (nach chemischen EIgenschaften)"
-   536878284]
+   "Hormonklassen (nach chemischen Eigenschaften)"
+   536878287]
   [1773 :block/uid "ff2S4_p18" 536878272]
   [1773 :create/time 1623144604624 536878272]
   [1773 :create/user 3 536878272]
-  [1773 :edit/time 1623144674960 536878284]
+  [1773 :edit/time 1623144694690 536878287]
   [1773 :edit/user 3 536878272]
+  [1774 :block/children 1775 536878290]
+  [1774 :block/children 1776 536878294]
   [1774 :block/open true 536878278]
   [1774 :block/order 0 536878281]
   [1774 :block/page 1734 536878279]
   [1774 :block/parents 1734 536878279]
   [1774 :block/parents 1773 536878282]
-  [1774 :block/string "Peptidhormone" 536878283]
+  [1774
+   :block/string
+   "Peptidhormone (Ketten von Aminosäuren)"
+   536878286]
   [1774 :block/uid "MkMdGHDxo" 536878278]
   [1774 :create/time 1623144611767 536878278]
   [1774 :create/user 3 536878278]
-  [1774 :edit/time 1623144615057 536878283]
-  [1774 :edit/user 3 536878278]]}
+  [1774 :edit/time 1623144690196 536878286]
+  [1774 :edit/user 3 536878278]
+  [1775 :block/open true 536878288]
+  [1775 :block/order 0 536878290]
+  [1775 :block/page 1734 536878289]
+  [1775 :block/parents 1734 536878289]
+  [1775 :block/parents 1773 536878289]
+  [1775 :block/parents 1774 536878291]
+  [1775
+   :block/string
+   "z.B. Bauchspeicheldrüsenhormone Insulin und Glukagon"
+   536878296]
+  [1775 :block/uid "MFXr_06HQ" 536878288]
+  [1775 :create/time 1623144695450 536878288]
+  [1775 :create/user 3 536878288]
+  [1775 :edit/time 1623144717200 536878296]
+  [1775 :edit/user 3 536878288]
+  [1776 :block/open true 536878294]
+  [1776 :block/order 1 536878294]
+  [1776 :block/page 1734 536878295]
+  [1776 :block/parents 1734 536878295]
+  [1776 :block/parents 1773 536878295]
+  [1776 :block/parents 1774 536878295]
+  [1776 :block/string "z.B. " 536878299]
+  [1776 :block/uid "zVpYEOVRF" 536878294]
+  [1776 :create/time 1623144717194 536878294]
+  [1776 :create/user 3 536878294]
+  [1776 :edit/time 1623144727769 536878299]
+  [1776 :edit/user 3 536878294]]}

@@ -29,8 +29,10 @@
         - Bindung an Rezeptor auf Zellmembran, kann Second-Messenger-Kaskade auslösen mittels innen an Rezeptor angelagertem G-Protein (Zerfall)
         - Enzymaktivierung und dadurch Steigerung der Konzentration des Proteins, das durch Enzym katalisiert wird
         - z.B. Peptid-Hormone wie Oxytozin und Insulin
-- Hormonklassen (nach chemischen EIgenschaften)
-    - Peptidhormone (Ketten von AMinosäuren)
+- Hormonklassen (nach chemischen Eigenschaften)
+    - Peptidhormone (Ketten von Aminosäuren)
+        - z.B. Bauchspeicheldrüsenhormone Insulin und Glukagon
+        - z.B. adrenocorticotropes Hormon (ACTH), in Adenohyp
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)

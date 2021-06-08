@@ -12559,27 +12559,53 @@
         }
       },
       {
-        "string": "Hormonklassen (nach chemischen EIgenschaften)",
+        "string": "Hormonklassen (nach chemischen Eigenschaften)",
         "create-time": 1623144604624,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
         "children": [
           {
-            "string": "Peptidhormone",
+            "string": "Peptidhormone (Ketten von Aminosäuren)",
             "create-time": 1623144611767,
-            "uid": "MkMdGHDxo",
-            "edit-time": 1623144615057,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
+            "children": [
+              {
+                "string": "z.B. Bauchspeicheldrüsenhormone Insulin und Glukagon",
+                "create-time": 1623144695450,
+                "uid": "MFXr_06HQ",
+                "edit-time": 1623144717200,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "z.B. ",
+                "create-time": 1623144717194,
+                "uid": "zVpYEOVRF",
+                "edit-time": 1623144727769,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "MkMdGHDxo",
+            "edit-time": 1623144690196,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           }
         ],
         "uid": "ff2S4_p18",
-        "edit-time": 1623144674960,
+        "edit-time": 1623144694690,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
