@@ -12531,6 +12531,18 @@
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
+              },
+              {
+                "string": "z.B. Peptid-Hormone wie Oxytozin und Insulin",
+                "create-time": 1623144580298,
+                "uid": "K4otJj6Eq",
+                "edit-time": 1623144588279,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
               }
             ],
             "uid": "RiUDzK8wB",
@@ -12542,6 +12554,32 @@
         ],
         "uid": "YCvTUnyVG",
         "edit-time": 1623144270902,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Hormonklassen",
+        "create-time": 1623144604624,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Peptidhormone",
+            "create-time": 1623144611767,
+            "uid": "MkMdGHDxo",
+            "edit-time": 1623144615057,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "ff2S4_p18",
+        "edit-time": 1623144611771,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
