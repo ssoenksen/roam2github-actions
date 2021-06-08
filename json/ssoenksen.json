@@ -12281,6 +12281,70 @@
         }
       },
       {
+        "string": "Bildungsorte von Hormonen",
+        "create-time": 1623143938695,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Glanduläre Hormone (= Drüse)",
+            "create-time": 1623143943358,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "in Hormondrüsen hergestellt und ins Blut abgegeben",
+                "create-time": 1623143958985,
+                "uid": "sHjaekdH7",
+                "edit-time": 1623143974074,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "",
+                "create-time": 1623143974067,
+                "uid": "fSfWc2mBQ",
+                "edit-time": 1623143974067,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "XY0GU7Ohk",
+            "edit-time": 1623143951831,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Aglanduläre Hormone",
+            "create-time": 1623143952395,
+            "uid": "WGraz52r2",
+            "edit-time": 1623143957770,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "VVSXeAOCj",
+        "edit-time": 1623143943367,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
         "string": "Schnittstelle zwischen Neuro- und Hormonsystemen: ",
         "create-time": 1623143481480,
         ":create/user": {

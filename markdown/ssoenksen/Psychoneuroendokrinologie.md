@@ -7,6 +7,12 @@
         - Kontaktfläche der Zielzelle zum Blut
         - Rezeptordichte an Zelloberfläche
     - Gleiches Hormon kann an unterschiedlichen Zielzelle unterschiedliche Wirkungen haben
+- Bildungsorte von Hormonen
+    - Glanduläre Hormone (= Drüse)
+        - in Hormondrüsen hergestellt und ins Blut abgegeben
+        - z.B. Schilddrüse, Bauchspeicheldrüse, Nebenniere, Keimdrüsen, Adenohypophysen
+    - Aglanduläre Hormone
+    - 
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)
