@@ -1,4 +1,4 @@
-- Hormonsystem
+- # Hormonsystem
     - Neben Nervensystem und Immunsystem wesentliches Kommunikations-/ Regulationssystem
     - Wechselwirkung mit psychischen Prozessen
     - Hormone können über Blutkreis fast jeden Körperort erreichen
@@ -7,40 +7,76 @@
         - Kontaktfläche der Zielzelle zum Blut
         - Rezeptordichte an Zelloberfläche
     - Gleiches Hormon kann an unterschiedlichen Zielzelle unterschiedliche Wirkungen haben
-- Bildungsorte von Hormonen
-    - Glanduläre Hormone (= Drüse)
+- # Bildungsorte von Hormonen
+    - ## Glanduläre Hormone (= Drüse)
         - in Hormondrüsen hergestellt und ins Blut abgegeben
         - z.B. Schilddrüse, Bauchspeicheldrüse, Nebenniere, Keimdrüsen, Adenohypophysen
-    - Aglanduläre Hormone
+    - ## Aglanduläre Hormone
         - Gewebehormone, in Geweben von spezialisierten Zellen hergestellt
         - Wirkort idR. nah am Produktionsort im Gewebe
         - z.B. Sekretin, Gastrin
-- Übertragungswege von Hormonen
+- # Übertragungswege von Hormonen
     - Autokrine Übertragung (Wirkung auf ausscheidende Zelle)
     - Parakin (auf benachbarte Zellen)
     - Endokrin (über Blutbahn auf entfernte Zellen)
     - Lipidlösliche Hormone können Blut-Hirnschranke passieren, z.B. Rezeptoren an Neuronen für Glucocorticoide (gebildet in Nebennierenrinde)
-- Interaktion von Hormonen und Zellen
-    - Lipophile Hormone: Passieren Zellmembran
+- # Interaktion von Hormonen und Zellen
+    - ## Lipophile Hormone: Passieren Zellmembran
         - Beeinflussen Bildung von bestimmten Peptid/ Protein in Zellkern (Steuerung der Expression von DNA)
         - bspw. Stereoidhormon: Anlagerung an Stereoidrezeptor, mit ihm Eintritt in Zellkern und Beeinflussung der Proteinsynthese
         - z.B. Sexualhormon, Stresshormon Cortisol, Schilddrüsenhormone
-    - Hydrophile Hormone: Docken an Zellmembran an
+    - ## Hydrophile Hormone: Docken an Zellmembran an
         - Bindung an Rezeptor auf Zellmembran, kann Second-Messenger-Kaskade auslösen mittels innen an Rezeptor angelagertem G-Protein (Zerfall)
         - Enzymaktivierung und dadurch Steigerung der Konzentration des Proteins, das durch Enzym katalisiert wird
         - z.B. Peptid-Hormone wie Oxytozin und Insulin
-- Hormonklassen (nach chemischen Eigenschaften)
-    - Peptidhormone (Ketten von Aminosäuren)
+- # Hormonklassen (nach chemischen Eigenschaften)
+    - ## Peptidhormone (Ketten von Aminosäuren)
         - z.B. Bauchspeicheldrüsenhormone Insulin und Glukagon
         - z.B. adrenocorticotropes Hormon (ACTH), in Adenohypophyse synthetisiert: Veranlasst Nebennierenrinde in Stressreaktion zur Cortisolausschüttung
-    - Aminosäurederivate: Kleine Moleküle, durch Modifikation von Aminosäuren hergestellt
+    - ## Aminosäurederivate: Kleine Moleküle, durch Modifikation von Aminosäuren hergestellt
         - z.B. Schilddrüsenhormon **Thyroxin**: Steuert Rate des Metabolimus/ Energieumsatz bzw. Proteinsynthese in verschiedenen Zellen
         - z.B. Nebennierenmarkhormone **Adrenalin**, **Noradrenalin**: Rezeptoren in verschiedenen Regionen, steigert Herzschlag, erweitert Bronchien, hemmt Magen-Darm-Trakt
         - z.B. Zirbeldrüsenhormon **Melatonin**: (De-) aktivierung verschiedener Organsysteme im Tag-/ Nachtrhythmus (Bildung durch Licht gehemmt)
         - z.B. Gewebehormon **Histamin**: Immunreaktion im Gewebe, erzeugt Anschwellung des Gewebes in Entzündungsreaktion
-- Schnittstelle zwischen Neuro- und Hormonsystemen: 
-    - Hypothalamus
-    - Hypophysenvorderlappen (Adenohypophyse)
-    - Hypophysenhinterlappen (Neurohypophyse)
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae)
+    - ## Stereoide: Abkömmlinge des Cholesterins
+        - nicht in produzierenden Organen gespeichert, sondern unmittelbar ins Blut abgegeben
+        - z.B. **Geschlechtshormone** (aus Eierstöcken, Hoden, z.T. Nebennierenrinde)
+        - z.B. **Glucocorticoide** (Nebennierenrindenhormone Stresshormone, u.a. Cortisol)
+            - Funktion im Glucose-Stoffwechsel: Fördert Umwandlung von Eiweiß in Glucose und Glykogen
+            - Glucocorticoidrezeptoren im Hippocampus, Amygdala, Frontallappen: Zusammen mit Adrenalin Förderung von Blitzlichterinnerungen, bei Langzeitstress Zellverlust im Hippocampus
+            - Erhöhung der Wahrnehmungs- und Unterschiedschwelle im Geschmacks- und Geruchssinn und beim Hören
+        - z.B. **Testosteron**
+            - Auftreten physischer innerartlicher Aggression bei Säugern wird auch bestimmt durch Auslösereiz und Auslöseschwelle (auf die u.a. Testosteron wirkt)
+            - Hohe Produktion bei jungen Männern, schwach positive Korrelation mit beobachtbarer physischer Aggression
+            - Niveau hängt mit sozialer Dominanz bei Tieren zusammen (bspw. Hyänen, weibliche Mitglieder dominieren)
+            - Höherer Testosteronspiegel korreliert mit körperlicher Überlegenheit
+            - Erfolgreiche Aggression erhöht Testosteronniveau, dauerthaft submissive Rolle reduziert Spiegel
+            - Alphatiere behalten erhöhten Spiegel, bis sie Rangplatz wieder verlieren
+            - Stark aggressives Verhalten beeinflusst dann Spiegel, wenn es klaren Sieg oder Niederlage gibt
+    - ## Fettsäurederivate: Aus Fettsäuren hergestellt
+        - z.b. **Prostaglandine**: Blutgerinnung, lokale Entzündungsprozesse, Schmerzentstehung (Aspirin wirkt über Hemmung der Synthese von Prostaglandinen)
+- # Hypothalamus-Hypophysensystem
+    - Schnittstelle zwischen Neuro- und Hormonsystem
+        - **Hypothalamus**
+        - **Hypophysenhinterlappen** (Neurohypophyse)
+            - neuronale Verbindung zum Hypothalamus
+            - nicht hormonproduzierend, Hormone werden in Hypothalamus produziert, in Vesikel verpackt und über Axone zur Neurohypophyse transport, dort bei Bedarf freigesetzt
+            - z.B. Hormon: **Oxytocin**
+                - Funktion: Gebärmutter zusammenziehen, Wehen, Stimulation Brustdrüsen
+                - Rezeptoren u.a. in Hippocampus und Amygdala
+                - Wirkung auf prosoziales und Sexualverhalten, Kontakt durch Oxytocin im ZNS belohnend
+                - mehr Oxytocin-Rezeptoren bei monogam lebenden Tieren
+        - **Hypophysenmittel- und vorderlappen** (Adenohypophyse)
+            - hormonproduzierend
+            - empfängt über Blutkreislauf Releasing- und Inhibitings-Hormone vom Hypothalamus und steuert die Ausschüttung
+            - Effektorische Hormone: Direkte Wirkung auf Zielorgane
+                - z.B. **Wachstumshormon** (somatotropes Hormon SH bzw. GH): Muskel-/ Knochenaufbau
+                    - dient auch der Energie-Bereitstellung
+                    - mobilisiert Fettsäuren, steigert Blutzuckerspiegel, hemmt Glucoseaufnahme
+                    - Steuerung der Freisetzung über Freisetzungshormon Somatotropin-Releasing-Hormon, wird in Hypothalamus freigesetzt v.a. in nächtlicher Tiefschlafphase in Schüben
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae)
+    - Steuerung von Funktionen bzgl. Wachstum, Energiehaushalt, Sexualität durch Steuerung der Produktion von glandulären Hormonen
+        - Hypothalamus aktiviert Ausführungsorgan Hypophyse: Nach Bedarf (ZNS), nach Zeit (z.B. zirkadiane Rhythmik, Menstruationszyklus)
+        - Regulation durch negative Rückkopplung: Konzentration im Blut oder Wirkung wird registriert, Ausschüttung reguliert
+        - Bspw. hormoneller Regelkreis zur Steuerung des Wasseranteils im Blut: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd)
 - 

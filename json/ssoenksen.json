@@ -12171,6 +12171,7 @@
       {
         "string": "Hormonsystem",
         "create-time": 1623143768876,
+        "heading": 1,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
@@ -12283,6 +12284,7 @@
       {
         "string": "Bildungsorte von Hormonen",
         "create-time": 1623143938695,
+        "heading": 1,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
@@ -12290,6 +12292,7 @@
           {
             "string": "Glanduläre Hormone (= Drüse)",
             "create-time": 1623143943358,
+            "heading": 2,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -12328,6 +12331,7 @@
           {
             "string": "Aglanduläre Hormone",
             "create-time": 1623143952395,
+            "heading": 2,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -12385,6 +12389,7 @@
       {
         "string": "Übertragungswege von Hormonen",
         "create-time": 1623144076957,
+        "heading": 1,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
@@ -12447,6 +12452,7 @@
       {
         "string": "Interaktion von Hormonen und Zellen",
         "create-time": 1623144255526,
+        "heading": 1,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
@@ -12454,6 +12460,7 @@
           {
             "string": "Lipophile Hormone: Passieren Zellmembran",
             "create-time": 1623144270895,
+            "heading": 2,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -12504,6 +12511,7 @@
           {
             "string": "Hydrophile Hormone: Docken an Zellmembran an",
             "create-time": 1623144439501,
+            "heading": 2,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -12561,6 +12569,7 @@
       {
         "string": "Hormonklassen (nach chemischen Eigenschaften)",
         "create-time": 1623144604624,
+        "heading": 1,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
@@ -12568,6 +12577,7 @@
           {
             "string": "Peptidhormone (Ketten von Aminosäuren)",
             "create-time": 1623144611767,
+            "heading": 2,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -12606,6 +12616,7 @@
           {
             "string": "Aminosäurederivate: Kleine Moleküle, durch Modifikation von Aminosäuren hergestellt",
             "create-time": 1623144798981,
+            "heading": 2,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -12664,6 +12675,220 @@
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
+          },
+          {
+            "string": "Stereoide: Abkömmlinge des Cholesterins",
+            "create-time": 1623145155029,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "nicht in produzierenden Organen gespeichert, sondern unmittelbar ins Blut abgegeben",
+                "create-time": 1623145221990,
+                "uid": "x5kBwbjuq",
+                "edit-time": 1623145236985,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "z.B. **Geschlechtshormone** (aus Eierstöcken, Hoden, z.T. Nebennierenrinde)",
+                "create-time": 1623145239769,
+                "uid": "830fszb6Z",
+                "edit-time": 1623145363382,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "z.B. **Glucocorticoide** (Nebennierenrindenhormone Stresshormone, u.a. Cortisol)",
+                "create-time": 1623145262543,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Funktion im Glucose-Stoffwechsel: Fördert Umwandlung von Eiweiß in Glucose und Glykogen",
+                    "create-time": 1623145338168,
+                    "uid": "rj-YbNhzo",
+                    "edit-time": 1623145382330,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Glucocorticoidrezeptoren im Hippocampus, Amygdala, Frontallappen: Zusammen mit Adrenalin Förderung von Blitzlichterinnerungen, bei Langzeitstress Zellverlust im Hippocampus",
+                    "create-time": 1623145382322,
+                    "uid": "dL1SEZiyh",
+                    "edit-time": 1623145444388,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Erhöhung der Wahrnehmungs- und Unterschiedschwelle im Geschmacks- und Geruchssinn und beim Hören",
+                    "create-time": 1623145444969,
+                    "uid": "AMoLaDH1R",
+                    "edit-time": 1623145469640,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "-vS-_p6Hw",
+                "edit-time": 1623145391199,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "z.B. **Testosteron**",
+                "create-time": 1623145707788,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Auftreten physischer innerartlicher Aggression bei Säugern wird auch bestimmt durch Auslösereiz und Auslöseschwelle (auf die u.a. Testosteron wirkt)",
+                    "create-time": 1623145725813,
+                    "uid": "oO7FUrTTi",
+                    "edit-time": 1623145770132,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Hohe Produktion bei jungen Männern, schwach positive Korrelation mit beobachtbarer physischer Aggression",
+                    "create-time": 1623145770403,
+                    "uid": "KQ4xDXeiD",
+                    "edit-time": 1623145797330,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Niveau hängt mit sozialer Dominanz bei Tieren zusammen (bspw. Hyänen, weibliche Mitglieder dominieren)",
+                    "create-time": 1623145797747,
+                    "uid": "Scn7WKU9Z",
+                    "edit-time": 1623145818968,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Höherer Testosteronspiegel korreliert mit körperlicher Überlegenheit",
+                    "create-time": 1623145988890,
+                    "uid": "OjYyj_KJ2",
+                    "edit-time": 1623146007356,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Erfolgreiche Aggression erhöht Testosteronniveau, dauerthaft submissive Rolle reduziert Spiegel",
+                    "create-time": 1623146007349,
+                    "uid": "LBUIVXlq9",
+                    "edit-time": 1623146042137,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Alphatiere behalten erhöhten Spiegel, bis sie Rangplatz wieder verlieren",
+                    "create-time": 1623146042130,
+                    "uid": "yLbzjUMLK",
+                    "edit-time": 1623146063542,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Stark aggressives Verhalten beeinflusst dann Spiegel, wenn es klaren Sieg oder Niederlage gibt",
+                    "create-time": 1623146063536,
+                    "uid": "y3ZFja00k",
+                    "edit-time": 1623146083073,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "QNgpauUse",
+                "edit-time": 1623145835917,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "pNmd424dt",
+            "edit-time": 1623145167218,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Fettsäurederivate: Aus Fettsäuren hergestellt",
+            "create-time": 1623146186333,
+            "heading": 2,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "z.b. **Prostaglandine**: Blutgerinnung, lokale Entzündungsprozesse, Schmerzentstehung (Aspirin wirkt über Hemmung der Synthese von Prostaglandinen)",
+                "create-time": 1623146202252,
+                "uid": "wfBPAimbB",
+                "edit-time": 1623146243435,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "POqfT545F",
+            "edit-time": 1623146202257,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
           }
         ],
         "uid": "ff2S4_p18",
@@ -12673,79 +12898,338 @@
         }
       },
       {
-        "string": "Schnittstelle zwischen Neuro- und Hormonsystemen: ",
-        "create-time": 1623143481480,
+        "string": "Hypothalamus-Hypophysensystem",
+        "create-time": 1623146282891,
+        "heading": 1,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
         "children": [
           {
-            "string": "Hypothalamus",
-            "create-time": 1623143496338,
-            "uid": "yZtyTidN_",
-            "edit-time": 1623143501769,
+            "string": "Schnittstelle zwischen Neuro- und Hormonsystem",
+            "create-time": 1623143481480,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Hypophysenvorderlappen (Adenohypophyse)",
-            "create-time": 1623143501761,
-            "uid": "zI_oswpSO",
-            "edit-time": 1623143510092,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Hypophysenhinterlappen (Neurohypophyse)",
-            "create-time": 1623143510082,
-            "uid": "JdogdlAO9",
-            "edit-time": 1623143522748,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae)",
-            "props": {
-              "image-size": {
-                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae": {
-                  "width": 457,
-                  "height": null
+            "children": [
+              {
+                "string": "**Hypothalamus**",
+                "create-time": 1623143496338,
+                "uid": "yZtyTidN_",
+                "edit-time": 1623146952457,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "**Hypophysenhinterlappen** (Neurohypophyse)",
+                "create-time": 1623143510082,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "neuronale Verbindung zum Hypothalamus",
+                    "create-time": 1623146891346,
+                    "uid": "oua00lkeK",
+                    "edit-time": 1623146896950,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "nicht hormonproduzierend, Hormone werden in Hypothalamus produziert, in Vesikel verpackt und über Axone zur Neurohypophyse transport, dort bei Bedarf freigesetzt",
+                    "create-time": 1623146874312,
+                    "uid": "FdgODS-Gg",
+                    "edit-time": 1623146972399,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "z.B. Hormon: **Oxytocin**",
+                    "create-time": 1623147041348,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Funktion: Gebärmutter zusammenziehen, Wehen, Stimulation Brustdrüsen",
+                        "create-time": 1623147051178,
+                        "uid": "tYcQLXz6l",
+                        "edit-time": 1623147081355,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      },
+                      {
+                        "string": "Rezeptoren u.a. in Hippocampus und Amygdala",
+                        "create-time": 1623147081348,
+                        "uid": "ytVLLu9Xz",
+                        "edit-time": 1623147090024,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      },
+                      {
+                        "string": "Wirkung auf prosoziales und Sexualverhalten, Kontakt durch Oxytocin im ZNS belohnend",
+                        "create-time": 1623147090018,
+                        "uid": "BNzzs8JHg",
+                        "edit-time": 1623147115876,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      },
+                      {
+                        "string": "mehr Oxytocin-Rezeptoren bei monogam lebenden Tieren",
+                        "create-time": 1623147117401,
+                        "uid": "tJH-Uajlv",
+                        "edit-time": 1623147131317,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "FjwzNhEmJ",
+                    "edit-time": 1623147054021,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "JdogdlAO9",
+                "edit-time": 1623146955048,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "**Hypophysenmittel- und vorderlappen** (Adenohypophyse)",
+                "create-time": 1623143501761,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "hormonproduzierend",
+                    "create-time": 1623147234875,
+                    "uid": "XShprsQ_k",
+                    "edit-time": 1623147254850,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "empfängt über Blutkreislauf Releasing- und Inhibitings-Hormone vom Hypothalamus und steuert die Ausschüttung",
+                    "create-time": 1623147254844,
+                    "uid": "ARsgMClsx",
+                    "edit-time": 1623147275248,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Effektorische Hormone: Direkte Wirkung auf Zielorgane",
+                    "create-time": 1623147282665,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "z.B. **Wachstumshormon** (somatotropes Hormon SH bzw. GH): Muskel-/ Knochenaufbau",
+                        "create-time": 1623147303550,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "dient auch der Energie-Bereitstellung",
+                            "create-time": 1623147335285,
+                            "uid": "84AnaL11D",
+                            "edit-time": 1623147346514,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          },
+                          {
+                            "string": "mobilisiert Fettsäuren, steigert Blutzuckerspiegel, hemmt Glucoseaufnahme",
+                            "create-time": 1623147346508,
+                            "uid": "QKsm9Yl_S",
+                            "edit-time": 1623147365121,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          },
+                          {
+                            "string": "Steuerung der Freisetzung über Freisetzungshormon Somatotropin-Releasing-Hormon, wird in Hypothalamus freigesetzt v.a. in nächtlicher Tiefschlafphase in Schüben",
+                            "create-time": 1623147434243,
+                            "uid": "N4LFbb8wW",
+                            "edit-time": 1623147585655,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "JcGeHGTlD",
+                        "edit-time": 1623147369799,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "Wgx8z-P1X",
+                    "edit-time": 1623147303556,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "zI_oswpSO",
+                "edit-time": 1623147243176,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae)",
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae": {
+                      "width": 457,
+                      "height": null
+                    }
+                  }
+                },
+                "create-time": 1623143679655,
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae": {
+                      ":width": 457,
+                      ":height": null
+                    }
+                  }
+                },
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "uid": "iy-zcRDIS",
+                "edit-time": 1623143682222,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               }
-            },
-            "create-time": 1623143679655,
-            ":block/props": {
-              ":image-size": {
-                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae": {
-                  ":width": 457,
-                  ":height": null
-                }
-              }
-            },
+            ],
+            "uid": "cQbWm_c3u",
+            "edit-time": 1623146258164,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Steuerung von Funktionen bzgl. Wachstum, Energiehaushalt, Sexualität durch Steuerung der Produktion von glandulären Hormonen",
+            "create-time": 1623146333876,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
-            "uid": "iy-zcRDIS",
-            "edit-time": 1623143682222,
+            "children": [
+              {
+                "string": "Hypothalamus aktiviert Ausführungsorgan Hypophyse: Nach Bedarf (ZNS), nach Zeit (z.B. zirkadiane Rhythmik, Menstruationszyklus)",
+                "create-time": 1623146397281,
+                "uid": "rD7L0iXKu",
+                "edit-time": 1623146429323,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Regulation durch negative Rückkopplung: Konzentration im Blut oder Wirkung wird registriert, Ausschüttung reguliert",
+                "create-time": 1623146434358,
+                "uid": "Prf8lT1zU",
+                "edit-time": 1623146464556,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Bspw. hormoneller Regelkreis zur Steuerung des Wasseranteils im Blut: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd)",
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd": {
+                      "width": 222,
+                      "height": null
+                    }
+                  }
+                },
+                "create-time": 1623146529042,
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd": {
+                      ":width": 222,
+                      ":height": null
+                    }
+                  }
+                },
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "uid": "N4TBiWz-r",
+                "edit-time": 1623146689796,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "2Xxtn1qYV",
+            "edit-time": 1623146393822,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           }
         ],
-        "uid": "cQbWm_c3u",
-        "edit-time": 1623143492601,
+        "uid": "8Qp1SEG45",
+        "edit-time": 1623146293743,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
