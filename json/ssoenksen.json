@@ -12906,6 +12906,84 @@
         },
         "children": [
           {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae)",
+            "create-time": 1623147891818,
+            "uid": "fhwvHFs0I",
+            "edit-time": 1623147892657,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Steuerung von Funktionen bzgl. Wachstum, Energiehaushalt, Sexualität durch Steuerung der Produktion von glandulären Hormonen",
+            "create-time": 1623146333876,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Hypothalamus aktiviert Ausführungsorgan Hypophyse: Nach Bedarf (ZNS), nach Zeit (z.B. zirkadiane Rhythmik, Menstruationszyklus)",
+                "create-time": 1623146397281,
+                "uid": "rD7L0iXKu",
+                "edit-time": 1623146429323,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Regulation durch negative Rückkopplung: Konzentration im Blut oder Wirkung wird registriert, Ausschüttung reguliert",
+                "create-time": 1623146434358,
+                "uid": "Prf8lT1zU",
+                "edit-time": 1623146464556,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Bspw. hormoneller Regelkreis zur Steuerung des Wasseranteils im Blut: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd)",
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd": {
+                      "width": 222,
+                      "height": null
+                    }
+                  }
+                },
+                "create-time": 1623146529042,
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd": {
+                      ":width": 222,
+                      ":height": null
+                    }
+                  }
+                },
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "uid": "N4TBiWz-r",
+                "edit-time": 1623146689796,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "2Xxtn1qYV",
+            "edit-time": 1623146393822,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
             "string": "Schnittstelle zwischen Neuro- und Hormonsystem",
             "create-time": 1623143481480,
             ":create/user": {
@@ -13243,72 +13321,6 @@
             ],
             "uid": "cQbWm_c3u",
             "edit-time": 1623146258164,
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Steuerung von Funktionen bzgl. Wachstum, Energiehaushalt, Sexualität durch Steuerung der Produktion von glandulären Hormonen",
-            "create-time": 1623146333876,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            "children": [
-              {
-                "string": "Hypothalamus aktiviert Ausführungsorgan Hypophyse: Nach Bedarf (ZNS), nach Zeit (z.B. zirkadiane Rhythmik, Menstruationszyklus)",
-                "create-time": 1623146397281,
-                "uid": "rD7L0iXKu",
-                "edit-time": 1623146429323,
-                ":create/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                },
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "Regulation durch negative Rückkopplung: Konzentration im Blut oder Wirkung wird registriert, Ausschüttung reguliert",
-                "create-time": 1623146434358,
-                "uid": "Prf8lT1zU",
-                "edit-time": 1623146464556,
-                ":create/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                },
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              },
-              {
-                "string": "Bspw. hormoneller Regelkreis zur Steuerung des Wasseranteils im Blut: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd)",
-                "props": {
-                  "image-size": {
-                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd": {
-                      "width": 222,
-                      "height": null
-                    }
-                  }
-                },
-                "create-time": 1623146529042,
-                ":block/props": {
-                  ":image-size": {
-                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd": {
-                      ":width": 222,
-                      ":height": null
-                    }
-                  }
-                },
-                ":create/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                },
-                "uid": "N4TBiWz-r",
-                "edit-time": 1623146689796,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
-              }
-            ],
-            "uid": "2Xxtn1qYV",
-            "edit-time": 1623146393822,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
