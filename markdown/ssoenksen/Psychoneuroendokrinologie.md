@@ -1,0 +1,15 @@
+- Hormonsystem
+    - Neben Nervensystem und Immunsystem wesentliches Kommunikations-/ Regulationssystem
+    - Wechselwirkung mit psychischen Prozessen
+    - Hormone können über Blutkreis fast jeden Körperort erreichen
+    - Wahrscheinlichkeit der Hormonwirkung steigt mit
+        - Konzentration im Blut
+        - Kontaktfläche der Zielzelle zum Blut
+        - Rezeptordichte an Zelloberfläche
+    - Gleiches 
+- Schnittstelle zwischen Neuro- und Hormonsystemen: 
+    - Hypothalamus
+    - Hypophysenvorderlappen (Adenohypophyse)
+    - Hypophysenhinterlappen (Neurohypophyse)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae)
+- 

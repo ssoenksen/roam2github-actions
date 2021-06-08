@@ -12097,5 +12097,284 @@
     ":edit/user": {
       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
     }
+  },
+  {
+    "create-time": 1623143350221,
+    "title": "M3b Biologische Psychologie/ Allgemeine Psychologie II",
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    "children": [
+      {
+        "string": "Vorlesungen",
+        "create-time": 1623143357612,
+        "heading": 1,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "V5 [[Psychoneuroendokrinologie]]",
+            "create-time": 1623143379271,
+            ":block/refs": [
+              {
+                ":block/uid": "_m4-_ZjFk"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "_m4-_ZjFk"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "9uS6eWLTY",
+            "edit-time": 1623143390830,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1623143390823,
+            "uid": "vY7qFTADT",
+            "edit-time": 1623143390823,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "2csEvT9Dk",
+        "edit-time": 1623143379278,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      }
+    ],
+    "uid": "SGqvhklB0",
+    "edit-time": 1623143350221,
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1623143390832,
+    "title": "Psychoneuroendokrinologie",
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    "children": [
+      {
+        "string": "Hormonsystem",
+        "create-time": 1623143768876,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Neben Nervensystem und Immunsystem wesentliches Kommunikations-/ Regulationssystem",
+            "create-time": 1623143773421,
+            "uid": "0c-qUVwEw",
+            "edit-time": 1623143796036,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Wechselwirkung mit psychischen Prozessen",
+            "create-time": 1623143796131,
+            "uid": "cU9W8WJBt",
+            "edit-time": 1623143802740,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Hormone können über Blutkreis fast jeden Körperort erreichen",
+            "create-time": 1623143802734,
+            "uid": "8tf9eIlID",
+            "edit-time": 1623143813841,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Wahrscheinlichkeit der Hormonwirkung steigt mit",
+            "create-time": 1623143813934,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Konzentration im Blut",
+                "create-time": 1623143843002,
+                "uid": "yY-dir_5p",
+                "edit-time": 1623143847929,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Kontaktfläche der Zielzelle zum Blut",
+                "create-time": 1623143847922,
+                "uid": "od-YJYn1X",
+                "edit-time": 1623143854658,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Rezeptordichte an Zelloberfläche",
+                "create-time": 1623143854651,
+                "uid": "qeN7iss-K",
+                "edit-time": 1623143863455,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "qA_FWLnug",
+            "edit-time": 1623143843009,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "",
+            "create-time": 1623143864700,
+            "uid": "evHfY7ZXx",
+            "edit-time": 1623143864700,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "E438sVcVC",
+        "edit-time": 1623143773432,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Schnittstelle zwischen Neuro- und Hormonsystemen: ",
+        "create-time": 1623143481480,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Hypothalamus",
+            "create-time": 1623143496338,
+            "uid": "yZtyTidN_",
+            "edit-time": 1623143501769,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Hypophysenvorderlappen (Adenohypophyse)",
+            "create-time": 1623143501761,
+            "uid": "zI_oswpSO",
+            "edit-time": 1623143510092,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Hypophysenhinterlappen (Neurohypophyse)",
+            "create-time": 1623143510082,
+            "uid": "JdogdlAO9",
+            "edit-time": 1623143522748,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae": {
+                  "width": 457,
+                  "height": null
+                }
+              }
+            },
+            "create-time": 1623143679655,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae": {
+                  ":width": 457,
+                  ":height": null
+                }
+              }
+            },
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "iy-zcRDIS",
+            "edit-time": 1623143682222,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "cQbWm_c3u",
+        "edit-time": 1623143492601,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1623143735591,
+        "uid": "MwuZSlWAt",
+        "edit-time": 1623143735591,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      }
+    ],
+    "uid": "_m4-_ZjFk",
+    "edit-time": 1623143390836,
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
   }
 ]
