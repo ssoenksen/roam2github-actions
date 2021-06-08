@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuida9530977-0ce0-4063-82e6-e183104315ee"
-   536878236]
+   "uuid74c85bb2-02c3-41bd-9ab8-b379ac4054d6"
+   536878250]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15389,6 +15389,7 @@
   [1762 :edit/time 1623144223471 536878192]
   [1762 :edit/user 3 536878185]
   [1763 :block/children 1764 536878204]
+  [1763 :block/children 1769 536878243]
   [1763 :block/open true 536878193]
   [1763 :block/order 3 536878195]
   [1763 :block/page 1734 536878194]
@@ -15400,7 +15401,6 @@
   [1763 :edit/time 1623144270902 536878203]
   [1763 :edit/user 3 536878193]
   [1764 :block/children 1765 536878215]
-  [1764 :block/children 1766 536878222]
   [1764 :block/children 1767 536878224]
   [1764 :block/children 1768 536878231]
   [1764 :block/open true 536878201]
@@ -15432,18 +15432,6 @@
   [1765 :create/user 3 536878213]
   [1765 :edit/time 1623144319393 536878221]
   [1765 :edit/user 3 536878213]
-  [1766 :block/open true 536878222]
-  [1766 :block/order 3 536878231]
-  [1766 :block/page 1734 536878223]
-  [1766 :block/parents 1734 536878223]
-  [1766 :block/parents 1763 536878223]
-  [1766 :block/parents 1764 536878223]
-  [1766 :block/string "" 536878222]
-  [1766 :block/uid "u_Am-6L0w" 536878222]
-  [1766 :create/time 1623144320980 536878222]
-  [1766 :create/user 3 536878222]
-  [1766 :edit/time 1623144320980 536878222]
-  [1766 :edit/user 3 536878222]
   [1767 :block/open true 536878224]
   [1767 :block/order 0 536878224]
   [1767 :block/page 1734 536878225]
@@ -15465,9 +15453,39 @@
   [1768 :block/parents 1734 536878232]
   [1768 :block/parents 1763 536878232]
   [1768 :block/parents 1764 536878232]
-  [1768 :block/string "z.B. Stereoidhormon: " 536878236]
+  [1768
+   :block/string
+   "bspw. Stereoidhormon: Anlagerung an Stereoidrezeptor, mit ihm Eintritt in Zellkern und Beeinflussung der Proteinsynthese"
+   536878240]
   [1768 :block/uid "lO2om772w" 536878231]
   [1768 :create/time 1623144371649 536878231]
   [1768 :create/user 3 536878231]
-  [1768 :edit/time 1623144399408 536878236]
-  [1768 :edit/user 3 536878231]]}
+  [1768 :edit/time 1623144426181 536878240]
+  [1768 :edit/user 3 536878231]
+  [1769 :block/children 1770 536878249]
+  [1769 :block/open true 536878241]
+  [1769 :block/order 1 536878243]
+  [1769 :block/page 1734 536878242]
+  [1769 :block/parents 1734 536878242]
+  [1769 :block/parents 1763 536878242]
+  [1769
+   :block/string
+   "Hydrophile Hormone: Docken an Zellmembran an"
+   536878248]
+  [1769 :block/uid "RiUDzK8wB" 536878241]
+  [1769 :create/time 1623144439501 536878241]
+  [1769 :create/user 3 536878241]
+  [1769 :edit/time 1623144449796 536878248]
+  [1769 :edit/user 3 536878241]
+  [1770 :block/open true 536878246]
+  [1770 :block/order 0 536878249]
+  [1770 :block/page 1734 536878247]
+  [1770 :block/parents 1734 536878247]
+  [1770 :block/parents 1763 536878247]
+  [1770 :block/parents 1769 536878250]
+  [1770 :block/string "" 536878246]
+  [1770 :block/uid "agiP1Wi-T" 536878246]
+  [1770 :create/time 1623144449789 536878246]
+  [1770 :create/user 3 536878246]
+  [1770 :edit/time 1623144449789 536878246]
+  [1770 :edit/user 3 536878246]]}

@@ -23,9 +23,10 @@
 - Interaktion von Hormonen und Zellen
     - Lipophile Hormone: Passieren Zellmembran
         - Beeinflussen Bildung von bestimmten Peptid/ Protein in Zellkern (Steuerung der Expression von DNA)
-        - z.B. Stereoidhormon: Anlagerung an Stereoidrezeptor, mit ihm Eintrit
+        - bspw. Stereoidhormon: Anlagerung an Stereoidrezeptor, mit ihm Eintritt in Zellkern und Beeinflussung der Proteinsynthese
         - z.B. Sexualhormon, Stresshormon Cortisol, Schilddrüsenhormone
-        - 
+    - Hydrophile Hormone: Docken an Zellmembran an
+        - Bindung an Rezeptor auf Zellmembran
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)

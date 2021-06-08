@@ -12471,10 +12471,10 @@
                 }
               },
               {
-                "string": "z.B. Stereoidhormon: ",
+                "string": "bspw. Stereoidhormon: Anlagerung an Stereoidrezeptor, mit ihm Eintritt in Zellkern und Beeinflussung der Proteinsynthese",
                 "create-time": 1623144371649,
                 "uid": "lO2om772w",
-                "edit-time": 1623144399408,
+                "edit-time": 1623144426181,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -12493,12 +12493,26 @@
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
-              },
+              }
+            ],
+            "uid": "owWMIUrk6",
+            "edit-time": 1623144301643,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Hydrophile Hormone: Docken an Zellmembran an",
+            "create-time": 1623144439501,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
               {
                 "string": "",
-                "create-time": 1623144320980,
-                "uid": "u_Am-6L0w",
-                "edit-time": 1623144320980,
+                "create-time": 1623144449789,
+                "uid": "agiP1Wi-T",
+                "edit-time": 1623144449789,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -12507,8 +12521,8 @@
                 }
               }
             ],
-            "uid": "owWMIUrk6",
-            "edit-time": 1623144301643,
+            "uid": "RiUDzK8wB",
+            "edit-time": 1623144449796,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
