@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid13cb90ea-672d-4bfe-b3d9-85f02d8342c2"
-   536878312]
+   "uuid732460de-3507-43e7-8446-50b6adf7d0b5"
+   536878318]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15526,6 +15526,7 @@
   [1772 :edit/time 1623144588279 536878271]
   [1772 :edit/user 3 536878269]
   [1773 :block/children 1774 536878281]
+  [1773 :block/children 1778 536878315]
   [1773 :block/open true 536878272]
   [1773 :block/order 4 536878276]
   [1773 :block/page 1734 536878273]
@@ -15584,4 +15585,15 @@
   [1776 :create/time 1623144717194 536878294]
   [1776 :create/user 3 536878294]
   [1776 :edit/time 1623144769193 536878312]
-  [1776 :edit/user 3 536878294]]}
+  [1776 :edit/user 3 536878294]
+  [1778 :block/open true 536878313]
+  [1778 :block/order 1 536878315]
+  [1778 :block/page 1734 536878314]
+  [1778 :block/parents 1734 536878314]
+  [1778 :block/parents 1773 536878314]
+  [1778 :block/string "Aminosäurederivate: " 536878318]
+  [1778 :block/uid "ewA2RPp7C" 536878313]
+  [1778 :create/time 1623144798981 536878313]
+  [1778 :create/user 3 536878313]
+  [1778 :edit/time 1623144836428 536878318]
+  [1778 :edit/user 3 536878313]]}

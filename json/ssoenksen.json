@@ -12602,6 +12602,18 @@
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
+          },
+          {
+            "string": "Aminosäurederivate: ",
+            "create-time": 1623144798981,
+            "uid": "ewA2RPp7C",
+            "edit-time": 1623144836428,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
           }
         ],
         "uid": "ff2S4_p18",
