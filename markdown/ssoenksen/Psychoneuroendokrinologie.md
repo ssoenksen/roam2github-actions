@@ -36,7 +36,8 @@
     - Aminosäurederivate: Kleine Moleküle, durch Modifikation von Aminosäuren hergestellt
         - z.B. Schulddrüsenhormon Thyroxin: Steuert Rate des Metabolimus/ Energieumsatz bzw. Proteinsynthese in verschiedenen Zellen
         - z.B. Nebennierenmarkhormone Adrenalin, Noradrenalin: Rezeptoren in verschiedenen Regionen, steigert Herzschlag, erweitert Bronchien, hemmt Magen-Darm-Trakt
-        - z.B. Zirbeldrüsenhormon Melatonin: (De-) aktivierung verschiedener Organsysteme im Tag-/ Nachtrhythmus
+        - z.B. Zirbeldrüsenhormon Melatonin: (De-) aktivierung verschiedener Organsysteme im Tag-/ Nachtrhythmus (Bildung durch Licht gehemmt)
+        - z.B. Gewebehormon Histamin: Immunreaktion im Gewebe, 
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)

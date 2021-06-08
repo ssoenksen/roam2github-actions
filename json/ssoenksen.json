@@ -12635,10 +12635,22 @@
                 }
               },
               {
-                "string": "z.B. Zirbeldrüsenhormon Melatonin: (De-) aktivierung verschiedener Organsysteme im Tag-/ Nachtrhythmus",
+                "string": "z.B. Zirbeldrüsenhormon Melatonin: (De-) aktivierung verschiedener Organsysteme im Tag-/ Nachtrhythmus (Bildung durch Licht gehemmt)",
                 "create-time": 1623144918595,
                 "uid": "P0Cd0ryCc",
-                "edit-time": 1623144952280,
+                "edit-time": 1623144971955,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "z.B. Gewebehormon Histamin: Immunreaktion im Gewebe, ",
+                "create-time": 1623144977111,
+                "uid": "wCcgfwWfk",
+                "edit-time": 1623145004662,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
