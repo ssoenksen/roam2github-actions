@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid1dc3ed54-d781-4a12-b44e-f5f3bc0f6127"
-   536878299]
+   "uuid13cb90ea-672d-4bfe-b3d9-85f02d8342c2"
+   536878312]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15576,9 +15576,12 @@
   [1776 :block/parents 1734 536878295]
   [1776 :block/parents 1773 536878295]
   [1776 :block/parents 1774 536878295]
-  [1776 :block/string "z.B. " 536878299]
+  [1776
+   :block/string
+   "z.B. adrenocorticotropes Hormon (ACTH), in Adenohypophyse synthetisiert: Veranlasst Nebennierenrinde in Stressreaktion zur Cortisolausschüttung"
+   536878312]
   [1776 :block/uid "zVpYEOVRF" 536878294]
   [1776 :create/time 1623144717194 536878294]
   [1776 :create/user 3 536878294]
-  [1776 :edit/time 1623144727769 536878299]
+  [1776 :edit/time 1623144769193 536878312]
   [1776 :edit/user 3 536878294]]}
