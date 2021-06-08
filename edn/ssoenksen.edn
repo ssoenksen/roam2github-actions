@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuidd1f9916d-4dd5-4cad-b1c0-a2ca9f262475"
-   536878186]
+   "uuid2721946c-6d93-4c4a-bf0d-d1afdbc3196d"
+   536878192]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15378,9 +15378,12 @@
   [1762 :block/page 1734 536878186]
   [1762 :block/parents 1734 536878186]
   [1762 :block/parents 1758 536878186]
-  [1762 :block/string "" 536878185]
+  [1762
+   :block/string
+   "Lipidlösliche Hormone können Blut-Hirnschranke passieren, z.B. Rezeptoren an Neuronen für Glucocorticoide (gebildet in Nebennierenrinde)"
+   536878192]
   [1762 :block/uid "ktb7h_MZH" 536878185]
   [1762 :create/time 1623144191741 536878185]
   [1762 :create/user 3 536878185]
-  [1762 :edit/time 1623144191741 536878185]
+  [1762 :edit/time 1623144223471 536878192]
   [1762 :edit/user 3 536878185]]}

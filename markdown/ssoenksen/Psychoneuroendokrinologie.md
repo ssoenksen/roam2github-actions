@@ -19,7 +19,7 @@
     - Autokrine Übertragung (Wirkung auf ausscheidende Zelle)
     - Parakin (auf benachbarte Zellen)
     - Endokrin (über Blutbahn auf entfernte Zellen)
-    - Lipidlösliche Hormone können Blut-Hirnschranke passieren, z.B. 
+    - Lipidlösliche Hormone können Blut-Hirnschranke passieren, z.B. Rezeptoren an Neuronen für Glucocorticoide (gebildet in Nebennierenrinde)
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)
