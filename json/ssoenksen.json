@@ -12509,10 +12509,22 @@
             },
             "children": [
               {
-                "string": "",
+                "string": "Bindung an Rezeptor auf Zellmembran, kann Second-Messenger-Kaskade auslösen mittels innen an Rezeptor angelagertem G-Protein (Zerfall)",
                 "create-time": 1623144449789,
                 "uid": "agiP1Wi-T",
-                "edit-time": 1623144449789,
+                "edit-time": 1623144503433,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "",
+                "create-time": 1623144505208,
+                "uid": "29830RAi0",
+                "edit-time": 1623144505208,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },

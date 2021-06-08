@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid74c85bb2-02c3-41bd-9ab8-b379ac4054d6"
-   536878250]
+   "uuidd85f8ab3-2040-4007-9650-9493b2a4b3e4"
+   536878262]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15463,6 +15463,7 @@
   [1768 :edit/time 1623144426181 536878240]
   [1768 :edit/user 3 536878231]
   [1769 :block/children 1770 536878249]
+  [1769 :block/children 1771 536878261]
   [1769 :block/open true 536878241]
   [1769 :block/order 1 536878243]
   [1769 :block/page 1734 536878242]
@@ -15483,9 +15484,24 @@
   [1770 :block/parents 1734 536878247]
   [1770 :block/parents 1763 536878247]
   [1770 :block/parents 1769 536878250]
-  [1770 :block/string "" 536878246]
+  [1770
+   :block/string
+   "Bindung an Rezeptor auf Zellmembran, kann Second-Messenger-Kaskade auslösen mittels innen an Rezeptor angelagertem G-Protein (Zerfall)"
+   536878256]
   [1770 :block/uid "agiP1Wi-T" 536878246]
   [1770 :create/time 1623144449789 536878246]
   [1770 :create/user 3 536878246]
-  [1770 :edit/time 1623144449789 536878246]
-  [1770 :edit/user 3 536878246]]}
+  [1770 :edit/time 1623144503433 536878256]
+  [1770 :edit/user 3 536878246]
+  [1771 :block/open true 536878257]
+  [1771 :block/order 1 536878261]
+  [1771 :block/page 1734 536878258]
+  [1771 :block/parents 1734 536878258]
+  [1771 :block/parents 1763 536878258]
+  [1771 :block/parents 1769 536878258]
+  [1771 :block/string "" 536878257]
+  [1771 :block/uid "29830RAi0" 536878257]
+  [1771 :create/time 1623144505208 536878257]
+  [1771 :create/user 3 536878257]
+  [1771 :edit/time 1623144505208 536878257]
+  [1771 :edit/user 3 536878257]]}
