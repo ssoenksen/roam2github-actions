@@ -13134,13 +13134,63 @@
                     }
                   },
                   {
-                    "string": "",
+                    "string": "Glandotrope Hormone: Andere Drüsen als Zielorgan",
                     "create-time": 1623147635706,
-                    "uid": "KuqPqXK0k",
-                    "edit-time": 1623147635706,
                     ":create/user": {
                       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                     },
+                    "children": [
+                      {
+                        "string": "Regen dort Produktion/ Ausschüttung von Hormonen an",
+                        "create-time": 1623147658593,
+                        "uid": "quEvaWAhF",
+                        "edit-time": 1623147675755,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      },
+                      {
+                        "string": "z.B. Thyreotropin: Stimulation der Schilddrüsenzellen",
+                        "create-time": 1623147675748,
+                        "uid": "B1Y4FEpNa",
+                        "edit-time": 1623147691909,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      },
+                      {
+                        "string": "z.B. Prolaktin: Wirkt auf Brustdrüse",
+                        "create-time": 1623147691905,
+                        "uid": "dVgSi8-e0",
+                        "edit-time": 1623147698880,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      },
+                      {
+                        "string": "",
+                        "create-time": 1623147698873,
+                        "uid": "eMlnC7bI_",
+                        "edit-time": 1623147698873,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "KuqPqXK0k",
+                    "edit-time": 1623147658599,
                     ":edit/user": {
                       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                     }

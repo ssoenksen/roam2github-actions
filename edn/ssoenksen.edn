@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuide62a1bbe-de16-4ac7-86f8-9d4cf3dddb6d"
-   536878683]
+   "uuidc185c29c-c50f-44e8-bb4a-49d4e6baf154"
+   536878699]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -16304,6 +16304,10 @@
   [1823 :create/user 3 536878666]
   [1823 :edit/time 1623147630099 536878674]
   [1823 :edit/user 3 536878666]
+  [1824 :block/children 1825 536878687]
+  [1824 :block/children 1826 536878689]
+  [1824 :block/children 1827 536878693]
+  [1824 :block/children 1828 536878696]
   [1824 :block/open true 536878676]
   [1824 :block/order 3 536878682]
   [1824 :block/page 1734 536878677]
@@ -16311,9 +16315,74 @@
   [1824 :block/parents 1735 536878677]
   [1824 :block/parents 1737 536878677]
   [1824 :block/parents 1802 536878677]
-  [1824 :block/string "" 536878676]
+  [1824
+   :block/string
+   "Glandotrope Hormone: Andere Drüsen als Zielorgan"
+   536878686]
   [1824 :block/uid "KuqPqXK0k" 536878676]
   [1824 :create/time 1623147635706 536878676]
   [1824 :create/user 3 536878676]
-  [1824 :edit/time 1623147635706 536878676]
-  [1824 :edit/user 3 536878676]]}
+  [1824 :edit/time 1623147658599 536878686]
+  [1824 :edit/user 3 536878676]
+  [1825 :block/open true 536878684]
+  [1825 :block/order 0 536878687]
+  [1825 :block/page 1734 536878685]
+  [1825 :block/parents 1734 536878685]
+  [1825 :block/parents 1735 536878685]
+  [1825 :block/parents 1737 536878685]
+  [1825 :block/parents 1802 536878685]
+  [1825 :block/parents 1824 536878688]
+  [1825
+   :block/string
+   "Regen dort Produktion/ Ausschüttung von Hormonen an"
+   536878691]
+  [1825 :block/uid "quEvaWAhF" 536878684]
+  [1825 :create/time 1623147658593 536878684]
+  [1825 :create/user 3 536878684]
+  [1825 :edit/time 1623147675755 536878691]
+  [1825 :edit/user 3 536878684]
+  [1826 :block/open true 536878689]
+  [1826 :block/order 1 536878689]
+  [1826 :block/page 1734 536878690]
+  [1826 :block/parents 1734 536878690]
+  [1826 :block/parents 1735 536878690]
+  [1826 :block/parents 1737 536878690]
+  [1826 :block/parents 1802 536878690]
+  [1826 :block/parents 1824 536878690]
+  [1826
+   :block/string
+   "z.B. Thyreotropin: Stimulation der Schilddrüsenzellen"
+   536878695]
+  [1826 :block/uid "B1Y4FEpNa" 536878689]
+  [1826 :create/time 1623147675748 536878689]
+  [1826 :create/user 3 536878689]
+  [1826 :edit/time 1623147691909 536878695]
+  [1826 :edit/user 3 536878689]
+  [1827 :block/open true 536878693]
+  [1827 :block/order 2 536878693]
+  [1827 :block/page 1734 536878694]
+  [1827 :block/parents 1734 536878694]
+  [1827 :block/parents 1735 536878694]
+  [1827 :block/parents 1737 536878694]
+  [1827 :block/parents 1802 536878694]
+  [1827 :block/parents 1824 536878694]
+  [1827 :block/string "z.B. Prolaktin: Wirkt auf Brustdrüse" 536878698]
+  [1827 :block/uid "dVgSi8-e0" 536878693]
+  [1827 :create/time 1623147691905 536878693]
+  [1827 :create/user 3 536878693]
+  [1827 :edit/time 1623147698880 536878698]
+  [1827 :edit/user 3 536878693]
+  [1828 :block/open true 536878696]
+  [1828 :block/order 3 536878696]
+  [1828 :block/page 1734 536878697]
+  [1828 :block/parents 1734 536878697]
+  [1828 :block/parents 1735 536878697]
+  [1828 :block/parents 1737 536878697]
+  [1828 :block/parents 1802 536878697]
+  [1828 :block/parents 1824 536878697]
+  [1828 :block/string "z.B. Stresshormon ACTH" 536878699]
+  [1828 :block/uid "eMlnC7bI_" 536878696]
+  [1828 :create/time 1623147698873 536878696]
+  [1828 :create/user 3 536878696]
+  [1828 :edit/time 1623147704033 536878699]
+  [1828 :edit/user 3 536878696]]}

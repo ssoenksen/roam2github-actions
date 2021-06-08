@@ -75,7 +75,11 @@
                     - mobilisiert Fettsäuren, steigert Blutzuckerspiegel, hemmt Glucoseaufnahme
                     - Steuerung der Freisetzung über Freisetzungshormon **Somatotropin-Releasing-Hormon**, wird in Hypothalamus freigesetzt v.a. in nächtlicher Tiefschlafphase in Schüben
                         - Hemmungshormon ist **Somatostatin**, ebenfalls in Hypothalamus gebildet
-            - 
+            - Glandotrope Hormone: Andere Drüsen als Zielorgan
+                - Regen dort Produktion/ Ausschüttung von Hormonen an
+                - z.B. Thyreotropin: Stimulation der Schilddrüsenzellen
+                - z.B. Prolaktin: Wirkt auf Brustdrüse
+                - z.B. Stresshormon ACTH
         - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae)
     - Steuerung von Funktionen bzgl. Wachstum, Energiehaushalt, Sexualität durch Steuerung der Produktion von glandulären Hormonen
         - Hypothalamus aktiviert Ausführungsorgan Hypophyse: Nach Bedarf (ZNS), nach Zeit (z.B. zirkadiane Rhythmik, Menstruationszyklus)
