@@ -12559,7 +12559,7 @@
         }
       },
       {
-        "string": "Hormonklassen",
+        "string": "Hormonklassen (nach chemischen EIgenschaften)",
         "create-time": 1623144604624,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -12579,7 +12579,7 @@
           }
         ],
         "uid": "ff2S4_p18",
-        "edit-time": 1623144611771,
+        "edit-time": 1623144674960,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
