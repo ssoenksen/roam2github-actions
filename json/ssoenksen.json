@@ -12383,6 +12383,32 @@
         }
       },
       {
+        "string": "Übertragungswege von Hormonen",
+        "create-time": 1623144076957,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "",
+            "create-time": 1623144084480,
+            "uid": "67L0fpbC0",
+            "edit-time": 1623144084480,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "2Uezh1Inx",
+        "edit-time": 1623144084486,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
         "string": "Schnittstelle zwischen Neuro- und Hormonsystemen: ",
         "create-time": 1623143481480,
         ":create/user": {

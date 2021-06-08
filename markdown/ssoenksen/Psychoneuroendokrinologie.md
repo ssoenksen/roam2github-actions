@@ -15,6 +15,8 @@
         - Gewebehormone, in Geweben von spezialisierten Zellen hergestellt
         - Wirkort idR. nah am Produktionsort im Gewebe
         - z.B. Sekretin, Gastrin
+- Übertragungswege von Hormonen
+    - 
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)
