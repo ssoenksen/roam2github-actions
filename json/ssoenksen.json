@@ -16015,29 +16015,17 @@
     },
     "children": [
       {
-        "string": "Sickness behavior: Lethargie, Schläfrigkeit, Appetitlosigkeit bei Infektionskrankheiten —> Organismus kann Ressourcen auf Bekämpfung der Infektion konzentrieren",
-        "create-time": 1623166881609,
-        "uid": "T9spTg3oQ",
-        "edit-time": 1623166891966,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "Beobachtung von Hirten: Kranke Tiere der Herde verhalten sich anders",
-        "create-time": 1623166881609,
+        "string": "Krankheitsbekämpfung durch Immunsystem",
+        "create-time": 1623170349284,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
         "children": [
           {
-            "string": "Aber nicht (nur) weil sie schwächersind",
+            "string": "Sickness behavior: Lethargie, Schläfrigkeit, Appetitlosigkeit bei Infektionskrankheiten —> Organismus kann Ressourcen auf Bekämpfung der Infektion konzentrieren",
             "create-time": 1623166881609,
-            "uid": "D9cBTuaDI",
-            "edit-time": 1623166917106,
+            "uid": "T9spTg3oQ",
+            "edit-time": 1623166891966,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
@@ -16046,58 +16034,46 @@
             }
           },
           {
-            "string": "Sondern: Erhöhter Cytokin-Spiegel im Blut (durch Leukozyten produziert) wirkt u.a. auf Hypothalamus",
+            "string": "Beobachtung von Hirten: Kranke Tiere der Herde verhalten sich anders",
             "create-time": 1623166881609,
-            "uid": "Tx3WY-2Nd",
-            "edit-time": 1623166951086,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
+            "children": [
+              {
+                "string": "Aber nicht (nur) weil sie schwäche rsind",
+                "create-time": 1623166881609,
+                "uid": "D9cBTuaDI",
+                "edit-time": 1623170431666,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Sondern gezielt: Erhöhter Cytokin-Spiegel im Blut (Botenstoff des Immunsystems; durch Leukozyten - weiße Blutkörperchen - produziert) wirkt u.a. auf Hypothalamus",
+                "create-time": 1623166881609,
+                "uid": "Tx3WY-2Nd",
+                "edit-time": 1623170540803,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "gCQHpZ13w",
+            "edit-time": 1623166899472,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           }
         ],
-        "uid": "gCQHpZ13w",
-        "edit-time": 1623166899472,
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "Immunzellen erzeugen Zytokine, die Aktivität von Neuronen im ZNS beeinflussen",
-        "create-time": 1623166986922,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
-        "children": [
-          {
-            "string": "Interleukine können Nervenendigungen kontrollieren",
-            "create-time": 1623166986922,
-            "uid": "SFhfrMvB2",
-            "edit-time": 1623167001609,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          },
-          {
-            "string": "Lymphozyten stellen Adrenonkortikotropes Hormon (ACTH) her",
-            "create-time": 1623166986922,
-            "uid": "0GJwToIp-",
-            "edit-time": 1623167027673,
-            ":create/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            },
-            ":edit/user": {
-              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-            }
-          }
-        ],
-        "uid": "k8qEsR7rn",
-        "edit-time": 1623166986924,
+        "uid": "MhpZfrWQg",
+        "edit-time": 1623170355601,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -16110,17 +16086,17 @@
         },
         "children": [
           {
-            "string": "Immunzellen erzeugen Zytokine, die Aktivität von Neuronen im ZNS\nbeeinflussen",
-            "create-time": 1623168031362,
+            "string": "IS --> ZNS: Immunzellen erzeugen Zytokine, die Aktivität von Neuronen im ZNS beeinflussen",
+            "create-time": 1623166986922,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
             "children": [
               {
-                "string": "Interleukine können Nervenendigungen kontrollieren\n",
-                "create-time": 1623168036903,
-                "uid": "yN48Ki3x_",
-                "edit-time": 1623168036903,
+                "string": "Interleukine können Nervenendigungen kontrollieren",
+                "create-time": 1623166986922,
+                "uid": "SFhfrMvB2",
+                "edit-time": 1623167001609,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -16129,10 +16105,10 @@
                 }
               },
               {
-                "string": "Lymphozyten stellen Adrenonkortikotropes Hormon (ACTH) her\n",
-                "create-time": 1623168042815,
-                "uid": "NTCsPMZC8",
-                "edit-time": 1623168042815,
+                "string": "Lymphozyten stellen Adrenocortikotropes Hormon (ACTH) her",
+                "create-time": 1623166986922,
+                "uid": "0GJwToIp-",
+                "edit-time": 1623170615170,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -16141,24 +16117,24 @@
                 }
               }
             ],
-            "uid": "3M49kzOTI",
-            "edit-time": 1623168031362,
+            "uid": "k8qEsR7rn",
+            "edit-time": 1623170700507,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "Immunzellen werden durch Aktivität von Neuronen im ZNS beeinflusst\n",
+            "string": "ZNS --> IS: Immunzellen werden durch Aktivität von Neuronen im ZNS beeinflusst\n",
             "create-time": 1623168055086,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
             "children": [
               {
-                "string": "Z.B. Rezeptoren für Neurotransmitter des autonomen Nervensystems\n(Katecholamine) auf Lymphozyten und Makrophagen lösen SecondMessenger-Kaskade aus\n",
+                "string": "Z.B. Rezeptoren für Neurotransmitter des autonomen Nervensystems\n(Katecholamine) auf Lymphozyten und Makrophagen lösen Second-Messenger-Kaskade aus\n",
                 "create-time": 1623168060677,
                 "uid": "WF3tcMv1r",
-                "edit-time": 1623168060677,
+                "edit-time": 1623170675620,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -16180,7 +16156,7 @@
               }
             ],
             "uid": "SKbBp_W3F",
-            "edit-time": 1623168055086,
+            "edit-time": 1623170706569,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }

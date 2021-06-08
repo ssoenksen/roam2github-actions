@@ -185,8 +185,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid6723cb2b-015b-4bcd-acf9-b993701d740a"
-   536880022]
+   "uuidb7b1812e-f9b9-40ef-9514-d80add064588"
+   536880047]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -19375,15 +19375,13 @@
   [2072 :create/user 3 536879411]
   [2072 :edit/time 1623161893051 536879416]
   [2072 :edit/user 3 536879411]
-  [2073 :block/children 2075 536879434]
-  [2073 :block/children 2076 536879434]
-  [2073 :block/children 2081 536879467]
   [2073 :block/children 2084 536879487]
   [2073 :block/children 2100 536879573]
   [2073 :block/children 2104 536879598]
   [2073 :block/children 2113 536879659]
   [2073 :block/children 2157 536879928]
   [2073 :block/children 2170 536879995]
+  [2073 :block/children 2174 536880023]
   [2073 :block/open true 536879434]
   [2073 :block/uid "qp2x0ngIE" 536879431]
   [2073 :create/time 1623166864681 536879431]
@@ -19392,9 +19390,10 @@
   [2073 :edit/user 3 536879431]
   [2073 :node/title "Psychoneuroimmunologie" 536879431]
   [2075 :block/open true 536879434]
-  [2075 :block/order 0 536879434]
+  [2075 :block/order 0 536880026]
   [2075 :block/page 2073 536879439]
   [2075 :block/parents 2073 536879439]
+  [2075 :block/parents 2174 536880027]
   [2075
    :block/string
    "Sickness behavior: Lethargie, Schläfrigkeit, Appetitlosigkeit bei Infektionskrankheiten —> Organismus kann Ressourcen auf Bekämpfung der Infektion konzentrieren"
@@ -19407,9 +19406,10 @@
   [2076 :block/children 2077 536879459]
   [2076 :block/children 2078 536879461]
   [2076 :block/open true 536879434]
-  [2076 :block/order 1 536879434]
+  [2076 :block/order 1 536880026]
   [2076 :block/page 2073 536879435]
   [2076 :block/parents 2073 536879435]
+  [2076 :block/parents 2174 536880029]
   [2076
    :block/string
    "Beobachtung von Hirten: Kranke Tiere der Herde verhalten sich anders"
@@ -19424,49 +19424,53 @@
   [2077 :block/page 2073 536879436]
   [2077 :block/parents 2073 536879436]
   [2077 :block/parents 2076 536879460]
+  [2077 :block/parents 2174 536880029]
   [2077
    :block/string
-   "Aber nicht (nur) weil sie schwächersind"
-   536879448]
+   "Aber nicht (nur) weil sie schwäche rsind"
+   536880030]
   [2077 :block/uid "D9cBTuaDI" 536879434]
   [2077 :create/time 1623166881609 536879434]
   [2077 :create/user 3 536879434]
-  [2077 :edit/time 1623166917106 536879448]
+  [2077 :edit/time 1623170431666 536880030]
   [2077 :edit/user 3 536879434]
   [2078 :block/open true 536879434]
   [2078 :block/order 1 536879461]
   [2078 :block/page 2073 536879437]
   [2078 :block/parents 2073 536879437]
   [2078 :block/parents 2076 536879462]
+  [2078 :block/parents 2174 536880029]
   [2078
    :block/string
-   "Sondern: Erhöhter Cytokin-Spiegel im Blut (durch Leukozyten produziert) wirkt u.a. auf Hypothalamus"
-   536879458]
+   "Sondern gezielt: Erhöhter Cytokin-Spiegel im Blut (Botenstoff des Immunsystems; durch Leukozyten - weiße Blutkörperchen - produziert) wirkt u.a. auf Hypothalamus"
+   536880035]
   [2078 :block/uid "Tx3WY-2Nd" 536879434]
   [2078 :create/time 1623166881609 536879434]
   [2078 :create/user 3 536879434]
-  [2078 :edit/time 1623166951086 536879458]
+  [2078 :edit/time 1623170540803 536880035]
   [2078 :edit/user 3 536879434]
   [2081 :block/children 2082 536879474]
   [2081 :block/children 2083 536879483]
   [2081 :block/open true 536879467]
-  [2081 :block/order 2 536879467]
+  [2081 :block/order 0 536880038]
   [2081 :block/page 2073 536879470]
   [2081 :block/parents 2073 536879470]
+  [2081 :block/parents 2084 536880039]
   [2081
    :block/string
-   "Immunzellen erzeugen Zytokine, die Aktivität von Neuronen im ZNS beeinflussen"
-   536879467]
+   "IS --> ZNS: Immunzellen erzeugen Zytokine, die Aktivität von Neuronen im ZNS beeinflussen"
+   536880046]
   [2081 :block/uid "k8qEsR7rn" 536879467]
   [2081 :create/time 1623166986922 536879467]
   [2081 :create/user 3 536879467]
-  [2081 :edit/time 1623166986924 536879467]
+  [2081 :edit/time 1623170700507 536880046]
   [2081 :edit/user 3 536879467]
   [2082 :block/open true 536879467]
   [2082 :block/order 0 536879474]
   [2082 :block/page 2073 536879468]
   [2082 :block/parents 2073 536879468]
   [2082 :block/parents 2081 536879476]
+  [2082 :block/parents 2084 536880039]
   [2082
    :block/string
    "Interleukine können Nervenendigungen kontrollieren"
@@ -19481,22 +19485,23 @@
   [2083 :block/page 2073 536879469]
   [2083 :block/parents 2073 536879469]
   [2083 :block/parents 2081 536879484]
+  [2083 :block/parents 2084 536880039]
   [2083
    :block/string
-   "Lymphozyten stellen Adrenonkortikotropes Hormon (ACTH) her"
-   536879482]
+   "Lymphozyten stellen Adrenocortikotropes Hormon (ACTH) her"
+   536880040]
   [2083 :block/uid "0GJwToIp-" 536879467]
   [2083 :create/time 1623166986922 536879467]
   [2083 :create/user 3 536879467]
-  [2083 :edit/time 1623167027673 536879482]
+  [2083 :edit/time 1623170615170 536880040]
   [2083 :edit/user 3 536879467]
-  [2084 :block/children 2086 536879495]
+  [2084 :block/children 2081 536880038]
   [2084 :block/children 2089 536879513]
   [2084 :block/children 2092 536879528]
   [2084 :block/children 2094 536879540]
   [2084 :block/children 2099 536879564]
   [2084 :block/open true 536879485]
-  [2084 :block/order 3 536879487]
+  [2084 :block/order 1 536880036]
   [2084 :block/page 2073 536879486]
   [2084 :block/parents 2073 536879486]
   [2084
@@ -19523,67 +19528,21 @@
   [2085 :create/user 3 536879489]
   [2085 :edit/time 1623168060689 536879520]
   [2085 :edit/user 3 536879489]
-  [2086 :block/children 2087 536879501]
-  [2086 :block/children 2088 536879508]
-  [2086 :block/open true 536879495]
-  [2086 :block/order 0 536879495]
-  [2086 :block/page 2073 536879496]
-  [2086 :block/parents 2073 536879496]
-  [2086 :block/parents 2084 536879496]
-  [2086
-   :block/string
-   "Immunzellen erzeugen Zytokine, die Aktivität von Neuronen im ZNS\nbeeinflussen"
-   536879495]
-  [2086 :block/uid "3M49kzOTI" 536879495]
-  [2086 :create/time 1623168031362 536879495]
-  [2086 :create/user 3 536879495]
-  [2086 :edit/time 1623168031362 536879495]
-  [2086 :edit/user 3 536879495]
-  [2087 :block/open true 536879501]
-  [2087 :block/order 0 536879501]
-  [2087 :block/page 2073 536879502]
-  [2087 :block/parents 2073 536879502]
-  [2087 :block/parents 2084 536879502]
-  [2087 :block/parents 2086 536879502]
-  [2087
-   :block/string
-   "Interleukine können Nervenendigungen kontrollieren\n"
-   536879501]
-  [2087 :block/uid "yN48Ki3x_" 536879501]
-  [2087 :create/time 1623168036903 536879501]
-  [2087 :create/user 3 536879501]
-  [2087 :edit/time 1623168036903 536879501]
-  [2087 :edit/user 3 536879501]
-  [2088 :block/open true 536879508]
-  [2088 :block/order 1 536879508]
-  [2088 :block/page 2073 536879509]
-  [2088 :block/parents 2073 536879509]
-  [2088 :block/parents 2084 536879509]
-  [2088 :block/parents 2086 536879509]
-  [2088
-   :block/string
-   "Lymphozyten stellen Adrenonkortikotropes Hormon (ACTH) her\n"
-   536879508]
-  [2088 :block/uid "NTCsPMZC8" 536879508]
-  [2088 :create/time 1623168042815 536879508]
-  [2088 :create/user 3 536879508]
-  [2088 :edit/time 1623168042815 536879508]
-  [2088 :edit/user 3 536879508]
   [2089 :block/children 2085 536879516]
   [2089 :block/children 2090 536879518]
   [2089 :block/open true 536879513]
-  [2089 :block/order 1 536879513]
+  [2089 :block/order 1 536880041]
   [2089 :block/page 2073 536879514]
   [2089 :block/parents 2073 536879514]
   [2089 :block/parents 2084 536879514]
   [2089
    :block/string
-   "Immunzellen werden durch Aktivität von Neuronen im ZNS beeinflusst\n"
-   536879513]
+   "ZNS --> IS: Immunzellen werden durch Aktivität von Neuronen im ZNS beeinflusst\n"
+   536880047]
   [2089 :block/uid "SKbBp_W3F" 536879513]
   [2089 :create/time 1623168055086 536879513]
   [2089 :create/user 3 536879513]
-  [2089 :edit/time 1623168055086 536879513]
+  [2089 :edit/time 1623170706569 536880047]
   [2089 :edit/user 3 536879513]
   [2090 :block/open true 536879518]
   [2090 :block/order 0 536879518]
@@ -19593,12 +19552,12 @@
   [2090 :block/parents 2089 536879519]
   [2090
    :block/string
-   "Z.B. Rezeptoren für Neurotransmitter des autonomen Nervensystems\n(Katecholamine) auf Lymphozyten und Makrophagen lösen SecondMessenger-Kaskade aus\n"
-   536879518]
+   "Z.B. Rezeptoren für Neurotransmitter des autonomen Nervensystems\n(Katecholamine) auf Lymphozyten und Makrophagen lösen Second-Messenger-Kaskade aus\n"
+   536880044]
   [2090 :block/uid "WF3tcMv1r" 536879518]
   [2090 :create/time 1623168060677 536879518]
   [2090 :create/user 3 536879518]
-  [2090 :edit/time 1623168060677 536879518]
+  [2090 :edit/time 1623170675620 536880044]
   [2090 :edit/user 3 536879518]
   [2091 :block/open true 536879521]
   [2091 :block/order 0 536879531]
@@ -19617,7 +19576,7 @@
   [2091 :edit/user 3 536879521]
   [2092 :block/children 2091 536879531]
   [2092 :block/open true 536879528]
-  [2092 :block/order 2 536879528]
+  [2092 :block/order 2 536880041]
   [2092 :block/page 2073 536879529]
   [2092 :block/parents 2073 536879529]
   [2092 :block/parents 2084 536879529]
@@ -19647,7 +19606,7 @@
   [2094 :block/children 2097 536879556]
   [2094 :block/children 2098 536879559]
   [2094 :block/open true 536879540]
-  [2094 :block/order 3 536879540]
+  [2094 :block/order 3 536880041]
   [2094 :block/page 2073 536879541]
   [2094 :block/parents 2073 536879541]
   [2094 :block/parents 2084 536879541]
@@ -19719,7 +19678,7 @@
   [2098 :edit/user 3 536879559]
   [2099 :block/children 2093 536879567]
   [2099 :block/open true 536879564]
-  [2099 :block/order 4 536879564]
+  [2099 :block/order 4 536880041]
   [2099 :block/page 2073 536879565]
   [2099 :block/parents 2073 536879565]
   [2099 :block/parents 2084 536879565]
@@ -19734,7 +19693,7 @@
   [2099 :edit/user 3 536879564]
   [2100 :block/children 2102 536879581]
   [2100 :block/open true 536879569]
-  [2100 :block/order 4 536879573]
+  [2100 :block/order 2 536880036]
   [2100 :block/page 2073 536879570]
   [2100 :block/parents 2073 536879570]
   [2100
@@ -19797,7 +19756,7 @@
   [2104 :block/children 2111 536879646]
   [2104 :block/children 2112 536879652]
   [2104 :block/open true 536879592]
-  [2104 :block/order 5 536879598]
+  [2104 :block/order 3 536880036]
   [2104 :block/page 2073 536879593]
   [2104 :block/parents 2073 536879593]
   [2104 :block/string "Thymus & Knochenmark vs. Lymphknoten" 536879602]
@@ -19931,7 +19890,7 @@
   [2113 :block/children 2135 536879787]
   [2113 :block/children 2145 536879851]
   [2113 :block/open true 536879656]
-  [2113 :block/order 6 536879659]
+  [2113 :block/order 4 536880036]
   [2113 :block/page 2073 536879657]
   [2113 :block/parents 2073 536879657]
   [2113 :block/string "Angeborene vs. erworbene Immunität" 536879663]
@@ -20585,7 +20544,7 @@
   [2157 :block/children 2168 536879984]
   [2157 :block/children 2169 536879987]
   [2157 :block/open true 536879921]
-  [2157 :block/order 7 536879928]
+  [2157 :block/order 5 536880036]
   [2157 :block/page 2073 536879922]
   [2157 :block/parents 2073 536879922]
   [2157
@@ -20758,7 +20717,7 @@
   [2170 :block/children 2171 536880000]
   [2170 :block/children 2172 536880004]
   [2170 :block/open true 536879992]
-  [2170 :block/order 8 536879995]
+  [2170 :block/order 6 536880036]
   [2170 :block/page 2073 536879993]
   [2170 :block/parents 2073 536879993]
   [2170
@@ -20813,4 +20772,19 @@
   [2173 :create/time 1623169600008 536880015]
   [2173 :create/user 3 536880015]
   [2173 :edit/time 1623169624224 536880022]
-  [2173 :edit/user 3 536880015]]}
+  [2173 :edit/user 3 536880015]
+  [2174 :block/children 2075 536880026]
+  [2174 :block/children 2076 536880028]
+  [2174 :block/open true 536880023]
+  [2174 :block/order 0 536880023]
+  [2174 :block/page 2073 536880024]
+  [2174 :block/parents 2073 536880024]
+  [2174
+   :block/string
+   "Krankheitsbekämpfung durch Immunsystem"
+   536880025]
+  [2174 :block/uid "MhpZfrWQg" 536880023]
+  [2174 :create/time 1623170349284 536880023]
+  [2174 :create/user 3 536880023]
+  [2174 :edit/time 1623170355601 536880025]
+  [2174 :edit/user 3 536880023]]}
