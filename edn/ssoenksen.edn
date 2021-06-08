@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid87049d69-2a70-458f-8608-149b610c134d"
-   536878665]
+   "uuide62a1bbe-de16-4ac7-86f8-9d4cf3dddb6d"
+   536878683]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15034,6 +15034,7 @@
   [1737 :block/children 1816 536878615]
   [1737 :block/children 1817 536878618]
   [1737 :block/children 1818 536878625]
+  [1737 :block/children 1824 536878682]
   [1737 :block/open true 536878062]
   [1737 :block/order 2 536878583]
   [1737 :block/page 1734 536878063]
@@ -16265,6 +16266,7 @@
   [1821 :create/user 3 536878647]
   [1821 :edit/time 1623147365121 536878654]
   [1821 :edit/user 3 536878647]
+  [1822 :block/children 1823 536878668]
   [1822 :block/open true 536878656]
   [1822 :block/order 2 536878656]
   [1822 :block/page 1734 536878657]
@@ -16276,10 +16278,42 @@
   [1822 :block/parents 1819 536878657]
   [1822
    :block/string
-   "Steuerung der Freisetzung über Freisetzungshormon Somatotropin-Releasing-Hormon, wird in Hypothalamus freigesetzt v.a. in nächtlicher Tiefschlafphase in Schüben"
-   536878665]
+   "Steuerung der Freisetzung über Freisetzungshormon **Somatotropin-Releasing-Hormon**, wird in Hypothalamus freigesetzt v.a. in nächtlicher Tiefschlafphase in Schüben"
+   536878675]
   [1822 :block/uid "N4LFbb8wW" 536878656]
   [1822 :create/time 1623147434243 536878656]
   [1822 :create/user 3 536878656]
-  [1822 :edit/time 1623147585655 536878665]
-  [1822 :edit/user 3 536878656]]}
+  [1822 :edit/time 1623147633338 536878675]
+  [1822 :edit/user 3 536878656]
+  [1823 :block/open true 536878666]
+  [1823 :block/order 0 536878668]
+  [1823 :block/page 1734 536878667]
+  [1823 :block/parents 1734 536878667]
+  [1823 :block/parents 1735 536878667]
+  [1823 :block/parents 1737 536878667]
+  [1823 :block/parents 1802 536878667]
+  [1823 :block/parents 1818 536878667]
+  [1823 :block/parents 1819 536878667]
+  [1823 :block/parents 1822 536878669]
+  [1823
+   :block/string
+   "Hemmungshormon ist **Somatostatin**, ebenfalls in Hypothalamus gebildet"
+   536878674]
+  [1823 :block/uid "sx6aVB01X" 536878666]
+  [1823 :create/time 1623147615702 536878666]
+  [1823 :create/user 3 536878666]
+  [1823 :edit/time 1623147630099 536878674]
+  [1823 :edit/user 3 536878666]
+  [1824 :block/open true 536878676]
+  [1824 :block/order 3 536878682]
+  [1824 :block/page 1734 536878677]
+  [1824 :block/parents 1734 536878677]
+  [1824 :block/parents 1735 536878677]
+  [1824 :block/parents 1737 536878677]
+  [1824 :block/parents 1802 536878677]
+  [1824 :block/string "" 536878676]
+  [1824 :block/uid "KuqPqXK0k" 536878676]
+  [1824 :create/time 1623147635706 536878676]
+  [1824 :create/user 3 536878676]
+  [1824 :edit/time 1623147635706 536878676]
+  [1824 :edit/user 3 536878676]]}

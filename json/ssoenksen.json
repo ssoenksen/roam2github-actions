@@ -13094,13 +13094,27 @@
                             }
                           },
                           {
-                            "string": "Steuerung der Freisetzung über Freisetzungshormon Somatotropin-Releasing-Hormon, wird in Hypothalamus freigesetzt v.a. in nächtlicher Tiefschlafphase in Schüben",
+                            "string": "Steuerung der Freisetzung über Freisetzungshormon **Somatotropin-Releasing-Hormon**, wird in Hypothalamus freigesetzt v.a. in nächtlicher Tiefschlafphase in Schüben",
                             "create-time": 1623147434243,
-                            "uid": "N4LFbb8wW",
-                            "edit-time": 1623147585655,
                             ":create/user": {
                               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                             },
+                            "children": [
+                              {
+                                "string": "Hemmungshormon ist **Somatostatin**, ebenfalls in Hypothalamus gebildet",
+                                "create-time": 1623147615702,
+                                "uid": "sx6aVB01X",
+                                "edit-time": 1623147630099,
+                                ":create/user": {
+                                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                                },
+                                ":edit/user": {
+                                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                                }
+                              }
+                            ],
+                            "uid": "N4LFbb8wW",
+                            "edit-time": 1623147633338,
                             ":edit/user": {
                               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                             }
@@ -13115,6 +13129,18 @@
                     ],
                     "uid": "Wgx8z-P1X",
                     "edit-time": 1623147303556,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "",
+                    "create-time": 1623147635706,
+                    "uid": "KuqPqXK0k",
+                    "edit-time": 1623147635706,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
                     ":edit/user": {
                       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                     }
