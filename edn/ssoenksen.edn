@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuidd85f8ab3-2040-4007-9650-9493b2a4b3e4"
-   536878262]
+   "uuid576a358b-f7ec-4cdb-b765-7a548cfd5169"
+   536878268]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15499,9 +15499,12 @@
   [1771 :block/parents 1734 536878258]
   [1771 :block/parents 1763 536878258]
   [1771 :block/parents 1769 536878258]
-  [1771 :block/string "" 536878257]
+  [1771
+   :block/string
+   "Enzymaktivierung und dadurch Steigerung der Konzentration des Proteins, das durch Enzym katalisiert wird"
+   536878268]
   [1771 :block/uid "29830RAi0" 536878257]
   [1771 :create/time 1623144505208 536878257]
   [1771 :create/user 3 536878257]
-  [1771 :edit/time 1623144505208 536878257]
+  [1771 :edit/time 1623144552519 536878268]
   [1771 :edit/user 3 536878257]]}
