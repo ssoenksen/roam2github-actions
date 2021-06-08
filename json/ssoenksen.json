@@ -12459,10 +12459,34 @@
             },
             "children": [
               {
-                "string": "",
+                "string": "Beeinflussen Bildung von bestimmten Peptid/ Protein in Zellkern ()",
+                "create-time": 1623144323209,
+                "uid": "nj3G7FmXE",
+                "edit-time": 1623144352430,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "z.B. Sexualhormon, Stresshormon Cortisol, Schilddrüsenhormone",
                 "create-time": 1623144302583,
                 "uid": "RGBAivaww",
-                "edit-time": 1623144302583,
+                "edit-time": 1623144319393,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "",
+                "create-time": 1623144320980,
+                "uid": "u_Am-6L0w",
+                "edit-time": 1623144320980,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },

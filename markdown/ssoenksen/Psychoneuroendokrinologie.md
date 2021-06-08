@@ -22,7 +22,9 @@
     - Lipidlösliche Hormone können Blut-Hirnschranke passieren, z.B. Rezeptoren an Neuronen für Glucocorticoide (gebildet in Nebennierenrinde)
 - Interaktion von Hormonen und Zellen
     - Lipophile Hormone: Passieren Zellmembran
-        - z.B. Sexualhormon, Stresshormon 
+        - Beeinflussen Bildung von bestimmten Peptid/ Protein in Zellkern (Steuerung der Expression von DNA)
+        - z.B. Sexualhormon, Stresshormon Cortisol, Schilddrüsenhormone
+        - 
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)

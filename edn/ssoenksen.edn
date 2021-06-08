@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid2cde667f-9517-4999-954a-a7d545a0be8c"
-   536878216]
+   "uuid390ce208-dfa0-4105-adf1-0400aa385dce"
+   536878229]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15400,6 +15400,8 @@
   [1763 :edit/time 1623144270902 536878203]
   [1763 :edit/user 3 536878193]
   [1764 :block/children 1765 536878215]
+  [1764 :block/children 1766 536878222]
+  [1764 :block/children 1767 536878224]
   [1764 :block/open true 536878201]
   [1764 :block/order 0 536878204]
   [1764 :block/page 1734 536878202]
@@ -15415,14 +15417,44 @@
   [1764 :edit/time 1623144301643 536878212]
   [1764 :edit/user 3 536878201]
   [1765 :block/open true 536878213]
-  [1765 :block/order 0 536878215]
+  [1765 :block/order 1 536878224]
   [1765 :block/page 1734 536878214]
   [1765 :block/parents 1734 536878214]
   [1765 :block/parents 1763 536878214]
   [1765 :block/parents 1764 536878216]
-  [1765 :block/string "" 536878213]
+  [1765
+   :block/string
+   "z.B. Sexualhormon, Stresshormon Cortisol, Schilddrüsenhormone"
+   536878221]
   [1765 :block/uid "RGBAivaww" 536878213]
   [1765 :create/time 1623144302583 536878213]
   [1765 :create/user 3 536878213]
-  [1765 :edit/time 1623144302583 536878213]
-  [1765 :edit/user 3 536878213]]}
+  [1765 :edit/time 1623144319393 536878221]
+  [1765 :edit/user 3 536878213]
+  [1766 :block/open true 536878222]
+  [1766 :block/order 2 536878224]
+  [1766 :block/page 1734 536878223]
+  [1766 :block/parents 1734 536878223]
+  [1766 :block/parents 1763 536878223]
+  [1766 :block/parents 1764 536878223]
+  [1766 :block/string "" 536878222]
+  [1766 :block/uid "u_Am-6L0w" 536878222]
+  [1766 :create/time 1623144320980 536878222]
+  [1766 :create/user 3 536878222]
+  [1766 :edit/time 1623144320980 536878222]
+  [1766 :edit/user 3 536878222]
+  [1767 :block/open true 536878224]
+  [1767 :block/order 0 536878224]
+  [1767 :block/page 1734 536878225]
+  [1767 :block/parents 1734 536878225]
+  [1767 :block/parents 1763 536878225]
+  [1767 :block/parents 1764 536878225]
+  [1767
+   :block/string
+   "Beeinflussen Bildung von bestimmten Peptid/ Protein in Zellkern ()"
+   536878229]
+  [1767 :block/uid "nj3G7FmXE" 536878224]
+  [1767 :create/time 1623144323209 536878224]
+  [1767 :create/user 3 536878224]
+  [1767 :edit/time 1623144352430 536878229]
+  [1767 :edit/user 3 536878224]]}
