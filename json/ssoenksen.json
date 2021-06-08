@@ -12106,6 +12106,904 @@
     },
     "children": [
       {
+        "string": "Organisation",
+        "heading": 1,
+        "children": [
+          {
+            "string": "Materialien für jede Vorlesung",
+            "children": [
+              {
+                "string": "Vorlesungen",
+                "uid": "NAx5_u_C7",
+                "edit-time": 1623161011589,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Studienbrief",
+                "uid": "tMiHO6vVF",
+                "edit-time": 1623161011589,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Buch",
+                "uid": "zzl2HgNVB",
+                "edit-time": 1623161011589,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "yTiqFye4u",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Prüfungsvorleistung (mind. 2): 30.04 - 30.06.",
+            "uid": "o2R_oenhK",
+            "edit-time": 1623161024796,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Klausur: Offene Fragen und Zuordnungen (nicht multiple choice!) — Prüfungsrelevant s. Ordner",
+            "uid": "5krxeDSyT",
+            "edit-time": 1623161035510,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "EjNHLgX-a",
+        "edit-time": 1623161011589,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Zuordnungen Lehrbuch",
+        "heading": 2,
+        "children": [
+          {
+            "string": "**2.3** Bausteine des Nervensystems, S. 23-30",
+            "uid": "8ZaYlTDDY",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**3** Erregungsbildung und Erregungsleitung, S. 34-46",
+            "uid": "EmJRv_WFw",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**4** Synaptische Erregung und Hemmung, S. 50-69",
+            "uid": "x4XvgFvpR",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**5** Funktionelle Anatomie des Nervensystems, S. 72-98",
+            "uid": "dt1jYUuIm",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**8** Psychoneuroendokrinologie, S. 142-155",
+            "uid": "XwlN3ql6w",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**9** Psychoneuroimmunologie, S. 167-181",
+            "uid": "UQPdOqB92",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "VL **20** Methoden der Biologischen Psychologie, S. 460-492",
+            "uid": "uoSZezLXu",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "oKnNHSKVY",
+        "edit-time": 1623161011589,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Aktivitäten pro Unit**",
+        "heading": 2,
+        "children": [
+          {
+            "string": "Wiederholen der vorherige(n) Units",
+            "uid": "fGQ4w3MrJ",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Ggf. Lehrbuch",
+            "uid": "-bCvlVbix",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Vorlesungen (moodle)",
+            "uid": "rS-8hDVRb",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Extramaterial / Skript (moodle)",
+            "uid": "0HqEmVlzD",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Ggf. Studienbrief",
+            "uid": "EEhR5ykUf",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Aufgaben (moodle)",
+            "uid": "OHqr2s0SG",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Abhaken im Zeitplan 🙂",
+            "uid": "Ducq2YkOW",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "9_0sDl45E",
+        "edit-time": 1623161011589,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "**Extramaterial**",
+        "heading": 2,
+        "children": [
+          {
+            "string": "Studienbrief-Kapitel zu Lernen",
+            "uid": "lAYf2AS5R",
+            "edit-time": 1623161011589,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "{{table}}",
+            "children": [
+              {
+                "string": "**Zeitraum**",
+                "create-time": 1623161083609,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "**Thema**",
+                    "create-time": 1623161117132,
+                    "uid": "Den3igiXU",
+                    "edit-time": 1623161357417,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "ShpGwgUMG",
+                "edit-time": 1623161356264,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "- 04.04.",
+                "create-time": 1623161120081,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[DONE]]}} Organisation, Einführung",
+                    "create-time": 1623161130152,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9_0zUjvY6"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "9_0zUjvY6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "h5bMlqKES",
+                    "edit-time": 1623161368922,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "LRkcpfrDY",
+                "edit-time": 1623161129157,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "05.-11.04.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[DONE]]}} Bio Thema 1: Bausteine des Nervensystems",
+                    "create-time": 1623161166655,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9_0zUjvY6"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "9_0zUjvY6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "4okXwk46f",
+                    "edit-time": 1623161369705,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "QfRB3n6mP",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "12.-18.04.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[DONE]]}} Bio Thema 2: Erregungsbildung und Erregungsleitung",
+                    "create-time": 1623161173117,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9_0zUjvY6"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "9_0zUjvY6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "PhAWuglZp",
+                    "edit-time": 1623161370506,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "CJw8CLVRk",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "19.-25.04.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[DONE]]}} Bio Thema 3: Synaptische Erregung und Hemmung",
+                    "create-time": 1623161178876,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9_0zUjvY6"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "9_0zUjvY6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "tHvXcON5t",
+                    "edit-time": 1623161371392,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "jUwAYgXC-",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "26.04.-02.05.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[DONE]]}} Bio Thema 4: Funktionelle Anatomie des Nervensystems",
+                    "create-time": 1623161185355,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9_0zUjvY6"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "9_0zUjvY6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "H_xiDRGdT",
+                    "edit-time": 1623161372410,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "5xgt11Ino",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "03.-09.05.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[DONE]]}} Bio Thema 5: Psychoneuroendokrinologie",
+                    "create-time": 1623161192417,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "9_0zUjvY6"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "9_0zUjvY6"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "tOzJIC6kR",
+                    "edit-time": 1623161373263,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "8toP4btcG",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "10.-16.05.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} Bio Thema 6: Psychoneuroimmunologie",
+                    "create-time": 1623161199902,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5l2h1HH0W"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5l2h1HH0W"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "qH_N217ej",
+                    "edit-time": 1623161297106,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "TKcpVhne9",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "17.-23.05.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} Bio Thema 7: Methoden der Biologischen Psychologie",
+                    "create-time": 1623161207703,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5l2h1HH0W"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5l2h1HH0W"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "VwwXNi32A",
+                    "edit-time": 1623161299248,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "bpdw3bdgC",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "24.-30.05.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} MotEmo VL 1: EinstiegMotEmo, {{[[TODO]]}} VL2: Intrinsische Motivation/Flow",
+                    "create-time": 1623161213502,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5l2h1HH0W"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5l2h1HH0W"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "kLj5mvGvk",
+                    "edit-time": 1623161303247,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "RmQpS9hJh",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "31.05.-06.06.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} MotEmo VL 3: Leistungsmotiv/Training",
+                    "create-time": 1623161218402,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5l2h1HH0W"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5l2h1HH0W"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "6M_YpJw0E",
+                    "edit-time": 1623161307033,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "pZZhRmcLC",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "07.-13.06.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} MotEmo VL 4: Motivation -> Volition, Rubikon-Modell, Willentliche Kontrolle",
+                    "create-time": 1623161224174,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5l2h1HH0W"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5l2h1HH0W"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "awPVqMkgZ",
+                    "edit-time": 1623161309136,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "EeBaoMb37",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "14.-20.06.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} MotEmo VL 5: Ziele auswählen und umsetzen",
+                    "create-time": 1623161234874,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5l2h1HH0W"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5l2h1HH0W"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "6cA7GDIHy",
+                    "edit-time": 1623161312392,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "iT4klE8mN",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "21.-27.06.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} MotEmo VL 6: Attribution",
+                    "create-time": 1623161241333,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5l2h1HH0W"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5l2h1HH0W"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "nYiAiFzz_",
+                    "edit-time": 1623161314198,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "7bAulHBXo",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "28.06.-04.07.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} MotEmo VL 7: Emotion, Rolle von Erleben, Physiologie und Interpretation",
+                    "create-time": 1623161246125,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5l2h1HH0W"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5l2h1HH0W"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "MY9JUG6-Z",
+                    "edit-time": 1623161316226,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "AnhWA2CuG",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "05.-11.07.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} MotEmo VL 8: Emotionsausdruck",
+                    "create-time": 1623161251305,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5l2h1HH0W"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5l2h1HH0W"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "VMRl-q_M1",
+                    "edit-time": 1623161318114,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "Xzs2imL_C",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "12.-18.07.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} MotEmo VL 9: Emotion und neuronale Grundlagen",
+                    "create-time": 1623161257031,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5l2h1HH0W"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5l2h1HH0W"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "TAvAvzrT6",
+                    "edit-time": 1623161319964,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "_qv96eMqG",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "19.-25.07.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} MotEmo VL 10: Stress",
+                    "create-time": 1623161263639,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5l2h1HH0W"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5l2h1HH0W"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "oPVr66B-U",
+                    "edit-time": 1623161321934,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "s5DOnd7-m",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "26.07.-01.08.",
+                "create-time": 1623161158102,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "{{[[TODO]]}} MotEmo VL 11: Emotionales Konditionieren, Preparedness",
+                    "create-time": 1623161271775,
+                    ":block/refs": [
+                      {
+                        ":block/uid": "5l2h1HH0W"
+                      }
+                    ],
+                    "refs": [
+                      {
+                        "uid": "5l2h1HH0W"
+                      }
+                    ],
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "uid": "5QAtmmfZM",
+                    "edit-time": 1623161345948,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "DmxQW1amw",
+                "edit-time": 1623161158107,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "paxYp8f6d",
+            "edit-time": 1623161083253,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "6JPe4IOwm",
+        "edit-time": 1623161011589,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
         "string": "Vorlesungen",
         "create-time": 1623143357612,
         "heading": 1,
@@ -12113,6 +13011,94 @@
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
         "children": [
+          {
+            "string": "V1 [[Bausteine des Nervensystems]]",
+            "create-time": 1623161383970,
+            ":block/refs": [
+              {
+                ":block/uid": "gcafGCEcw"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "gcafGCEcw"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "TDXIf82mN",
+            "edit-time": 1623161394241,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "V2 [[Erregungsbildung und Erregungsleitung]]",
+            "create-time": 1623161394236,
+            ":block/refs": [
+              {
+                ":block/uid": "jrfja0gnm"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "jrfja0gnm"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "9CXdbSTVb",
+            "edit-time": 1623161404565,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "V3 [[Synaptische Erregung und Hemmung]]",
+            "create-time": 1623161404558,
+            ":block/refs": [
+              {
+                ":block/uid": "jV1QtF03i"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "jV1QtF03i"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "8B-fngLIW",
+            "edit-time": 1623161415952,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "V4 [[Funktionelle Anatomie des Nervensystems]]",
+            "create-time": 1623161415946,
+            ":block/refs": [
+              {
+                ":block/uid": "d6z2KquBJ"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "d6z2KquBJ"
+              }
+            ],
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "uid": "iDIqtFrC7",
+            "edit-time": 1623161424911,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
           {
             "string": "V5 [[Psychoneuroendokrinologie]]",
             "create-time": 1623143379271,
@@ -13478,6 +14464,1535 @@
     ],
     "uid": "_m4-_ZjFk",
     "edit-time": 1623143390836,
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1623161097928,
+    "title": "TODO",
+    "uid": "5l2h1HH0W",
+    "edit-time": 1623161097932,
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1623161394242,
+    "title": "Bausteine des Nervensystems",
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    "children": [
+      {
+        "string": "1 Neurone",
+        "heading": 1,
+        "children": [
+          {
+            "string": "Anzahl im Gehirn: 86 +/- 8 Mrd. (Azevedo et al. 2009)",
+            "uid": "byd5Jhsey",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Formen",
+            "children": [
+              {
+                "string": "unipolare Nervenzelle (kein Dendrit, 1 Axon)",
+                "uid": "JHZ3DtZtR",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "pseudounipolare Nervenzelle (kein Dendrit, 2 Axone)",
+                "uid": "3HipgOtAl",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "multipolare Nervenzellen (mind. 1 Dendrit, 1 Axon)",
+                "children": [
+                  {
+                    "string": "Schaltneuron (viele Dendriten in viele Richtungen)",
+                    "uid": "aaj4VYRBI",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Pyramidenzelle (wenige Dendriten, die sich nach oben vervielfachen)",
+                    "uid": "BFy3kpM99",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Purkinje-Zelle (Dendriten wie ein Baum)",
+                    "uid": "o3VySuQZ1",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Kollaterale = Verzweigungen von Axonen",
+                    "uid": "yqXrF3ffd",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "urfGdMTdN",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "pf-WzlFWl",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Zytoskelett: Bestehend aus Mikrotubuli (Röhrchen aus Tubulin-Eiweiß, ca. 25 nm Durchmesser)",
+            "uid": "RkYm-eVLM",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F8dim_hrSbJ.png?alt=media&token=9b9393f1-297c-458a-a2ec-8375d8839d87)",
+            "props": {
+              "image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F8dim_hrSbJ.png?alt=media&token=9b9393f1-297c-458a-a2ec-8375d8839d87": {
+                  "width": 431,
+                  "height": null
+                }
+              }
+            },
+            "uid": "1CN4S-6Dg",
+            "edit-time": 1623161581066,
+            ":block/props": {
+              ":image-size": {
+                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F8dim_hrSbJ.png?alt=media&token=9b9393f1-297c-458a-a2ec-8375d8839d87": {
+                  ":width": 431,
+                  ":height": null
+                }
+              }
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "W8JRSV0e_",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "1.1 Soma (Perikaryon, Stoffwechselzentrum)",
+        "heading": 2,
+        "children": [
+          {
+            "string": "Aufbau: Membran, Zytoplasma, Nukleus (mit Proteinen und RNA)",
+            "uid": "n4IG0EzO7",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Durchmesser: 5-100 μm",
+            "uid": "SSs9kSO1i",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "mcpaeCpOl",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "1.2 Dendriten",
+        "heading": 2,
+        "children": [
+          {
+            "string": "Länge einige Hundert μm",
+            "uid": "PcM0tO4i9",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "Z9wMIzPbB",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "1.3 Axone (Neuriten)",
+        "heading": 2,
+        "children": [
+          {
+            "string": "Bis zu >1 m lang, entspringt Axonhügel des Perikaryons",
+            "uid": "_nRItqdyi",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Arten von Synapsen",
+            "children": [
+              {
+                "string": "chemisch (überwiegend) vs. elektrisch vs. gemischt",
+                "uid": "XPcExd_hL",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "erregend vs. hemmend",
+                "uid": "XpNBRL57g",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "interneural",
+                "children": [
+                  {
+                    "string": "axodendritisch",
+                    "uid": "StCONkQ0c",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "axosomatisch",
+                    "uid": "WFOWX_ljS",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "axoaxonisch",
+                    "uid": "0oEgrckeF",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "neuromuskuläre Endplatte (mit Skelettmuskelfaser)",
+                    "uid": "Xs_OaINQn",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "e9YgvKSvj",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "2_eUDEWU4",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "M6P3tcbDR",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "1.3.1 Axonaler Transport",
+        "heading": 3,
+        "children": [
+          {
+            "string": "Geschwindigkeit: langsam (1-5 mm/Tag) vs. schnell (400 mm/Tag)",
+            "uid": "T123uswqb",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Richtung",
+            "children": [
+              {
+                "string": "antero-/orthograd: Vom Nukleus in Peripherie über Mikrotubuli, bspw. Proteine, Neurotransmitter, Lipide, Zucker in Vesikeln (Hülle aus Proteinen) und Organellen (größere Vesikel) -- Bewegung: Protein Kinesi",
+                "uid": "-SMskV7r8",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "retrograd: Von Peripherie zum Nukleus, verbrauchte Stoffe -- Bewegung: Protein Dynein",
+                "uid": "2Y6Rhtugx",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "C0KDM1HEk",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "a1K1L0EtK",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "2 Gliazellen",
+        "heading": 1,
+        "children": [
+          {
+            "string": "Lebenslängliche Fähigkeit zur Zellteilung",
+            "uid": "BPcDL1DKr",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Kleiner, aber zahlreicher als Neuronen, deshalb ca. jeweils 50% im Gehirn",
+            "uid": "bj2UEIgIA",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Funktionen",
+            "children": [
+              {
+                "string": "Stützung",
+                "uid": "KQJh-RRzJ",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Ernährung",
+                "uid": "g0BEejRDm",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Ausfüllen von Leerräumen bei abgestorbenen Neuronen (**Glianarben**)",
+                "uid": "y6fuXg01d",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Bilden Blut-Hirn-Schranke durch Endfüßchen an Kapillaren (**Astrozyten/Makroglia**), unterstützen durch Vesikel mit inhibitatorischem Neurotransmitter Glutamat auch die neuronale Aktivität",
+                "uid": "42J2-ZHwC",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Myelinisierung (Mark/Gliascheide = lipidreiche Schicht, markhaltig/Markscheide = mehrfach umhüllt mit Myelinlamellen vom inneren zum äußeren Mesaxon) der Axone (**Oligodendroglia**)",
+                "children": [
+                  {
+                    "string": "mylienfreie Stellen alle 0,2-1 mm: **Ranvier-Schnürringe,** dort Bildung von Kollateralen",
+                    "uid": "swsSqwxWT",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "gH7-ZLJI8",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "j-KprnRUO",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "hC_XzdKdb",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "3 Interstitium",
+        "heading": 1,
+        "children": [
+          {
+            "string": "Spalt zwischen Nerven- und Gliazellen, ca. 20 nm, gefüllt mit Liquor cerebrospinalis",
+            "uid": "ae2DCKozr",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Große Version: Ventrikel",
+            "uid": "q-HH1_J74",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Stoffaustausch der Neurone hierüber",
+            "uid": "iJTXfWii7",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Zusammen mit Blutgefäßen ca. 10-20% des Hirnvolumens",
+            "uid": "oxKZSn5O8",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "NRiv4DmD0",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "4 Blutgefäße",
+        "heading": 1,
+        "children": [
+          {
+            "string": "Abstand zwischen Neuronen und Kapillaren idR. <50 μm",
+            "uid": "ODiCZ5rbr",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Zusammen mit Interstitium ca. 10-20% des Hirnvolumens",
+            "uid": "Cp-Vq-aXA",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Zwischen-/Endprodukte durch Stoffwechsel aktiver Neurone (**Metabolite**) passieren Blut-Hirn-Schranke und erweitern Blutgefäße --> Durchblutung in bildgebenden Verfahren sichtbar",
+            "uid": "vn5giPEpT",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "RP7honP-f",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "5 Peripheres Nervensystem",
+        "heading": 1,
+        "children": [
+          {
+            "string": "peripherer Nerv = mehrere Nervenfasern = mehrere periphere Axone mit Schwann-Zellen",
+            "uid": "T8YrCxHHV",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "**Schwann-Zellen** - Funktionen",
+            "children": [
+              {
+                "string": "Myelinisierung (Mark/Gliascheide = lipidreiche Schicht, markhaltig/Markscheide mit Myelinlamellen vom inneren zum äußeren Mesaxon) der Axone",
+                "children": [
+                  {
+                    "string": "mylienfreie Stellen alle 1-2 mm: **Ranvier-Schnürringe,** dort Bildung von Kollateralen",
+                    "uid": "xtzUHIMzH",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "fiRhGFdE2",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Nachwachsen des Axons",
+                "uid": "zrdYQ_UbN",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "e2riR2lTd",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Leitungsgeschwindigkeit der Nervenfasern: Abhängig von 1) Durchmesser, 2) Myelinisierung",
+            "children": [
+              {
+                "string": "A-Fasern (bspw. primäre Muskelspindelafferenzen, markhaltig, bis zu 15 μm --> 100 m/s)",
+                "uid": "rn273WLqP",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "C-Fasern (bspw. Hautafferenzen für Nozizeption, marklos, 1 μm --> 1 m/s)",
+                "uid": "6iCVx5TpL",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "jC2PPx2ph",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Arten von Nervenfasern",
+            "children": [
+              {
+                "string": "Afferenzen (Peripherie --> ZNS): sensible",
+                "children": [
+                  {
+                    "string": "sensorisch (aus Sinnesorganen)",
+                    "uid": "Xyvbdf1z3",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "somatisch (aus Muskeln, Gelenken, Haut)",
+                    "uid": "MaLjYvN7J",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "viszeral (aus Eingeweiden)",
+                    "uid": "wo4vLQVeJ",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "SNY3o952n",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Efferenzen (ZNS --> Peripherie)",
+                "children": [
+                  {
+                    "string": "motorisch (zu Muskeln)",
+                    "uid": "hhJsZ4JBB",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "vegetativ (zum ANS)",
+                    "uid": "M-UrptorP",
+                    "edit-time": 1623161489295,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "StTQv24jh",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "sxPqEtRkO",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "CPBySDvlT",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "5.1 Somatische Nerven",
+        "heading": 2,
+        "children": [
+          {
+            "string": "zur Haut, Skelettmuskeln und Gelenken",
+            "children": [
+              {
+                "string": "Hautnerven (somatische Afferenzen + vegetative Efferenzen)",
+                "uid": "tPzAm2zSc",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Muskelnerven (somatisch + vegetativ + somatisch)",
+                "uid": "JrGLWRum_",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Gelenknerven (somatisch + vegetativ)",
+                "uid": "iHURCl8X1",
+                "edit-time": 1623161489295,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "qXSSVu0KK",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "24eOmRGNc",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "5.2 Viszerale Nerven",
+        "heading": 2,
+        "children": [
+          {
+            "string": "zu den Eingeweiden, viszeral + vegetativ",
+            "uid": "AjlHiPabZ",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "ddmBsH2p2",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "5.3 Hirnnerven",
+        "heading": 2,
+        "children": [
+          {
+            "string": "12 pro Hemisphäre",
+            "uid": "IuHcDGfkf",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Kombination von Afferenzen und Efferenzen in einem Nerv",
+            "uid": "TpsB_ZQlt",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "N. olfactorius und opticus Teil des ZNS, alle andere PNS",
+            "uid": "yQqDybw_f",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "{{table}}",
+            "children": [
+              {
+                "string": "**Nr.**",
+                "create-time": 1623161644283,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "**Name**",
+                    "create-time": 1623161647567,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "**Art**",
+                        "create-time": 1623161649996,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "**Zuständigkeit**",
+                            "create-time": 1623161652931,
+                            "uid": "EE38OEdoT",
+                            "edit-time": 1623161907828,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "EaBjt-Mkf",
+                        "edit-time": 1623161906936,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "C_m5z6yq4",
+                    "edit-time": 1623161905744,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "C8875na6h",
+                "edit-time": 1623161904251,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "I",
+                "create-time": 1623161655805,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Nervus olfactorius",
+                    "create-time": 1623161664472,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "sensorisch",
+                        "create-time": 1623161665419,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Geruch",
+                            "create-time": 1623161671288,
+                            "uid": "IafcxweLW",
+                            "edit-time": 1623161674953,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "ZItd-dg8Y",
+                        "edit-time": 1623161671295,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "d1uQL5jW6",
+                    "edit-time": 1623161665424,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "K49MtZNOQ",
+                "edit-time": 1623161664478,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "II",
+                "create-time": 1623161674947,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "N. opticus",
+                    "create-time": 1623161676906,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "sensorisch",
+                        "create-time": 1623161680432,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Sehen",
+                            "create-time": 1623161683489,
+                            "uid": "enL6t2QCS",
+                            "edit-time": 1623161684714,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "2ckPuIbOX",
+                        "edit-time": 1623161683495,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "B9lAKRtwW",
+                    "edit-time": 1623161680437,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "lsk4zo_X0",
+                "edit-time": 1623161676911,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "III",
+                "create-time": 1623161684707,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "N. oculomotorius",
+                    "create-time": 1623161689438,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "motorisch, vegetativ",
+                        "create-time": 1623161696028,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Augenbewegungen",
+                            "create-time": 1623161703548,
+                            "uid": "8vuaaaSy_",
+                            "edit-time": 1623161707875,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "UCQ53Oa_8",
+                        "edit-time": 1623161703554,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "pI7XSYHqP",
+                    "edit-time": 1623161696033,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "piulCR-X2",
+                "edit-time": 1623161689443,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "IV",
+                "create-time": 1623161707870,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "N. trochlearis",
+                    "create-time": 1623161711805,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "motorisch",
+                        "create-time": 1623161715774,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Augenbewegungen",
+                            "create-time": 1623161719519,
+                            "uid": "9mreqF57B",
+                            "edit-time": 1623161726050,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "lvd0IQX60",
+                        "edit-time": 1623161719524,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "v9m4l2TLQ",
+                    "edit-time": 1623161715779,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "tbbB8Xc5I",
+                "edit-time": 1623161711811,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "V",
+                "create-time": 1623161726045,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "N. trigeminus",
+                    "create-time": 1623161729485,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "sensorisch, motorisch",
+                        "create-time": 1623161737159,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Somatosensorik, Schmerz, Kiefermuskeln",
+                            "create-time": 1623161741674,
+                            "uid": "G9f17DYGG",
+                            "edit-time": 1623161749635,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "VWwuTSZMM",
+                        "edit-time": 1623161741680,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "okx_sYj1U",
+                    "edit-time": 1623161737163,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "FbZDh2-2h",
+                "edit-time": 1623161729490,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "VI",
+                "create-time": 1623161749631,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "N. abducens",
+                    "create-time": 1623161752042,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "motorisch",
+                        "create-time": 1623161756270,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Augenbewegungen",
+                            "create-time": 1623161760288,
+                            "uid": "m3fQChtuc",
+                            "edit-time": 1623161766269,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "20IuukhhH",
+                        "edit-time": 1623161760294,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "t2tCaMLLv",
+                    "edit-time": 1623161756276,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "VcNnEZf7t",
+                "edit-time": 1623161752047,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "VII",
+                "create-time": 1623161766263,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "N. facialis",
+                    "create-time": 1623161769255,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "sensorisch, motorisch",
+                        "create-time": 1623161773162,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Gesichtsmuskeln, Geschmack",
+                            "create-time": 1623161778941,
+                            "uid": "YB6ijfVr8",
+                            "edit-time": 1623161787394,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "krYEB3F8M",
+                        "edit-time": 1623161778946,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "VKFlHcfgn",
+                    "edit-time": 1623161773166,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "RImHgQQsT",
+                "edit-time": 1623161769260,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "VIII",
+                "create-time": 1623161787389,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "N. statoacusticus",
+                    "create-time": 1623161792013,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "sensorisch",
+                        "create-time": 1623161801141,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Hören, Gleichgewicht",
+                            "create-time": 1623161804928,
+                            "uid": "8m8-7jxCR",
+                            "edit-time": 1623161810844,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "0-W-xDoqg",
+                        "edit-time": 1623161804934,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "sY6JV1XlO",
+                    "edit-time": 1623161801147,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "Z1QckEN7I",
+                "edit-time": 1623161792018,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "IX",
+                "create-time": 1623161810839,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "N. glossopharyngeus",
+                    "create-time": 1623161817893,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "sensorisch, motorisch",
+                        "create-time": 1623161822597,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Geschmack, Kehl- und Kehlkopfmuskeln",
+                            "create-time": 1623161827646,
+                            "uid": "5hM9k7xvA",
+                            "edit-time": 1623161832061,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "p6gex4SuT",
+                        "edit-time": 1623161827650,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "VJZTvJLJd",
+                    "edit-time": 1623161822602,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "QyPqaazYV",
+                "edit-time": 1623161817898,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "X",
+                "create-time": 1623161832056,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "N. vagus",
+                    "create-time": 1623161835789,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "sensorisch, motorisch, vegetativ",
+                        "create-time": 1623161838340,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Innere Organe",
+                            "create-time": 1623161856672,
+                            "uid": "NRIPr7Aeb",
+                            "edit-time": 1623161862643,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "P4KFE3Gcd",
+                        "edit-time": 1623161856677,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "-y-4dvVZL",
+                    "edit-time": 1623161838346,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "qF_TpjCiu",
+                "edit-time": 1623161835794,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "XI",
+                "create-time": 1623161862638,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "N. accessorius",
+                    "create-time": 1623161865616,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "motorisch",
+                        "create-time": 1623161870765,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Nackenmuskeln",
+                            "create-time": 1623161874422,
+                            "uid": "m5E8jYwJf",
+                            "edit-time": 1623161878408,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "cKzjDKha5",
+                        "edit-time": 1623161874430,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "U1P5M6csW",
+                    "edit-time": 1623161870770,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "jJAZgEWdo",
+                "edit-time": 1623161865620,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "XII",
+                "create-time": 1623161878403,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "N. hypoglossus",
+                    "create-time": 1623161882687,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "motorisch",
+                        "create-time": 1623161887444,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        "children": [
+                          {
+                            "string": "Zungenbewegungen",
+                            "create-time": 1623161888951,
+                            "uid": "JQ5UhooVR",
+                            "edit-time": 1623161893051,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "PqumSCD9I",
+                        "edit-time": 1623161888957,
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "GvSZqCLjM",
+                    "edit-time": 1623161887451,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "3V_do3H1A",
+                "edit-time": 1623161882692,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "R6qawEO8q",
+            "edit-time": 1623161644289,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "lQI6m_OGo",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "X: Klassifikation Nervenfasern nach Gliascheide",
+        "heading": 1,
+        "children": [
+          {
+            "string": "Markhaltig: dicke Markscheide um Axon (bspw. Motoneurone)",
+            "uid": "E_VSva4p7",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Markarm: dünne Markscheide um mehrere Axone",
+            "uid": "gEv4CMfoc",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Marklos: Gliascheide (Axone liegen in Einstülpungen, keine Markscheide)",
+            "uid": "YJ8-N3-Jt",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Markfrei: keine Gliascheide (nur im ZNS)",
+            "uid": "EikwcWrCv",
+            "edit-time": 1623161489295,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "9dsRjUZ8x",
+        "edit-time": 1623161489295,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      }
+    ],
+    "uid": "gcafGCEcw",
+    "edit-time": 1623161394243,
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1623161404566,
+    "title": "Erregungsbildung und Erregungsleitung",
+    "uid": "jrfja0gnm",
+    "edit-time": 1623161404566,
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1623161415953,
+    "title": "Synaptische Erregung und Hemmung",
+    "uid": "jV1QtF03i",
+    "edit-time": 1623161415953,
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1623161424913,
+    "title": "Funktionelle Anatomie des Nervensystems",
+    "uid": "d6z2KquBJ",
+    "edit-time": 1623161424914,
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
     ":edit/user": {
       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
     }

@@ -1,3 +1,71 @@
+- # Organisation
+    - Materialien für jede Vorlesung
+        - Vorlesungen
+        - Studienbrief
+        - Buch
+    - Prüfungsvorleistung (mind. 2): 30.04 - 30.06.
+    - Klausur: Offene Fragen und Zuordnungen (nicht multiple choice!) — Prüfungsrelevant s. Ordner
+- ## Zuordnungen Lehrbuch
+    - **2.3** Bausteine des Nervensystems, S. 23-30
+    - **3** Erregungsbildung und Erregungsleitung, S. 34-46
+    - **4** Synaptische Erregung und Hemmung, S. 50-69
+    - **5** Funktionelle Anatomie des Nervensystems, S. 72-98
+    - **8** Psychoneuroendokrinologie, S. 142-155
+    - **9** Psychoneuroimmunologie, S. 167-181
+    - VL **20** Methoden der Biologischen Psychologie, S. 460-492
+- ## **Aktivitäten pro Unit**
+    - Wiederholen der vorherige(n) Units
+    - Ggf. Lehrbuch
+    - Vorlesungen (moodle)
+    - Extramaterial / Skript (moodle)
+    - Ggf. Studienbrief
+    - Aufgaben (moodle)
+    - Abhaken im Zeitplan 🙂
+- ## **Extramaterial**
+    - Studienbrief-Kapitel zu Lernen
+    - {{table}}
+        - **Zeitraum**
+            - **Thema**
+        - - 04.04.
+            - {{[[DONE]]}} Organisation, Einführung
+        - 05.-11.04.
+            - {{[[DONE]]}} Bio Thema 1: Bausteine des Nervensystems
+        - 12.-18.04.
+            - {{[[DONE]]}} Bio Thema 2: Erregungsbildung und Erregungsleitung
+        - 19.-25.04.
+            - {{[[DONE]]}} Bio Thema 3: Synaptische Erregung und Hemmung
+        - 26.04.-02.05.
+            - {{[[DONE]]}} Bio Thema 4: Funktionelle Anatomie des Nervensystems
+        - 03.-09.05.
+            - {{[[DONE]]}} Bio Thema 5: Psychoneuroendokrinologie
+        - 10.-16.05.
+            - {{[[TODO]]}} Bio Thema 6: Psychoneuroimmunologie
+        - 17.-23.05.
+            - {{[[TODO]]}} Bio Thema 7: Methoden der Biologischen Psychologie
+        - 24.-30.05.
+            - {{[[TODO]]}} MotEmo VL 1: EinstiegMotEmo, {{[[TODO]]}} VL2: Intrinsische Motivation/Flow
+        - 31.05.-06.06.
+            - {{[[TODO]]}} MotEmo VL 3: Leistungsmotiv/Training
+        - 07.-13.06.
+            - {{[[TODO]]}} MotEmo VL 4: Motivation -> Volition, Rubikon-Modell, Willentliche Kontrolle
+        - 14.-20.06.
+            - {{[[TODO]]}} MotEmo VL 5: Ziele auswählen und umsetzen
+        - 21.-27.06.
+            - {{[[TODO]]}} MotEmo VL 6: Attribution
+        - 28.06.-04.07.
+            - {{[[TODO]]}} MotEmo VL 7: Emotion, Rolle von Erleben, Physiologie und Interpretation
+        - 05.-11.07.
+            - {{[[TODO]]}} MotEmo VL 8: Emotionsausdruck
+        - 12.-18.07.
+            - {{[[TODO]]}} MotEmo VL 9: Emotion und neuronale Grundlagen
+        - 19.-25.07.
+            - {{[[TODO]]}} MotEmo VL 10: Stress
+        - 26.07.-01.08.
+            - {{[[TODO]]}} MotEmo VL 11: Emotionales Konditionieren, Preparedness
 - # Vorlesungen
+    - V1 [[Bausteine des Nervensystems]]
+    - V2 [[Erregungsbildung und Erregungsleitung]]
+    - V3 [[Synaptische Erregung und Hemmung]]
+    - V4 [[Funktionelle Anatomie des Nervensystems]]
     - V5 [[Psychoneuroendokrinologie]]
     - 

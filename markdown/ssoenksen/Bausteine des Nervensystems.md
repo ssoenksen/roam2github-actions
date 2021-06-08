@@ -1,0 +1,137 @@
+- # 1 Neurone
+    - Anzahl im Gehirn: 86 +/- 8 Mrd. (Azevedo et al. 2009)
+    - Formen
+        - unipolare Nervenzelle (kein Dendrit, 1 Axon)
+        - pseudounipolare Nervenzelle (kein Dendrit, 2 Axone)
+        - multipolare Nervenzellen (mind. 1 Dendrit, 1 Axon)
+            - Schaltneuron (viele Dendriten in viele Richtungen)
+            - Pyramidenzelle (wenige Dendriten, die sich nach oben vervielfachen)
+            - Purkinje-Zelle (Dendriten wie ein Baum)
+            - Kollaterale = Verzweigungen von Axonen
+    - Zytoskelett: Bestehend aus Mikrotubuli (Röhrchen aus Tubulin-Eiweiß, ca. 25 nm Durchmesser)
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F8dim_hrSbJ.png?alt=media&token=9b9393f1-297c-458a-a2ec-8375d8839d87)
+- ## 1.1 Soma (Perikaryon, Stoffwechselzentrum)
+    - Aufbau: Membran, Zytoplasma, Nukleus (mit Proteinen und RNA)
+    - Durchmesser: 5-100 μm
+- ## 1.2 Dendriten
+    - Länge einige Hundert μm
+- ## 1.3 Axone (Neuriten)
+    - Bis zu >1 m lang, entspringt Axonhügel des Perikaryons
+    - Arten von Synapsen
+        - chemisch (überwiegend) vs. elektrisch vs. gemischt
+        - erregend vs. hemmend
+        - interneural
+            - axodendritisch
+            - axosomatisch
+            - axoaxonisch
+            - neuromuskuläre Endplatte (mit Skelettmuskelfaser)
+- ### 1.3.1 Axonaler Transport
+    - Geschwindigkeit: langsam (1-5 mm/Tag) vs. schnell (400 mm/Tag)
+    - Richtung
+        - antero-/orthograd: Vom Nukleus in Peripherie über Mikrotubuli, bspw. Proteine, Neurotransmitter, Lipide, Zucker in Vesikeln (Hülle aus Proteinen) und Organellen (größere Vesikel) -- Bewegung: Protein Kinesi
+        - retrograd: Von Peripherie zum Nukleus, verbrauchte Stoffe -- Bewegung: Protein Dynein
+- # 2 Gliazellen
+    - Lebenslängliche Fähigkeit zur Zellteilung
+    - Kleiner, aber zahlreicher als Neuronen, deshalb ca. jeweils 50% im Gehirn
+    - Funktionen
+        - Stützung
+        - Ernährung
+        - Ausfüllen von Leerräumen bei abgestorbenen Neuronen (**Glianarben**)
+        - Bilden Blut-Hirn-Schranke durch Endfüßchen an Kapillaren (**Astrozyten/Makroglia**), unterstützen durch Vesikel mit inhibitatorischem Neurotransmitter Glutamat auch die neuronale Aktivität
+        - Myelinisierung (Mark/Gliascheide = lipidreiche Schicht, markhaltig/Markscheide = mehrfach umhüllt mit Myelinlamellen vom inneren zum äußeren Mesaxon) der Axone (**Oligodendroglia**)
+            - mylienfreie Stellen alle 0,2-1 mm: **Ranvier-Schnürringe,** dort Bildung von Kollateralen
+- # 3 Interstitium
+    - Spalt zwischen Nerven- und Gliazellen, ca. 20 nm, gefüllt mit Liquor cerebrospinalis
+    - Große Version: Ventrikel
+    - Stoffaustausch der Neurone hierüber
+    - Zusammen mit Blutgefäßen ca. 10-20% des Hirnvolumens
+- # 4 Blutgefäße
+    - Abstand zwischen Neuronen und Kapillaren idR. <50 μm
+    - Zusammen mit Interstitium ca. 10-20% des Hirnvolumens
+    - Zwischen-/Endprodukte durch Stoffwechsel aktiver Neurone (**Metabolite**) passieren Blut-Hirn-Schranke und erweitern Blutgefäße --> Durchblutung in bildgebenden Verfahren sichtbar
+- # 5 Peripheres Nervensystem
+    - peripherer Nerv = mehrere Nervenfasern = mehrere periphere Axone mit Schwann-Zellen
+    - **Schwann-Zellen** - Funktionen
+        - Myelinisierung (Mark/Gliascheide = lipidreiche Schicht, markhaltig/Markscheide mit Myelinlamellen vom inneren zum äußeren Mesaxon) der Axone
+            - mylienfreie Stellen alle 1-2 mm: **Ranvier-Schnürringe,** dort Bildung von Kollateralen
+        - Nachwachsen des Axons
+    - Leitungsgeschwindigkeit der Nervenfasern: Abhängig von 1) Durchmesser, 2) Myelinisierung
+        - A-Fasern (bspw. primäre Muskelspindelafferenzen, markhaltig, bis zu 15 μm --> 100 m/s)
+        - C-Fasern (bspw. Hautafferenzen für Nozizeption, marklos, 1 μm --> 1 m/s)
+    - Arten von Nervenfasern
+        - Afferenzen (Peripherie --> ZNS): sensible
+            - sensorisch (aus Sinnesorganen)
+            - somatisch (aus Muskeln, Gelenken, Haut)
+            - viszeral (aus Eingeweiden)
+        - Efferenzen (ZNS --> Peripherie)
+            - motorisch (zu Muskeln)
+            - vegetativ (zum ANS)
+- ## 5.1 Somatische Nerven
+    - zur Haut, Skelettmuskeln und Gelenken
+        - Hautnerven (somatische Afferenzen + vegetative Efferenzen)
+        - Muskelnerven (somatisch + vegetativ + somatisch)
+        - Gelenknerven (somatisch + vegetativ)
+- ## 5.2 Viszerale Nerven
+    - zu den Eingeweiden, viszeral + vegetativ
+- ## 5.3 Hirnnerven
+    - 12 pro Hemisphäre
+    - Kombination von Afferenzen und Efferenzen in einem Nerv
+    - N. olfactorius und opticus Teil des ZNS, alle andere PNS
+    - {{table}}
+        - **Nr.**
+            - **Name**
+                - **Art**
+                    - **Zuständigkeit**
+        - I
+            - Nervus olfactorius
+                - sensorisch
+                    - Geruch
+        - II
+            - N. opticus
+                - sensorisch
+                    - Sehen
+        - III
+            - N. oculomotorius
+                - motorisch, vegetativ
+                    - Augenbewegungen
+        - IV
+            - N. trochlearis
+                - motorisch
+                    - Augenbewegungen
+        - V
+            - N. trigeminus
+                - sensorisch, motorisch
+                    - Somatosensorik, Schmerz, Kiefermuskeln
+        - VI
+            - N. abducens
+                - motorisch
+                    - Augenbewegungen
+        - VII
+            - N. facialis
+                - sensorisch, motorisch
+                    - Gesichtsmuskeln, Geschmack
+        - VIII
+            - N. statoacusticus
+                - sensorisch
+                    - Hören, Gleichgewicht
+        - IX
+            - N. glossopharyngeus
+                - sensorisch, motorisch
+                    - Geschmack, Kehl- und Kehlkopfmuskeln
+        - X
+            - N. vagus
+                - sensorisch, motorisch, vegetativ
+                    - Innere Organe
+        - XI
+            - N. accessorius
+                - motorisch
+                    - Nackenmuskeln
+        - XII
+            - N. hypoglossus
+                - motorisch
+                    - Zungenbewegungen
+- # X: Klassifikation Nervenfasern nach Gliascheide
+    - Markhaltig: dicke Markscheide um Axon (bspw. Motoneurone)
+    - Markarm: dünne Markscheide um mehrere Axone
+    - Marklos: Gliascheide (Axone liegen in Einstülpungen, keine Markscheide)
+    - Markfrei: keine Gliascheide (nur im ZNS)
