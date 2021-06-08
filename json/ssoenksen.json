@@ -13333,13 +13333,39 @@
         }
       },
       {
-        "string": "",
+        "string": "Hormone und Schlafzyklus",
         "create-time": 1623143735591,
-        "uid": "MwuZSlWAt",
-        "edit-time": 1623143735591,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
+        "children": [
+          {
+            "string": "Wechsel von Tiefschlaf und REM-Schlaf als Auslösereiz für Prozesse im Hormon- und Immunsystem",
+            "create-time": 1623147920393,
+            "uid": "zDIBO2hAQ",
+            "edit-time": 1623147940328,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "GH und Cortisol haben entgegengesetzte ",
+            "create-time": 1623147940322,
+            "uid": "gxex7pugO",
+            "edit-time": 1623147950815,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "MwuZSlWAt",
+        "edit-time": 1623147920399,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }

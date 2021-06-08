@@ -88,4 +88,7 @@
                     - Ausschüttung durch Stressreize und zirkadiane Rhythmik (stark am frühen Morgen) gesteuert
                     - Zielregion: Nebennierenrinde, dort Synthese von u.a. Cortisol gefördert
                     - ACTH-Abgabe aus Hypophyse wird durch hypothalamisches Releasing-Hormon gesteuert: Corticotropin-Releasing-Faktor (CRF)
-- 
+- Hormone und Schlafzyklus
+    - Wechsel von Tiefschlaf und REM-Schlaf als Auslösereiz für Prozesse im Hormon- und Immunsystem
+    - GH und Cortisol haben entgegengesetzte 
+    - 

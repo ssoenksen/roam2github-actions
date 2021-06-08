@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid411073af-c786-4c43-8e77-210071712312"
-   536878731]
+   "uuidfbfa3c42-f68e-496c-9450-5334da0957aa"
+   536878744]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15067,15 +15067,17 @@
   [1738 :create/user 3 536878066]
   [1738 :edit/time 1623146955048 536878582]
   [1738 :edit/user 3 536878066]
+  [1740 :block/children 1834 536878736]
+  [1740 :block/children 1835 536878740]
   [1740 :block/open true 536878075]
   [1740 :block/order 6 536878531]
   [1740 :block/page 1734 536878076]
   [1740 :block/parents 1734 536878076]
-  [1740 :block/string "" 536878075]
+  [1740 :block/string "Hormone und Schlafzyklus" 536878735]
   [1740 :block/uid "MwuZSlWAt" 536878075]
   [1740 :create/time 1623143735591 536878075]
   [1740 :create/user 3 536878075]
-  [1740 :edit/time 1623143735591 536878075]
+  [1740 :edit/time 1623147920399 536878735]
   [1740 :edit/user 3 536878075]
   [1741 :block/children 1742 536878084]
   [1741 :block/children 1743 536878088]
@@ -16435,4 +16437,32 @@
   [1833 :create/time 1623147891818 536878729]
   [1833 :create/user 3 536878729]
   [1833 :edit/time 1623147892657 536878731]
-  [1833 :edit/user 3 536878729]]}
+  [1833 :edit/user 3 536878729]
+  [1834 :block/open true 536878733]
+  [1834 :block/order 0 536878736]
+  [1834 :block/page 1734 536878734]
+  [1834 :block/parents 1734 536878734]
+  [1834 :block/parents 1740 536878737]
+  [1834
+   :block/string
+   "Wechsel von Tiefschlaf und REM-Schlaf als Auslösereiz für Prozesse im Hormon- und Immunsystem"
+   536878742]
+  [1834 :block/uid "zDIBO2hAQ" 536878733]
+  [1834 :create/time 1623147920393 536878733]
+  [1834 :create/user 3 536878733]
+  [1834 :edit/time 1623147940328 536878742]
+  [1834 :edit/user 3 536878733]
+  [1835 :block/open true 536878740]
+  [1835 :block/order 1 536878740]
+  [1835 :block/page 1734 536878741]
+  [1835 :block/parents 1734 536878741]
+  [1835 :block/parents 1740 536878741]
+  [1835
+   :block/string
+   "GH und Cortisol haben entgegengesetzte "
+   536878744]
+  [1835 :block/uid "gxex7pugO" 536878740]
+  [1835 :create/time 1623147940322 536878740]
+  [1835 :create/user 3 536878740]
+  [1835 :edit/time 1623147950815 536878744]
+  [1835 :edit/user 3 536878740]]}
