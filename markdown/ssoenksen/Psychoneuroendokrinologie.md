@@ -33,7 +33,9 @@
     - Peptidhormone (Ketten von Aminosäuren)
         - z.B. Bauchspeicheldrüsenhormone Insulin und Glukagon
         - z.B. adrenocorticotropes Hormon (ACTH), in Adenohypophyse synthetisiert: Veranlasst Nebennierenrinde in Stressreaktion zur Cortisolausschüttung
-    - Aminosäurederivate: 
+    - Aminosäurederivate: Kleine Moleküle, durch Modifikation von Aminosäuren hergestellt
+        - z.B. Schulddrüsenhormon Thyroxin: Steuert Rate des Metabolimus/ Energieumsatz bzw. Proteinsynthese in verschiedenen Zellen
+        - z.B. Nebennierenmarkhormone Adrenalin, Noradrenalin: Rezeptoren in 
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)

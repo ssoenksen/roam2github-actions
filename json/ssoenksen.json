@@ -12604,13 +12604,39 @@
             }
           },
           {
-            "string": "Aminosäurederivate: ",
+            "string": "Aminosäurederivate: Kleine Moleküle, durch Modifikation von Aminosäuren hergestellt",
             "create-time": 1623144798981,
-            "uid": "ewA2RPp7C",
-            "edit-time": 1623144836428,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
+            "children": [
+              {
+                "string": "z.B. Schulddrüsenhormon Thyroxin: Steuert Rate des Metabolimus/ Energieumsatz bzw. Proteinsynthese in verschiedenen Zellen",
+                "create-time": 1623144851247,
+                "uid": "DUXuxPYPD",
+                "edit-time": 1623144884211,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "z.B. Nebennierenmarkhormone Adrenalin, Noradrenalin: ",
+                "create-time": 1623144885116,
+                "uid": "5GJvWspJX",
+                "edit-time": 1623144901468,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "ewA2RPp7C",
+            "edit-time": 1623144851253,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }

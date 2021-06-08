@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid732460de-3507-43e7-8446-50b6adf7d0b5"
-   536878318]
+   "uuid66d16c54-3679-41f9-b53e-a20b99424257"
+   536878334]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15586,14 +15586,49 @@
   [1776 :create/user 3 536878294]
   [1776 :edit/time 1623144769193 536878312]
   [1776 :edit/user 3 536878294]
+  [1778 :block/children 1779 536878322]
+  [1778 :block/children 1780 536878330]
   [1778 :block/open true 536878313]
   [1778 :block/order 1 536878315]
   [1778 :block/page 1734 536878314]
   [1778 :block/parents 1734 536878314]
   [1778 :block/parents 1773 536878314]
-  [1778 :block/string "Aminosäurederivate: " 536878318]
+  [1778
+   :block/string
+   "Aminosäurederivate: Kleine Moleküle, durch Modifikation von Aminosäuren hergestellt"
+   536878321]
   [1778 :block/uid "ewA2RPp7C" 536878313]
   [1778 :create/time 1623144798981 536878313]
   [1778 :create/user 3 536878313]
-  [1778 :edit/time 1623144836428 536878318]
-  [1778 :edit/user 3 536878313]]}
+  [1778 :edit/time 1623144851253 536878321]
+  [1778 :edit/user 3 536878313]
+  [1779 :block/open true 536878319]
+  [1779 :block/order 0 536878322]
+  [1779 :block/page 1734 536878320]
+  [1779 :block/parents 1734 536878320]
+  [1779 :block/parents 1773 536878320]
+  [1779 :block/parents 1778 536878323]
+  [1779
+   :block/string
+   "z.B. Schulddrüsenhormon Thyroxin: Steuert Rate des Metabolimus/ Energieumsatz bzw. Proteinsynthese in verschiedenen Zellen"
+   536878329]
+  [1779 :block/uid "DUXuxPYPD" 536878319]
+  [1779 :create/time 1623144851247 536878319]
+  [1779 :create/user 3 536878319]
+  [1779 :edit/time 1623144884211 536878329]
+  [1779 :edit/user 3 536878319]
+  [1780 :block/open true 536878330]
+  [1780 :block/order 1 536878330]
+  [1780 :block/page 1734 536878331]
+  [1780 :block/parents 1734 536878331]
+  [1780 :block/parents 1773 536878331]
+  [1780 :block/parents 1778 536878331]
+  [1780
+   :block/string
+   "z.B. Nebennierenmarkhormone Adrenalin, Noradrenalin: Rezeptoren in "
+   536878334]
+  [1780 :block/uid "5GJvWspJX" 536878330]
+  [1780 :create/time 1623144885116 536878330]
+  [1780 :create/user 3 536878330]
+  [1780 :edit/time 1623144905562 536878334]
+  [1780 :edit/user 3 536878330]]}
