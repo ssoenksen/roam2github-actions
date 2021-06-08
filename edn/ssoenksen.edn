@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid3e431e20-4232-47a1-a6e1-46ccda43c96c"
-   536878759]
+   "uuid8fdef3a3-7d74-4fc5-9166-973486df07be"
+   536878796]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -14995,6 +14995,7 @@
   [1734 :block/children 1763 536878195]
   [1734 :block/children 1773 536878276]
   [1734 :block/children 1802 536878527]
+  [1734 :block/open true 536878792]
   [1734 :block/uid "_m4-_ZjFk" 536878053]
   [1734 :create/time 1623143390832 536878053]
   [1734 :create/user 3 536878053]
@@ -15069,7 +15070,10 @@
   [1738 :edit/user 3 536878066]
   [1740 :block/children 1834 536878736]
   [1740 :block/children 1835 536878740]
-  [1740 :block/children 1838 536878756]
+  [1740 :block/children 1839 536878764]
+  [1740 :block/children 1840 536878768]
+  [1740 :block/children 1843 536878788]
+  [1740 :block/heading 1 536878791]
   [1740 :block/open true 536878075]
   [1740 :block/order 6 536878531]
   [1740 :block/page 1734 536878076]
@@ -15456,12 +15460,12 @@
   [1768 :block/parents 1764 536878232]
   [1768
    :block/string
-   "bspw. Stereoidhormon: Anlagerung an Stereoidrezeptor, mit ihm Eintritt in Zellkern und Beeinflussung der Proteinsynthese"
-   536878240]
+   "bspw. Steroidhormon: Anlagerung an Steroidrezeptor, mit ihm Eintritt in Zellkern und Beeinflussung der Proteinsynthese"
+   536878795]
   [1768 :block/uid "lO2om772w" 536878231]
   [1768 :create/time 1623144371649 536878231]
   [1768 :create/user 3 536878231]
-  [1768 :edit/time 1623144426181 536878240]
+  [1768 :edit/time 1623148988677 536878795]
   [1768 :edit/user 3 536878231]
   [1769 :block/children 1770 536878249]
   [1769 :block/children 1771 536878261]
@@ -15682,12 +15686,12 @@
   [1784 :block/parents 1773 536878369]
   [1784
    :block/string
-   "Stereoide: Abkömmlinge des Cholesterins"
-   536878374]
+   "Steroide: Abkömmlinge des Cholesterins"
+   536878796]
   [1784 :block/uid "pNmd424dt" 536878368]
   [1784 :create/time 1623145155029 536878368]
   [1784 :create/user 3 536878368]
-  [1784 :edit/time 1623145167218 536878374]
+  [1784 :edit/time 1623148991634 536878796]
   [1784 :edit/user 3 536878368]
   [1785 :block/open true 536878375]
   [1785 :block/order 0 536878377]
@@ -16288,7 +16292,6 @@
   [1823 :edit/user 3 536878666]
   [1824 :block/children 1825 536878687]
   [1824 :block/children 1826 536878689]
-  [1824 :block/children 1827 536878693]
   [1824 :block/children 1828 536878696]
   [1824 :block/open true 536878676]
   [1824 :block/order 3 536878682]
@@ -16340,25 +16343,11 @@
   [1826 :create/user 3 536878689]
   [1826 :edit/time 1623147691909 536878695]
   [1826 :edit/user 3 536878689]
-  [1827 :block/open true 536878693]
-  [1827 :block/order 2 536878693]
-  [1827 :block/page 1734 536878694]
-  [1827 :block/parents 1734 536878694]
-  [1827 :block/parents 1735 536878694]
-  [1827 :block/parents 1737 536878694]
-  [1827 :block/parents 1802 536878694]
-  [1827 :block/parents 1824 536878694]
-  [1827 :block/string "z.B. Prolaktin: Wirkt auf Brustdrüse" 536878698]
-  [1827 :block/uid "dVgSi8-e0" 536878693]
-  [1827 :create/time 1623147691905 536878693]
-  [1827 :create/user 3 536878693]
-  [1827 :edit/time 1623147698880 536878698]
-  [1827 :edit/user 3 536878693]
   [1828 :block/children 1829 536878702]
   [1828 :block/children 1830 536878707]
   [1828 :block/children 1831 536878713]
   [1828 :block/open true 536878696]
-  [1828 :block/order 3 536878696]
+  [1828 :block/order 2 536878793]
   [1828 :block/page 1734 536878697]
   [1828 :block/parents 1734 536878697]
   [1828 :block/parents 1735 536878697]
@@ -16455,6 +16444,7 @@
   [1834 :edit/user 3 536878733]
   [1835 :block/children 1836 536878748]
   [1835 :block/children 1837 536878751]
+  [1835 :block/children 1838 536878760]
   [1835 :block/open true 536878740]
   [1835 :block/order 1 536878740]
   [1835 :block/page 1734 536878741]
@@ -16501,6 +16491,7 @@
   [1838 :block/page 1734 536878755]
   [1838 :block/parents 1734 536878755]
   [1838 :block/parents 1740 536878755]
+  [1838 :block/parents 1835 536878761]
   [1838
    :block/props
    {:image-size
@@ -16515,4 +16506,75 @@
   [1838 :create/time 1623147989851 536878754]
   [1838 :create/user 3 536878754]
   [1838 :edit/time 1623147993864 536878758]
-  [1838 :edit/user 3 536878754]]}
+  [1838 :edit/user 3 536878754]
+  [1839 :block/open true 536878762]
+  [1839 :block/order 2 536878764]
+  [1839 :block/page 1734 536878763]
+  [1839 :block/parents 1734 536878763]
+  [1839 :block/parents 1740 536878763]
+  [1839
+   :block/string
+   "Schlafdeprivation betrifft auch Gehirn, da GH im ZNS am Wachstum der Neuronenverbindungen beteiligt ist"
+   536878770]
+  [1839 :block/uid "ovyGJxbQp" 536878762]
+  [1839 :create/time 1623148124320 536878762]
+  [1839 :create/user 3 536878762]
+  [1839 :edit/time 1623148148044 536878770]
+  [1839 :edit/user 3 536878762]
+  [1840 :block/children 1841 536878778]
+  [1840 :block/children 1842 536878781]
+  [1840 :block/open true 536878768]
+  [1840 :block/order 3 536878768]
+  [1840 :block/page 1734 536878769]
+  [1840 :block/parents 1734 536878769]
+  [1840 :block/parents 1740 536878769]
+  [1840 :block/string "GH hat immunstimulierenden Effekt" 536878777]
+  [1840 :block/uid "1AFf1g4zr" 536878768]
+  [1840 :create/time 1623148148039 536878768]
+  [1840 :create/user 3 536878768]
+  [1840 :edit/time 1623148163851 536878777]
+  [1840 :edit/user 3 536878768]
+  [1841 :block/open true 536878775]
+  [1841 :block/order 0 536878778]
+  [1841 :block/page 1734 536878776]
+  [1841 :block/parents 1734 536878776]
+  [1841 :block/parents 1740 536878776]
+  [1841 :block/parents 1840 536878779]
+  [1841
+   :block/string
+   "erhöhte Krankheitsanfälligkeit im Alter, da Tiefschlaf reduziert"
+   536878783]
+  [1841 :block/uid "fM60vM4KS" 536878775]
+  [1841 :create/time 1623148163847 536878775]
+  [1841 :create/user 3 536878775]
+  [1841 :edit/time 1623148182044 536878783]
+  [1841 :edit/user 3 536878775]
+  [1842 :block/open true 536878781]
+  [1842 :block/order 1 536878781]
+  [1842 :block/page 1734 536878782]
+  [1842 :block/parents 1734 536878782]
+  [1842 :block/parents 1740 536878782]
+  [1842 :block/parents 1840 536878782]
+  [1842
+   :block/string
+   "Verlust von Tiefschlaf führt zu Schwächung des Immunsystems"
+   536878787]
+  [1842 :block/uid "AHgNHDt3-" 536878781]
+  [1842 :create/time 1623148182038 536878781]
+  [1842 :create/user 3 536878781]
+  [1842 :edit/time 1623148191838 536878787]
+  [1842 :edit/user 3 536878781]
+  [1843 :block/open true 536878785]
+  [1843 :block/order 4 536878788]
+  [1843 :block/page 1734 536878786]
+  [1843 :block/parents 1734 536878786]
+  [1843 :block/parents 1740 536878786]
+  [1843
+   :block/string
+   "Glucocorticoide wirken immunsuppressiv"
+   536878790]
+  [1843 :block/uid "HD0eJI5Fh" 536878785]
+  [1843 :create/time 1623148191832 536878785]
+  [1843 :create/user 3 536878785]
+  [1843 :edit/time 1623148199883 536878790]
+  [1843 :edit/user 3 536878785]]}

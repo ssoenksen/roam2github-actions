@@ -12478,10 +12478,10 @@
                 }
               },
               {
-                "string": "bspw. Stereoidhormon: Anlagerung an Stereoidrezeptor, mit ihm Eintritt in Zellkern und Beeinflussung der Proteinsynthese",
+                "string": "bspw. Steroidhormon: Anlagerung an Steroidrezeptor, mit ihm Eintritt in Zellkern und Beeinflussung der Proteinsynthese",
                 "create-time": 1623144371649,
                 "uid": "lO2om772w",
-                "edit-time": 1623144426181,
+                "edit-time": 1623148988677,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -12677,7 +12677,7 @@
             }
           },
           {
-            "string": "Stereoide: Abkömmlinge des Cholesterins",
+            "string": "Steroide: Abkömmlinge des Cholesterins",
             "create-time": 1623145155029,
             "heading": 2,
             ":create/user": {
@@ -12858,7 +12858,7 @@
               }
             ],
             "uid": "pNmd424dt",
-            "edit-time": 1623145167218,
+            "edit-time": 1623148991634,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -13243,18 +13243,6 @@
                         }
                       },
                       {
-                        "string": "z.B. Prolaktin: Wirkt auf Brustdrüse",
-                        "create-time": 1623147691905,
-                        "uid": "dVgSi8-e0",
-                        "edit-time": 1623147698880,
-                        ":create/user": {
-                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                        },
-                        ":edit/user": {
-                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                        }
-                      },
-                      {
                         "string": "z.B. Stresshormon ACTH",
                         "create-time": 1623147698873,
                         ":create/user": {
@@ -13335,6 +13323,7 @@
       {
         "string": "Hormone und Schlafzyklus",
         "create-time": 1623143735591,
+        "heading": 1,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
@@ -13381,6 +13370,34 @@
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
+              },
+              {
+                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450)",
+                "props": {
+                  "image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450": {
+                      "width": 272,
+                      "height": null
+                    }
+                  }
+                },
+                "create-time": 1623147989851,
+                ":block/props": {
+                  ":image-size": {
+                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450": {
+                      ":width": 272,
+                      ":height": null
+                    }
+                  }
+                },
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "uid": "bcK51Xz-B",
+                "edit-time": 1623147993864,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
               }
             ],
             "uid": "gxex7pugO",
@@ -13390,29 +13407,63 @@
             }
           },
           {
-            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450)",
-            "props": {
-              "image-size": {
-                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450": {
-                  "width": 272,
-                  "height": null
-                }
-              }
-            },
-            "create-time": 1623147989851,
-            ":block/props": {
-              ":image-size": {
-                "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450": {
-                  ":width": 272,
-                  ":height": null
-                }
-              }
-            },
+            "string": "Schlafdeprivation betrifft auch Gehirn, da GH im ZNS am Wachstum der Neuronenverbindungen beteiligt ist",
+            "create-time": 1623148124320,
+            "uid": "ovyGJxbQp",
+            "edit-time": 1623148148044,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
-            "uid": "bcK51Xz-B",
-            "edit-time": 1623147993864,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "GH hat immunstimulierenden Effekt",
+            "create-time": 1623148148039,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "erhöhte Krankheitsanfälligkeit im Alter, da Tiefschlaf reduziert",
+                "create-time": 1623148163847,
+                "uid": "fM60vM4KS",
+                "edit-time": 1623148182044,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Verlust von Tiefschlaf führt zu Schwächung des Immunsystems",
+                "create-time": 1623148182038,
+                "uid": "AHgNHDt3-",
+                "edit-time": 1623148191838,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "1AFf1g4zr",
+            "edit-time": 1623148163851,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Glucocorticoide wirken immunsuppressiv",
+            "create-time": 1623148191832,
+            "uid": "HD0eJI5Fh",
+            "edit-time": 1623148199883,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }

@@ -23,7 +23,7 @@
 - # Interaktion von Hormonen und Zellen
     - ## Lipophile Hormone: Passieren Zellmembran
         - Beeinflussen Bildung von bestimmten Peptid/ Protein in Zellkern (Steuerung der Expression von DNA)
-        - bspw. Stereoidhormon: Anlagerung an Stereoidrezeptor, mit ihm Eintritt in Zellkern und Beeinflussung der Proteinsynthese
+        - bspw. Steroidhormon: Anlagerung an Steroidrezeptor, mit ihm Eintritt in Zellkern und Beeinflussung der Proteinsynthese
         - z.B. Sexualhormon, Stresshormon Cortisol, Schilddrüsenhormone
     - ## Hydrophile Hormone: Docken an Zellmembran an
         - Bindung an Rezeptor auf Zellmembran, kann Second-Messenger-Kaskade auslösen mittels innen an Rezeptor angelagertem G-Protein (Zerfall)
@@ -38,7 +38,7 @@
         - z.B. Nebennierenmarkhormone **Adrenalin**, **Noradrenalin**: Rezeptoren in verschiedenen Regionen, steigert Herzschlag, erweitert Bronchien, hemmt Magen-Darm-Trakt
         - z.B. Zirbeldrüsenhormon **Melatonin**: (De-) aktivierung verschiedener Organsysteme im Tag-/ Nachtrhythmus (Bildung durch Licht gehemmt)
         - z.B. Gewebehormon **Histamin**: Immunreaktion im Gewebe, erzeugt Anschwellung des Gewebes in Entzündungsreaktion
-    - ## Stereoide: Abkömmlinge des Cholesterins
+    - ## Steroide: Abkömmlinge des Cholesterins
         - nicht in produzierenden Organen gespeichert, sondern unmittelbar ins Blut abgegeben
         - z.B. **Geschlechtshormone** (aus Eierstöcken, Hoden, z.T. Nebennierenrinde)
         - z.B. **Glucocorticoide** (Nebennierenrindenhormone Stresshormone, u.a. Cortisol)
@@ -83,14 +83,18 @@
             - Glandotrope Hormone: Andere Drüsen als Zielorgan
                 - Regen dort Produktion/ Ausschüttung von Hormonen an
                 - z.B. Thyreotropin: Stimulation der Schilddrüsenzellen
-                - z.B. Prolaktin: Wirkt auf Brustdrüse
                 - z.B. Stresshormon ACTH
                     - Ausschüttung durch Stressreize und zirkadiane Rhythmik (stark am frühen Morgen) gesteuert
                     - Zielregion: Nebennierenrinde, dort Synthese von u.a. Cortisol gefördert
                     - ACTH-Abgabe aus Hypophyse wird durch hypothalamisches Releasing-Hormon gesteuert: Corticotropin-Releasing-Faktor (CRF)
-- Hormone und Schlafzyklus
+- # Hormone und Schlafzyklus
     - Wechsel von Tiefschlaf und REM-Schlaf als Auslösereiz für Prozesse im Hormon- und Immunsystem
     - GH und Cortisol haben entgegengesetzte physiologische und psychologische Eigenschaften und Ausschüttung
         - GH während der ersten beiden Schlafzyklen
         - Cortisol während der späteren
-    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450)
+        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450)
+    - Schlafdeprivation betrifft auch Gehirn, da GH im ZNS am Wachstum der Neuronenverbindungen beteiligt ist
+    - GH hat immunstimulierenden Effekt
+        - erhöhte Krankheitsanfälligkeit im Alter, da Tiefschlaf reduziert
+        - Verlust von Tiefschlaf führt zu Schwächung des Immunsystems
+    - Glucocorticoide wirken immunsuppressiv
