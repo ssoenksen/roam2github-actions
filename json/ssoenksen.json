@@ -13352,10 +13352,48 @@
             }
           },
           {
-            "string": "GH und Cortisol haben entgegengesetzte ",
+            "string": "GH und Cortisol haben entgegengesetzte physiologische und psychologische Eigenschaften und Ausschüttung",
             "create-time": 1623147940322,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "GH während der ersten beiden Schlafzyklen",
+                "create-time": 1623147960164,
+                "uid": "EHiscGC7m",
+                "edit-time": 1623147968840,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Cortisol während der späteren",
+                "create-time": 1623147968881,
+                "uid": "iudGWa1T3",
+                "edit-time": 1623147973627,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
             "uid": "gxex7pugO",
-            "edit-time": 1623147950815,
+            "edit-time": 1623147960170,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450)",
+            "create-time": 1623147989851,
+            "uid": "bcK51Xz-B",
+            "edit-time": 1623147993864,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },

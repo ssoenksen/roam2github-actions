@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuidfbfa3c42-f68e-496c-9450-5334da0957aa"
-   536878744]
+   "uuid3e431e20-4232-47a1-a6e1-46ccda43c96c"
+   536878759]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15069,6 +15069,7 @@
   [1738 :edit/user 3 536878066]
   [1740 :block/children 1834 536878736]
   [1740 :block/children 1835 536878740]
+  [1740 :block/children 1838 536878756]
   [1740 :block/open true 536878075]
   [1740 :block/order 6 536878531]
   [1740 :block/page 1734 536878076]
@@ -16452,6 +16453,8 @@
   [1834 :create/user 3 536878733]
   [1834 :edit/time 1623147940328 536878742]
   [1834 :edit/user 3 536878733]
+  [1835 :block/children 1836 536878748]
+  [1835 :block/children 1837 536878751]
   [1835 :block/open true 536878740]
   [1835 :block/order 1 536878740]
   [1835 :block/page 1734 536878741]
@@ -16459,10 +16462,57 @@
   [1835 :block/parents 1740 536878741]
   [1835
    :block/string
-   "GH und Cortisol haben entgegengesetzte "
-   536878744]
+   "GH und Cortisol haben entgegengesetzte physiologische und psychologische Eigenschaften und Ausschüttung"
+   536878747]
   [1835 :block/uid "gxex7pugO" 536878740]
   [1835 :create/time 1623147940322 536878740]
   [1835 :create/user 3 536878740]
-  [1835 :edit/time 1623147950815 536878744]
-  [1835 :edit/user 3 536878740]]}
+  [1835 :edit/time 1623147960170 536878747]
+  [1835 :edit/user 3 536878740]
+  [1836 :block/open true 536878745]
+  [1836 :block/order 0 536878748]
+  [1836 :block/page 1734 536878746]
+  [1836 :block/parents 1734 536878746]
+  [1836 :block/parents 1740 536878746]
+  [1836 :block/parents 1835 536878749]
+  [1836
+   :block/string
+   "GH während der ersten beiden Schlafzyklen"
+   536878750]
+  [1836 :block/uid "EHiscGC7m" 536878745]
+  [1836 :create/time 1623147960164 536878745]
+  [1836 :create/user 3 536878745]
+  [1836 :edit/time 1623147968840 536878750]
+  [1836 :edit/user 3 536878745]
+  [1837 :block/open true 536878751]
+  [1837 :block/order 1 536878751]
+  [1837 :block/page 1734 536878752]
+  [1837 :block/parents 1734 536878752]
+  [1837 :block/parents 1740 536878752]
+  [1837 :block/parents 1835 536878752]
+  [1837 :block/string "Cortisol während der späteren" 536878753]
+  [1837 :block/uid "iudGWa1T3" 536878751]
+  [1837 :create/time 1623147968881 536878751]
+  [1837 :create/user 3 536878751]
+  [1837 :edit/time 1623147973627 536878753]
+  [1837 :edit/user 3 536878751]
+  [1838 :block/open true 536878754]
+  [1838 :block/order 2 536878754]
+  [1838 :block/page 1734 536878755]
+  [1838 :block/parents 1734 536878755]
+  [1838 :block/parents 1740 536878755]
+  [1838
+   :block/props
+   {:image-size
+    {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450"
+     {:width 272, :height ##NaN}}}
+   536878759]
+  [1838
+   :block/string
+   "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450)"
+   536878758]
+  [1838 :block/uid "bcK51Xz-B" 536878754]
+  [1838 :create/time 1623147989851 536878754]
+  [1838 :create/user 3 536878754]
+  [1838 :edit/time 1623147993864 536878758]
+  [1838 :edit/user 3 536878754]]}

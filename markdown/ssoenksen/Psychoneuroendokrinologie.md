@@ -90,5 +90,7 @@
                     - ACTH-Abgabe aus Hypophyse wird durch hypothalamisches Releasing-Hormon gesteuert: Corticotropin-Releasing-Faktor (CRF)
 - Hormone und Schlafzyklus
     - Wechsel von Tiefschlaf und REM-Schlaf als Auslösereiz für Prozesse im Hormon- und Immunsystem
-    - GH und Cortisol haben entgegengesetzte 
-    - 
+    - GH und Cortisol haben entgegengesetzte physiologische und psychologische Eigenschaften und Ausschüttung
+        - GH während der ersten beiden Schlafzyklen
+        - Cortisol während der späteren
+    - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450)
