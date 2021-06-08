@@ -13239,34 +13239,6 @@
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
-              },
-              {
-                "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae)",
-                "props": {
-                  "image-size": {
-                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae": {
-                      "width": 457,
-                      "height": null
-                    }
-                  }
-                },
-                "create-time": 1623143679655,
-                ":block/props": {
-                  ":image-size": {
-                    "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae": {
-                      ":width": 457,
-                      ":height": null
-                    }
-                  }
-                },
-                ":create/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                },
-                "uid": "iy-zcRDIS",
-                "edit-time": 1623143682222,
-                ":edit/user": {
-                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-                }
               }
             ],
             "uid": "cQbWm_c3u",

@@ -83,7 +83,6 @@
                     - Ausschüttung durch Stressreize und zirkadiane Rhythmik (stark am frühen Morgen) gesteuert
                     - Zielregion: Nebennierenrinde, dort Synthese von u.a. Cortisol gefördert
                     - ACTH-Abgabe aus Hypophyse wird durch hypothalamisches Releasing-Hormon gesteuert: Corticotropin-Releasing-Faktor (CRF)
-        - ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FkhCIsI4HwM.png?alt=media&token=66940482-bd65-4151-b613-6a123cdf32ae)
     - Steuerung von Funktionen bzgl. Wachstum, Energiehaushalt, Sexualität durch Steuerung der Produktion von glandulären Hormonen
         - Hypothalamus aktiviert Ausführungsorgan Hypophyse: Nach Bedarf (ZNS), nach Zeit (z.B. zirkadiane Rhythmik, Menstruationszyklus)
         - Regulation durch negative Rückkopplung: Konzentration im Blut oder Wirkung wird registriert, Ausschüttung reguliert
