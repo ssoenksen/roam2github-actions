@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuidc185c29c-c50f-44e8-bb4a-49d4e6baf154"
-   536878699]
+   "uuid3c4d5fb3-76c4-45a6-8c47-492a46beafcd"
+   536878711]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -16372,6 +16372,8 @@
   [1827 :create/user 3 536878693]
   [1827 :edit/time 1623147698880 536878698]
   [1827 :edit/user 3 536878693]
+  [1828 :block/children 1829 536878702]
+  [1828 :block/children 1830 536878707]
   [1828 :block/open true 536878696]
   [1828 :block/order 3 536878696]
   [1828 :block/page 1734 536878697]
@@ -16385,4 +16387,37 @@
   [1828 :create/time 1623147698873 536878696]
   [1828 :create/user 3 536878696]
   [1828 :edit/time 1623147704033 536878699]
-  [1828 :edit/user 3 536878696]]}
+  [1828 :edit/user 3 536878696]
+  [1829 :block/open true 536878700]
+  [1829 :block/order 0 536878702]
+  [1829 :block/page 1734 536878701]
+  [1829 :block/parents 1734 536878701]
+  [1829 :block/parents 1735 536878701]
+  [1829 :block/parents 1737 536878701]
+  [1829 :block/parents 1802 536878701]
+  [1829 :block/parents 1824 536878701]
+  [1829 :block/parents 1828 536878703]
+  [1829
+   :block/string
+   "Ausschüttung durch Stressreize und zirkadiane Rhythmik (stark am frühen Morgen) gesteuert"
+   536878709]
+  [1829 :block/uid "Yt1LCSIwt" 536878700]
+  [1829 :create/time 1623147724946 536878700]
+  [1829 :create/user 3 536878700]
+  [1829 :edit/time 1623147746963 536878709]
+  [1829 :edit/user 3 536878700]
+  [1830 :block/open true 536878707]
+  [1830 :block/order 1 536878707]
+  [1830 :block/page 1734 536878708]
+  [1830 :block/parents 1734 536878708]
+  [1830 :block/parents 1735 536878708]
+  [1830 :block/parents 1737 536878708]
+  [1830 :block/parents 1802 536878708]
+  [1830 :block/parents 1824 536878708]
+  [1830 :block/parents 1828 536878708]
+  [1830 :block/string "Zielregion: N" 536878711]
+  [1830 :block/uid "nM_yDrWAj" 536878707]
+  [1830 :create/time 1623147746957 536878707]
+  [1830 :create/user 3 536878707]
+  [1830 :edit/time 1623147752643 536878711]
+  [1830 :edit/user 3 536878707]]}

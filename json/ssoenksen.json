@@ -13177,13 +13177,39 @@
                         }
                       },
                       {
-                        "string": "",
+                        "string": "z.B. Stresshormon ACTH",
                         "create-time": 1623147698873,
-                        "uid": "eMlnC7bI_",
-                        "edit-time": 1623147698873,
                         ":create/user": {
                           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                         },
+                        "children": [
+                          {
+                            "string": "Ausschüttung durch Stressreize und zirkadiane Rhythmik (stark am frühen Morgen) gesteuert",
+                            "create-time": 1623147724946,
+                            "uid": "Yt1LCSIwt",
+                            "edit-time": 1623147746963,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          },
+                          {
+                            "string": "Zielregion",
+                            "create-time": 1623147746957,
+                            "uid": "nM_yDrWAj",
+                            "edit-time": 1623147751072,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          }
+                        ],
+                        "uid": "eMlnC7bI_",
+                        "edit-time": 1623147704033,
                         ":edit/user": {
                           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                         }
