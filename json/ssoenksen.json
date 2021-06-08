@@ -12445,6 +12445,46 @@
         }
       },
       {
+        "string": "Interaktion von Hormonen und Zellen",
+        "create-time": 1623144255526,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Lipophile Hormone: Passieren Zellmembran",
+            "create-time": 1623144270895,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "",
+                "create-time": 1623144302583,
+                "uid": "RGBAivaww",
+                "edit-time": 1623144302583,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "owWMIUrk6",
+            "edit-time": 1623144301643,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "YCvTUnyVG",
+        "edit-time": 1623144270902,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
         "string": "Schnittstelle zwischen Neuro- und Hormonsystemen: ",
         "create-time": 1623143481480,
         ":create/user": {

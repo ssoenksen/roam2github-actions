@@ -20,6 +20,9 @@
     - Parakin (auf benachbarte Zellen)
     - Endokrin (über Blutbahn auf entfernte Zellen)
     - Lipidlösliche Hormone können Blut-Hirnschranke passieren, z.B. Rezeptoren an Neuronen für Glucocorticoide (gebildet in Nebennierenrinde)
+- Interaktion von Hormonen und Zellen
+    - Lipophile Hormone: Passieren Zellmembran
+        - z.B. Sexualhormon, Stresshormon 
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)
