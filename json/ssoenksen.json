@@ -13196,10 +13196,22 @@
                             }
                           },
                           {
-                            "string": "Zielregion",
+                            "string": "Zielregion: Nebennierenrinde, dort Synthese von u.a. Cortisol gefördert",
                             "create-time": 1623147746957,
                             "uid": "nM_yDrWAj",
-                            "edit-time": 1623147751072,
+                            "edit-time": 1623147763357,
+                            ":create/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            },
+                            ":edit/user": {
+                              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                            }
+                          },
+                          {
+                            "string": "ACTH-Abgabe aus Hypophyse wird durch hypothalamisches Releasing-Hormon gesteuert: Corticotropin-Releasing-Faktor (CRF)",
+                            "create-time": 1623147763945,
+                            "uid": "4pVtt0hcg",
+                            "edit-time": 1623147793435,
                             ":create/user": {
                               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                             },
