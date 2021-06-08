@@ -68,4 +68,4 @@
     - V3 [[Synaptische Erregung und Hemmung]]
     - V4 [[Funktionelle Anatomie des Nervensystems]]
     - V5 [[Psychoneuroendokrinologie]]
-    - 
+    - V6 [[Psychoneuroimmunologie]]

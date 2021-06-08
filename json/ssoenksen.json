@@ -13122,13 +13122,23 @@
             }
           },
           {
-            "string": "",
+            "string": "V6 [[Psychoneuroimmunologie]]",
             "create-time": 1623143390823,
-            "uid": "vY7qFTADT",
-            "edit-time": 1623143390823,
+            ":block/refs": [
+              {
+                ":block/uid": "qp2x0ngIE"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "qp2x0ngIE"
+              }
+            ],
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
+            "uid": "vY7qFTADT",
+            "edit-time": 1623166864674,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -15993,6 +16003,1240 @@
     ":create/user": {
       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
     },
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1623166864681,
+    "title": "Psychoneuroimmunologie",
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    "children": [
+      {
+        "string": "Sickness behavior: Lethargie, Schläfrigkeit, Appetitlosigkeit bei Infektionskrankheiten —> Organismus kann Ressourcen auf Bekämpfung der Infektion konzentrieren",
+        "create-time": 1623166881609,
+        "uid": "T9spTg3oQ",
+        "edit-time": 1623166891966,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Beobachtung von Hirten: Kranke Tiere der Herde verhalten sich anders",
+        "create-time": 1623166881609,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Aber nicht (nur) weil sie schwächersind",
+            "create-time": 1623166881609,
+            "uid": "D9cBTuaDI",
+            "edit-time": 1623166917106,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Sondern: Erhöhter Cytokin-Spiegel im Blut (durch Leukozyten produziert) wirkt u.a. auf Hypothalamus",
+            "create-time": 1623166881609,
+            "uid": "Tx3WY-2Nd",
+            "edit-time": 1623166951086,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "gCQHpZ13w",
+        "edit-time": 1623166899472,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Immunzellen erzeugen Zytokine, die Aktivität von Neuronen im ZNS beeinflussen",
+        "create-time": 1623166986922,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Interleukine können Nervenendigungen kontrollieren",
+            "create-time": 1623166986922,
+            "uid": "SFhfrMvB2",
+            "edit-time": 1623167001609,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Lymphozyten stellen Adrenonkortikotropes Hormon (ACTH) her",
+            "create-time": 1623166986922,
+            "uid": "0GJwToIp-",
+            "edit-time": 1623167027673,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "k8qEsR7rn",
+        "edit-time": 1623166986924,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Kommunikation zwischen Gehirn und Immunsystem: Beispiele",
+        "create-time": 1623168000296,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Immunzellen erzeugen Zytokine, die Aktivität von Neuronen im ZNS\nbeeinflussen",
+            "create-time": 1623168031362,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Interleukine können Nervenendigungen kontrollieren\n",
+                "create-time": 1623168036903,
+                "uid": "yN48Ki3x_",
+                "edit-time": 1623168036903,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Lymphozyten stellen Adrenonkortikotropes Hormon (ACTH) her\n",
+                "create-time": 1623168042815,
+                "uid": "NTCsPMZC8",
+                "edit-time": 1623168042815,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "3M49kzOTI",
+            "edit-time": 1623168031362,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Immunzellen werden durch Aktivität von Neuronen im ZNS beeinflusst\n",
+            "create-time": 1623168055086,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Z.B. Rezeptoren für Neurotransmitter des autonomen Nervensystems\n(Katecholamine) auf Lymphozyten und Makrophagen lösen SecondMessenger-Kaskade aus\n",
+                "create-time": 1623168060677,
+                "uid": "WF3tcMv1r",
+                "edit-time": 1623168060677,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Nerven- und Gliazellen können Zytokine herstellen",
+                "create-time": 1623168008486,
+                "uid": "ffqdyeDId",
+                "edit-time": 1623168060689,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "SKbBp_W3F",
+            "edit-time": 1623168055086,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Hirnläsionen (z.B. Schlaganfall) führen zunächst zu Immunsuppression\n",
+            "create-time": 1623168099010,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Langfristig: Läsionen der rechten Hirnhemisphäre führen zu Anstieg der T-Lymphozyten und NK-Aktivität, während Läsionen links diese eher unterdrücken",
+                "create-time": 1623168063219,
+                "uid": "7d1Rsd7jX",
+                "edit-time": 1623168113844,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "E2D-PAn7i",
+            "edit-time": 1623168099010,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Glucocorticoide (Stresshormone) beeinflussen Zellen des Immunsystems\n",
+            "create-time": 1623168127725,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Entzündungshemmende Hormone\n",
+                "create-time": 1623168130716,
+                "uid": "O8PRQYbq8",
+                "edit-time": 1623168130716,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Verhindern Überreaktion des Immunsystems\n",
+                "create-time": 1623168135475,
+                "uid": "pe1MinjoM",
+                "edit-time": 1623168135475,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Immunsuppression für Stunden bis Woche z.B. auch nach Marathon-Lauf\n",
+                "create-time": 1623168138105,
+                "uid": "2rmnHtpzf",
+                "edit-time": 1623168138105,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Stress erhöht bei Mäusen Anfälligkeit für Infektion mit Herpes simplex\n",
+                "create-time": 1623168141189,
+                "uid": "yeHChdrpX",
+                "edit-time": 1623168141189,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "u_s2mFUYP",
+            "edit-time": 1623168127725,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Regulärer Schlaf-Wach-Rhythmus ist für funktionierendes Immunsystem\nrelevant\n",
+            "create-time": 1623168145864,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Über Melatonin vermittelt",
+                "create-time": 1623168107535,
+                "uid": "rUbaccbIG",
+                "edit-time": 1623168145868,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "lWpU3NLXC",
+            "edit-time": 1623168145864,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "7lXIzyUsV",
+        "edit-time": 1623168008492,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Zytokine: Kommunikation im Immunsystem",
+        "create-time": 1623168151147,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Zytokine werden von Immun- und anderen Körperzellen freigesetzt und\nbeeinflussen Vermehrung, Differenzierung und Migration von\nImmunzellen (sozusagen die Hormone des Immunsystems)\n",
+            "create-time": 1623168181675,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "z.B. Interleukine (inter = zwischen, leukos = weiß): Botenstoffe für\nverschiedene Immunreaktionen\n",
+                "create-time": 1623168189397,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "z.B. Interleukin-6 (IL-6) bewirkt in der Leber die vermehrte\nSynthese von Akute-Phase-Proteinen",
+                    "create-time": 1623168158049,
+                    "uid": "YMbT-BY6m",
+                    "edit-time": 1623168189403,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "D8jpnpCmZ",
+                "edit-time": 1623168189397,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "RNS-gJaEu",
+            "edit-time": 1623168181675,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "zEhqhcUuu",
+        "edit-time": 1623168158053,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Thymus & Knochenmark vs. Lymphknoten",
+        "create-time": 1623168196111,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Stammzellen aus Knochenmark",
+            "create-time": 1623168204090,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Leukozyten: reifen im Knochenmark aus",
+                "create-time": 1623168211815,
+                "uid": "gjHO3oqGw",
+                "edit-time": 1623168217231,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Lymphozyten: differenzieren sich aus den Leukozyten",
+                "create-time": 1623168217226,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "B-Lymphozyten (**b**one): reifen im Knochenmark aus",
+                    "create-time": 1623168239954,
+                    "uid": "XQdrsAnVu",
+                    "edit-time": 1623168257905,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "T-Lymphozyten: reifen im **T**hymus aus",
+                    "create-time": 1623168257896,
+                    "uid": "XFIYxcF_d",
+                    "edit-time": 1623168278570,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "NK-Zellen (natural killer)",
+                    "create-time": 1623168278565,
+                    "uid": "Wq3FBNehc",
+                    "edit-time": 1623168284101,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "JA6FIYxy0",
+                "edit-time": 1623168234309,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "k4UJ_At-A",
+            "edit-time": 1623168211820,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Lymphgefäßsystem sammelt aus Blutkapillaren ausgetretene Flüssigkeit --> über Lymphknoten zurück ins Blut",
+            "create-time": 1623168284097,
+            "uid": "mbGUzLXoK",
+            "edit-time": 1623168307865,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FUgt8KUS4od.png?alt=media&token=464b0e5c-2a78-4e5c-9d65-fc8970b9638a)",
+            "create-time": 1623168307861,
+            "uid": "5hjKYOmA_",
+            "edit-time": 1623168679547,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "9WF-Q10cK",
+        "edit-time": 1623168204097,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Angeborene vs. erworbene Immunität",
+        "create-time": 1623168699662,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Komplementäre Vor- und Nachteile der beiden Systeme",
+            "create-time": 1623168711284,
+            "uid": "5AemOlxO-",
+            "edit-time": 1623168719228,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Zudem: die Systeme wirken teils zusammen, so dass z.B. das erworbene Immunsystem Komponenten des angeborenen Immunsystems auslöst",
+            "create-time": 1623168719223,
+            "uid": "B1GWjn_vR",
+            "edit-time": 1623168745173,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "{{table}}",
+            "create-time": 1623168745167,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Eigenschaft",
+                "create-time": 1623168792089,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "**Angeborenes IS**",
+                    "create-time": 1623168803331,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "**Erworbenes IS**",
+                        "create-time": 1623168806448,
+                        "uid": "FuuOqVhqz",
+                        "edit-time": 1623168892154,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "gvfG818Nn",
+                    "edit-time": 1623168888973,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "BY7O5lLsw",
+                "edit-time": 1623168803343,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "**Spezifität**",
+                "create-time": 1623168810783,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Breit",
+                    "create-time": 1623168819166,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Hoch",
+                        "create-time": 1623168820538,
+                        "uid": "50rnICBcf",
+                        "edit-time": 1623168821651,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "J2Ba_kKyR",
+                    "edit-time": 1623168820543,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "YglxIkG81",
+                "edit-time": 1623168893650,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "**Reaktionskinetik**",
+                "create-time": 1623168821640,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Rasch",
+                    "create-time": 1623168827454,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Verzögert",
+                        "create-time": 1623168828750,
+                        "uid": "gfJOxq2id",
+                        "edit-time": 1623168831235,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "jVP84dBLP",
+                    "edit-time": 1623168828758,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "l3oIPDvZ2",
+                "edit-time": 1623168895504,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "**Gedächtnisbildung**",
+                "create-time": 1623168831230,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Nein",
+                    "create-time": 1623168836864,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Ja",
+                        "create-time": 1623168838227,
+                        "uid": "C4fmBych0",
+                        "edit-time": 1623168838983,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "Zmnqvf8n8",
+                    "edit-time": 1623168838240,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "srFbb60Te",
+                "edit-time": 1623168896949,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "**Humorale Anteile**",
+                "create-time": 1623168838970,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Enzyme, Komplement, Akute-Phase-Proteine",
+                    "create-time": 1623168843114,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Antikörper (von B-Lymphozyten gebildet)",
+                        "create-time": 1623168850437,
+                        "uid": "qng0rb_zM",
+                        "edit-time": 1623168858805,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "kuKiBTaLQ",
+                    "edit-time": 1623168850449,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "OfLVmg7LM",
+                "edit-time": 1623168904615,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "**Zelluläre Anteile**",
+                "create-time": 1623168858799,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Monozyten, Makrophagen, Granulozyten, NK-Zellen",
+                    "create-time": 1623168863216,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "T-Lymphozyten (T-Helfer- und T-Killerzellen)",
+                        "create-time": 1623168870884,
+                        "uid": "LRdfNSfey",
+                        "edit-time": 1623168878856,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "-kKItbDu9",
+                    "edit-time": 1623168870889,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "lE72m9SHU",
+                "edit-time": 1623168908802,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "_nc1B_yOa",
+            "edit-time": 1623168790770,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Angeborene Immunität",
+            "create-time": 1623168878849,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Erreger und Tumorzellen werden dadurch erkannt, dass auf Oberfläche Moleküle vorkommen, die bei normalen Körperzellen nicht vorkommen",
+                "create-time": 1623168926599,
+                "uid": "iSJ0kjJUN",
+                "edit-time": 1623168947833,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Zelluläre: Leukozyten (Monozyten, Makrophagen, Granulozyten)",
+                "create-time": 1623168947822,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Nehmen Krankheitserreger in sich auf und verdauen sie (Phagozytose), gehen dabei oft selbst zugrunde (--> Eiter)",
+                    "create-time": 1623168963402,
+                    "uid": "h9tPWl_ut",
+                    "edit-time": 1623168981528,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "NK-Zellen lösen Selbstzerstörung in infizierten oder tumorösen Zellen aus",
+                    "create-time": 1623168981521,
+                    "uid": "wpaPqdwDi",
+                    "edit-time": 1623168998429,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "clNGhmCUR",
+                "edit-time": 1623168958844,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Humorale",
+                "create-time": 1623168998424,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Enzyme: Anheften an Zellmembran von Bakterien und Schädigung, z.B. zuckerspaltendes Lysozym (spaltet Polysaccharide der Zellmembran der Bakterien)",
+                    "create-time": 1623169018425,
+                    "uid": "p6SJScGAp",
+                    "edit-time": 1623169047635,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Komplement (-system): Besteht aus mehreren Proteinen, erzeugt Pore in Erregermembran",
+                    "create-time": 1623169047630,
+                    "uid": "hQ7_WukYy",
+                    "edit-time": 1623169061216,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Akute-Phase-Protein: Zu Beginn von bakterieller Infektion von Leberzelle gebildet, markieren Bakterien durch Anheften für Makrophagen",
+                    "create-time": 1623169061212,
+                    "uid": "P77s8sf0p",
+                    "edit-time": 1623169088161,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "9_0WyCyZo",
+                "edit-time": 1623169018430,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "Kfkq713Oj",
+            "edit-time": 1623168926605,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Erworbene Immunität",
+            "create-time": 1623169088154,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Im Knochenmark reifende B-Lymphozyten bilden Antikörper (Eiweißmoleküle) auf ihrer Oberfläche",
+                "create-time": 1623169103408,
+                "uid": "nwii5t0qa",
+                "edit-time": 1623169122107,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Bei reifendem B-Lymphozyten werden die für die Antikörper-Bildung zuständigen Gensegmente neu gemischt --> Erzeugung von (sehr vielen) Varianten",
+                "create-time": 1623169122103,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Dabei auch B-Lymphozyten mit Antikörper gegen körpereigene Proteine",
+                    "create-time": 1623169150099,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    "children": [
+                      {
+                        "string": "Schon im Knochenmark zerstört, sobald sie ein körpereigenes Eiweißmolekül an sich binden",
+                        "create-time": 1623169165894,
+                        "uid": "S4YAzkp4v",
+                        "edit-time": 1623169179211,
+                        ":create/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        },
+                        ":edit/user": {
+                          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                        }
+                      }
+                    ],
+                    "uid": "udjIpJ32-",
+                    "edit-time": 1623169165537,
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "pcKpTYl_0",
+                "edit-time": 1623169150103,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "B-Lymphozyten \"lauern\" in Lymphknoten und Milz, bei Kontakt mit Antigen mit Passung zu ihrem Antikörper:",
+                "create-time": 1623169179206,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Verbindung zum Antikörper-Antigen-Komplex",
+                    "create-time": 1623169211938,
+                    "uid": "ZStdRTuSd",
+                    "edit-time": 1623169218052,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Einschleusen ins Zellinnere des Lymphozyten, Verdauung des Antigens",
+                    "create-time": 1623169218047,
+                    "uid": "3ChHI-wrZ",
+                    "edit-time": 1623169229732,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Umwandlung des B-Lymphozyten in eine Plasmazelle",
+                    "create-time": 1623169229728,
+                    "uid": "7bBuLoZ0j",
+                    "edit-time": 1623169240186,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Wanderung ins Knochenmark",
+                    "create-time": 1623169240182,
+                    "uid": "6t7iSamFW",
+                    "edit-time": 1623169245242,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Produktion des Antikörpers (bis 2.000 Antikörper pro Plasmazelle pro Sekunde)",
+                    "create-time": 1623169251959,
+                    "uid": "C1VW4Vz2J",
+                    "edit-time": 1623169272824,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Antikörper binden an Antigen --> dadurch zum Ziel für Makrophagen u.a.",
+                    "create-time": 1623169272817,
+                    "uid": "_3ptfkjdH",
+                    "edit-time": 1623169288865,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "w0RlpQzel",
+                "edit-time": 1623169211942,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "eN-yfRSvH",
+            "edit-time": 1623169103418,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "T3-qPcy0r",
+        "edit-time": 1623168711289,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Konditionierte Unterdrückung der Immunreaktion",
+        "create-time": 1623169288861,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Ratten erhielten Zuckerwasser als konditionierten Reiz für Injektion von Cyclophosphamid (immunsuppressiv)",
+            "create-time": 1623169299252,
+            "uid": "GTzXZT6wT",
+            "edit-time": 1623169318456,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "3 Tagen nach Konditionierung: Injektion von roten Blutkörperchen von Schafen",
+            "create-time": 1623169318452,
+            "uid": "u-wQ5KZ8Z",
+            "edit-time": 1623169344622,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "6 Tagen später: Messung des Antikörper-Spiegels",
+            "create-time": 1623169344617,
+            "uid": "fjsZNoE8U",
+            "edit-time": 1623169353440,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Ergebnis: Konditionierte Immunsuppression",
+            "create-time": 1623169353435,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "Immunsuppression bei konditionierten Ratten, die Antigeninjektion zusammen mit Zuckerwasser erhalten hatten",
+                "create-time": 1623169370211,
+                "uid": "fyuhr-SUJ",
+                "edit-time": 1623169389297,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Hoher Spiegel in",
+                "create-time": 1623169389291,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                "children": [
+                  {
+                    "string": "Placebo-Gruppe",
+                    "create-time": 1623169393173,
+                    "uid": "aOXpUTzA0",
+                    "edit-time": 1623169396723,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "nicht konditionierten Tieren",
+                    "create-time": 1623169396716,
+                    "uid": "suEkkn4o-",
+                    "edit-time": 1623169405801,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "konditionierten Tieren, die keine Zuckerlösung vor der Injektion des Antigens bekommen hatten",
+                    "create-time": 1623169409147,
+                    "uid": "KNd6Z8_pG",
+                    "edit-time": 1623169425734,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
+                "uid": "OHYobFeAE",
+                "edit-time": 1623169393178,
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "RaARfuxLG",
+            "edit-time": 1623169370216,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "z.B. konditionierte Immunsuppression bei Autoimmunerkrankung",
+            "create-time": 1623169425722,
+            "uid": "RONvu0VH5",
+            "edit-time": 1623169471302,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Tiere ohne Autoimmunerkrankung entziehen sich durch gelernte Vermeidungsreaktion der Cyclophosphamid-Injektion, Tiere mit Autoimmunerkrankung machen das nicht",
+            "create-time": 1623169471289,
+            "uid": "TJHhKjliU",
+            "edit-time": 1623169502768,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "0cz-0CfNM",
+        "edit-time": 1623169299261,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Kompensatorische konditionierte Immunantwort",
+        "create-time": 1623169502757,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "Bei Geschmack als konditioniertem Reiz wurde konditionierte Unterdrückung der Immunantwort gefunden (d.h. konditionierte Reaktion in gleiche Richtung wie unkonditionierter Reiz)",
+            "create-time": 1623169513558,
+            "uid": "pL6DFCE6Q",
+            "edit-time": 1623169545376,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "Bei (anderen) Umweltreizen als konditioniertem Reiz wurde jedoch kompensatorische konditionierte Reaktion gefunden, d.h. Vorabinformation hinsichtlich eines die Homöostase störenden Reizes führt zu Hoch-Regulierung des Immunsystems",
+            "create-time": 1623169545372,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "z.B. \"for the environmental cue used in the experiment, the animals were moved to a distinctive room and placed in a round, metal cage for a period of 1h\"",
+                "create-time": 1623169600008,
+                "uid": "H8H1HjUzK",
+                "edit-time": 1623169624224,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "J588I6gUp",
+            "edit-time": 1623169597053,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "RR4SrqR7A",
+        "edit-time": 1623169513564,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      }
+    ],
+    "uid": "qp2x0ngIE",
+    "edit-time": 1623166864682,
     ":edit/user": {
       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
     }
