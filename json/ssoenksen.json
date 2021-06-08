@@ -12611,10 +12611,10 @@
             },
             "children": [
               {
-                "string": "z.B. Schulddrüsenhormon Thyroxin: Steuert Rate des Metabolimus/ Energieumsatz bzw. Proteinsynthese in verschiedenen Zellen",
+                "string": "z.B. Schilddrüsenhormon **Thyroxin**: Steuert Rate des Metabolimus/ Energieumsatz bzw. Proteinsynthese in verschiedenen Zellen",
                 "create-time": 1623144851247,
                 "uid": "DUXuxPYPD",
-                "edit-time": 1623144884211,
+                "edit-time": 1623145062535,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -12623,10 +12623,10 @@
                 }
               },
               {
-                "string": "z.B. Nebennierenmarkhormone Adrenalin, Noradrenalin: Rezeptoren in verschiedenen Regionen, steigert Herzschlag, erweitert Bronchien, hemmt Magen-Darm-Trakt",
+                "string": "z.B. Nebennierenmarkhormone **Adrenalin**, **Noradrenalin**: Rezeptoren in verschiedenen Regionen, steigert Herzschlag, erweitert Bronchien, hemmt Magen-Darm-Trakt",
                 "create-time": 1623144885116,
                 "uid": "5GJvWspJX",
-                "edit-time": 1623144918601,
+                "edit-time": 1623145039575,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -12635,10 +12635,10 @@
                 }
               },
               {
-                "string": "z.B. Zirbeldrüsenhormon Melatonin: (De-) aktivierung verschiedener Organsysteme im Tag-/ Nachtrhythmus (Bildung durch Licht gehemmt)",
+                "string": "z.B. Zirbeldrüsenhormon **Melatonin**: (De-) aktivierung verschiedener Organsysteme im Tag-/ Nachtrhythmus (Bildung durch Licht gehemmt)",
                 "create-time": 1623144918595,
                 "uid": "P0Cd0ryCc",
-                "edit-time": 1623144971955,
+                "edit-time": 1623145042568,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -12647,10 +12647,10 @@
                 }
               },
               {
-                "string": "z.B. Gewebehormon Histamin: Immunreaktion im Gewebe, ",
+                "string": "z.B. Gewebehormon **Histamin**: Immunreaktion im Gewebe, erzeugt Anschwellung des Gewebes in Entzündungsreaktion",
                 "create-time": 1623144977111,
                 "uid": "wCcgfwWfk",
-                "edit-time": 1623145004662,
+                "edit-time": 1623145044181,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },

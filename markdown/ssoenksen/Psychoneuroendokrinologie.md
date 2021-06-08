@@ -34,10 +34,10 @@
         - z.B. Bauchspeicheldrüsenhormone Insulin und Glukagon
         - z.B. adrenocorticotropes Hormon (ACTH), in Adenohypophyse synthetisiert: Veranlasst Nebennierenrinde in Stressreaktion zur Cortisolausschüttung
     - Aminosäurederivate: Kleine Moleküle, durch Modifikation von Aminosäuren hergestellt
-        - z.B. Schulddrüsenhormon Thyroxin: Steuert Rate des Metabolimus/ Energieumsatz bzw. Proteinsynthese in verschiedenen Zellen
-        - z.B. Nebennierenmarkhormone Adrenalin, Noradrenalin: Rezeptoren in verschiedenen Regionen, steigert Herzschlag, erweitert Bronchien, hemmt Magen-Darm-Trakt
-        - z.B. Zirbeldrüsenhormon Melatonin: (De-) aktivierung verschiedener Organsysteme im Tag-/ Nachtrhythmus (Bildung durch Licht gehemmt)
-        - z.B. Gewebehormon Histamin: Immunreaktion im Gewebe, 
+        - z.B. Schilddrüsenhormon **Thyroxin**: Steuert Rate des Metabolimus/ Energieumsatz bzw. Proteinsynthese in verschiedenen Zellen
+        - z.B. Nebennierenmarkhormone **Adrenalin**, **Noradrenalin**: Rezeptoren in verschiedenen Regionen, steigert Herzschlag, erweitert Bronchien, hemmt Magen-Darm-Trakt
+        - z.B. Zirbeldrüsenhormon **Melatonin**: (De-) aktivierung verschiedener Organsysteme im Tag-/ Nachtrhythmus (Bildung durch Licht gehemmt)
+        - z.B. Gewebehormon **Histamin**: Immunreaktion im Gewebe, erzeugt Anschwellung des Gewebes in Entzündungsreaktion
 - Schnittstelle zwischen Neuro- und Hormonsystemen: 
     - Hypothalamus
     - Hypophysenvorderlappen (Adenohypophyse)

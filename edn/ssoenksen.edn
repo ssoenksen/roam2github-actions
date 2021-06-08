@@ -184,8 +184,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuiddff4dd0c-e146-44bc-96b8-a98acd00ba36"
-   536878360]
+   "uuid4c68cb59-2b4f-41d3-9618-3800e320f6b7"
+   536878367]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -15612,12 +15612,12 @@
   [1779 :block/parents 1778 536878323]
   [1779
    :block/string
-   "z.B. Schulddrüsenhormon Thyroxin: Steuert Rate des Metabolimus/ Energieumsatz bzw. Proteinsynthese in verschiedenen Zellen"
-   536878329]
+   "z.B. Schilddrüsenhormon **Thyroxin**: Steuert Rate des Metabolimus/ Energieumsatz bzw. Proteinsynthese in verschiedenen Zellen"
+   536878367]
   [1779 :block/uid "DUXuxPYPD" 536878319]
   [1779 :create/time 1623144851247 536878319]
   [1779 :create/user 3 536878319]
-  [1779 :edit/time 1623144884211 536878329]
+  [1779 :edit/time 1623145062535 536878367]
   [1779 :edit/user 3 536878319]
   [1780 :block/open true 536878330]
   [1780 :block/order 1 536878330]
@@ -15627,12 +15627,12 @@
   [1780 :block/parents 1778 536878331]
   [1780
    :block/string
-   "z.B. Nebennierenmarkhormone Adrenalin, Noradrenalin: Rezeptoren in verschiedenen Regionen, steigert Herzschlag, erweitert Bronchien, hemmt Magen-Darm-Trakt"
-   536878337]
+   "z.B. Nebennierenmarkhormone **Adrenalin**, **Noradrenalin**: Rezeptoren in verschiedenen Regionen, steigert Herzschlag, erweitert Bronchien, hemmt Magen-Darm-Trakt"
+   536878364]
   [1780 :block/uid "5GJvWspJX" 536878330]
   [1780 :create/time 1623144885116 536878330]
   [1780 :create/user 3 536878330]
-  [1780 :edit/time 1623144918601 536878337]
+  [1780 :edit/time 1623145039575 536878364]
   [1780 :edit/user 3 536878330]
   [1781 :block/open true 536878335]
   [1781 :block/order 2 536878335]
@@ -15642,12 +15642,12 @@
   [1781 :block/parents 1778 536878336]
   [1781
    :block/string
-   "z.B. Zirbeldrüsenhormon Melatonin: (De-) aktivierung verschiedener Organsysteme im Tag-/ Nachtrhythmus (Bildung durch Licht gehemmt)"
-   536878348]
+   "z.B. Zirbeldrüsenhormon **Melatonin**: (De-) aktivierung verschiedener Organsysteme im Tag-/ Nachtrhythmus (Bildung durch Licht gehemmt)"
+   536878365]
   [1781 :block/uid "P0Cd0ryCc" 536878335]
   [1781 :create/time 1623144918595 536878335]
   [1781 :create/user 3 536878335]
-  [1781 :edit/time 1623144971955 536878348]
+  [1781 :edit/time 1623145042568 536878365]
   [1781 :edit/user 3 536878335]
   [1782 :block/open true 536878349]
   [1782 :block/order 3 536878349]
@@ -15657,10 +15657,10 @@
   [1782 :block/parents 1778 536878350]
   [1782
    :block/string
-   "z.B. Gewebehormon Histamin: Immunreaktion im Gewebe, "
-   536878360]
+   "z.B. Gewebehormon **Histamin**: Immunreaktion im Gewebe, erzeugt Anschwellung des Gewebes in Entzündungsreaktion"
+   536878366]
   [1782 :block/uid "wCcgfwWfk" 536878349]
   [1782 :create/time 1623144977111 536878349]
   [1782 :create/user 3 536878349]
-  [1782 :edit/time 1623145004662 536878360]
+  [1782 :edit/time 1623145044181 536878366]
   [1782 :edit/user 3 536878349]]}
