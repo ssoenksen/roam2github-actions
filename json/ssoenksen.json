@@ -12459,10 +12459,22 @@
             },
             "children": [
               {
-                "string": "Beeinflussen Bildung von bestimmten Peptid/ Protein in Zellkern ()",
+                "string": "Beeinflussen Bildung von bestimmten Peptid/ Protein in Zellkern (Steuerung der Expression von DNA)",
                 "create-time": 1623144323209,
                 "uid": "nj3G7FmXE",
-                "edit-time": 1623144352430,
+                "edit-time": 1623144358895,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "z.B. Stereoidhormon: ",
+                "create-time": 1623144371649,
+                "uid": "lO2om772w",
+                "edit-time": 1623144399408,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
