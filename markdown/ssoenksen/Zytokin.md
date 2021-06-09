@@ -1,0 +1,2 @@
+- Botenstoff des Immunsystems
+- durch Leukozyten (weiße Blutkörperchen) produziert

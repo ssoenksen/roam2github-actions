@@ -2,11 +2,11 @@
     - Sickness behavior: Lethargie, Schläfrigkeit, Appetitlosigkeit bei Infektionskrankheiten —> Organismus kann Ressourcen auf Bekämpfung der Infektion konzentrieren
     - Beobachtung von Hirten: Kranke Tiere der Herde verhalten sich anders
         - Aber nicht (nur) weil sie schwäche rsind
-        - Sondern gezielt: Erhöhter Cytokin-Spiegel im Blut (Botenstoff des Immunsystems; durch Leukozyten - weiße Blutkörperchen - produziert) wirkt u.a. auf Hypothalamus
+        - Sondern gezielt: Erhöhter [[Zytokin]]-Spiegel im Blut wirkt u.a. auf Hypothalamus
 - Kommunikation zwischen Gehirn und Immunsystem: Beispiele
     - IS --> ZNS: Immunzellen erzeugen Zytokine, die Aktivität von Neuronen im ZNS beeinflussen
         - Interleukine können Nervenendigungen kontrollieren
-        - Lymphozyten stellen Adrenocortikotropes Hormon (ACTH) her
+        - Lymphozyten (Unterart der Zytokine) stellen Adrenocortikotropes Hormon (ACTH) her
     - ZNS --> IS: Immunzellen werden durch Aktivität von Neuronen im ZNS beeinflusst
 
         - Z.B. Rezeptoren für Neurotransmitter des autonomen Nervensystems

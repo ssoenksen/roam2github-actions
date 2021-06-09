@@ -16053,13 +16053,23 @@
                 }
               },
               {
-                "string": "Sondern gezielt: Erhöhter Cytokin-Spiegel im Blut (Botenstoff des Immunsystems; durch Leukozyten - weiße Blutkörperchen - produziert) wirkt u.a. auf Hypothalamus",
+                "string": "Sondern gezielt: Erhöhter [[Zytokin]]-Spiegel im Blut wirkt u.a. auf Hypothalamus",
                 "create-time": 1623166881609,
-                "uid": "Tx3WY-2Nd",
-                "edit-time": 1623170540803,
+                ":block/refs": [
+                  {
+                    ":block/uid": "vaqF0w2wX"
+                  }
+                ],
+                "refs": [
+                  {
+                    "uid": "vaqF0w2wX"
+                  }
+                ],
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
+                "uid": "Tx3WY-2Nd",
+                "edit-time": 1623255543905,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
@@ -16105,10 +16115,10 @@
                 }
               },
               {
-                "string": "Lymphozyten stellen Adrenocortikotropes Hormon (ACTH) her",
+                "string": "Lymphozyten (Unterart der Zytokine) stellen Adrenocortikotropes Hormon (ACTH) her",
                 "create-time": 1623166986922,
                 "uid": "0GJwToIp-",
-                "edit-time": 1623170615170,
+                "edit-time": 1623255648956,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
@@ -17225,6 +17235,44 @@
     ":create/user": {
       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
     },
+    ":edit/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    }
+  },
+  {
+    "create-time": 1623255530462,
+    "title": "Zytokin",
+    ":create/user": {
+      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+    },
+    "children": [
+      {
+        "string": "Botenstoff des Immunsystems",
+        "create-time": 1623255548915,
+        "uid": "tfquTKxQy",
+        "edit-time": 1623255548915,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "durch Leukozyten (weiße Blutkörperchen) produziert",
+        "create-time": 1623255545838,
+        "uid": "lgTXp3Fp_",
+        "edit-time": 1623255555961,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      }
+    ],
+    "uid": "vaqF0w2wX",
+    "edit-time": 1623255530463,
     ":edit/user": {
       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
     }

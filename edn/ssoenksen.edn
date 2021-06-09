@@ -185,8 +185,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuidd19f2508-284a-4770-b488-6e9fa4f3c7a6"
-   536880048]
+   "uuid52c0e8e4-8f5b-420b-859b-c1302e30179b"
+   536880089]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -19440,14 +19440,15 @@
   [2078 :block/parents 2073 536879437]
   [2078 :block/parents 2076 536879462]
   [2078 :block/parents 2174 536880029]
+  [2078 :block/refs 2177 536880056]
   [2078
    :block/string
-   "Sondern gezielt: Erhöhter Cytokin-Spiegel im Blut (Botenstoff des Immunsystems; durch Leukozyten - weiße Blutkörperchen - produziert) wirkt u.a. auf Hypothalamus"
-   536880035]
+   "Sondern gezielt: Erhöhter [[Zytokin]]-Spiegel im Blut wirkt u.a. auf Hypothalamus"
+   536880057]
   [2078 :block/uid "Tx3WY-2Nd" 536879434]
   [2078 :create/time 1623166881609 536879434]
   [2078 :create/user 3 536879434]
-  [2078 :edit/time 1623170540803 536880035]
+  [2078 :edit/time 1623255543905 536880057]
   [2078 :edit/user 3 536879434]
   [2081 :block/children 2082 536879474]
   [2081 :block/children 2083 536879483]
@@ -19488,12 +19489,12 @@
   [2083 :block/parents 2084 536880039]
   [2083
    :block/string
-   "Lymphozyten stellen Adrenocortikotropes Hormon (ACTH) her"
-   536880040]
+   "Lymphozyten (Unterart der Zytokine) stellen Adrenocortikotropes Hormon (ACTH) her"
+   536880088]
   [2083 :block/uid "0GJwToIp-" 536879467]
   [2083 :create/time 1623166986922 536879467]
   [2083 :create/user 3 536879467]
-  [2083 :edit/time 1623170615170 536880040]
+  [2083 :edit/time 1623255648956 536880088]
   [2083 :edit/user 3 536879467]
   [2084 :block/children 2081 536880038]
   [2084 :block/children 2089 536879513]
@@ -19933,7 +19934,7 @@
   [2116 :block/children 2126 536879733]
   [2116 :block/children 2129 536879750]
   [2116 :block/children 2132 536879768]
-  [2116 :block/open false 536879796]
+  [2116 :block/open true 536880049]
   [2116 :block/order 2 536879672]
   [2116 :block/page 2073 536879673]
   [2116 :block/parents 2073 536879673]
@@ -20794,4 +20795,35 @@
   [2175 :edit/time 1623199711264 536880048]
   [2175 :edit/user 3 536880048]
   [2175 :log/id 1623199711263 536880048]
-  [2175 :node/title "June 9th, 2021" 536880048]]}
+  [2175 :node/title "June 9th, 2021" 536880048]
+  [2177 :block/children 2178 536880058]
+  [2177 :block/children 2179 536880061]
+  [2177 :block/uid "vaqF0w2wX" 536880056]
+  [2177 :create/time 1623255530462 536880056]
+  [2177 :create/user 3 536880056]
+  [2177 :edit/time 1623255530463 536880056]
+  [2177 :edit/user 3 536880056]
+  [2177 :node/title "Zytokin" 536880056]
+  [2178 :block/open true 536880058]
+  [2178 :block/order 1 536880061]
+  [2178 :block/page 2177 536880059]
+  [2178 :block/parents 2177 536880059]
+  [2178
+   :block/string
+   "durch Leukozyten (weiße Blutkörperchen) produziert"
+   536880066]
+  [2178 :block/uid "lgTXp3Fp_" 536880058]
+  [2178 :create/time 1623255545838 536880058]
+  [2178 :create/user 3 536880058]
+  [2178 :edit/time 1623255555961 536880066]
+  [2178 :edit/user 3 536880058]
+  [2179 :block/open true 536880061]
+  [2179 :block/order 0 536880061]
+  [2179 :block/page 2177 536880062]
+  [2179 :block/parents 2177 536880062]
+  [2179 :block/string "Botenstoff des Immunsystems" 536880061]
+  [2179 :block/uid "tfquTKxQy" 536880061]
+  [2179 :create/time 1623255548915 536880061]
+  [2179 :create/user 3 536880061]
+  [2179 :edit/time 1623255548915 536880061]
+  [2179 :edit/user 3 536880061]]}
