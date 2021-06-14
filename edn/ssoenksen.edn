@@ -185,8 +185,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuida19d1b85-74ef-48f0-962d-ba0b4b76c202"
-   536880149]
+   "uuid4b0a46a2-ad91-40c8-8006-78ac06b53d7c"
+   536880158]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -265,11 +265,11 @@
   [290 :block/parents 273 536871999]
   [290
    :block/string
-   "= $$Rel$$ bezeichnet die Messgenauigkeit eines Tests und ist als Anteil der Varianz der wahren Werte $\\tau$ an der Varianz der beobachteten Testwerte $$x$$ definiert: $$Rel = \\frac{Var(\\tau)}{Var(x)}$$ mit $$Rel: \\{0; 1\\}$$"
-   536871872]
+   "= $$Rel$$ bezeichnet die Messgenauigkeit eines Tests und ist als Anteil der Varianz der wahren Werte $$\\tau$$ an der Varianz der beobachteten Testwerte $$x$$ definiert: $$Rel = \\frac{Var(\\tau)}{Var(x)}$$ mit $$Rel: \\{0; 1\\}$$"
+   536880158]
   [290 :block/uid "_RmRSr3Ea" 536871802]
   [290 :edit/seen-by 3 536871807]
-  [290 :edit/time 1621695008264 536871872]
+  [290 :edit/time 1623655233600 536880158]
   [290 :edit/user 3 536871802]
   [291 :block/open true 536871802]
   [291 :block/order 0 536871997]
@@ -781,12 +781,12 @@
   [335 :block/parents 333 536872073]
   [335
    :block/string
-   "Konstruktion von zwei parallelen Tests ([[Parallelität von Tests"
-   536880148]
+   "Konstruktion von zwei parallelen Tests: Parallelität von Tests"
+   536880150]
   [335 :block/uid "nzqdgi-sp" 536872070]
   [335 :create/time 1621695739364 536872070]
   [335 :create/user 3 536872070]
-  [335 :edit/time 1623655188080 536880148]
+  [335 :edit/time 1623655192733 536880150]
   [335 :edit/user 3 536872070]
   [337 :block/open true 536872083]
   [337 :block/order 2 536872095]
@@ -1072,14 +1072,13 @@
   [358 :block/parents 273 536872212]
   [358 :block/parents 320 536872212]
   [358 :block/parents 356 536872212]
-  [358 :block/refs 306 536872222]
   [358
    :block/string
-   "Grundlage ist [[Parallelität von Tests]]; wenn nicht möglich:"
-   536872224]
+   "Grundlage ist Parallelität von Tests; wenn nicht möglich:"
+   536880153]
   [358 :block/uid "p3zhTE43S" 536872211]
   [358 :edit/seen-by 3 536872218]
-  [358 :edit/time 1621697613973 536872224]
+  [358 :edit/time 1623655201915 536880153]
   [358 :edit/user 3 536872211]
   [359 :block/open true 536872211]
   [359 :block/order 0 536872211]
@@ -20966,16 +20965,14 @@
   [2196 :block/page 272 536880119]
   [2196 :block/parents 272 536880119]
   [2196 :block/parents 2194 536880125]
-  [2196 :block/refs 644 536880118]
-  [2196 :block/refs 679 536880118]
   [2196
    :block/string
-   "Parallelität entspricht gleichen ((sPgxDIOnk)) ([[Itemanalyse]])"
-   536880117]
+   "Parallelität entspricht gleichen Itemschwierigkeiten "
+   536880155]
   [2196 :block/uid "dd0HYsQL4" 536880117]
   [2196 :create/time 1623655124418 536880117]
   [2196 :create/user 3 536880117]
-  [2196 :edit/time 1623655124418 536880117]
+  [2196 :edit/time 1623655223175 536880155]
   [2196 :edit/user 3 536880117]
   [2197 :block/children 2198 536880117]
   [2197 :block/children 2199 536880117]

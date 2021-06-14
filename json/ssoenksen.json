@@ -154,29 +154,13 @@
             }
           },
           {
-            "string": "Parallelität entspricht gleichen ((sPgxDIOnk)) ([[Itemanalyse]])",
+            "string": "Parallelität entspricht gleichen Itemschwierigkeiten ",
             "create-time": 1623655124418,
-            ":block/refs": [
-              {
-                ":block/uid": "nRctw3592"
-              },
-              {
-                ":block/uid": "sPgxDIOnk"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "nRctw3592"
-              },
-              {
-                "uid": "sPgxDIOnk"
-              }
-            ],
+            "uid": "dd0HYsQL4",
+            "edit-time": 1623655223175,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
-            "uid": "dd0HYsQL4",
-            "edit-time": 1623655124418,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -255,9 +239,9 @@
             }
           },
           {
-            "string": "= $$Rel$$ bezeichnet die Messgenauigkeit eines Tests und ist als Anteil der Varianz der wahren Werte $\\tau$ an der Varianz der beobachteten Testwerte $$x$$ definiert: $$Rel = \\frac{Var(\\tau)}{Var(x)}$$ mit $$Rel: \\{0; 1\\}$$",
+            "string": "= $$Rel$$ bezeichnet die Messgenauigkeit eines Tests und ist als Anteil der Varianz der wahren Werte $$\\tau$$ an der Varianz der beobachteten Testwerte $$x$$ definiert: $$Rel = \\frac{Var(\\tau)}{Var(x)}$$ mit $$Rel: \\{0; 1\\}$$",
             "uid": "_RmRSr3Ea",
-            "edit-time": 1621695008264,
+            "edit-time": 1623655233600,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
@@ -571,23 +555,13 @@
                     },
                     "children": [
                       {
-                        "string": "Konstruktion von zwei parallelen Tests ([[Parallelität von Tests]])",
+                        "string": "Konstruktion von zwei parallelen Tests: Parallelität von Tests",
                         "create-time": 1621695739364,
-                        ":block/refs": [
-                          {
-                            ":block/uid": "bqTK9ngpG"
-                          }
-                        ],
-                        "refs": [
-                          {
-                            "uid": "bqTK9ngpG"
-                          }
-                        ],
+                        "uid": "nzqdgi-sp",
+                        "edit-time": 1623655192733,
                         ":create/user": {
                           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                         },
-                        "uid": "nzqdgi-sp",
-                        "edit-time": 1621695825881,
                         ":edit/user": {
                           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                         }
@@ -800,12 +774,7 @@
                     }
                   },
                   {
-                    "string": "Grundlage ist [[Parallelität von Tests]]; wenn nicht möglich:",
-                    "refs": [
-                      {
-                        "uid": "bqTK9ngpG"
-                      }
-                    ],
+                    "string": "Grundlage ist Parallelität von Tests; wenn nicht möglich:",
                     "children": [
                       {
                         "string": "$$\\tau$$-Äquivalenz: Gleiche wahre Werte, unterschiedliche Fehlervarianzen",
@@ -825,12 +794,7 @@
                       }
                     ],
                     "uid": "p3zhTE43S",
-                    "edit-time": 1621697613973,
-                    ":block/refs": [
-                      {
-                        ":block/uid": "bqTK9ngpG"
-                      }
-                    ],
+                    "edit-time": 1623655201915,
                     ":edit/user": {
                       ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                     }

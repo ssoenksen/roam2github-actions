@@ -8,14 +8,14 @@
     - Tests $$p$$ und $$q$$ sind parallel, wenn
         - sie gleiche wahre Wert aufweisen: $$\tau_p = \tau_q = \tau \; \wedge \; E(x_p)=E(x_q)$$
         - ihre Varianzen gleich sind: $$Var(x_p)=Var(x_q)=Var(\tau)+Var(\varepsilon)$$
-    - Parallelität entspricht gleichen Itemschwierigkeiten ([[Itemanalyse]])
+    - Parallelität entspricht gleichen Itemschwierigkeiten 
     - Prüfung der Parallelität:
         - Gleiche Mittelwerte?
         - Gleiche Streuungen?
         - Paralleltest-Reliabilität hoch?
 - # Reliabilität
     - = Genauigkeit einer Messung. Ein Testverfahren ist perfekt reliabel, wenn die damit erhaltenen Testwerte frei von zufälligen Messfehlern sind. Das Testverfahren ist umso weniger reliabel, je größer die Einflüsse von zufälligen Messfehlern sind.
-    - = $$Rel$$ bezeichnet die Messgenauigkeit eines Tests und ist als Anteil der Varianz der wahren Werte $\tau$ an der Varianz der beobachteten Testwerte $$x$$ definiert: $$Rel = \frac{Var(\tau)}{Var(x)}$$ mit $$Rel: \{0; 1\}$$
+    - = $$Rel$$ bezeichnet die Messgenauigkeit eines Tests und ist als Anteil der Varianz der wahren Werte $$\tau$$ an der Varianz der beobachteten Testwerte $$x$$ definiert: $$Rel = \frac{Var(\tau)}{Var(x)}$$ mit $$Rel: \{0; 1\}$$
     - Reliabilität ist immer eine Schätzung, Grundlage ist Korrelation eines Tests mit sich selbst: $$r(x,x)=\frac{\sigma(x,x)}{\sigma(x) \cdot \sigma(x)}=\frac{\sigma^2(\tau)}{\sigma^2(x)}$$
     - Extremformen:
         - Test misst wahren Wert: $$Var(x) = Var(\tau) \Rightarrow Rel = \frac{Var(\tau)}{Var(x)} = \frac{Var(\tau)}{Var(\tau)} = 1$$ 
@@ -59,7 +59,7 @@
         - ### Interne Konsistenz (Cronbachs Alpha)
             - Jedes einzelne Item entspricht separatem Testteil zur Messung des Merkmals → Cronbachs Alpha: Verallgemeinerung auf beliebig viele Testteile
             - Berechnung: $$Rel(x)=\alpha= \frac{m}{m-1}\cdot (1-\frac{\sum_{i=1}^{m} Var(x_i)}{Var(x)})$$
-            - Grundlage ist [[Parallelität von Tests]]; wenn nicht möglich:
+            - Grundlage ist Parallelität von Tests; wenn nicht möglich:
                 - $$\tau$$-Äquivalenz: Gleiche wahre Werte, unterschiedliche Fehlervarianzen
                 - Essentielle $$\tau$$-Äquivalenz: Wahre Werte unterscheiden sich um additive Konstante, unterschiedliche Fehlervarianzen ($$\tau_i = \tau + c_i$$)
             - __SPSS__: Menü "Reliabilitätsanalyse", Optionen "Statistiken": "Deskriptive Statistiken" für "Item" und "Skala, wenn Item gelöscht"
