@@ -1,3 +1,9 @@
+- Annahmen KTT
+    - ^^$$\sigma$$: Kovarianz^^
+    - Annahmen der klassischen Testtheorie:
+        1. $$\sigma(\tau, \varepsilon)=0$$ 
+        2. $$\sigma(\varepsilon, \varepsilon)=0$$
+        3. $$\begin{aligned} \sigma(x,x) &= \sigma(\tau + \varepsilon, \tau + \varepsilon) \\ &= \sigma(\tau, \tau) + \sigma(\tau, \varepsilon) + \sigma(\varepsilon, \varepsilon) \\ &= \sigma(\tau, \tau) \\ &= \sigma^2(\tau) \end{aligned}$$
 - # Reliabilität
     - = Genauigkeit einer Messung. Ein Testverfahren ist perfekt reliabel, wenn die damit erhaltenen Testwerte frei von zufälligen Messfehlern sind. Das Testverfahren ist umso weniger reliabel, je größer die Einflüsse von zufälligen Messfehlern sind.
     - = $$Rel$$ bezeichnet die Messgenauigkeit eines Tests und ist als Anteil der Varianz der wahren Werte $\tau$ an der Varianz der beobachteten Testwerte $$x$$ definiert: $$Rel = \frac{Var(\tau)}{Var(x)}$$ mit $$Rel: \{0; 1\}$$

@@ -185,8 +185,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid2ee90109-dccc-4382-9c23-2b5e3eb38742"
-   536880090]
+   "uuid0b6fc276-a606-415e-b8f7-9861af67f08e"
+   536880108]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -228,6 +228,8 @@
   [271 :edit/time 1621693987043 536871673]
   [271 :edit/user 3 536871673]
   [272 :block/children 273 536871676]
+  [272 :block/children 2191 536880099]
+  [272 :block/children 2193 536880103]
   [272 :block/open true 536871802]
   [272 :block/uid "YErza99gh" 536871674]
   [272 :children/view-type :bullet 536871718]
@@ -246,7 +248,7 @@
   [273 :block/children 320 536872005]
   [273 :block/heading 1 536871693]
   [273 :block/open true 536871793]
-  [273 :block/order 0 536871676]
+  [273 :block/order 2 536880107]
   [273 :block/page 272 536871677]
   [273 :block/parents 272 536871677]
   [273 :block/string "Reliabilität" 536871696]
@@ -16034,8 +16036,8 @@
    :block/props
    {:image-size
     {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd"
-     {:width 222, :height ##NaN}}}
-   536878559]
+     {:width 294, :height ##NaN}}}
+   536880095]
   [1806
    :block/string
    "Bspw. hormoneller Regelkreis zur Steuerung des Wasseranteils im Blut: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd)"
@@ -16508,8 +16510,8 @@
    :block/props
    {:image-size
     {"https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450"
-     {:width 272, :height ##NaN}}}
-   536878759]
+     {:width 311, :height ##NaN}}}
+   536880096]
   [1838
    :block/string
    "![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450)"
@@ -20866,4 +20868,98 @@
   [2185 :edit/time 1623631277904 536880094]
   [2185 :edit/user 3 536880094]
   [2185 :log/id 1623631277903 536880094]
-  [2185 :node/title "June 14th, 2021" 536880094]]}
+  [2185 :node/title "June 14th, 2021" 536880094]
+  [2187 :block/children 2188 536880099]
+  [2187 :block/children 2189 536880099]
+  [2187 :block/children 2190 536880099]
+  [2187 :block/open true 536880099]
+  [2187 :block/order 1 536880105]
+  [2187 :block/page 272 536880100]
+  [2187 :block/parents 272 536880100]
+  [2187 :block/parents 2193 536880108]
+  [2187
+   :block/string
+   "Annahmen der klassischen Testtheorie:"
+   536880099]
+  [2187 :block/uid "aecyre3xX" 536880099]
+  [2187 :children/view-type :numbered 536880099]
+  [2187 :create/time 1623655079416 536880099]
+  [2187 :create/user 3 536880099]
+  [2187 :edit/time 1623655079416 536880099]
+  [2187 :edit/user 3 536880099]
+  [2188 :block/open true 536880099]
+  [2188 :block/order 1 536880099]
+  [2188 :block/page 272 536880100]
+  [2188 :block/parents 272 536880100]
+  [2188 :block/parents 2187 536880100]
+  [2188 :block/parents 2193 536880108]
+  [2188
+   :block/string
+   "$$\\sigma(\\varepsilon, \\varepsilon)=0$$"
+   536880099]
+  [2188 :block/uid "NeawTTnoO" 536880099]
+  [2188 :create/time 1623655079416 536880099]
+  [2188 :create/user 3 536880099]
+  [2188 :edit/time 1623655079416 536880099]
+  [2188 :edit/user 3 536880099]
+  [2189 :block/open true 536880099]
+  [2189 :block/order 2 536880099]
+  [2189 :block/page 272 536880100]
+  [2189 :block/parents 272 536880100]
+  [2189 :block/parents 2187 536880100]
+  [2189 :block/parents 2193 536880108]
+  [2189
+   :block/string
+   "$$\\begin{aligned} \\sigma(x,x) &= \\sigma(\\tau + \\varepsilon, \\tau + \\varepsilon) \\\\ &= \\sigma(\\tau, \\tau) + \\sigma(\\tau, \\varepsilon) + \\sigma(\\varepsilon, \\varepsilon) \\\\ &= \\sigma(\\tau, \\tau) \\\\ &= \\sigma^2(\\tau) \\end{aligned}$$"
+   536880099]
+  [2189 :block/uid "diUuyHC2f" 536880099]
+  [2189 :create/time 1623655079416 536880099]
+  [2189 :create/user 3 536880099]
+  [2189 :edit/time 1623655079416 536880099]
+  [2189 :edit/user 3 536880099]
+  [2190 :block/open true 536880099]
+  [2190 :block/order 0 536880099]
+  [2190 :block/page 272 536880100]
+  [2190 :block/parents 272 536880100]
+  [2190 :block/parents 2187 536880100]
+  [2190 :block/parents 2193 536880108]
+  [2190 :block/string "$$\\sigma(\\tau, \\varepsilon)=0$$ " 536880099]
+  [2190 :block/uid "YpLMnB9W3" 536880099]
+  [2190 :children/view-type :bullet 536880099]
+  [2190 :create/time 1623655079416 536880099]
+  [2190 :create/user 3 536880099]
+  [2190 :edit/time 1623655079416 536880099]
+  [2190 :edit/user 3 536880099]
+  [2191 :block/open true 536880099]
+  [2191 :block/order 1 536880107]
+  [2191 :block/page 272 536880101]
+  [2191 :block/parents 272 536880101]
+  [2191 :block/string "" 536880099]
+  [2191 :block/uid "UQxALw-e6" 536880099]
+  [2191 :create/time 1623655079416 536880099]
+  [2191 :create/user 3 536880099]
+  [2191 :edit/time 1623655079416 536880099]
+  [2191 :edit/user 3 536880099]
+  [2192 :block/open true 536880099]
+  [2192 :block/order 0 536880105]
+  [2192 :block/page 272 536880102]
+  [2192 :block/parents 272 536880102]
+  [2192 :block/parents 2193 536880106]
+  [2192 :block/string "^^$$\\sigma$$: Kovarianz^^" 536880099]
+  [2192 :block/uid "LDSUJdj4t" 536880099]
+  [2192 :create/time 1623655079416 536880099]
+  [2192 :create/user 3 536880099]
+  [2192 :edit/time 1623655079416 536880099]
+  [2192 :edit/user 3 536880099]
+  [2193 :block/children 2187 536880107]
+  [2193 :block/children 2192 536880105]
+  [2193 :block/open true 536880103]
+  [2193 :block/order 0 536880103]
+  [2193 :block/page 272 536880104]
+  [2193 :block/parents 272 536880104]
+  [2193 :block/string "Annahmen KTT" 536880103]
+  [2193 :block/uid "oXO_FCBeU" 536880103]
+  [2193 :create/time 1623655085046 536880103]
+  [2193 :create/user 3 536880103]
+  [2193 :edit/time 1623655085046 536880103]
+  [2193 :edit/user 3 536880103]]}

@@ -33,6 +33,94 @@
     },
     "children": [
       {
+        "string": "Annahmen KTT",
+        "create-time": 1623655085046,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "^^$$\\sigma$$: Kovarianz^^",
+            "create-time": 1623655079416,
+            "uid": "LDSUJdj4t",
+            "edit-time": 1623655079416,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "oXO_FCBeU",
+        "edit-time": 1623655085046,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "Annahmen der klassischen Testtheorie:",
+        "create-time": 1623655079416,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        "children": [
+          {
+            "string": "$$\\sigma(\\tau, \\varepsilon)=0$$ ",
+            "create-time": 1623655079416,
+            "uid": "YpLMnB9W3",
+            "edit-time": 1623655079416,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "$$\\sigma(\\varepsilon, \\varepsilon)=0$$",
+            "create-time": 1623655079416,
+            "uid": "NeawTTnoO",
+            "edit-time": 1623655079416,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          },
+          {
+            "string": "$$\\begin{aligned} \\sigma(x,x) &= \\sigma(\\tau + \\varepsilon, \\tau + \\varepsilon) \\\\ &= \\sigma(\\tau, \\tau) + \\sigma(\\tau, \\varepsilon) + \\sigma(\\varepsilon, \\varepsilon) \\\\ &= \\sigma(\\tau, \\tau) \\\\ &= \\sigma^2(\\tau) \\end{aligned}$$",
+            "create-time": 1623655079416,
+            "uid": "diUuyHC2f",
+            "edit-time": 1623655079416,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
+          }
+        ],
+        "uid": "aecyre3xX",
+        "edit-time": 1623655079416,
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
+        "string": "",
+        "create-time": 1623655079416,
+        "uid": "UQxALw-e6",
+        "edit-time": 1623655079416,
+        ":create/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        },
+        ":edit/user": {
+          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+        }
+      },
+      {
         "string": "Reliabilität",
         "create-time": 1621694239726,
         "heading": 1,
@@ -13949,7 +14037,7 @@
                 "props": {
                   "image-size": {
                     "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd": {
-                      "width": 222,
+                      "width": 294,
                       "height": null
                     }
                   }
@@ -13958,7 +14046,7 @@
                 ":block/props": {
                   ":image-size": {
                     "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F2_G6nWjSn_.png?alt=media&token=556c2b49-39c2-4ed9-900b-bc6fd41786fd": {
-                      ":width": 222,
+                      ":width": 294,
                       ":height": null
                     }
                   }
@@ -14372,7 +14460,7 @@
                 "props": {
                   "image-size": {
                     "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450": {
-                      "width": 272,
+                      "width": 311,
                       "height": null
                     }
                   }
@@ -14381,7 +14469,7 @@
                 ":block/props": {
                   ":image-size": {
                     "https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FD3NFXWA7pX.png?alt=media&token=de214686-6d2d-440c-8998-08409b07d450": {
-                      ":width": 272,
+                      ":width": 311,
                       ":height": null
                     }
                   }
