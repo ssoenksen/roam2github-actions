@@ -33,7 +33,7 @@
     },
     "children": [
       {
-        "string": "Annahmen KTT",
+        "string": "**Einschub**: Annahmen KTT",
         "create-time": 1623655085046,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -103,13 +103,13 @@
           }
         ],
         "uid": "oXO_FCBeU",
-        "edit-time": 1623655085046,
+        "edit-time": 1623655154177,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
       },
       {
-        "string": "Parallelität von Tests",
+        "string": "**Einschub**: Parallelität von Tests",
         "create-time": 1623655118260,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
@@ -233,7 +233,7 @@
           }
         ],
         "uid": "2XS9jncEm",
-        "edit-time": 1623655123984,
+        "edit-time": 1623655152420,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -320,45 +320,51 @@
             },
             "children": [
               {
-                "string": "Überprüfung: [[Parallelität von Tests]]",
+                "string": "Überprüfung: Parallelität von Tests",
                 "create-time": 1621695139699,
-                ":block/refs": [
-                  {
-                    ":block/uid": "bqTK9ngpG"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "bqTK9ngpG"
-                  }
-                ],
+                "uid": "9qa8wB2Uk",
+                "edit-time": 1623655142321,
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
-                "uid": "9qa8wB2Uk",
-                "edit-time": 1621698720055,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }
               },
               {
-                "string": "[[Spearman-Brown-Formel]] zur Berechnung der neuen Reliabilität",
+                "string": "Spearman-Brown-Formel zur Berechnung der neuen Reliabilität:",
                 "create-time": 1621695325794,
-                ":block/refs": [
-                  {
-                    ":block/uid": "CDt4n2M7L"
-                  }
-                ],
-                "refs": [
-                  {
-                    "uid": "CDt4n2M7L"
-                  }
-                ],
                 ":create/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 },
+                "children": [
+                  {
+                    "string": "$$Rel(k \\cdot l) = \\frac{k \\cdot Rel}{1+(k-1) \\cdot Rel}$$",
+                    "create-time": 1623655169410,
+                    "uid": "rhhHUV-hQ",
+                    "edit-time": 1623655169410,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  },
+                  {
+                    "string": "Bei Verdopplung der Testlänge: 4x Varianz der wahren Werte, 2x Fehlervarianz",
+                    "create-time": 1623655169410,
+                    "uid": "Xz5pEC4tO",
+                    "edit-time": 1623655169410,
+                    ":create/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    },
+                    ":edit/user": {
+                      ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                    }
+                  }
+                ],
                 "uid": "6EOxJpLYH",
-                "edit-time": 1621695386881,
+                "edit-time": 1623655180295,
                 ":edit/user": {
                   ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
                 }

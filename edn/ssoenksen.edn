@@ -185,8 +185,8 @@
   [138 :version/id "0.8.5" 536871446]
   [138
    :version/nonce
-   "uuid118ed8cf-1196-42eb-b15e-d2eae00c7f21"
-   536880129]
+   "uuida19d1b85-74ef-48f0-962d-ba0b4b76c202"
+   536880149]
   [138
    :version/upgraded-nonce
    "uuid31be0590-5d90-416e-a8ef-3538d5fd6c8f"
@@ -394,11 +394,11 @@
   [304 :block/parents 272 536871915]
   [304 :block/parents 273 536872004]
   [304 :block/parents 316 536871971]
-  [304 :block/string "Überprüfung: [[Parallelität von Tests" 536880128]
+  [304 :block/string "Überprüfung: Parallelität von Tests" 536880130]
   [304 :block/uid "9qa8wB2Uk" 536871914]
   [304 :create/time 1621695139699 536871914]
   [304 :create/user 3 536871914]
-  [304 :edit/time 1623655138281 536880128]
+  [304 :edit/time 1623655142321 536880130]
   [304 :edit/user 3 536871914]
   [306 :block/children 307 536871927]
   [306 :block/children 310 536871946]
@@ -480,21 +480,22 @@
   [311 :create/user 3 536871952]
   [311 :edit/time 1621695853961 536872100]
   [311 :edit/user 3 536871952]
+  [315 :block/children 2205 536880143]
+  [315 :block/children 2206 536880141]
   [315 :block/open true 536871962]
   [315 :block/order 1 536871972]
   [315 :block/page 272 536871963]
   [315 :block/parents 272 536871963]
   [315 :block/parents 273 536872004]
   [315 :block/parents 316 536871971]
-  [315 :block/refs 317 536871978]
   [315
    :block/string
-   "[[Spearman-Brown-Formel]] zur Berechnung der neuen Reliabilität"
-   536871979]
+   "Spearman-Brown-Formel zur Berechnung der neuen Reliabilität:"
+   536880147]
   [315 :block/uid "6EOxJpLYH" 536871962]
   [315 :create/time 1621695325794 536871962]
   [315 :create/user 3 536871962]
-  [315 :edit/time 1621695386881 536871979]
+  [315 :edit/time 1623655180295 536880147]
   [315 :edit/user 3 536871962]
   [316 :block/children 304 536871970]
   [316 :block/children 315 536871972]
@@ -522,7 +523,7 @@
   [317 :edit/user 3 536871978]
   [317 :node/title "Spearman-Brown-Formel" 536871978]
   [318 :block/open true 536871980]
-  [318 :block/order 2 536871980]
+  [318 :block/order 2 536880143]
   [318 :block/page 272 536871981]
   [318 :block/parents 272 536871981]
   [318 :block/parents 273 536872004]
@@ -778,15 +779,14 @@
   [335 :block/parents 320 536872071]
   [335 :block/parents 331 536872071]
   [335 :block/parents 333 536872073]
-  [335 :block/refs 306 536872091]
   [335
    :block/string
-   "Konstruktion von zwei parallelen Tests ([[Parallelität von Tests]])"
-   536872094]
+   "Konstruktion von zwei parallelen Tests ([[Parallelität von Tests"
+   536880148]
   [335 :block/uid "nzqdgi-sp" 536872070]
   [335 :create/time 1621695739364 536872070]
   [335 :create/user 3 536872070]
-  [335 :edit/time 1621695825881 536872094]
+  [335 :edit/time 1623655188080 536880148]
   [335 :edit/user 3 536872070]
   [337 :block/open true 536872083]
   [337 :block/order 2 536872095]
@@ -20942,11 +20942,11 @@
   [2193 :block/order 0 536880103]
   [2193 :block/page 272 536880104]
   [2193 :block/parents 272 536880104]
-  [2193 :block/string "Annahmen KTT" 536880103]
+  [2193 :block/string "**Einschub**: Annahmen KTT" 536880134]
   [2193 :block/uid "oXO_FCBeU" 536880103]
   [2193 :create/time 1623655085046 536880103]
   [2193 :create/user 3 536880103]
-  [2193 :edit/time 1623655085046 536880103]
+  [2193 :edit/time 1623655154177 536880134]
   [2193 :edit/user 3 536880103]
   [2194 :block/children 2196 536880124]
   [2194 :block/children 2197 536880126]
@@ -20955,11 +20955,11 @@
   [2194 :block/order 1 536880112]
   [2194 :block/page 272 536880113]
   [2194 :block/parents 272 536880113]
-  [2194 :block/string "Parallelität von Tests" 536880116]
+  [2194 :block/string "**Einschub**: Parallelität von Tests" 536880133]
   [2194 :block/uid "2XS9jncEm" 536880112]
   [2194 :create/time 1623655118260 536880112]
   [2194 :create/user 3 536880112]
-  [2194 :edit/time 1623655123984 536880116]
+  [2194 :edit/time 1623655152420 536880133]
   [2194 :edit/user 3 536880112]
   [2196 :block/open true 536880117]
   [2196 :block/order 1 536880124]
@@ -21072,4 +21072,36 @@
   [2203 :create/time 1623655124418 536880117]
   [2203 :create/user 3 536880117]
   [2203 :edit/time 1623655124418 536880117]
-  [2203 :edit/user 3 536880117]]}
+  [2203 :edit/user 3 536880117]
+  [2205 :block/open true 536880138]
+  [2205 :block/order 1 536880143]
+  [2205 :block/page 272 536880139]
+  [2205 :block/parents 272 536880139]
+  [2205 :block/parents 273 536880139]
+  [2205 :block/parents 315 536880144]
+  [2205 :block/parents 316 536880139]
+  [2205
+   :block/string
+   "Bei Verdopplung der Testlänge: 4x Varianz der wahren Werte, 2x Fehlervarianz"
+   536880138]
+  [2205 :block/uid "Xz5pEC4tO" 536880138]
+  [2205 :create/time 1623655169410 536880138]
+  [2205 :create/user 3 536880138]
+  [2205 :edit/time 1623655169410 536880138]
+  [2205 :edit/user 3 536880138]
+  [2206 :block/open true 536880138]
+  [2206 :block/order 0 536880141]
+  [2206 :block/page 272 536880140]
+  [2206 :block/parents 272 536880140]
+  [2206 :block/parents 273 536880140]
+  [2206 :block/parents 315 536880142]
+  [2206 :block/parents 316 536880140]
+  [2206
+   :block/string
+   "$$Rel(k \\cdot l) = \\frac{k \\cdot Rel}{1+(k-1) \\cdot Rel}$$"
+   536880138]
+  [2206 :block/uid "rhhHUV-hQ" 536880138]
+  [2206 :create/time 1623655169410 536880138]
+  [2206 :create/user 3 536880138]
+  [2206 :edit/time 1623655169410 536880138]
+  [2206 :edit/user 3 536880138]]}

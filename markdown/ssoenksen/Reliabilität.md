@@ -1,10 +1,10 @@
-- Einschub: Annahmen KTT
+- **Einschub**: Annahmen KTT
     - ^^$$\sigma$$: Kovarianz^^
     - Annahmen der klassischen Testtheorie:
         1. $$\sigma(\tau, \varepsilon)=0$$ 
         2. $$\sigma(\varepsilon, \varepsilon)=0$$
         3. $$\begin{aligned} \sigma(x,x) &= \sigma(\tau + \varepsilon, \tau + \varepsilon) \\ &= \sigma(\tau, \tau) + \sigma(\tau, \varepsilon) + \sigma(\varepsilon, \varepsilon) \\ &= \sigma(\tau, \tau) \\ &= \sigma^2(\tau) \end{aligned}$$
-- Parallelität von Tests
+- **Einschub**: Parallelität von Tests
     - Tests $$p$$ und $$q$$ sind parallel, wenn
         - sie gleiche wahre Wert aufweisen: $$\tau_p = \tau_q = \tau \; \wedge \; E(x_p)=E(x_q)$$
         - ihre Varianzen gleich sind: $$Var(x_p)=Var(x_q)=Var(\tau)+Var(\varepsilon)$$
@@ -22,7 +22,9 @@
         - Testwert __nur__ von Messfehlern abhängig: $$Var(x) = Var(\varepsilon) \Rightarrow Var(\tau) = Var(x)-Var(\varepsilon)=0 \Rightarrow Rel=\frac{0}{Var(x)}=0$$
     - Erhöhung der Reliabilität durch Hinzunahme paralleler Testteile 
         - Überprüfung: Parallelität von Tests
-        - [[Spearman-Brown-Formel]] zur Berechnung der neuen Reliabilität
+        - Spearman-Brown-Formel zur Berechnung der neuen Reliabilität:
+            - $$Rel(k \cdot l) = \frac{k \cdot Rel}{1+(k-1) \cdot Rel}$$
+            - Bei Verdopplung der Testlänge: 4x Varianz der wahren Werte, 2x Fehlervarianz
         - Effekte (→ lohnt sich eher bei geringer Reliabilität, auch umgekehrt denkbar): ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F-pP1_mqCJE.png?alt=media&token=d33ea657-874b-4187-88e7-25d44de15756)
     - ## Methoden der Reliabilitätsbestimmung
         - Da basierend auf Stichproben immer nur Schätzung!
@@ -38,7 +40,7 @@
                 - Auswirkungen: ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2FW-vRQ8X5D3.png?alt=media&token=3df778f8-7911-4baa-90c7-7226a1d1880d)
         - ### Paralleltest-Reliabilität (Königsweg)
             - Vorgehen:
-                1. Konstruktion von zwei parallelen Tests ([[Parallelität von Tests]])
+                1. Konstruktion von zwei parallelen Tests: Parallelität von Tests
                 2. Vorlage bei gleicher Stichprobe
                 3. Berechnung: $$Rel(x) = Corr(x_p, x_q)$$
             - Annahmen:
