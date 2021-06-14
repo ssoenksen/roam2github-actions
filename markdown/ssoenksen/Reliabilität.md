@@ -1,18 +1,27 @@
-- Annahmen KTT
+- Einschub: Annahmen KTT
     - ^^$$\sigma$$: Kovarianz^^
     - Annahmen der klassischen Testtheorie:
         1. $$\sigma(\tau, \varepsilon)=0$$ 
         2. $$\sigma(\varepsilon, \varepsilon)=0$$
         3. $$\begin{aligned} \sigma(x,x) &= \sigma(\tau + \varepsilon, \tau + \varepsilon) \\ &= \sigma(\tau, \tau) + \sigma(\tau, \varepsilon) + \sigma(\varepsilon, \varepsilon) \\ &= \sigma(\tau, \tau) \\ &= \sigma^2(\tau) \end{aligned}$$
+- Parallelität von Tests
+    - Tests $$p$$ und $$q$$ sind parallel, wenn
+        - sie gleiche wahre Wert aufweisen: $$\tau_p = \tau_q = \tau \; \wedge \; E(x_p)=E(x_q)$$
+        - ihre Varianzen gleich sind: $$Var(x_p)=Var(x_q)=Var(\tau)+Var(\varepsilon)$$
+    - Parallelität entspricht gleichen Itemschwierigkeiten ([[Itemanalyse]])
+    - Prüfung der Parallelität:
+        - Gleiche Mittelwerte?
+        - Gleiche Streuungen?
+        - Paralleltest-Reliabilität hoch?
 - # Reliabilität
     - = Genauigkeit einer Messung. Ein Testverfahren ist perfekt reliabel, wenn die damit erhaltenen Testwerte frei von zufälligen Messfehlern sind. Das Testverfahren ist umso weniger reliabel, je größer die Einflüsse von zufälligen Messfehlern sind.
     - = $$Rel$$ bezeichnet die Messgenauigkeit eines Tests und ist als Anteil der Varianz der wahren Werte $\tau$ an der Varianz der beobachteten Testwerte $$x$$ definiert: $$Rel = \frac{Var(\tau)}{Var(x)}$$ mit $$Rel: \{0; 1\}$$
-    - Reliabilität ist immer eine Schätzung, Grundlage ist Korrelation eines Tests mit sich selbst: $$r(x,x)=\frac{\sigma(x,x)}{\sigma(x) \cdot \sigma(x)}=\frac{\sigma^2(\tau)}{\sigma^2(x)}$$ (wegen [[Annahmen KTT]])
+    - Reliabilität ist immer eine Schätzung, Grundlage ist Korrelation eines Tests mit sich selbst: $$r(x,x)=\frac{\sigma(x,x)}{\sigma(x) \cdot \sigma(x)}=\frac{\sigma^2(\tau)}{\sigma^2(x)}$$
     - Extremformen:
         - Test misst wahren Wert: $$Var(x) = Var(\tau) \Rightarrow Rel = \frac{Var(\tau)}{Var(x)} = \frac{Var(\tau)}{Var(\tau)} = 1$$ 
         - Testwert __nur__ von Messfehlern abhängig: $$Var(x) = Var(\varepsilon) \Rightarrow Var(\tau) = Var(x)-Var(\varepsilon)=0 \Rightarrow Rel=\frac{0}{Var(x)}=0$$
     - Erhöhung der Reliabilität durch Hinzunahme paralleler Testteile 
-        - Überprüfung: [[Parallelität von Tests]]
+        - Überprüfung: Parallelität von Tests
         - [[Spearman-Brown-Formel]] zur Berechnung der neuen Reliabilität
         - Effekte (→ lohnt sich eher bei geringer Reliabilität, auch umgekehrt denkbar): ![](https://firebasestorage.googleapis.com/v0/b/firescript-577a2.appspot.com/o/imgs%2Fapp%2Fssoenksen%2F-pP1_mqCJE.png?alt=media&token=d33ea657-874b-4187-88e7-25d44de15756)
     - ## Methoden der Reliabilitätsbestimmung

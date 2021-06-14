@@ -50,6 +50,56 @@
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
+          },
+          {
+            "string": "Annahmen der klassischen Testtheorie:",
+            "create-time": 1623655079416,
+            ":create/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            },
+            "children": [
+              {
+                "string": "$$\\sigma(\\tau, \\varepsilon)=0$$ ",
+                "create-time": 1623655079416,
+                "uid": "YpLMnB9W3",
+                "edit-time": 1623655079416,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "$$\\sigma(\\varepsilon, \\varepsilon)=0$$",
+                "create-time": 1623655079416,
+                "uid": "NeawTTnoO",
+                "edit-time": 1623655079416,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "$$\\begin{aligned} \\sigma(x,x) &= \\sigma(\\tau + \\varepsilon, \\tau + \\varepsilon) \\\\ &= \\sigma(\\tau, \\tau) + \\sigma(\\tau, \\varepsilon) + \\sigma(\\varepsilon, \\varepsilon) \\\\ &= \\sigma(\\tau, \\tau) \\\\ &= \\sigma^2(\\tau) \\end{aligned}$$",
+                "create-time": 1623655079416,
+                "uid": "diUuyHC2f",
+                "edit-time": 1623655079416,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "aecyre3xX",
+            "edit-time": 1623655079416,
+            ":edit/user": {
+              ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+            }
           }
         ],
         "uid": "oXO_FCBeU",
@@ -59,63 +109,131 @@
         }
       },
       {
-        "string": "Annahmen der klassischen Testtheorie:",
-        "create-time": 1623655079416,
+        "string": "Parallelität von Tests",
+        "create-time": 1623655118260,
         ":create/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         },
         "children": [
           {
-            "string": "$$\\sigma(\\tau, \\varepsilon)=0$$ ",
-            "create-time": 1623655079416,
-            "uid": "YpLMnB9W3",
-            "edit-time": 1623655079416,
+            "string": "Tests $$p$$ und $$q$$ sind parallel, wenn",
+            "create-time": 1623655124418,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
+            "children": [
+              {
+                "string": "sie gleiche wahre Wert aufweisen: $$\\tau_p = \\tau_q = \\tau \\; \\wedge \\; E(x_p)=E(x_q)$$",
+                "create-time": 1623655124418,
+                "uid": "koJVKqtfo",
+                "edit-time": 1623655124418,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "ihre Varianzen gleich sind: $$Var(x_p)=Var(x_q)=Var(\\tau)+Var(\\varepsilon)$$",
+                "create-time": 1623655124418,
+                "uid": "TUgmYP_BP",
+                "edit-time": 1623655124418,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "pd9UXUT-F",
+            "edit-time": 1623655124418,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "$$\\sigma(\\varepsilon, \\varepsilon)=0$$",
-            "create-time": 1623655079416,
-            "uid": "NeawTTnoO",
-            "edit-time": 1623655079416,
+            "string": "Parallelität entspricht gleichen ((sPgxDIOnk)) ([[Itemanalyse]])",
+            "create-time": 1623655124418,
+            ":block/refs": [
+              {
+                ":block/uid": "nRctw3592"
+              },
+              {
+                ":block/uid": "sPgxDIOnk"
+              }
+            ],
+            "refs": [
+              {
+                "uid": "nRctw3592"
+              },
+              {
+                "uid": "sPgxDIOnk"
+              }
+            ],
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
+            "uid": "dd0HYsQL4",
+            "edit-time": 1623655124418,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           },
           {
-            "string": "$$\\begin{aligned} \\sigma(x,x) &= \\sigma(\\tau + \\varepsilon, \\tau + \\varepsilon) \\\\ &= \\sigma(\\tau, \\tau) + \\sigma(\\tau, \\varepsilon) + \\sigma(\\varepsilon, \\varepsilon) \\\\ &= \\sigma(\\tau, \\tau) \\\\ &= \\sigma^2(\\tau) \\end{aligned}$$",
-            "create-time": 1623655079416,
-            "uid": "diUuyHC2f",
-            "edit-time": 1623655079416,
+            "string": "Prüfung der Parallelität:",
+            "create-time": 1623655124418,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
+            "children": [
+              {
+                "string": "Gleiche Mittelwerte?",
+                "create-time": 1623655124418,
+                "uid": "O0ZS-xgkj",
+                "edit-time": 1623655124418,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Gleiche Streuungen?",
+                "create-time": 1623655124418,
+                "uid": "hI6lHOBHg",
+                "edit-time": 1623655124418,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              },
+              {
+                "string": "Paralleltest-Reliabilität hoch?",
+                "create-time": 1623655124418,
+                "uid": "p93aUDbxi",
+                "edit-time": 1623655124418,
+                ":create/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                },
+                ":edit/user": {
+                  ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
+                }
+              }
+            ],
+            "uid": "7QfzEPEl9",
+            "edit-time": 1623655124418,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
           }
         ],
-        "uid": "aecyre3xX",
-        "edit-time": 1623655079416,
-        ":edit/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        }
-      },
-      {
-        "string": "",
-        "create-time": 1623655079416,
-        "uid": "UQxALw-e6",
-        "edit-time": 1623655079416,
-        ":create/user": {
-          ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
-        },
+        "uid": "2XS9jncEm",
+        "edit-time": 1623655123984,
         ":edit/user": {
           ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
         }
@@ -145,23 +263,13 @@
             }
           },
           {
-            "string": "Reliabilität ist immer eine Schätzung, Grundlage ist Korrelation eines Tests mit sich selbst: $$r(x,x)=\\frac{\\sigma(x,x)}{\\sigma(x) \\cdot \\sigma(x)}=\\frac{\\sigma^2(\\tau)}{\\sigma^2(x)}$$ (wegen [[Annahmen KTT]])",
+            "string": "Reliabilität ist immer eine Schätzung, Grundlage ist Korrelation eines Tests mit sich selbst: $$r(x,x)=\\frac{\\sigma(x,x)}{\\sigma(x) \\cdot \\sigma(x)}=\\frac{\\sigma^2(\\tau)}{\\sigma^2(x)}$$",
             "create-time": 1621694838423,
-            ":block/refs": [
-              {
-                ":block/uid": "8W2R8pP9E"
-              }
-            ],
-            "refs": [
-              {
-                "uid": "8W2R8pP9E"
-              }
-            ],
+            "uid": "A00mWBbnb",
+            "edit-time": 1623655100601,
             ":create/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             },
-            "uid": "A00mWBbnb",
-            "edit-time": 1621718531428,
             ":edit/user": {
               ":user/uid": "HZGyhPCHpXdiK6dp1zr2tq8JoGj2"
             }
